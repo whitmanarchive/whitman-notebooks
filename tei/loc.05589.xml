@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.05589">
+<relations>
+<work ref="xxx.00001"><p>This notebook, now lost, contains much draft material used in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, in addition to a few images and phrasings that Whitman used in the second (1856) and third (1860) editions.</p></work>
+</relations>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title level="m" type="main" rend="bracketed">women</title>
+            <title level="m" type="sub">a machine readable transcription</title>
+            <author>Walt Whitman</author>
+            <editor>Kenneth M. Price</editor>
+            <editor>Ed Folsom</editor>
+            <respStmt>
+               <resp>Transcription and encoding</resp>
+               <persName xml:id="bb">Brett Barney</persName>
+               <persName xml:id="no">Natalie O'Neal</persName>
+               <persName xml:id="jyc">Jonathan Y. Cheng</persName>
+               <persName xml:id="nhg">Nicole Gray</persName>
+               <persName xml:id="kmp">Kenneth M. Price</persName>
+            </respStmt>
+            <sponsor>Center for Digital Research in the Humanities, University of
+               Nebraska-Lincoln</sponsor>
+            <sponsor>University of Iowa</sponsor>
+            <funder>The National Endowment for the Humanities</funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2014</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <idno>loc.05589</idno>
+            <distributor>The Walt Whitman Archive</distributor>
+            <address>
+               <addrLine>Center for Digital Research in the Humanities</addrLine>
+               <addrLine>319 Love Library</addrLine>
+               <addrLine>University of Nebraska-Lincoln</addrLine>
+               <addrLine>P.O. Box 884100</addrLine>
+               <addrLine>Lincoln, NE 68588-4100</addrLine>
+            </address>
+            <availability>
+               <p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>  
+               <p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
+               <p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p> 
+            </availability>
+         </publicationStmt>
+      <notesStmt>
+        <note type="project" target="#dat1">As Floyd Stovall has noted, the few datable references in this notebook (e.g., the fighting at Sebastopol during the Crimean War) are to events from about 1853 to late 1854, shortly before the first publication of <hi rend="italic">Leaves of Grass</hi>. See Floyd Stovall, "Dating Whitman's Early Notebooks," <hi rend="italic">Studies in Bibliography</hi> 24 (1971), 197&#8211;204. See also Edward Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:138&#8211;155.
+          <lb/><lb/>This notebook contains much draft material for Whitman's early poems, although this fact has not often been recognized by scholars. Both Stovall and Grier point out that most of the connections to printed works are to poems and prose published in the 1855 edition of <hi rend="italic">Leaves of Grass</hi> but that the notebook also contains material clearly related to things that were first printed in the second (1856) and third (1860&#8211;1861) editions.
+          <lb/><lb/>Whitman revised the text on leaf 23 verso to include a rather long passage that exceeded the space available between existing lines of text and therefore overflowed onto the facing page (leaf 24 recto).
+          </note>
+      </notesStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Walt Whitman</author>
+               <title>Notebook LC #84</title>
+               <date xml:id="dat1" cert="medium" notBefore="1850" notAfter="1860">Between about 1854 and 1860</date>
+               <idno type="callno"/>
+               <orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
+               <note type="project">Transcribed from digital images of photocopies of the original
+                  manuscript.</note>
+               
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <handNotes>
+            <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+            <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
+            <handNote xml:id="unk">unknown archivist or scholar, possibly Emory Holloway</handNote>
+         </handNotes>
+      </profileDesc>
+      <revisionDesc>
+         <change who="#bb" when="2016-08-09">changed title to be based upon the first bit of our own transcription</change>
+         <change who="#bb" when="2016-07-18">incorporated Ken's proofreading corrections</change>
+         <change who="#bb" when="2016-04-14">revised; added work IDs</change>
+         <change who="#no" when="2015-02-27">transcribed</change>
+         <change who="#nhg" when="2015-01-21">added schematron declaration, corrected</change>
+         <change who="#jyc" when="2014-10-08">transcribed</change>
+         <change who="#nhg" when="2014-08-07">metadata extracted and transformed from
+            EADfile</change>
+      </revisionDesc>
+   </teiHeader>
+   <text type="manuscript">
+      <body>
+         <div1 type="notebook">
+         <pb xml:id="leaf001r" facs="loc_ej.00632_large.jpg" type="recto"/>
+<note type="archival" place="inline" resp="#unk">Note Book <lb/>Walt <lb/>Whitman</note>
+
+         <pb xml:id="leaf001v" facs="loc_ej.00663_large.jpg" type="verso"/>
+<div2 type="prose">
+         <ab>
+<handShift new="#h1"/>
+<gap reason="illegible" atLeast="7" unit="chars" extent="at least two words"/>women 
+<subst>
+<del rend="overstrike" seq="1">creat<gap reason="illegible" atLeast="1" unit="chars" extent="one or more letters"/></del> 
+<del rend="overstrike" seq="2">
+<add rend="unmarked" place="supralinear" seq="2"><gap reason="illegible" atLeast="1" unit="chars" extent="one or two letters"/></add>
+</del> 
+<add rend="unmarked" place="supralinear" seq="3">c<gap reason="illegible" atLeast="3" unit="chars" extent="three or more letters"/></add>
+</subst> 
+Yet Homer <unclear reason="illegible" resp="#bb" cert="low">sup</unclear><gap reason="illegible" atLeast="1" unit="chars" extent="one or more letters"/> earth was <gap reason="illegible" atLeast="10" unit="chars" extent="about three words"/> surrounded <gap reason="illegible" atLeast="9" unit="chars" extent="three words"/> <unclear reason="illegible" resp="#bb" cert="medium">its</unclear> dist<gap reason="illegible" atLeast="2" unit="chars" extent="two or more letters"/> <unclear reason="illegible" resp="#bb" cert="medium">borders</unclear> <gap reason="illegible" atLeast="4" unit="chars" extent="four or more letters"/> <unclear reason="illegible" resp="#bb" cert="low">interspersed</unclear> <gap reason="illegible" atLeast="7" unit="chars" extent="seven or more letters"/>ts.</ab>
+
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+         
+         <ab>Osirtasen 1740 B C<lb/>
+            Joseph<lb/>
+            Abraham 1970 B.C.</ab>
+
+         <p>Oldest <unclear reason="illegible" resp="#bb" cert="high">monuments in Egypt</unclear> <gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/>d <unclear reason="illegible" resp="#bb" cert="high">Wilkinson</unclear> <gap reason="illegible" atLeast="8" unit="chars" extent="about four words"/> world are the pyramids <unclear reason="illegible" resp="#bb" cert="medium">of</unclear> Memphis 2010 B. C. <gap reason="illegible" atLeast="22" unit="chars" extent="about six words"/></p>
+        
+
+         <pb xml:id="leaf002r" facs="loc_ej.01021_large.jpg" type="recto"/>
+
+         
+         <ab>
+            <gap reason="illegible" atLeast="2" unit="chars" extent="at least one word"/> <unclear reason="illegible" resp="#bb" cert="low">ho</unclear> <gap reason="illegible" atLeast="7" unit="chars" extent="at least one word"/><lb/> of Egypt <gap reason="illegible" atLeast="4" unit="chars" extent="at least one word"/><gap reason="illegible" atLeast="7" unit="chars" extent="at least two words"/> is  <gap reason="illegible" atLeast="4" unit="chars" extent="at least one word"/>
+         </ab>
+         
+
+         <pb xml:id="leaf002v" facs="loc_ej.01022_large.jpg" type="verso"/>
+
+         
+         <ab>Memorials&#8212;if they were timid and receptive he <del rend="overstrike">had</del>
+            made his chisels cut the granite with <del rend="overstrike">the</del> tokens <del
+               rend="overstrike">of</del> feminine. He is the first after Osiris.</ab>
+         
+
+         <pb xml:id="leaf003r" facs="loc_ej.01023_large.jpg" type="recto"/>
+
+         <ab>Troy taken 1184 B.C.<lb/><unclear resp="#bb" cert="low" reason="illegible">p. 76</unclear></ab>
+         <p>Dr. Abbott tells me that <unclear resp="#bb" cert="medium" reason="illegible">Lepsius</unclear> told him of finding monuments <unclear resp="#bb" cert="low" reason="illegible">through</unclear> 
+Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegible" atLeast="12" unit="chars" extent="at least four words"/>
+         </p>
+       </div2>
+         <pb xml:id="leaf003v" facs="loc_ej.01024_large.jpg" type="verso"/>
+       <div2 type="prose">
+         <ab>be sure <add place="supralinear" rend="insertion">of the district</add> where the trouble
+            is&#8212;they wait thus perfectly still and in splendid postures&#8212;</ab>
+          <milestone unit="undeclared" rend="horbar-long-center"/>
+         <ab>The <add place="supralinear" rend="insertion">children's</add> dancing school at
+            Dodworth's</ab>
+       </div2>
+         <pb xml:id="leaf004r" facs="loc_ej.01025_large.jpg" type="recto"/>
+       <div2 type="prose">
+         <p>The difference is only the <gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/> difference of an inch.&#8212; But it is the difference between
+            cutting <del rend="overstrike"><unclear resp="#bb" cert="medium" reason="illegible">off</unclear></del> the rope
+            <del rend="overstrike">that holds us</del> we cling<lb/> <subst><del rend="overwrite" seq="1">h</del><add rend="overwrite" place="over" seq="2">to</add></subst> 100 feet above the land.&#8212;whether we cut it an inch above or an inch below where our hands hold on for life</p>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <p>
+            <gap reason="illegible" atLeast="30" unit="chars" extent="about twelve words"/> <unclear reason="illegible" resp="#bb" cert="medium">people</unclear>
+         </p>
+       </div2>
+         <pb xml:id="leaf004v" facs="loc_ej.01026_large.jpg" type="verso"/>
+       <div2 type="prose">  
+         <ab><unclear reason="illegible" resp="#bb" cert="low">Mr.</unclear> <unclear reason="illegible" cert="medium" resp="#bb">Winel</unclear></ab>
+         <p>A prince in Polish Austria <add place="supralinear" rend="insertion">near Hungary</add>
+            on his estate on the highway, puts up a perpetual inn where all wayfarers are
+            entertained free of charge; this he keeps always open, and gives meat and bread and
+            lodgings&#8212;and sometimes comes to amuse himself with the guests.</p>
+       </div2>
+         <pb xml:id="leaf005r" facs="loc_ej.01027_large.jpg" type="recto"/>
+       <div2 type="prose">
+          <relations>
+            <work ref="xxx.00048" cert="high">
+              <p>This paragraph is possibly related to a three-line passage on the same theme in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, eventually titled "Song of Myself." The second of those lines reads, "And I say it as as great to be a woman as to be a man."</p>
+            </work>
+          </relations>
+         <p>I have been asked, Which is the greater, the man or the woman?&#8212;Yes, I tell you,
+            with the same answer that I tell whether Time is greater than space&#8212;<add
+               place="supralinear" rend="unmarked">and</add> wh<gap reason="torn away" atLeast="2" unit="chars" extent="at least two words"/></p>
+       </div2>
+         <pb xml:id="leaf005v" facs="loc_ej.01028_large.jpg" type="verso"/>
+       <div2 type="prose">
+          <relations>
+            <work ref="xxx.00048" cert="high">
+              <p>This paragraph seems likely to have informed the passage in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, eventually titled "Song of Myself," in which the speaking persona says, "I do not snivel [. . .] That life is a suck and a sell [. . .] ."</p>
+            </work>
+          </relations>
+         <p>The life of man on earth is the chef d'ouvre of all things.&#8212; What then! is it a
+            suck?&#8212;Has God <del rend="overstrike">tried</del> conceived a joke, and tried it on,
+            and is it a small one?</p>
+         </div2>
+
+         <pb xml:id="leaf006r" facs="loc_ej.01029_large.jpg" type="recto"/>
+
+        <div2 type="verse">
+         <delSpan rend="hashmark" spanTo="#w01"/>
+
+         <lg type="poem">
+<relations>
+            <work ref="xxx.00113" cert="high">
+              <p>These draft lines were incorporated, in revised form, into the seventh poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song of the Answerer."</p>
+            </work>
+</relations>
+         <head type="main">Of the poet</head>
+            <l>He walks with perfect<lb/> ease among a congress<lb/> of kings,</l>
+            <l>And one king <subst><del rend="overstrike" seq="1">saith</del><add
+               place="supralinear" rend="unmarked" seq="2">says</add></subst><lb/> to another, Here is<lb/>
+                  our equal, <add place="supralinear" rend="insertion">a prince</add>
+               whom<lb/> we knew not before</l>
+            <l>Then the great authors<lb/> take him for an author</l>
+            <l>And the great soldiers<lb/> for a captain</l>
+            <l>The sailors know<lb/> that he has followed<lb/> the sea,</l>
+            <l>The English believe that<lb/> comes of Saxon stock</l>
+         <anchor xml:id="w01"/>
+         
+
+         <pb xml:id="leaf006v" facs="loc_ej.01030_large.jpg" type="verso"/>
+
+         
+         <l>And the Italians f<gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></l>
+         <l>The</l>
+         </lg>
+         </div2>
+         <div2 type="verse">
+         <lg type="poem">
+<relations>
+            <work ref="xxx.00113" cert="high">
+              <p>This line contributed to the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song of Myself."</p>
+            </work>
+</relations>
+            <l>O laugh when my eyes settle<lb/> the land</l>
+         </lg>
+
+         <lg type="poem">
+<relations>
+            <work ref="xxx.00114" cert="low">
+              <p>The imagery and phrasing of these lines bears some resemblance to a passage in the fourth "Chants Democratic" poem of the 1860 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "Our Old Feuillage," in which Whitman writes of "White drift spooning ahead [. . .] ."</p>
+            </work>
+</relations>
+            <l>T</l>
+            <l>The <add place="supralinear" rend="unmarked">bluey</add> spoon-drift, like <lb/>
+              a white race-horse of <lb/> brine, speeds before me</l>
+         </lg>
+         </div2>
+
+         <pb xml:id="leaf007r" facs="loc_ej.01031_large.jpg" type="recto"/>
+
+         <div2 type="prose">
+         <ab><del rend="overstrike">such</del> such a thing as ownership here
+            any how.&#8212;<del rend="overstrike">The Chief B<gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/> <gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/><add rend="insertion" place="supralinear"><subst><del rend="overstrike" seq="1">was</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="inline" seq="2">is</add></del></subst></add> the <unclear reason="illegible" resp="#bb" cert="medium">primal democrat</unclear> <gap reason="illegible" atLeast="4" unit="chars" extent="at least four letters"/> <gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del>
+               <subst><del rend="overstrike" seq="1">of his </del><add place="supralinear" rend="unmarked" seq="1">one of the</add></subst> laws <add rend="insertion" place="supralinear"><gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/></add> that <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></del> from the moment 
+<subst><del rend="overstrike" seq="1">any</del> <add place="supralinear" rend="unmarked" seq="2">a</add></subst> man take<add rend="unmarked" place="inline">s</add> the <supplied reason="covered" resp="#jyc">s</supplied>mallest page exclusively to himself <supplied reason="covered" resp="#jyc">a</supplied>nd tr<subst><del rend="overwrite" seq="1">y</del><add rend="overwrite" place="over" seq="2">ies</add></subst> to keep it from the rest <supplied reason="covered" resp="#jyc">f</supplied>rom that <del rend="overstrike"><gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/></del> moment it<lb/> begins to wither <add rend="insertion" place="supralinear">under his hand</add> and <del rend="overstrike"><add rend="insertion" place="supralinear"><unclear reason="illegible" resp="#bb" cert="medium">lose</unclear></add></del> its immortal hieroglyphics <add place="supralinear" rend="insertion">presently</add> fade away and become blank <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></del> <del rend="overstrike">and dead.&#8212;</del> </ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+<div2 type="prose">
+<relations>
+  <work ref="xxx.00119" cert="absolute">
+   <p>A later version of this passage was incorporated into the poem eventually titled "A Song for Occupations," when Whitman revised it for publication in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi></p>
+  </work>
+</relations>
+
+         <ab>stonecutter's tools<lb/> tooth-chisel&#8212;jib for the thumb</ab>
+</div2>
+         <pb xml:id="leaf007v" facs="loc_ej.01032_large.jpg" type="verso"/>
+<div2 type="prose">
+         <p>Of writers there are plenty who pay all demands upon them, if folks are willing to take
+            notes, or paper acceptances of any sort; but only one out <subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="1" unit="chars" extent="one letter"/></del><add rend="overwrite" place="over" seq="2">c</add></subst>enturies who gives ready <add place="supralinear" rend="insertion">solid</add> cash.&#8211;</p>
+</div2>
+
+         <pb xml:id="leaf008r" facs="loc_ej.01033_large.jpg" type="recto"/>
+<div2 type="prose">
+         <p>It is a terrible sign of the human soul that it will not own any limit, even the
+            widest.&#8212;The moment we knew the diameter of the earth to be eight thousand miles,
+            it became no great thing to us.&#8212;With all the appalling grandeur of astronomy, if
+            we could fix the line beyond which there was no more material universe, our soul, I
+            think, would pine away and begin its death sickness</p>
+</div2>
+
+         <pb xml:id="leaf008v" facs="loc_ej.01034_large.jpg" type="verso"/>
+
+<div2 type="prose">
+         <list>
+            <item>Rameses the Great, over 30 centuries ago</item>
+            <item>Solomon born 1032 B.C.</item>
+            <item>" ascended throne, 1015</item>
+            <item>Pharaoh,from phre or phra the <hi rend="underline">sun</hi><lb/> Wilkinson</item>
+            <item>Moses born 1571 B.C.</item>
+            <item>Exodus of the Israelites from Egypt 1491 B.C. 430 years after the arrival of
+               Abraham in Egypt.&#8212;</item>
+            <item>Homer about 907 B.C.</item>
+            <item>Rome founded 753 B.C.</item>
+         </list>
+</div2>
+
+         <pb xml:id="leaf009r" facs="loc_ej.01035_large.jpg" type="recto"/>
+
+<div2 type="prose">
+  <relations>
+    <work ref="xxx.00120" cert="high">
+      <p>Floyd Stovall has posited a connection between this passage and the 1856 poem "Poem of the Sayers of the Words of the Earth" (later titled "A Song of the Rolling Earth"), an argument that is strengthened by Whitman's "overleaf" notation, which ties it to the passage on the following page. There, the phrasing more clearly echoes the printed poem.</p>
+    </work>
+  </relations>
+         <p>
+<metamark rend="circled" function="transposition">&#9758; over leaf</metamark>
+<subst>
+<del rend="overstrike" seq="1">The <gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/> Nature is an ethereal mirror deep deep and floating</del>
+
+<add place="supralinear" rend="unmarked" seq="2">The mirror that Nature holds <add place="supralinear" rend="insertion" seq="2">and hides behind</add> is deep and floating and ethereal and faithful.</add>
+</subst>
+&#8212;in <subst>
+<del rend="overwrite" seq="1"><gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></del><add place="supralinear" rend="instertion" seq="2">it</add></subst> 
+<add rend="insertion" place="supralinear">a</add> 
+man <add place="supralinear" rend="insertion">always sends and</add> sees himself in it&#8212; from 
+<subst>
+<del rend="overstrike" seq="1">it</del> 
+<add place="supralinear" rend="unmarked" seq="2">himself</add>
+</subst> he reflects 
+<subst>
+<del rend="overstrike" seq="1">his</del> 
+<add place="supralinear" rend="insertion" seq="2">the fashion of his</add> 
+</subst>
+gods and all his religion<add place="inline" rend="unmarked">s</add> and politics and books and art and social and public institutions&#8212;ignorance or knowledge&#8212;kindness or cruelty&#8212;grossness or refinement&#8212;definitions or chaos&#8212;each <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del> is unerringly sent back to him or her who curiously gazes.</p>
+</div2>
+
+         <pb xml:id="leaf009v" facs="loc_ej.01036_large.jpg" type="verso"/>
+
+<div2 type="prose">
+<relations>
+  <work ref="xxx.00271" cert="high"><p>The phrase "face of the mother of many children" appears twice in the sixth poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> That poem was eventually titled "Faces."</p></work>
+  <work ref="xxx.00052" cert="low"><p>Edward Grier, in <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), has posited a connection between this passage and the following lines in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric": "The female contains all qualities and tempers them . . . . she is in her place . . . . she moves with perfect balance, / She is all things duly veiled . . . . she is both passive and active . . . . she is to conceive daughters as well as sons and sons as well as daughters." See Grier, 1:141.</p>
+</work>
+  <work ref="xxx.00120" cert="high"><p>Floyd Stovall has noted the connection between this passage and lines in the 1856 poem "Poem of the Sayers of the Words of the Earth" (later titled "A Song of the Rolling Earth"), in which the Earth is personified as a "beautiful sister" who holds "in her hand what has the character of a mirror." See Stovall, "Dating Whitman's Early Notebooks," <hi rend="italic">Studies in Bibliography</hi> 24 (1971), 202.</p>
+</work>
+</relations>
+         <p>There is a <add place="supralinear" rend="unmarked">fullsized</add> woman of calm and
+            voluptuous beauty. . . . <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del> the <del
+               rend="overstrike">unspeak<gap reason="illegible" quantity="2" unit="chars" extent="two letters"/></del> unspeakable charm of the face of the mother of
+            many children is the charm of her face . . . . she is clean and sweet and simple with immortal
+            health  . . .  she holds always before her <del rend="overstrike"><gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/></del> what has the quality of a mirror, and dwells serenely behind it.&#8212;</p>
+</div2>
+
+         <pb xml:id="leaf010r" facs="loc_ej.01037_large.jpg" type="recto"/>
+<div2 type="prose">
+         <p>When <add place="supralinear" rend="insertion">out of a feast</add> I eat <subst><del rend="overstrike" seq="1">bread</del> 
+         <add place="supralinear" rend="unmarked" seq="2">only corn</add></subst> and roast potatoes <del rend="overstrike">fo</del> 
+            for my dinner, through my own voluntary choice it is very well <add place="supralinear"
+               rend="insertion">and I much content,</add> but if some arrogant head of the table
+            prevent me by force from touching any thing but corn and potatoes then is my anger
+            roused.&#8212;</p>
+</div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+<div2 type="prose">
+         <p>Every one that <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></del>
+            <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></del> speaks his word for slavery is
+            himself the worst slave&#8212;the spirit of a freeman is not light enough in him to show
+            that all the fatness of the earth were bitter to a bondaged <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></del> neck.&#8212;</p>
+</div2>
+
+         <pb xml:id="leaf010v" facs="loc_ej.01038_large.jpg" type="verso"/>
+<div2 type="prose">
+<relations>
+  <work ref="xxx.00111" cert="high">
+    <p>This paragraph probably developed into the following lines of "Poem of the Road" in the 1856 edition of <hi rend="italic">Leaves of Grass,</hi> (eventually titled "Song of the Open Road"): "The efflux of the soul is happiness—here is happiness, / I think it pervades the air, waiting at all times, / Now it flows into us—we are rightly charged."</p>
+  </work>
+</relations>
+         <p>In the respect of happiness or <choice><sic>extasy</sic><corr>ecstasy</corr></choice>, the beautiful gas <del rend="overstrike">is</del> pervades the air continually, and we only need to be rightly tuned and conditioned, in order that it may catch to us <note type="authorial" place="supralinear">?</note> <note type="authorial" place="supralinear">?</note><seg rend="circled">(like gunpowder catches to fire)</seg> and <subst><del rend="overstrike" seq="1">pass</del> <add place="supralinear" rend="insertion" seq="2">flow</add></subst> into us like one river into another.</p>
+</div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+<div2 type="prose">
+         <p>The schooner is <subst><del rend="overstrike" seq="1">reefing</del> <add place="supralinear" rend="unmarked" seq="2">hoisting</add></subst> her sai<subst><del rend="overwrite" seq="1">ls</del><add rend="overwrite" place="over" seq="2">l</add></subst> she will soon be down the coast.</p>
+</div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+<div2 type="prose">
+         <ab>river pirate</ab>
+         <ab>old junk shop</ab>
+</div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+
+         <pb xml:id="leaf011r" facs="loc_ej.01039_large.jpg" type="recto"/>
+
+<div2 type="prose">
+         <p>I do not seek those that love me, I would rather seek <del rend="overstrike">out</del> after some that hate me</p>
+</div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <delSpan rend="hashmark" spanTo="#w02"/>
+<div2 type="prose">
+<relations>
+  <work ref="xxx.00226" cert="absolute">
+    <p>A revised version of this passage appeared in 1855 as a part of tenth poem of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "There Was a Child Went Forth."</p>
+  </work>
+</relations>
+         <ab>The village on the highland, seen from afar at sunset&#8212;the sun sh<subst><del rend="overwrite" seq="1"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del><add rend="overwrite" place="over" seq="2">ining</add></subst> on the <add rend="insertion" place="supralinear">red</add> white <add place="supralinear" rend="insertion"><del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></del> or brown</add> gables <add place="inline" rend="insertion">red, white or brown</add></ab>
+</div2>
+<div2 type="prose">
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+         <ab>the ferry boat <add place="supralinear" rend="insertion">ever</add> plying <del rend="overstrike">forever and</del> ever over the river</ab>
+</div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+<div2 type="prose">
+<relations>
+  <work ref="xxx.00226" cert="absolute">
+    <p>This passage was used in the tenth poem of <hi rend="italic">Leaves of Grass,</hi> later titled "There Was a Child Went Forth."</p>
+  </work>
+</relations>
+         <ab>the schooner sleepily dropping down the tide the <del rend="overstrike">little</del> small astern towed by the<lb/> rope,</ab><anchor xml:id="w02"/>
+</div2>
+         <pb xml:id="leaf011v" facs="loc_ej.01040_large.jpg" type="verso"/>
+<div2 type="prose">
+         <ab>In the open market place the barrels of apples, the flour and meat, and <add place="left" rend="unmarked">f<gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></add> <del rend="overstrike">product</del> ? in bunks and <unclear reason="illegible" cert="low" resp="#no">bins</unclear>.</ab>
+</div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+<div2>
+         <ab>The deckhand of the steamboat in his red shirt.</ab>
+</div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+<div2 type="prose">
+
+<relations>
+  <work ref="xxx.00112" cert="high">
+    <p>The image in this passage is probably the basis for the following line in the 1856 poem that was eventually titled "Crossing Brooklyn Ferry": "On the river the shadowy group, the big steam-tug closely flanked on each side by the barges—the hay-boat, the belated lighter [. . .]".</p>
+  </work>
+</relations>
+
+         <ab>The hayboat and barge&#8212;<del rend="overstrike">flee</del> the two boat <del rend="overstrike">with</del> bring her bevy of barges down the river</ab>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <ab>the</ab>
+</div2>
+         <pb xml:id="leaf012r" facs="loc_ej.01041_large.jpg" type="recto"/>
+<div2 type="prose">
+         <ab>picture of the <unclear reason="illegible" resp="#no" cert="low">New York customs</unclear></ab>
+</div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+<div2 type="poem_notes">
+         <head type="main">passage in poem</head> <ab>middle aged<note type="authorial">? ?</note> <add place="supralinear" rend="insertion">single</add> woman ? seeing from day to day for many years a man whom she deeply loves&#8212;never flagging&#8212;and eventually dies.&#8212;</ab>
+</div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+<div2 type="prose">
+<relations>
+  <work ref="xxx.00048" cert="low">
+    <p>This passage is possibly related to the following couplet of the opening poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> later titled "Song of Myself": "Logic and sermons never convince, / The damp of the night drives deeper into my soul."</p>
+  </work>
+</relations>
+         <p>The test of the goodness or truth of any thing is the soul itself&#8212;whatever does good to the soul, soothes, refreshes, cheers, inspirits, consoles, &amp;c.&#8212;that is so, easy enough&#8212;But doctrines, sermons, logic ? ?</p>
+</div2>
+         <pb xml:id="leaf012v" facs="loc_ej.01042_large.jpg" type="verso"/>
+
+         <div2 type="verse">
+<relations>
+  <work ref="xxx.00119" cert="high">
+    <p>The first two lines of this draft are probably related to this line in the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "A Song for Occupations": "If you meet some stranger in the street and love him or her, do I not often meet strangers in the street and love them?"</p>
+  </work>
+  <work ref="xxx.00052" cert="low">
+    <p>Edward Grier has speculated that these lines are related to a stanza in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric." That passage begins, "I have perceived that to be with those I like is enough" and goes on to say that "I do not ask any more delight" than "To pass among them . . to touch any one . . . . to rest my arm ever so lightly round his or her neck for a moment." See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
+  </work>
+  <work ref="xxx.00111" cert="low">
+    <p>Edward Grier sees these lines as connected to a section of the poem first published in the 1856 edition of <hi rend="italic">Leaves of Grass</hi> and eventually titled "Song of the Open Road." Although it doesn't use any of the same phrasing, the passage in the published poem expresses a similar idea, especially in these lines: "Why are there men and women that while they are nigh me the sun-light expands my blood? / [. . .] What is it I interchange so suddenly with strangers?" See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
+  </work>
+  <work ref="xxx.00112" cert="low">
+    <p>Edward Grier has noted a possible connection between these lines and the poem first published in the 1856 edition of <hi rend="italic">Leaves of Grass</hi> and eventually titled "Crossing Brooklyn Ferry." See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
+  </work>
+</relations>
+           <lg>
+             <l>Do you know what I well know</l>
+             <l>Do you <space extent="about ten letters" dim="horizontal"/> it is to<lb/> be loved as you pass in<lb/> the street?</l>
+             <l>Do you know what it is to </l>
+             <l>Do you know what it is<lb/> to have men and women<lb/> crave the touch of<lb/> your hand and the<lb/> contact of you?</l>
+           </lg>
+         </div2>
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+       <div2 type="prose">
+<relations>
+  <work ref="xxx.00526" cert="low">
+    <p>As Edward Grier has pointed out, the idea in this passage "is central in the 1855 Preface [. . .]." See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
+  </work>
+</relations>
+         <ab><del rend="overstrike">Th</del> not&#8212; &#8212;must be the poets I would have The poets I would have must be a power in the state, and an engrossing power in the state.</ab>
+       </div2>
+
+         <pb xml:id="leaf013r" facs="loc_ej.01043_large.jpg" type="recto"/>
+
+         <pb xml:id="leaf013v" facs="loc_ej.01044_large.jpg" type="verso"/>
+
+       <div2 type="verse">
+<relations>
+  <work ref="xxx.00526" cert="low">
+    <p>Edward Grier has noted the possible relationship between these lines and the 1855 Preface, where Whitman mentions "drivers of horses" in a series of images that evince "a residence of the poetic in outdoor people." See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
+  </work>
+  <work ref="xxx.00048" cert="low">
+    <p>Edward Grier has noted that the phrase "drivers of horses," which appears twice in these lines, indicates a possible connection between these lines and the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was later titled "Song of Myself." In that poem, "drivers of horses" are named as one of various sorts of manual laborers about whom the narrator says, "I can eat and sleep with them week in and week out." See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
+  </work>
+</relations>
+       <lg>
+         <l>If you have sons <subst><del rend="overstrike" seq="1">habit</del> <add place="supralinear" rend="unmarked" seq="2">custom</add></subst> them<lb/> to be drivers of horses</l>
+         <l>I knew six brothers drivers<lb/> of horses</l>
+       </lg>
+       </div2>
+       <div2 type="verse">
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <lg><add rend="unmarked" place="supralinear"><l>Why should I do much</l></add>
+         <l>The capitol, the president,<lb/> the laws,</l>
+         <l>I <unclear reason="illegible" resp="#bb" cert="medium">dem</unclear></l>
+       </lg>
+       </div2>
+         <delSpan rend="hashmark" spanTo="#w03"/>
+       <div2 type="verse">
+<relations>
+  <work ref="xxx.00048" cert="absolute">
+    <p>Whitman used these lines, in slightly altered form, in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was later titled "Song of Myself."</p>
+  </work>
+</relations>
+       <lg>
+         <l>There was never any more incep<add rend="unmarked" place="inline">tion</add><lb/> than there is now</l>
+         <l>Nor any more youth or age</l>
+         <l>And will never be any more<lb/> perfection</l>
+         <l>Nor any more heaven or hell</l>
+       </lg>
+         <anchor xml:id="w03"/>
+       </div2>
+
+         <pb xml:id="leaf014r" facs="loc_ej.01045_large.jpg" type="recto"/>
+
+         <div2 type="prose">
+         <p>The few who write the books and preach the sermons and <note type="authorial" place="supralinear">?</note>keep<note type="authorial" place="supralinear">?</note> the schools&#8212;<del rend="overstrike">I do not think ther</del> are they so much more than those who do not teach or preach, or write <del rend="overstrike">All</del> <subst><del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">T</add></subst>his we call literature and science is not so very much&#8212;there is enough of unaccountable importance and beauty in every step we tread and every thought of <gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></p>
+         <milestone unit="undeclared" rend="horbar-full"/>         
+         <p>Literature to these gentlemen is a parlor in which no person is to be welcomed unless he come attired in dress coat and observing the approved decorums with the fashionable</p></div2>
+
+         <pb xml:id="leaf014v" facs="loc_ej.01046_large.jpg" type="verso"/>
+
+         <div2 type="poem_notes">
+         <ab>Poem&#8212;illustrating (<hi rend="underline">good moments</hi>)
+         soul in high glee <hi rend="underline">all out</hi> (exquisite state of feeling of happiness&#8212;
+         some moments at the opera&#8212;in the woods&#8212;</ab></div2>
+
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+
+       <div2 type="prose">
+         <head type="main">Criticism</head>
+         <p>He leaps over or dives under for the time, all the reforms and propositions that worry these days and goes to the making of powerful men and women.&#8212;<del rend="overstrike">These</del> With these he says, all reforms, all good, will come.&#8212;Without these all reforms all good, all outside effects, are useless and helpless.&#8212;</p>
+       </div2>
+         <pb xml:id="leaf015r" facs="loc_ej.01047_large.jpg" type="recto"/>
+       <div2 type="poem_notes">
+         <head type="authorial">Poem</head>
+         <ab>"The Bridegroom"</ab>
+         <ab>? for recitation</ab>
+         <ab>(tremulous with joy Mario's voice quivering)</ab>
+         <ab>(bring in a <hi rend="underline">Death</hi></ab>
+       </div2>
+       <div2 type="prose">
+         <p>We want no <hi rend="underline">reforms</hi> <hi rend="underline">no institutions</hi>, no <hi rend="underline">parties</hi>&#8212;We want a <hi rend="underline">living principle</hi> as nature has, under which nothing can go wrong.</p>
+<p>&#8212;This must be vital through the United States, fit for the largest cases and actions and the <unclear reason="illegible" resp="#bb" cert="medium">widest</unclear></p>
+       </div2>
+
+         <pb xml:id="leaf015v" facs="loc_ej.01048_large.jpg" type="verso"/>
+
+       <div2 type="verse">
+         <lg>
+         <del rend="overstrike"><l>If the</l></del>
+         <l>Do you think I have written<lb/> all this for my own<lb/> good?</l>
+         <l>Well perhaps I have . . . .<lb/>but <del rend="overstrike">it is</del> not in the<lb/> your <del rend="overstrike">you think,</del> imagine,</l>
+         </lg>
+       </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+       <div2 type="verse">
+<relations>
+  <work ref="xxx.00450" cert="absolute">
+    <p>Whitman used the lines beginning "If the general" and "If you are happy" in the untitled third poem of the "Debris" cluster in the 1860 edition of <hi rend="italic">Leaves of Grass.</hi> This poem, with the last line omitted, was retitled "Leaflets" in the 1867 edition, after which it was dropped altogether.</p>
+  </work>
+</relations>
+         <lg type="poem">
+         <l>No one can realize anything<lb/> unless he has it in him . . . .<lb/> or has been it</l>
+         <l>It must <add rend="insertion" place="supralinear">certainly</add> tally with what is<lb/> in him . . . . otherwise it is<lb/> all blank to him.</l>
+         <l>The annals the past, light, space<lb/>&#8212;if I have them not in<lb/> me, I have them not at all</l>
+         <l>The future is in me as a seed<lb/> or nascent thought.</l>
+
+         <pb xml:id="leaf016r" facs="loc_ej.01049_large.jpg" type="recto"/>
+
+         <l>If the general has <subst><del rend="overstrike" seq="1">not the<lb/> best</del> <add rend="unmarked" place="supralinear" seq="2">a good<lb/></add></subst> army in himself<lb/> he has <subst><del rend="overstrike" seq="1">no</del> <add rend="unmarked" place="supralinear" seq="2">a good</add></subst> army <add rend="unmarked" place="inline">. . . . otherwise he has <subst><del rend="overstrike" seq="1">a poor</del> <add rend="unmarked" place="infralinear" seq="2">no</add></subst> army <add rend="unmarked" place="interlinear">worth mentioning</add>.</add></l>
+         <l>If you <del rend="overstrike"><unclear reason="illegible" resp="#bb" cert="medium" rend="underline">poor</unclear></del>&#8212; are rich in<lb/> yourself you are rich . . . .<lb/>otherwise you are <add rend="insertion" place="supralinear">wretchedly</add> poor</l>
+         <l>If you are located in<lb/> yourself you are well<lb/> located . . . . 
+<subst>
+<del rend="overstrike" seq="1">if not</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike"><unclear reason="illegible" resp="#bb" cert="medium">whate</unclear></del><lb/> you can never be <del rend="overstrike">are <gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">dislodged or<lb/> moved thence</add></add></subst></l>
+            <l>If you <subst><del rend="overstrike" seq="1">can be</del> <add rend="unmarked" place="supralinear" seq="2">are</add></subst> happy out<lb/> of yourself you <subst><del rend="overstrike" seq="1">can<lb/> be</del> <add rend="unmarked" place="supralinear" seq="2">are</add></subst> happy . . . . <subst><del rend="overstrike" seq="1">for</del> <add rend="unmarked" place="supralinear" seq="2">but</add></subst> I tell<lb/> you cannot be happy<lb/> <subst><del rend="overstrike" seq="1">through</del> <add rend="unmarked" place="supralinear" seq="2">by</add></subst> others any more<lb/> than you can beget<lb/> a child <subst><del rend="overstrike" seq="1">through</del> <add rend="unmarked" place="supralinear" seq="2">by</add></subst> others<lb/> . . . . or conceive a child<lb/> <subst><del rend="overstrike" seq="1">through</del> <add rend="unmarked" place="supralinear" seq="2">by</add></subst> others.</l>
+         </lg>
+       </div2>
+            <pb xml:id="leaf016v" facs="loc_ej.01050_large.jpg" type="verso"/>
+       <div2 type="verse">
+         <lg type="poem">
+         <l>I write not <del rend="overstrike">the</del> hymns</l>
+            <l>I see <subst><del rend="overstrike" seq="1">th<gap reason="illegible" atLeast="2"  unit="chars" extent="at least two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> <unclear reason="illegible" resp="#bb" cert="low">building</unclear> <unclear reason="illegible" resp="#bb" cert="low"><add rend="unmarked" place="supralinear">of</add></unclear> churches to<lb/> <add rend="unmarked" place="interlinear">God . . . .</add></l>
+            <l>If I build a church it<lb/> shall be <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">a</add></subst> church<lb/> <subst><del rend="overstrike" seq="1">of</del> <add rend="unmarked" place="supralinear" seq="2">to</add></subst> men and women</l>
+         <l>If I write hymns <supplied reason="obscured" resp="#bb" cert="high">they</supplied><lb/> shall be all to men<lb/> and women,</l>
+         <l>If I become a devotee<lb/> it shall be to men<lb/> and women.</l>
+         </lg>
+       </div2>
+
+         <pb xml:id="leaf017r" facs="loc_ej.01051_large.jpg" type="recto"/>
+
+         <div2 type="prose">
+         <list>
+            <item><gap reason="illegible" atLeast="5" unit="chars" extent="at least five letters"/> <unclear reason="illegible" resp="#no" cert="low">shorty</unclear></item>
+            <item>Brownie</item>
+            <item>Dead bodies</item>
+            <item>Hamlet's Ghost</item>
+            <item>Letloose</item>
+            <item>Graball Punch</item>
+            <item>4th of July</item>
+            <item>Christmas Johnny</item>
+            <item>Doughnuts</item>
+            <item>Poggy&#8212;Shortey</item>
+            <item>Pochuck</item>
+            <item>Bonehardener</item>
+            <item>Codmouth</item>
+            <item>Black Jack</item>
+            <item>Broadway Jack</item>
+            <item>Dressmaker</item>
+            <item>Harlem Charley</item>
+            <item>Blow<unclear reason="illegible" quantity="2" unit="chars" resp="#bb" cert="medium">er</unclear> B<unclear reason="illegible" resp="#bb" cert="medium">e</unclear>ll</item>
+            <item><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></item>
+            <pb xml:id="leaf017v" facs="loc_ej.01052_large.jpg" type="verso"/>
+            <item>Dry Dock John</item>
+            <item>Raggedy</item>
+            <item>Jack Smith's Monkey</item>
+            <item>Emigrant</item>
+            <item>Wild man of Borneo</item>
+            <item>Steamboat</item>
+            <item>Elephant</item>
+            <item>Buffalo</item>
+            <item>Santa Anna</item>
+            <item>Blind Sam</item>
+            <item>Rosy</item>
+            <item>Baltimore Charley</item>
+            <item>Long Boston</item>
+            <item>Short Boston</item>
+            <item>Mannieyunk</item><!-- there is a Manayunk Brdge in PA -->
+            <item>Pretty Ike</item>
+            <item>Jersey</item>
+            <item>Mountaineer</item>
+         </list>
+         </div2>
+
+         <pb xml:id="leaf018r" facs="loc_ej.01053_large.jpg" type="recto"/>
+
+         <div2 type="prose">
+         <p>It is not a labor of clothing or putting on or describing&#8212;it is a labor of clearing away and <del rend="overstrike">not</del> reducing&#8212;for every thing is beautiful in itself and perfect&#8212;and the office of the poet is to remove what stands in the way of our perceiving the beauty and perfection</p></div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <div2 type="prose">
+           <head type="main" rend="underline">My final aim</head>
+           <p>To concentrate around me the leaders of all <hi rend="underline">reforms</hi>&#8212;transcendentalist spiritualists, free soilers</p>
+         </div2>
+
+         <pb xml:id="leaf018v" facs="loc_ej.01054_large.jpg" type="verso"/>
+
+         <delSpan rend="hashmark" spanTo="#w04"/>
+         <div2 type="prose">
+           <ab>flawless truth and put it in the windows of your <unclear reason="illegible" resp="#bb" cert="medium">brains</unclear></ab>
+         </div2>
+         <div2 type="verse">
+<relations>
+  <work ref="xxx.00052" cert="absolute"><p> These lines contributed to the passage beginning "A slave at auction!" in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> This poem was eventually titled "I Sing the Body Electric."</p>
+</work>
+</relations>
+         <lg type="poem">
+            <head type="main" rend="underline">A Man at auction</head>
+            <l>How much for the man</l>
+            <l>He is of ? value</l>
+            <l>For him the earth lay<lb/> preparing billions of<lb/> years without one<lb/> animal or plant</l>
+            <l>For him the things of the<lb/> air, the earth and<lb/> the sea</l>
+            <l>He is not only himself</l>
+            <l>He is the father of<lb/> other men who<lb/> shall be fathers<lb/> in their turn</l>
+         </lg>
+         </div2>
+         <anchor xml:id="w04"/>
+
+            <pb xml:id="leaf019r" facs="loc_ej.01055_large.jpg" type="recto"/>
+         <div2 type="verse">
+<relations>
+  <work ref="xxx.00052" cert="absolute"><p> These lines contributed to the passage beginning "A woman at auction," in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> This poem was eventually titled "I Sing the Body Electric."</p>
+</work>
+</relations>
+         <lg type="poem">
+           <head type="main" rend="underline">A woman at Auction</head>
+           <l>How much for the<lb/> woman?</l>
+           <l>For her all</l>
+           <l>She <del rend="overstrike"><unclear reason="illegible" resp="#bb" cert="low">can</unclear></del> is not only herself<lb/> she is the bearer of<lb/> of other women, who<lb/> shall be mothers,</l>
+           <l>She is the bearer of<lb/> men who shall be<lb/><gap reason="cut away" atLeast="3" unit="chars"/></l>
+         </lg>
+         </div2>
+         <pb xml:id="leaf019v" facs="loc_ej.01056_large.jpg" type="verso"/>
+         <div2 type="verse">
+         <lg type="poem">
+           <l>For him all sentiments</l>
+           <del rend="overstrike"><l>For him</l></del>
+           <l>In his appointed day<lb/> he becomes a<lb/> God</l>
+           <l>In his appointed time<lb/> he reaches his<lb/> ecstacy</l>
+           <l>He is the one loved</l>
+           <l>He is the master</l>
+         </lg>
+         </div2>
+
+         <pb xml:id="leaf020r" facs="loc_ej.01057_large.jpg" type="recto"/>
+
+         <div2 type="poem_notes">
+         <ab rend="circled">verse in each</ab>
+         <ab>pictures illustrating<lb/>
+           <list>
+             <item>a European</item>
+             <item>Asiatic</item>
+             <item>African</item>
+           </list>
+         </ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="prose">
+           <head type="main"> American opera</head>
+         <ab>when a song is sung the accompaniment to be by only one instrument or two instruments the rest silent.</ab> <ab>&#8212;the <add rend="insertion" place="supralinear">vocal</add> performer to make far more of his song, or solo part, by by-play, attitudes, expressions, movements, &#38;c. than is <subst><del rend="overstrike" seq="1">usual</del> <add rend="unmarked" place="supralinear" seq="2">at all</add></subst> <del rend="overstrike">in the</del> made by the Italian opera singers&#8212;</ab>
+         <ab>&#8212;The American opera to be far more simple, and give far more scope to the <hi rend="underline">persons</hi> enacting the characters</ab></div2>
+
+         <pb xml:id="leaf020v" facs="loc_ej.01058_large.jpg" type="verso"/>
+
+         <div2 type="prose">
+<relations>
+  <work ref="xxx.00120" cert="high"><p>These lines probably contributed to the poem eventually titled "A Song of the Rolling Earth," which was first published in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi></p>
+</work>
+</relations>
+         <ab><hi rend="circled">fiercely</hi> <add rend="unmarked" place="supralinear">and with screaming energy</add></ab>
+         <ab>This great earth that rolls in the air, and the sun and moon, and men and women&#8212;do you think nothing more is to be made of than storekeeping and books and produce and drygoods and something to pay taxes on?
+         </ab>
+         </div2>
+
+         <pb xml:id="leaf021r" facs="loc_ej.01059_large.jpg" type="recto"/>
+
+         <div2>
+<relations>
+  <work ref="xxx.00110" cert="absolute"><p>Whitman used this line in the 1856 "Poem of Salutation," whch was eventually titled "Salut au Monde!"</p>
+</work>
+</relations>
+         <ab><add rend="insertion" place="supralinear">Who are the</add> Three old men going slowly with their arms about each others' necks</ab> 
+         <ab>Who are</ab>
+         </div2>
+
+         <pb xml:id="leaf021v" facs="loc_ej.01060_large.jpg" type="verso"/>
+
+         <div2 type="prose">
+<relations>
+  <work ref="xxx.00120" cert="high"><p>These lines probably contributed to the poem eventually titled "A Song of the Rolling Earth," which was first published in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi></p>
+</work>
+</relations>
+         <ab>This great round globe with its rolling circles&#8212;and time&#8212;and perpetual motions&#8212;and all the moving animals&#8212;men and women&#8212;the sea and soil&#8212;the plants&#8212;the curious emananations</ab>
+         </div2>
+
+         <div2 type="prose">
+         <ab>Have you in you the enthusiasm for the battles of <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/> Re</del> <add rend="unmarked" place="supralinear" seq="2">Bunker Hill and</add></subst> Long Island and Washington's retreat?&#8212;Have you the heroic feeling for&#8212;&#8212;
+         &#8212;Look forth then <subst><del rend="overstrike" seq="1">fo</del><add rend="unmarked" place="supralinear" seq="2">&#8212;</add></subst> <unclear reason="illegible" resp="#no" cert="high">there</unclear> is still occasion for courage and <unclear reason="illegible" resp="#no" cert="high">devotion</unclear>&#8212;Nature is not so poor but there is always occasion for courage and determined power and <unclear reason="illegible" resp="#bb" cert="medium">defiance</unclear>
+         </ab>
+         </div2>
+
+         <pb xml:id="leaf022r" facs="loc_ej.01061_large.jpg" type="recto"/>
+
+         <div2 type="prose">
+<relations>
+  <work ref="xxx.00110" cert="high"><p>This jotting is probably related to the line in the 1856 "Poem of Salutation" (eventually titled "Salut au Monde!") that reads, "I myself make the only growth by which I can be appreciated."</p>
+</work>
+</relations>
+         <ab><add rend="unmarked" place="supralinear">Always</add> <subst><del rend="overstrike" seq="1">A truly</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="supralinear" seq="2">the</add></del> <add rend="unmarked" place="supralinear" seq="3">any</add></subst> great and original persons, teacher, inventor, <del rend="overstrike">poet or</del> artist or poet, must himself make the taste and by which <add rend="insertion" place="supralinear">only</add> he will be appreciated or even received.</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="prose">
+         <head type="main" rend="underline">for oration</head>
+         <ab><subst><del rend="overstrike" seq="1">shall</del> <add rend="insertion" place="supralinear" seq="2">must</add></subst> we be unchecked, un<space dim="horizontal" atLeast="3" unit="chars" extent="about 5 letters"/> unmastered.&#8212;What real Americans can be made out of slaves? What real Americans can be made out of the masters of slaves?</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <div2 type="prose">
+         <ab>Then you can say <add rend="insertion" place="supralinear">as</add> to Nature <unclear reason="illegible" resp="#bb" cert="medium">these</unclear> words&#8212;send us O Nature as <unclear reason="illegible" resp="#no" cert="medium">much</unclear> as you like&#8212;Send us the children of the poor, the <unclear reason="illegible" resp="#no" cert="high">ignorant</unclear> and the <choice><orig>depraped</orig><reg>depraved</reg></choice>&#8212;We are ready for them&#8212;we can receive them&#8212;for them also we have preparation and welcome&#8212;We have not only welcome for the <unclear reason="illegible" resp="#no" cert="high">healthy</unclear> <gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/> <unclear reason="illegible" resp="#bb" cert="medium">strong</unclear></ab>
+         </div2>
+
+         <pb xml:id="leaf022v" facs="loc_ej.01062_large.jpg" type="verso"/>
+         <div2 type="verse">
+<relations>
+  <work ref="xxx.00052" cert="absolute"><p>These lines contributed to the description, in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> of the "Bridegroom-night of love." This poem was eventually titled "I Sing the Body Electric."</p>
+</work>
+</relations>
+         <lg>
+           <note type="authorial" place="top" rend="circled">Poem</note>
+           <head type="main" rend="underline">Bridalnight.</head>
+           <l><add rend="unmarked" place="supralinear">one</add> a quivering jelly of love<lb/> limpid transparent</l>
+           <l><del rend="overstrike"><add rend="unmarked" place="supralinear"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></add></del> Limitless jets of love, hot<lb/> and enormous</l>
+           <l>Arms of love <del rend="overstrike"><gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/></del> strong as<lb/> attraction <add rend="unmarked" place="supralinear">reach as wide</add> and large<lb/> as the air</l>
+         <l>Drunken and crazy<lb/> with love, <unclear reason="illegible" resp="#bb" cert="medium">swing</unclear> in<lb/> it is in the plummetless sea</l>
+         </lg>
+         </div2>
+         <pb xml:id="leaf023r" facs="loc_ej.01063_large.jpg" type="recto"/>
+
+         <div2 type="poem_notes">
+<relations>
+  <work ref="xxx.00052" cert="absolute"><p>These notes contributed to the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric."</p>
+</work>
+</relations>
+         <ab><del rend="overstrike">Body</del> Loveflesh<lb/> swelling and<lb/> deliciously <subst><del rend="overstrike" seq="1">throbbing</del> <add rend="unmarked" place="supralinear" seq="2">aching</add></subst></ab> 
+         <ab>whiteblood of love</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <div2 type="prose">
+<relations>
+  <work ref="xxx.00526" cert="high"><p>These lines are probably related to the following passage in the Preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "Here comes one among the wellbeloved stonecutters and plans with decision and science and sees the solid and beautiful forms of the future where there are now no solid forms."</p>
+</work>
+  <work ref="xxx.00120" cert="low"><p>These lines are perhaps related to a passage in the 1856 poem "Poem of The Sayers of The Words of The Earth," which exhorts the "sayers of the earth" to "Work on, age after age" for "When the materials are all prepared, the architects shall appear." This poem was eventually titled "A Song of the Rolling Earth."</p>
+</work>
+</relations>
+         <head type="authorial">in dream</head>
+         <ab>The architect that comes<lb/> among the stonecutters<lb/> and the heaps of<lb/> cut stone</ab>
+         <ab>poem describes how the<lb/> workmen, possessed with<lb/> an indescribable faith,<lb/> go on age after age in<lb/> their work&#8212;and at last<lb/> came architects and<lb/> used each in its place<lb/> the stones they<lb/> had cut</ab>
+         </div2>
+
+         <pb xml:id="leaf023v" facs="loc_ej.01064_large.jpg" type="verso"/>
+
+         <div2 type="poem_notes">
+<relations>
+  <work ref="xxx.00111" cert="high"><p>This note is probably connected to the development of the 1856 "Poem of the Road," which was eventually titled "Song of the Open Road."</p>
+</work>
+</relations>
+         <ab>poem of a road</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <delSpan rend="hashmark" spanTo="#w05"/>
+         <div2>
+<relations>
+  <work ref="xxx.00119" cert="absolute"><p>Images from these notes were used in several widely separated lines of the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "A Song for Occupations."</p>
+</work>
+</relations>
+         <ab>The snowstorm or rainstorm bunkroom stringteam the counterfeit detector the directory <add rend="unmarked" place="interlinear">the census returns, the Presidents m<unclear reason="illegible" resp="#kmp" cert="medium">en</unclear> and the <unclear reason="illegible" resp="#bb" cert="low">Governors</unclear></add> <delSpan rend="hashmark" spanTo="#w07"/><add rend="unmarked" place="opposite">message and the<del rend="overstrike">mayor</del> message of the mayor and the message of the Chief of Police</add>
+         <anchor xml:id="w07"/>
+         
+          the blows of the fightingmen&#8212;the uppercut and onetwo<unclear reason="illegible" resp="#no" cert="medium">three</unclear></ab>
+         </div2>
+         <div2 type="verse">
+<relations>
+  <work ref="xxx.00048" cert="absolute"><p>Whitman used a version of this line in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was later titled "Song of Myself."</p>
+</work>
+</relations>
+         <l>The bugle calls in the ballroom&#8212;the <subst><del rend="overstrike" seq="1">dancers</del> <add rend="unmarked" place="supralinear" seq="2">gentlemen</add></subst> <subst><del rend="overstrike" seq="1">lead out</del> <add rend="unmarked" place="supralinear" seq="2">go for</add></subst> their partners&#8212;the playing begins&#8212;the dancers bow to each other.</l>
+         </div2>
+         <anchor xml:id="w05"/>
+
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+         <pb xml:id="leaf024r" facs="loc_ej.01065_large.jpg" type="recto"/>
+         <div2 type="prose">
+<relations>
+  <work ref="xxx.00052" cert="high"><p>The note here about the "swimming&#8212;bath" is possibly connected to the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric," where the phrase "The swimmer naked in the swimming bath" appears.</p>
+</work>
+</relations>
+         <ab>The swimming-bath<lb/>
+         the <unclear reason="illegible" resp="#no" cert="medium">stinggah</unclear></ab>
+         </div2>
+         <delSpan rend="hashmark" spanTo="#w06"/>
+         <div2 type="prose">
+           <relations>
+             <work ref="xxx.00119" cert="high"><p>The description here of dishes on a table probably contributed to the image, in the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> of "the dishes of breakfast, dinner, supper." The poem was eventually titled "A Song for Occupations."</p>
+</work>
+           </relations>
+         <ab>The dishes on the daily table&#8212;<del rend="overstrike">the coffee</del> the roast meat&#8212;the oysters&#8212;the coffee and cornbread and rye and wheatbread,</ab>
+         </div2>
+         <anchor xml:id="w06"/>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <div2 type="verse">
+           <relations>
+             <work ref="xxx.00526" cert="low">
+               <p>These lines are perhaps related to the penultimate paragraph of the Preface to the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> in which Whitman claims that literature and other cultural institutions and practices will inevitably be judged according to "American standards." In making such determinations, one must ask questions such as "Are its disposals without ignominious distinctions?"</p>
+             </work>
+           </relations>
+         <lg type="poem">
+           <l>The questions are such as these</l>
+           <l>Has his life shown the true<lb/> American character?</l>
+           <l>And does it show the true American<lb/> character?</l>
+           <l>Has he been easy and friendly with<lb/> his workmen?&#8212;Has he been<lb/> the stern master of slaves?</l>
+           <l>Has he been for making ignominious<lb/> distinctions?&#8212;Has he<lb/> respected the literary classes and<lb/> looked on the ignorant classes with <gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/></l>
+         </lg>
+         </div2>
+
+         <pb xml:id="leaf024v" facs="loc_ej.01066_large.jpg" type="verso"/>
+         <div2 type="poem">
+         <lg>
+           <l>If there be <subst><del rend="overstrike" seq="1">animal</del> <add rend="unmarked" place="supralinear" seq="2">some brute</add></subst> <del rend="overstrike">that is</del> very<lb/> sagacious and intelligent</l>
+           <l>And a being of our human race<lb/> no more sagacious and intelligent<lb/> than that animal&#8212;is one<lb/> preferred to the other?</l>
+         </lg>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <div2 type="prose">
+         <p><add rend="unmarked" place="supralinear">Equality of all <unclear reason="illegible" resp="#no" cert="medium">rights</unclear> and persons is <unclear reason="illegible" resp="#no" cert="medium">imperiously</unclear> demanded by selfpreservation.&#8212;</add>The cause of the ruin of all states that have been ruined has been that the whole body of the inhabitants without exception were not equally interested in the preservation of those states or cities&#8212;or that <unclear reason="illegible" resp="#no" cert="medium">a</unclear> portion was degraded</p>
+         </div2>
+
+            <pb xml:id="leaf025r" facs="loc_ej.01067_large.jpg" type="recto"/>
+
+         <div2 type="poem_notes">
+         <ab>form of a poem or the composition in which the opinions are expressed by different wise men or youths, as 1st wise man, 1st youth 1st woman.&#8212;or as expressed by Socrates, Christ</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+
+         <div2 type="prose">
+           <relations>
+             <work ref="xxx.00052" cert="absolute">
+               <p>The notes here regarding male beauty contributed to the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was ultimately titled "I Sing the Body Electric."</p>
+             </work>
+           </relations>
+         <delSpan rend="hashmark" spanTo="#w08"/>
+         <ab>The expression of a <subst><del rend="overstrike" seq="1">well</del><add place="supralinear" rend="unmarked" seq="2">perfect</add></subst>made man appears not only in his face&#8212;but in his limbs&#8212;The motion of his hands <add rend="unmarked" place="supralinear">and arms</add> and all his joints&#8212;his walk&#8212;the carriage of his neck&#8212;and the flex of his waist and hips</ab>
+         <ab>Dress does not hide him. The
+         <anchor xml:id="w08"/>
+
+            <pb xml:id="leaf025v" facs="loc_ej.01068_large.jpg" type="verso"/>
+
+         <delSpan rend="hashmark" spanTo="#w12"/>
+            quality he has and the <del rend="overstrike">clean</del> strong <add rend="undeclared" place="supralinear">sweet</add> supple <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/></del> <add place="supralinear" rend="unmarked" seq="2">nature</add></subst> he has <del rend="overstrike"><gap reason="illegible" atLeast="4" unit="chars" extent="at least four letters"/></del> strike through <del rend="overstrike">his the</del> cotton and woolen.&#8212;To see him walk <subst><del rend="overstrike" seq="1">is a spectacle or a</del><add rend="unmarked" place="supralinear" seq="2">conveys the impression of <del rend="overstrike">to</del> hearing a beautiful</add></subst> poem.&#2812;To see his back and <add rend="unmarked" place="supralinear">the back of his neck and</add> shoulderside is a spectacle. Great in the body!&#8212;There is something in the <subst><del rend="overstrike" seq="1">close presence</del> <add rend="unmarked" place="supralinear" seq="2">touch</add></subst> of any <add rend="unmarked" place="supralinear">candid <del rend="overstrike">and</del> clean</add><subst><del rend="overstrike" seq="1">human being</del> <add rend="unmarked" place="supralinear" seq="2">person</add></subst> <subst><del rend="overwrite" seq="1">. . . .</del><add rend="unmarked" place="inline" seq="2">&#8212;</add></subst>what it is I do not know . . . . but it fills me with wonderful and exquisite sensations.&#8212;It is enough to be with him <subst><del rend="overwrite" seq="1">or</del><add rend="overwrite" place="over" seq="2">&#8212;</add></subst> <add rend="unmarked" place="supralinear">with</add> her.&#8212;</ab>
+         <anchor xml:id="w12"/>
+         </div2>
+
+         <pb xml:id="leaf026r" facs="loc_ej.01069_large.jpg" type="recto"/>
+
+         <div2 type="prose">
+         <ab>describe the perfect male body&#8212;pancratist&#8212;perfect in all <unclear reason="illegible" resp="#no" cert="low">gynasia</unclear></ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="poem_notes">
+           <relations>
+             <work ref="xxx.00052" cert="low"><p>This note is possibly related to a three-line description in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi> of "The wrestle of wrestlers." This poem was later titled "I Sing the Body Electric."</p>
+             </work>
+           </relations>
+         <ab>Poem of the Wrestlers</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <delSpan rend="hashmark" spanTo="#w09"/>
+         <div2 type="verse">
+           <relations>
+             <work ref="xxx.00048" cert="absolute"><p>This line was used in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song of Myself."</p></work>
+           </relations>
+         <l>My respiration and inspiration<lb/>. . . . the beating of my heart . . . .<lb/>the passing of blood and air<lb/> through my lungs.</l>
+         </div2>
+         <anchor xml:id="w09"/>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <div2 type="prose"><head type="main">Addresses on Literature</head>
+         <ab>Though it have all the learning and art of the schools if it has not life it is nothing <del rend="overstrike">If</del> When you read or hear if it does not call the blood leaping and flowing&#8212;<unclear reason="illegible" resp="#bb" cert="low">of</unclear>
+         &#8212;We do not fall in love with statues&#8212;we have healthy love for them</ab>
+         </div2>
+         <pb xml:id="leaf026v" facs="loc_ej.01070_large.jpg" type="verso"/>
+         <div2 type="prose">
+         <ab><hi rend="underline">American Opera</hi>.&#8212;put three banjos, (or more?) in the orchestra&#8212;and let them accompany (at times exclusively,) the songs of the baritone or tenor&#8212;</ab>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <ab>Let a considerable part of the performance be instrumental&#8212;by the orchestra only.&#8212;</ab>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <ab>Let a few words go a great ways&#8212;the <subst><del rend="overwrite" seq="1">wo</del><add rend="overwrite" place="over" seq="2">plot</add></subst> not complicated but simple&#8212;Always one leading idea&#8212;as Friendship, Courage, Gratitude, Love,&#8212;always a distinct meaning&#8212;</ab>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <ab>The story and libretto as now are generally of no account.&#8212;</ab>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <ab>In the American Opera the story and libretto must be the <hi rend="underline">body</hi> of the performance.</ab>
+         </div2>
+
+         <pb xml:id="leaf027r" facs="loc_ej.01071_large.jpg" type="recto"/>
+
+         <div2 type="prose">
+         <ab>The fingers of the pianist playing lightly and rapidly over the keys.</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <div2 type="prose">
+         <head type="main">illustration</head>
+         <ab>a man placing his ear</ab>
+         <ab>To place the ear flat on the breast of the motionless body to see if it has any life in it's heart.</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="poem_notes">
+         <head type="main">Poem</head>
+         <ab>The land where&#8212;&#8212;</ab>
+         <ab><gap reason="illegible" atLeast="4" unit="chars" extent="at least four letters"/></ab>
+         <ab>The land where</ab>
+         </div2>
+
+         <pb xml:id="leaf027v" facs="loc_ej.01072_large.jpg" type="verso"/>
+
+         <div2 type="prose">
+         <ab>The poor despised&#8212;Irish girls <add rend="insertion" place="supralinear">and boys</add> immigrants just over</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="prose">
+           <relations>
+             <work ref="xxx.00048" cert="high"><p>The claim here to be "the poet of the shallow and flat and despised" is probably related to a passage in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> in which the narrator channels "many long dumb voices," including those of "the trivial and flat and foolish and despised."</p></work>
+           </relations>
+         <ab>A fierce protective sweep around shielding them</ab>
+         <ab>I am the poet of the shallow and flat and desp<unclear reason="illegible" resp="#no" cert="low">ised</unclear></ab>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <ab>Any one <subst><del rend="overstrike" seq="1">can <gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">may know</add></subst> that the great heroes and poets are divine</ab>
+         <ab>But</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="verse">
+           <relations>
+             <work ref="xxx.00048" cert="absolute">
+               <p>Whitman incorporated this line into the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> The poem was later titled "Song of Myself."</p>
+             </work>
+           </relations>
+           <delSpan rend="hashmark" spanTo="#w10"/>
+           <l>The woodman that takes his axe and jug with him shall take me with him all day,</l>
+           <anchor xml:id="w10"/>
+         </div2>
+
+         <pb xml:id="leaf028r" facs="loc_ej.01073_large.jpg" type="recto"/>
+
+         <div2 type="poem_notes">
+           <relations>
+             <work ref="xxx.00116" cert="low">
+               <p>This note is possibly connected to the 1856 "Broad-Axe Poem," in which the poet asks, "What do you think endures?" The poem was later titled "Song of the Broad-Axe."</p>
+             </work>
+           </relations>
+           <ab>Poem What endures</ab>
+         </div2>
+         <delSpan rend="hashmark" spanTo="#w11"/>
+         <div2 type="verse">
+           <relations>
+             <work ref="xxx.00048" cert="high">
+               <p>These lines are probably related to the following line from the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "I have no mockings and arguments . . . . I witness and wait." The poem was eventually titled "Song of Myself."</p>
+             </work>
+           </relations>
+         <note type="authorial" place="supralinear">modify</note>
+           <lg>
+             <l>I have no mockings ? <add rend="unmarked" place="supralinear">and laughter<note type="authorial" place="supralinear">?</note></add></l>
+             <l>I have only to be silent <note type="authorial" place="supralinear">?</note> and</l>
+           </lg><anchor xml:id="w11"/>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="prose">
+           <relations>
+             <work ref="xxx.00052" cert="high">
+               <p>This note probably represents the genesis of two passages in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, in which the auctions of first a male and then a female slave are described. The poem was later titled "I Sing the Body Electric."</p>
+             </work>
+           </relations>
+           <ab>man and woman at auction</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="verse">
+           <lg>
+             <l>Here is</l>
+             <l>I see&#8212;Adam and Eve again</l>
+             <l>I see the old myths</l>
+             <l>&#8212;the</l>
+           </lg>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <div2 type="poem_notes">
+           <head type="main">poem picture of war</head>
+           <head type="sub">&#8212;(the hospital at Sebastopol,)</head>
+           <ab>then the opposite&#8212;the inferences and results&#8212;what war does to <choice><sic>develope</sic><corr>develop</corr></choice> and strengthen and make more energetic and agile humanity&#8212;and what it contributes to poetry, oratory, &amp;c.&#8212;</ab>
+         </div2>
+
+         <pb xml:id="leaf028v" facs="loc_ej.01074_large.jpg" type="verso"/>
+
+         <div2 type="prose">
+           <ab><del rend="overstrike">all that</del></ab>
+           <ab>he does not lose by comparison with the orange tree or magnolia or with <del rend="overstrike">the</del> fields that nourish the sugarplant or the cottonplant . . . . <subst><del rend="overstrike" seq="1">all that</del> <add rend="unmarked" place="supralinear" seq="2">what</add></subst> strengthens or <add rend="unmarked" place="supralinear" xml:id="w1">clothes</add> <seg xml:id="w2">adorns</seg><alt target="#w1 #w2" weights="0.5 0.5"/> or is luscious can be had <add rend="insertion" place="supralinear">through<add rend="unmarked" place="supralinear">subtle</add> counterparts</add> from him&#8212;from him <del rend="overstrike"><add rend="unmarked" place="supralinear">the<gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></add></del> magnolia<del rend="overstrike">s</del> and orange<del rend="overstrike">s</del> and sugarplant and cottonplant and all fruits and flowers and all the sorts and productions of the earth.&#8212;</ab>
+         </div2>
+
+         <pb xml:id="leaf029r" facs="loc_ej.01075_large.jpg" type="recto"/>
+
+         <div2 type="poem_notes">
+         <ab>Poem&#8212;addressed to a young man who has come <add rend="insertion" place="supralinear">of age and is</add> in possession of immense wealth.&#8212;</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="prose">
+           <head type="main">address on literature</head>
+           <ab>&#8212;you must become a force in the state&#8212;and a real and great force&#8212;just as real and great as the president and congress&#8212;greater than they</ab>
+         </div2>
+
+            <pb xml:id="leaf029v" facs="loc_ej.01076_large.jpg" type="verso"/>
+
+         <div2 type="verse">
+           <relations>
+             <work ref="xxx.00048" cert="absolute">
+               <p>These lines were used in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> The poem was eventually titled "Song of Myself."</p>
+             </work>
+           </relations>
+             <l>I am an old artillerist</l>
+             <l>I tell of some</l>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <div2 type="prose">
+           <ab>On South Fifth st (Monroe place) 2 doors above the river from Sixth street&#8212;going toward Greenpoint&#8212;</ab>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <ab>On Wilson st</ab>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <ab>Green, corner Fifth &amp; Grand</ab></div2>
+
+         <pb xml:id="leaf030r" facs="loc_ej.01077_large.jpg" type="recto"/>
+
+         <pb xml:id="leaf030v" facs="loc_ej.01078_large.jpg" type="verso"/>
+
+         <div2 type="prose">
+           <relations>
+             <work ref="xxx.00526" cert="low">
+               <p>It is possible that this note is related to the Preface of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> where Whitman also used the word "blatherers."</p>
+             </work>
+           </relations>
+         <add rend="unmarked" place="top"><ab>blatherers</ab></add>
+         <ab>The <subst><del rend="overstrike" seq="1">wealth<subst><del rend="overwrite" seq="1">iest</del><add rend="unmarked" place="over" seq="2">y</add></subst></del> <add rend="unmarked" place="supralinear" seq="2">affluent</add></subst> man is he who <subst><del rend="overstrike" seq="1">answers all the</del> <add rend="insertion" place="supralinear" seq="2">confronts</add></subst> <subst><del rend="overstrike" seq="1">wealth</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="supralinear" seq="2">whatever</add></del> <add rend="unmarked" place="supralinear" seq="3">the grandest</add><add rend="unmarked" place="infralinear" seq="3">show</add></subst> sees <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del> by <del rend="overstrike">its</del> an equivalent <add rend="unmarked" place="supralinear">or more than equivalent</add> <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">in</unclear></del> <add rend="unmarked" place="infralinear" seq="2">from</add></subst> the <subst><del rend="overstrike" seq="1">depths</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="infralinear" seq="2">bottomless</add></del> <add rend="unmarked" place="infralinear" seq="3">grander <del rend="overstrike">riches</del></add> <add rend="unmarked" place="infralinear" seq="4">wealth</add></subst> of himself.&#8212;</ab>
+         </div2>
+         <div2 type="prose">
+           <relations>
+             <work ref="xxx.00526" cert="absolute">
+               <p>Whitman incorporated this material into the Preface of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi></p>
+             </work>
+           </relations>
+         <ab>Insouciance<lb/>
+         een soo se &#225;wnz</ab>
+         </div2>
+         <milestone unit="undeclared" rend="horbar-short-left"/>
+         <div2 type="prose">
+         <ab>or the mettlesome action of the blood horse</ab>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <ab>and the unimpeachableness of the sentiment of trees</ab>
+         <milestone unit="undeclared" rend="horbar-full"/>
+         <ab><del rend="overstrike">haughty <unclear reason="illegible" resp="#no" cert="low">&amp;</unclear></del> jealous and haughty instinct</ab>
+         </div2>
+         <pb xml:id="leaf031r" facs="loc_ej.01079_large.jpg" type="recto"/>
+</div1>
+      </body>
+   </text>
+</TEI>

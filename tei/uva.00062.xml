@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="uva.00062">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main" rend="bracketed">Review&#8212;</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<persName xml:id="bb">Brett Barney</persName>
+<persName xml:id="ec">Eric Conrad</persName>
+<persName xml:id="nhg">Nicole Gray</persName>
+</respStmt>
+<sponsor>Center for Digital Research in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2012</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>uva.00062</idno>
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>P.O. Box 884100</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>kprice@unlnotes.unl.edu</addrLine>
+<addrLine>Ed-Folsom@uiowa.edu</addrLine>
+<addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+    <p>The text of the original item is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>  
+    <p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
+    <p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p> 
+</availability>
+</publicationStmt>
+<notesStmt>
+<note type="project" target="#dat1">Whitman wrote these notes on May 23rd and 24th, 1865, during the Grand Review of the Armies, a parade of Union forces in Washington, D.C.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<date xml:id="dat1" cert="high" notBefore="1865-05-23" notAfter="1865-05-24">23&#8211;24 May, 1865</date>
+<orgName xml:id="uva">Papers of Walt Whitman (MSS 3829), Clifton Waller Barrett Library of American Literature, Albert H. Small Special Collections Library, University of Virginia</orgName>
+<note type="project">Transcribed from digital images of the original item.</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<handNotes>
+<handNote xml:id="unk" scribe="unknown"/>
+</handNotes>
+</profileDesc>
+<revisionDesc>
+    <change when="2015-05-11" who="#nhg">updated copyright statement</change>
+    <change when="2015-05-06" who="#nhg">replaced segs with lbs</change>
+    <change when="2015-02-05" who="#nhg">corrected</change>
+    <change when="2015-01-21" who="#nhg">added schematron declaration, corrected</change>
+    <change when="2015-01-20" who="#nhg">added rend to title</change>
+    <change when="2014-11-10" who="#nhg">corrected formatting of persName and added xml:id to orgName</change>
+    <change when="2014-10-03" who="#nhg">changed div1 type to notebook</change>
+<change when="2011-07-29" who="#bb">converted to P5, blessed</change>
+<change when="2010-05-01" who="#ec">transcribed, encoded</change>
+</revisionDesc>
+</teiHeader>
+<text type="manuscript">
+<body>
+<pb xml:id="leaf001r" facs="uva.00062.001.jpg" type="recto"/>
+<div1 type="notebook">
+<ab>Review—</ab>
+</div1>
+<pb xml:id="leaf001v" facs="uva.00062.002.jpg" type="verso"/>
+<pb xml:id="leaf002r" facs="uva.00062.003.jpg" type="recto"/>
+
+<pb xml:id="leaf002v" facs="uva.00062.004.jpg" type="verso"/>
+
+<pb xml:id="leaf003r" facs="uva.00062.005.jpg" type="recto"/>
+
+<div1 type="poem_notes">
+
+<ab><del rend="overstrike">fifes like a tho</del> the thousand whistles of the fifes, (playing Lannigan's ball) so <del rend="overstrike">ro</del> with inexpressible roguishness—(50 drums)</ab>
+
+<milestone unit="undeclared" rend="horbar-long-left"/>
+
+<ab>the Irish with their heads all <del rend="overstrike">d</del> copiously dressed with branches of green—impulsive, shouting&#8212;</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>President, Gen. Grant, Stanton Meade, Hancock Sec Wells, McCulloch
+
+<pb xml:id="leaf003v" facs="uva.00062.006.jpg" type="verso"/>
+
+—some of the very full artillery regts <subst><del rend="ovewrwrite" seq="1"><gap reason="illegible" extent="one letter" quantity="1" unit="chars"></gap></del><add rend="unmarked" place="over" seq="2">l</add></subst>ook'd splendidly—moving in masses—
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+good, hearty young men</ab>
+
+<milestone unit="undeclared" rend="horbar-long-left"/>
+
+<ab>scene near President's stand—rolling drums saluting officers</ab>
+<milestone unit="undeclared" rend="horbar-long-left"/>
+
+<pb xml:id="leaf004r" facs="uva.00062.007.jpg" type="recto"/>
+<pb xml:id="leaf004v" facs="uva.00062.007.jpg" type="verso"/>
+<pb xml:id="leaf005r" facs="uva.00062.007.jpg" type="recto"/>
+<pb xml:id="leaf005v" facs="uva.00062.007.jpg" type="verso"/>
+<pb xml:id="leaf006r" facs="uva.00062.007.jpg" type="recto"/>
+<pb xml:id="leaf006v" facs="uva.00062.007.jpg" type="verso"/>
+
+<pb xml:id="leaf007r" facs="uva.00062.008.jpg" type="recto"/>
+
+<ab>&#8212;the pontoons</ab>
+<ab>&#8212;the big panniers on mules backs fill'd with shovels 
+<add place="right" rend="insertion">(panniers made of ox-hide)</add></ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>9th Corps—splendid</ab>
+<ab>—with battle flags</ab>
+<ab>—men looked very neat &amp; clean but worn</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>with bouquets in caps</ab>
+<ab>—the ambulance with hanging lantern</ab>
+ 
+<pb xml:id="leaf007v" facs="uva.00062.009.jpg" type="verso"/>
+
+<pb xml:id="leaf008r" facs="uva.00062.010.jpg" type="recto"/>
+
+<ab>great drum corps</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>old tatters, that had been battle flags</ab>
+
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<ab>Pioneers with axes on shoulders</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>the crowds</ab>
+<ab>the perfect day—the clear sky—the white, &amp; edged clouds</ab>
+</div1>
+
+<pb xml:id="leaf008v" facs="uva.00062.011.jpg" type="verso"/>
+
+<pb xml:id="leaf009r" facs="uva.00062.012.jpg" type="recto"/>
+
+<div1 type="poem_notes">
+<relations>
+<work ref="xxx.00175" cert="low">
+<p>
+<ref type="text" xml:id="r01" target="#q01">These poem notes</ref> may relate to <ref type="work" xml:id="r2" target="#http://www.whitmanarchive.org/works/xxx.00175">"Beat! Beat! Drums!"</ref> which first appeared in <hi rend="italic">Drum-Taps</hi> <date when="1865">(1865)</date>.<!-- [1865: "Beat! Beat! Drums!"(<hi rend="italic">Drum-Taps</hi>). 1867: (early copies of this edition include unbound copies of <hi rend="italic">Drum-Taps</hi>). 1871: "Beat! Beat! Drums!" ("Drum-Taps" cluster).]-->
+</p>
+</work>
+</relations>
+
+
+
+<ab><add place="supralinear" rend="unmarked">the</add> long &amp; glittering, <add place="supralinear" rend="unmarked">wide</add>  ranks <del rend="overstrike">they c</del>—will they never stop?—For two whol<subst><del rend="overwrite" seq="1">d</del><add rend="overwrite" place="over" seq="2">e</add></subst> days commencing early in the morning &amp; continuing long into the night—<del rend="overstrike">the</del> the b<subst><del rend="overwrite" seq="1">el</del><add rend="overwrite" place="over" seq="2">ea</add></subst>ting drum<ref xml:id="q01" target="xxx.00175.xml"/>—every musket bright, with <subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">u</add></subst>p–pointed slanting bayonet glinting in the bright sun—</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<p>the drums, <subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="one letter" quantity="1" unit="chars"/></del><add rend="overwrite" place="over" seq="2">e</add></subst>ndless drums producing a strange delicious trembling shock in the belly</p>
+
+</div1>
+
+<pb xml:id="leaf009v" facs="uva.00062.013.jpg" type="verso"/>
+
+<div1 type="notes">
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>Clarendon Hotel</ab>
+
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<ab>
+Capt. Wm Caldwell born in Scotland.
+</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>age 27—came out from palace garden as serg't</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>been in the same fights as George</ab>
+
+</div1>
+<div1 type="notes">
+<milestone unit="undeclared" rend="horbar-long-left"/>
+
+<ab>
+<del rend="overstrike"><hi rend="underline">Walt Whitman</hi></del>
+</ab>
+
+<ab>yellow badged Hospital wagons</ab>
+<ab>Hospitals</ab>
+
+</div1>
+
+<pb xml:id="leaf010r" facs="uva.00062.014.jpg" type="recto"/>
+
+<div1 type="poem_notes">
+
+<note place="top" type="authorial" rend="circled">name of poem</note>
+
+<ab>—the flags—the flags—the flags!</ab>
+
+<milestone unit="undeclared" rend="horbar-long-left"/>
+
+<ab>5th—&amp; 146th NY</ab>
+<ab>The flags! the flags! the flags</ab>
+<ab>tatters &amp; shreds—</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>—not the gaudy</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>some of those <add place="supralinear" rend="unmarked">men</add> with <add place="supralinear" rend="insertion">branches of</add> flowers stuck in their hats</ab>
+
+<del rend="overstrike"><ab>Walt Whitman</ab></del>
+
+</div1>
+
+<pb xml:id="leaf010v" facs="uva.00062.015.jpg" type="verso"/>
+
+<div1 type="poem_notes">
+
+<ab>The flags</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab><del rend="overstrike">wh</del> the blood—wet blood the ardor, devotion</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>as they pa<subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="one letter" quantity="1" unit="chars"/></del><add rend="overwrite" place="over" seq="2">s</add></subst>s—</ab>
+
+</div1>
+
+<pb xml:id="leaf011r" facs="uva.00062.016.jpg" type="recto"/>
+
+<div1 type="notes">
+<head type="main-authorial" rend="center">2d day</head>
+<dateline><date when="1865-05-24">May 24, 1865</date></dateline>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>15th &amp; 17th Corps</ab>
+<ab><add place="interlinear" rend="unmarked">First the broad capacious open waiting avenue—then singly</add> Gen Sherman, passing rapidly by—the sudden shouts, quite tumultous,—but he pays no more attention to it, than if <del rend="overstrike">he</del> it was the wind blowing—</ab> 
+
+<ab>—the large <add place="supralinear" rend="insertion"><del rend="overstrike">&amp;</del> magnificent</add>  bouquet—he turns, one of his generals <add place="interlinear" rend="unmarked">from behind</add> rides up &amp; takes it from him—<del rend="overstrike">a</del> &amp; still the shouting crowd, &amp; still the perfect deafness &amp;
+
+<pb xml:id="leaf011v" facs="uva.00062.017.jpg" type="verso"/>
+
+<pb xml:id="leaf012r" facs="uva.00062.018.jpg" type="recto"/>
+
+immobility of the great soldier—with <subst><del rend="overwrite" seq="1">a</del> <add place="over" rend="overwrite" seq="2">I</add></subst> think a shade of <add place="supralinear" rend="unmarked">scornfulness &amp;</add> haught<subst><del rend="overwrite" seq="1">y</del><add rend="overwrite" place="over" seq="2">i</add></subst><del rend="overstrike">ness</del> <del rend="overstrike">&amp; scornful p</del> passion on his nervous face. (Haughty here to this ephemeral popular hurrahing, but, as I know from many a soldier of his army, <del rend="overstrike">res</del></ab>
+</div1>
+
+<pb xml:id="leaf012v" facs="uva.00062.019.jpg" type="verso"/>
+
+<note place="top" resp="#unk" type="editorial">CWB <hi rend="circled">18</hi> M–II</note>
+
+<pb xml:id="leaf013r" facs="uva.00062.020.jpg" type="recto"/>
+
+<pb xml:id="leaf013v" facs="uva.00062.021.jpg" type="verso"/>
+
+</body>
+</text>
+</TEI>

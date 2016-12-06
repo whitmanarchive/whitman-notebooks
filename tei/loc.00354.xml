@@ -1,0 +1,1978 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>  
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00354">
+	<!--<relations>
+		<work ref="xxx.00001" cert="high">
+			<p>Scholars have noted that many of the passages in this notebook contributed to "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>. The poem was later retitled "Starting from Paumanok." See William White, <hi rend="italic">Daybooks and Notebooks</hi> (New York: New York University Press, 1978), 3:777&#8211;803.</p>
+            <p></p>
+		</work>
+	</relations>-->
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="m" type="main">9th av.</title>
+				<title level="m" type="sub">a machine readable transcription</title>
+				<author>Walt Whitman</author>
+				<editor>Kenneth M. Price</editor>
+				<editor>Ed Folsom</editor>
+				<respStmt>
+					<resp>Transcription and encoding</resp>
+					<persName xml:id="jm">Joshua Matthews</persName>
+					<persName xml:id="kc">Kirsten Clawson</persName>
+					<persName xml:id="nhg">Nicole Gray</persName>
+                    <persName xml:id="bb">Brett Barney</persName>
+				</respStmt>
+				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+				<sponsor>University of Iowa</sponsor>
+				<funder>The National Endowment for the Humanities</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2014</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<idno>loc.00354</idno>
+				<distributor>The Walt Whitman Archive</distributor>
+				<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+				<availability>
+					<p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+						reserved. Items in the Archive may be shared in accordance with the Fair Use
+						provisions of U.S. copyright law. Redistribution or republication on other
+						terms, in any medium, requires express written consent from the editors and
+						advance notification of the publisher, Center for Digital Research in the
+						Humanities. Permission to reproduce the graphic images in this archive has
+						been granted by the owners of the originals for this publication only.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+        <note type="project" target="#dat1">This notebook contains several dated entries, all of which suggest that it was inscribed during the fall of 1856. On the recto of leaf 3 is a quotation taken from the <hi rend="italic">New York Express,</hi> dated  "Oct. 21, 1856"; on the verso of leaf 44 is the inscription "A. Brownson [sic] Alcott Oct. 4th '56"; and the inside back cover shows the date 16th Sept. Fredson Bowers has speculated, based on the locations of the dated entries, that all of the material that contributed to Whitman's poetry was written sometime after 21 October 1856. (See Bowers, <hi rend="italic">Whitman's Manuscripts:</hi> Leaves of Grass <hi rend="italic">[1860] A Parallel Text</hi> [Chicago: The University of Chicago Press, 1955], xxxiii&#8211;li, 40&#8211;56.) It is of course possible, however, that parts of the notebook were inscribed before and/or after the dated entries. Much of the notebook is devoted to draft material for the 1860 poem eventually titled "Starting from Paumanok," and one brief passage (on the verso of leaf 25) seems clearly to have contributed to "Song at Sunset," another 1860 poem. Two passages, suggest possible (though less certain) connections to poems that appeared in earlier editions of <hi rend="italic">Leaves of Grass.</hi> On the verso of the sixteenth leaf is a passage with similarities to the 1856 poem eventually titled "Miracles," and on the recto of the fifth leaf are lines that might have contributed to the first poem of the 1855 <hi rend="italic">Leaves of Grass</hi>, ultimately titled "Song of Myself." 
+<lb/><lb/>
+This is one of several notebooks that Whitman filled from both ends. That is, rather than choosing one cover as the "front" and writing all the way through to the "back," Whitman treated both covers as "fronts," with the result that about half of the pages are inscribed upside-down relative to the other pages. It is unclear which pages were inscribed first; furthermore, several of the leaves have become detached and seem to have been moved to different positions over the years by those examining the notebook. For this reason, we have chosen to base our ordering of the pages on Fredson Bowers's transcription, since it offers the earliest account of the notebook's state. It should be noted that this ordering differs significantly from the current disposition of the notebook and that both of these also differ from the ordering in the transcription of William White, <hi rend="italic">Daybooks and Notebooks</hi> (New York: New York University Press, 1978), 3:777&#8211;803. Note also that some of the page images have been rotated to make them easily readable.</note>
+			</notesStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Walt Whitman</author>
+					<title>16th Sept</title>                  
+					<date cert="medium" notBefore="1854" notAfter="1860" xml:id="dat1">Between 1854 and 1860</date>
+					<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<handNotes>
+                <handNote scribe="unknown" xml:id="unk">unknown hand</handNote>
+				<handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+				<handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
+			</handNotes>
+		</profileDesc>
+		<revisionDesc>
+            <change when="2016-10-18" who="#nhg">changes and corrections based on Ken's proofreading</change>
+            <change when="2016-10-18" who="#bb">changes and corrections based on Ken's proofreading</change>
+            <change when="2016-09-13" who="#bb">wrote Work notes, date note</change>
+            <change when="2016-08-01" who="#bb">reordered pages to match Bowers's transcription</change>
+            <change when="2016-06-01" who="#bb">checked; corrected</change>
+			<change when="2016-03-29" who="#nhg">migrated comments from earlier version</change>
+			<change when="2015-05-01" who="#kc">added date, work ID, etc.</change>
+			<change when="2015-02-10" who="#kc">converted from P4 to P5, checked</change>
+			<change when="2006-01-09" who="#jm">transcribed and encoded</change>
+		</revisionDesc>
+	</teiHeader>
+	
+	<text type="notebook">
+		<body>
+
+<pb xml:id="leaf001r" facs="20051105_0607.jpg" type="recto"/>
+
+<pb xml:id="leaf001v" facs="20051105_0606.jpg" type="verso"/>
+	<div1 type="addresses">
+		<list>
+		    <item>
+		      <address>
+			    <addrLine>9th av. cor 24th s<supplied resp="#bb" reason="torn away">t</supplied></addrLine>
+			    <addrLine>Dan Van Valkenb<gap reason="torn away" atLeast="1" unit="chars" extent="at least one letter"/></addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		    <item>
+		      <address>
+			    <addrLine>Lot on Lawton st. near<lb/> Division av</addrLine>
+			    <addrLine>Dan Van Valkenb<gap reason="torn away" atLeast="1" unit="chars" extent="at least one letter"/></addrLine>
+		      </address>
+            </item>
+
+		    <item>
+		      <address>
+			    <addrLine>W. McCormick</addrLine>
+			    <addrLine>105 Byard st.</addrLine>
+		      </address>
+            </item>
+
+		    <item>
+		      <address>
+			    <addrLine>S. Wallin</addrLine>
+			    <addrLine>8 LeRoy Place</addrLine>
+			    <addrLine>Bleeker St</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		    <item>
+		      <address>
+			    <addrLine>Silas Ludlan</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+		    <item>
+		      <address>
+			    <addrLine>Youmans</addrLine>
+			    <addrLine>6<subst><del rend="overwrite" seq="1"></del><add rend="overwrite" place="over" seq="2">3</add></subst> 2d. av.</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+		    <item>
+		      <address>
+			    <addrLine>F. Bellew</addrLine>
+			    <addrLine>70 West 27th St</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+		    <item>
+		      <address>
+			    <addrLine>Empire House&#8212;</addrLine>
+			    <addrLine>Pennsylvania av between<lb/> 3d and 4th street</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+		    <item>
+		      <address>
+			    <addrLine>Mrs. Harrison's</addrLine>
+			    <addrLine>Pennsylvania</addrLine>
+		      </address>
+            </item>
+
+
+<pb xml:id="leaf002r" facs="20051105_0605.jpg" type="recto"/>
+			<item>
+              <address>
+                <addrLine>Patrick Fleming, Jackson Hall <unclear reason="illegible" cert="low" resp="#kc">Alley</unclear><lb/>&#38; Pennsylvania av</addrLine>
+                <addrLine><del rend="overstrike">f<gap reason="illegible" atLeast="6" unit="chars" extent="about two words"/></del></addrLine>
+                <addrLine>Charles Drummond</addrLine>
+              </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		    <item>
+		      <address>
+			    <addrLine>Dr. Smith</addrLine>
+			    <addrLine>140 York st cor Charles</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		    <item>
+		      <address>
+			    <addrLine>Mrs. Tyndale</addrLine>
+			    <addrLine>Germantown</addrLine>
+			    <addrLine>cor Main and<lb/> High sts.&#8212;</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		    <item>
+		      <address>
+			    <addrLine>Mrs. Chilton</addrLine>
+			    <addrLine>69 Verick st.</addrLine>
+		      </address>
+            </item>
+
+		    <item rend="bracketed">
+		      <address>
+			    <addrLine>Phebe Ann<lb/> Wood</addrLine>
+			    <addrLine>34<unclear reason="illegible" cert="low" resp="#bb">8</unclear> Grove</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		    <item>
+		      <address>
+			    <addrLine>Mr. T. C. Leland,</addrLine>
+			    <addrLine>77 Duane st.</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+	
+		    <item>
+		      <address>
+			    <addrLine>Mrs. Walton</addrLine>
+			    <addrLine>107 <subst><del rend="overwrite" seq="1">C<gap reason="illegible" atLeast="1" unit="chars" extent="one or two letters"/></del><add rend="overwrite" place="over" seq="2">Dean</add></subst> corner<lb/>Hoyt</addrLine>
+		      </address>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+		    <item>
+		      <address>
+			    <addrLine>John W. Usher</addrLine>
+			    <addrLine>Cor. Pensylvania av. &#38; 14th st.</addrLine>
+			    <addrLine>City Lunch</addrLine>
+		      </address>
+            </item>
+		</list>
+	</div1>
+
+
+<pb xml:id="leaf002v" facs="20051105_0604.jpg" type="verso"/>
+
+<pb xml:id="leaf003r" facs="20051105_0603.jpg" type="recto"/>
+	<div1 type="section">
+		<head type="main-authorial">N.Y. Express, Oct. 21, 1856</head>
+		<p><quote who="#unk">"But for the American party, the Northern, sectional, geographical party of Wm H. Seward &#38; Co. would, under Fremont, have swept the whole Northern country."</quote> (editorial.)</p>
+	</div1>
+
+
+<pb xml:id="leaf003v" facs="20051105_0602.jpg" type="verso"/>
+
+
+<pb xml:id="leaf004r" facs="20051105_0601.jpg" type="recto"/>
+	<div1 type="verse">
+	<lg type="poem">
+		<head type="main" rend="underline">Proem.&#8212;</head>
+		<head type="sub">Proem of all</head>
+		
+		<l>
+			These are the candid<lb/>
+			open-sho<unclear reason="illegible" resp="#bb" cert="high">wn</unclear> thoughts<lb/>
+			of me, and of all<lb/>
+			my body &#38; soul
+		</l>
+		<l>
+			<del rend="overstrike">Lo, the <del rend="overstrike">amp</del> <subst><del rend="overstrike" seq="1">free</del> <add rend="unmarked" place="supralinear" seq="2">open</add></subst> amplitude</del><lb/>
+			over and over<lb/>
+		</l>
+		<l>Lo the round globe, tumbling</l>
+		<l>
+			Lo, friendly persons advancing,<lb/>
+			tall, muscular, <add rend="insertion" place="supralinear">friendly</add> with<lb/>
+			sufficient hands and feet,
+		</l>
+		
+		<l>
+			Lo&#8212;<del rend="overstrike">the</del> great women <subst><del rend="overstrike" seq="1">of</del> 
+			<add rend="unmarked" place="infralinear" seq="2"><add rend="unmarked" place="inline">upon</add> <del rend="overstrike">of</del> the world</add></subst><lb/>
+			<del rend="overstrike">the New World</del>&#8212;<add rend="unmarked" place="supralinear">and</add> <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">lo</add></subst><lb/>
+			<add rend="unmarked" place="supralinear">how they precede the</add> beard-faced masters<lb/>
+			<subst><del rend="overstrike" seq="1">of</del> <add rend="unmarked" place="supralinear" seq="2">upon</add></subst> the world,
+		</l>
+        <milestone unit="undeclared" rend="horbar-short-left"/>
+		<gap reason="torn away"/>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf004v" facs="loc_bb.00030_large.jpg" type="verso"/>
+
+<pb xml:id="leaf005r" facs="20051105_0600.jpg" type="recto"/>
+	<div1>
+	<lg type="poem">
+                <relations>
+                  <work ref="xxx.00048" cert="low">
+                    <p>This passage is possibly related to the following line of the first poem in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Song of Myself": "It is for the illiterate . . . . it is for the judges of the supreme court . . . . it is for the federal capitol and the state capitols."</p> 
+                  </work>
+                </relations>
+      <lg type="linegroup">
+		<l>Lo</l>
+      </lg>
+    <delSpan rend="hashmark" spanTo="#d5"/>
+	<lg type="linegroup">
+		<l>
+			Shall <subst><del rend="overwrite" seq="1"><gap reason="illegible"/></del><add rend="overwrite" place="over" seq="2">speak</add></subst> in the Presidents<lb/>
+			Message from the porch<lb/>
+			of the <add rend="insertion" place="supralinear">Federal</add> Capitol, and in<lb/>
+			the Governors' Messages<lb/>
+			from the State Capitols,<lb/>
+			and in the rulings of<lb/>
+			the Judges of the<lb/>
+			Supreme Court,
+		</l>
+     </lg>
+			<anchor xml:id="d5"/>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf005v" facs="20051105_0599.jpg" type="verso"/>
+
+
+<pb xml:id="leaf006r" facs="20051105_0598.jpg" type="recto"/>
+	<div1 type="prose">
+		<head type="main">Commencement of Discourse</head>
+		<head type="sub">"Spiritualism"</head>
+
+		<p>Life is very great but th<subst><del rend="overwrite" seq="1">e</del><add rend="overwrite" place="over" seq="2">ere</add></subst> <del rend="overstrike"><unclear reason="illegible" cert="medium" resp="#bb">f</unclear></del> is something greater than life, absorbing life, namely Death.&#8212;When as we are in the midst of affairs, going to dinner, &#38;c, we receive the news of the sudden death of &#8212; <metamark function="location" rend="circled">&#8212;over</metamark></p>
+	</div1>
+
+<pb xml:id="leaf006v" facs="20051105_0597.jpg" type="verso"/>
+
+			
+<pb xml:id="leaf007r" facs="20051105_0596.jpg" type="recto"/>
+	<delSpan spanTo="#a28" rend="hashmark"/>
+	<div1 type="prose">
+		<relations>
+			<work ref="xxx.00047" cert="high">
+				<p>Several words and phrases in the following lines suggest that they constitute an early draft of a passage in "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass,</hi> later retitled "Starting from Paumanok." The published lines begin "Whoever you are! to you endless announcements" and include addresses "Toward the male of The States, and toward the female of The States" as well as "Toward the President, the Congress . . . ." Several other versions of this passage are scattered throughout this notebook.</p>
+			</work>
+		</relations>
+	<lg type="poem">
+		<head type="main" rend="circled">Proem</head>
+		<head type="sub"><add rend="insertion" place="supralinear">Preface of</add> Endless Announcements<ref xml:id="q02" target="xxx.00047"/></head>
+	<l>
+		Toward the perfect woman<lb/>
+		of <del rend="overstrike">The</del> America
+	</l>
+	<l>
+		Toward the perfect man<lb/>
+		of America
+	</l>
+	<l>
+		Toward the President<lb/>
+		of These States, and<lb/>
+		the members of<lb/>
+		<add rend="unmarked" place="inline">the</add> Congress of These<lb/>
+		States
+	</l>
+	</lg>
+	</div1>
+    <div1 type="notes">
+		<relations>
+			<work ref="xxx.00047" cert="high">
+				<p>This brief note apparently shows Whitman experimenting with the opening phrase and/or title of the passage above. Like that and many other entries in this notebook, this note constitutes draft material toward "Proto-Leaf," the introductory poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi> (in later editions retitled "Starting from Paumanok"), which contains the line "Whoever you are! to you endless announcements."</p>
+			</work>
+		</relations>
+
+      <span rend="bracketed" xml:id="s3" from="#s3" to="#s4"/>
+	  <ab>Proem</ab>
+	  <ab>Preface of Endless<lb/>
+		Announcements</ab>
+		<anchor xml:id="s4"/>
+    </div1>
+	<anchor xml:id="a28"/>
+
+	<milestone unit="undeclared" rend="horbar-full"/>
+
+	<div1 type="prose">
+	<p>After all is said, it remains to be said, This too is great in its reference to death</p>
+	</div1>
+
+
+<pb xml:id="leaf007v" facs="loc_bb.00029.jpg" type="verso"/>
+
+
+<pb xml:id="leaf008r" facs="20051105_0595.jpg" type="recto"/>
+	<div1 type="verse">
+	<lg type="poem">
+		<head type="main">Poem of Remorse</head>
+	
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+		<l>
+			I now look back to the<lb/>
+			times when I thought<lb/>
+			others&#8212;slaves<note type="authorial" place="supralinear">?</note>&#8212;the ignorant<note type="authorial" place="supralinear">?</note><lb/>
+			&#8212;so much inferior to my self
+		</l>
+			<milestone unit="undeclared" rend="horbar-short-left"/>
+		
+		<l>
+			To have so much less right<lb/>
+			than myself
+		</l>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf008v" facs="20051105_0594.jpg" type="verso"/>
+
+<pb xml:id="leaf009r" facs="20051105_0593.jpg" type="recto"/>
+	<delSpan spanTo="#a27" rend="hashmark"/>
+  <div1 type="verse">
+	<lg type="poem">
+		
+		<l>
+			O you round Earth,<lb/>
+			I
+		</l>
+		</lg>
+  </div1>
+		<milestone unit="undeclared" rend="horbar-full"/>
+  <div1 type="verse">		
+	<lg type="poem">
+                <relations>
+                  <work ref="xxx.00047" cert="high">
+                    <p>These lines contributed to the opening lines of "Proto-Leaf," the first poem in the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Starting from Paumanok."</p> 
+                  </work>
+                </relations>
+		<l>Savage and strong,</l>
+		<l>
+			Free, luxuriant, im<space dim="horizontal" atLeast="2" unit="chars" extent="about one word"/>,<lb/>
+			I, from Mannahatta<lb/>
+			speak up for The States.
+		</l>
+	</lg>
+  </div1>
+		<milestone unit="undeclared" rend="horbar-full"/>
+  <div1 type="verse">	
+    <lg type="poem">
+		<l>
+			O my body, that gives<lb/>
+			me identity!
+		</l>
+		<l>
+			O my organs<del rend="overstrike">!</del><add rend="unmarked" place="supralinear">all and</add> <subst><del rend="overstrike" seq="2"><add rend="unmarked" place="supralinear" seq="1">each,</add></del> <add rend="insertion" place="infralinear" seq="3">every one</add></subst> O that<lb/>
+			which makes manhood!
+		</l>
+		<l>O</l>
+	</lg>
+  </div1>
+		<milestone unit="undeclared" rend="horbar-full"/>
+  <div1 type="verse">		
+	<lg type="poem">
+		<l><add rend="unmarked" place="inline">A</add> Savage and <subst><del rend="overstrike" seq="1">luxuriant</del> <add rend="unmarked" place="supralinear" seq="2">strong</add></subst></l>
+		<l>Primal</l>
+		<l>
+			<del rend="overstrike">Am</del> Free, luxuriant, <del rend="overstrike"><unclear reason="illegible" cert="low" resp="#bb">f</unclear></del><lb/>
+			in <space dim="horizontal" atLeast="5" unit="chars" extent="about one word"/> I, <del rend="overstrike">come,</del><lb/>
+			<del rend="overstrike">an Amer</del><lb/>
+			from Mannahatta<lb/>
+            stand <del rend="overstrike">in the midst</del><lb/>
+			of <del rend="overstrike">The States</del><lb/>
+			speak up for you and<lb/>
+            for The<del rend="overstrike">se</del> States.&#8212;<lb/>
+		</l>		
+	</lg>
+  </div1>
+	<anchor xml:id="a27"/>
+
+
+<pb xml:id="leaf009v" facs="loc_bb.00028.jpg" type="verso"/>
+
+	    <div1 type="section">
+		<relations>
+			<work ref="xxx.00047" cert="high">
+				<p><ref xml:id="r11" target="#q03">The phrase</ref> "Endless Announcements" in the following passage seems to be related to the following line from "Proto-Leaf," the introductory poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi> (in later editions retitled "Starting from Paumanok"): "Whoever you are! to you endless announcements."</p>
+			</work>
+		</relations>
+		<ab>(Simply</ab>
+		<ab>Endless Announcements<ref xml:id="q03" target="xxx.00047"/></ab>
+		<ab rend="circled">nothing more<lb/><metamark function="unknown">&#9757;</metamark></ab>
+	</div1>
+
+<pb xml:id="leaf010r" facs="loc_bb.00027.jpg" type="recto"/>
+
+	<delSpan rend="hashmark" spanTo="#d02"/>
+		<div1 type="verse">
+		<lg type="poem">
+          <lg type="linegroup">
+			<head type="main">Words of America</head>
+			<l>
+				Free and severe words,<lb/>
+				the master's words
+			</l>
+		  </lg>
+		
+    <anchor xml:id="d02"/>
+		<milestone unit="undeclared" rend="horbar-full"/>
+        
+		<lg type="linegroup">
+			<l>
+				The mother's, father's,<lb/>
+				husband's, wife's,<lb/>
+				son's daughter's, words,
+			</l>
+		</lg>
+		</lg>
+		</div1>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+        <div1 type="prose">
+		<metamark function="unknown" place="left">&#9758;</metamark><p><hi rend="underline">The Proem must have throughout a strong saturation of America, The West, the Geography, the representative American man.</hi></p>
+		</div1>
+
+
+<pb xml:id="leaf010v" facs="20051105_0592.jpg" type="verso"/>
+
+	<div1 type="verse">
+	<lg type="poem">
+
+		<l>
+			All that you do <add rend="unmarked" place="supralinear">g</add> gain<lb/>
+			dissipates away
+		</l>
+		
+		<l>
+			But all that you<lb/>
+			do to your body,<lb/>
+			mind, morals, lasts<lb/>
+			in this sphere and<lb/>
+			in other spheres
+		</l>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf011r" facs="20051105_0591.jpg" type="recto"/>
+
+	<div1 type="verse">
+	<lg type="poem">
+		<l>
+			Shall grow in the manly<lb/>
+			muscle of men and<lb/>
+			in the greatness of<lb/>
+			perfect women
+		</l>
+	</lg>
+	</div1>
+		<milestone unit="undeclared" rend="horbar-full"/>
+	<div1 type="verse">
+    <lg type="poem">
+		<l>
+			I do not say that life<lb/>
+			is not beautiful,
+		</l>
+		<l>
+			But I say that whatever<lb/>
+			it is, it all tends to<lb/>
+			<del rend="overstrike">dr<gap reason="cut away" atLeast="2" unit="chars" extent="at least two letters"/></del> the beauty of death.
+        </l>
+    </lg>
+	</div1>
+	<milestone unit="undeclared" rend="horbar-full"/>
+			<gap reason="cut away"/>
+		
+	<milestone unit="undeclared" rend="horbar-full"/>
+    <div1 type="verse">
+      <lg type="poem">
+		<relations>
+			<work ref="xxx.00047" cert="high">
+				<p>The following passage is one of several drafts in this notebook of the following line from "Proto-Leaf," the introductory poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>: "Whoever you are! to you endless announcements." The poem was later retitled "Starting from Paumanok."</p>
+			</work>
+		</relations>
+		<add rend="unmarked" place="inline"><l>
+			To you, <del rend="overstrike">endless</del> endless announ<add rend="unmarked" place="supralinear">cements</add></l></add>
+			<l><del rend="overstrike">To</del> <del rend="overstrike">You</del> whoever you are, I<lb/>
+			kiss you with lips of<lb/>
+			<del rend="overstrike"><add rend="insertion" place="supralinear" seq="1">real</add></del> love <add rend="insertion" place="supralinear">personal</add>
+		</l>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf011v" facs="20051105_0590.jpg" type="verso"/>
+	<div1 type="verse">
+		<relations>
+			<work ref="xxx.00047" cert="high">
+				<p><ref type="text" xml:id="r04" target="#q04 #q09">The phrases</ref> "To you, endless announcements!" and "Whoever you are" were used, with slight modifications, in a late passage of "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass.</hi> The poem was later retitled "Starting from Paumanok."</p>
+                <p><ref type="text" xml:id="r09" target="#q10">The later lines in this passage</ref> contributed to the opening lines of the same poem.</p>
+			</work>
+		</relations>
+	<delSpan spanTo="#a26" rend="hashmark"/>
+	<lg type="poem">
+		<head type="main-authorial">Premonition</head>
+		<note type="authorial" place="top"><handShift new="#h2"/>(last verse</note>
+         <l><note type="authorial" place="inline"><handShift new="#h1"/>?</note> To you, endless announcements!<ref xml:id="q04" target="xxx.00047"/></l>
+		 <l><note type="authorial" place="inline">?</note> <del rend="overstrike">To America</del></l>
+		
+		<l><add rend="unmarked" place="left">Whoever you are,<ref xml:id="q09" target="xxx.00047"/></add> For your sake, these</l>
+		<metamark function="transpose" place="left">&#42;</metamark><l>
+			Free, <add rend="insertion" place="supralinear">fresh and</add> savage, <del rend="overstrike">strong,</del></l>
+			<l><subst><del rend="overstrike" seq="1">Cheerful</del> <add rend="unmarked" place="supralinear" seq="2">Fluent</add></subst>, luxuriant,<lb/>
+			<del rend="overstrike">fluent,</del> self-composed&#8212;<lb/>
+			<gap reason="cut away" atLeast="4" unit="chars" extent="at least one word"/> <subst><del rend="overstrike" seq="1"><gap reason="cut away" atLeast="1" unit="chars" extent="at least two letters"/></del><add rend="unmarked" place="supralinear" seq="2">persons</add></subst><lb/>
+			<gap reason="cut away" atLeast="1" unit="chars" extent="one line"/>&#8212;<lb/>
+            <gap reason="cut away" atLeast="1" unit="chars" extent="one line"/><lb/>
+			I was born fond<lb/>
+			of the sea-beach,
+		</l>
+		<l>
+			<subst><del rend="overstrike" seq="1">In</del> <add rend="insertion" place="supralinear" seq="2">In <del rend="overstrike" seq="3">the</del> streets of</add></subst> Mannahatta<add rend="unmarked" place="inline">'s</add> <subst><del rend="overstrike" seq="1">I</del> <add rend="unmarked" place="supralinear" seq="2">streets</add></subst> walk<subst><del rend="overwrite" seq="1">,</del><add rend="overwrite" place="over" seq="2">ing</add></subst><lb/>
+			<del rend="overstrike">and sound thence</del><lb/>
+			<del rend="overstrike"><add rend="insertion" place="supralinear">I sound</add> the strong</del> <add rend="insertion" place="supralinear">I make</add> poems<lb/>
+			<subst><del rend="overstrike" seq="1">of</del> <add rend="insertion" place="supralinear" seq="2">for</add></subst> The States.
+		</l>
+		<l>
+			In Mannahatta's streets walking<lb/>
+			I make poems for The States.
+		<ref xml:id="q10" target="xxx.00047"/></l>
+	</lg>
+	<anchor xml:id="a26"/>
+	</div1>
+
+
+<pb xml:id="leaf012r" facs="20051105_0589.jpg" type="recto"/>
+	<milestone unit="undeclared" rend="horbar-full"/>
+	<delSpan spanTo="#a25" rend="hashmark"/>
+    <div1 type="verse">
+		<relations>
+			<work ref="xxx.00047" cert="high">
+                <p>These lines constitute a draft of the opening passage of "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass,</hi> later retitled "Starting from Paumanok."</p>
+			</work>
+		</relations>
+	<lg type="poem">
+		<del rend="overstrike"><metamark function="undeclared" place="left">&#42;</metamark></del><l> Free, savage, strong,</l>
+		<l>
+			Cheerful, luxuriant, fluent,<lb/>
+			self-<subst><del rend="overstrike" seq="1">sufficient</del> <add rend="unmarked" place="supralinear" seq="2">composed&#8212;</add></subst> fond of<lb/>
+			my friends, fond of women and children
+		</l>
+		<metamark function="undeclared" place="left">&#9756;</metamark>
+        <l>
+			Fond of fish-shaped <del rend="overstrike">Paumanok</del><lb/>
+			Paumanok, where I<lb/>
+			was born&#8212;fond of<lb/>
+			the sea-beach,
+		</l>
+		<l>
+			From Mannahatta I send<lb/>
+			the poems of The States.
+		</l>
+	</lg>
+    </div1>
+	<anchor xml:id="a25"/>
+
+
+<pb xml:id="leaf012v" facs="20051105_0588.jpg" type="verso"/>
+
+<pb xml:id="leaf013r" facs="20051105_0587.jpg" type="recto"/>
+	<div1 type="verse"><delSpan rend="hashmark" spanTo="#a263"/>
+	<lg type="poem">
+		<relations>
+			<work ref="xxx.00047" cert="high">
+				<p>These lines probably contributed to "Proto-Leaf," the introductory poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass.</hi> The published lines read, "Inextricable lands! the clutched together! the passionate lovers! / The side by side! the elder and younger brothers! the bony-limbed! / The great women's land! the feminine! the experienced sisters and the inexperienced sisters!"</p>
+			</work>
+		</relations>
+		<l>O inter<subst><del rend="overwrite" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">sect</unclear></del><add rend="overwrite" place="over" seq="2">twined</add></subst> lands!</l>
+		<l>O land of <subst><del rend="overwrite" seq="1">a</del><add rend="overwrite" place="over" seq="2">the</add></subst> future!</l>
+		<l><del rend="overstrike">This</del></l>
+		<del rend="overstrike"><l>Ahold of hands</l></del>
+		<l><del rend="overstrike" seq="1">These</del> <del rend="overstrike">I</del> <subst><del rend="overstrike" seq="1">interhanded</del> <add rend="unmarked" place="supralinear" seq="2" xml:id="a23">Washington's land</add> <add rend="unmarked" place="supralinear" seq="3" xml:id="a24">copious land</add></subst></l>
+
+<alt target="#a23 #a24"/>
+
+		<l><del rend="overstrike">The interhanded <subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">S</add></subst>tates</del></l>
+		<l>O <subst><del rend="overstrike" seq="1">my</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> land<add rend="unmarked" place="inline">s</add>!
+        </l>
+		<l>
+			<del rend="overstrike">The</del> <add rend="overwrite" place="inline">O</add> <add rend="insertion" place="supralinear" seq="4">copious the embracing,</add> interhanded, <add rend="insertion" place="supralinear">the many-armed,</add> the<lb/>
+			knit together, the<lb/>
+			passionate lovers, the<lb/>
+			fused <subst><del rend="overstrike" seq="1">ones</del> <add rend="unmarked" place="supralinear" seq="2">and clasped,</add></subst> <del rend="overstrike">the equal</del><lb/>
+			<del rend="overstrike">womb-offspring,</del> the<lb/>
+			old and young brothers,<lb/>
+			the <subst><del rend="overstrike" seq="1">equal</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">world</del> side by side,</add></subst> the<lb/>
+			experienced sisters<lb/>
+			and the inexperienced<lb/>
+			sisters, the equal ones,<lb/>
+			the womb-offspring, the<lb/>
+			well-<del rend="overstrike">attached the</del><lb/>
+			beloved of ages! <subst><del rend="overstrike" seq="1">and of</del> <add rend="unmarked" place="supralinear" seq="2">ages! ages!</add></subst><lb/>
+			<subst><del rend="overstrike" seq="1">ages,</del><add rend="unmarked" place="supralinear" seq="2">&#8212;</add></subst> the inextricable,<lb/>
+			the river-tied and the<lb/>
+			mountain-tied.<lb/>
+		</l>
+	</lg>
+	<anchor xml:id="a263"/>
+</div1>
+
+<pb xml:id="leaf013v" facs="20051105_0586.jpg" type="verso"/>
+
+
+<pb xml:id="leaf014r" facs="20051105_0585.jpg" type="recto"/>
+	<delSpan spanTo="#a20" rend="hashmark"/>
+     <div1 type="verse">
+	 <lg type="poem">
+		<relations>
+			<work ref="xxx.00047" cert="high">
+				<p>These lines contributed to the following passage of "Proto-Leaf," the introductory poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>: "Far breath'd land! Arctic braced! Mexican breezed! the diverse! the compact! [. . . ] O I cannot be discharged from you! / O Death! O for all that, I am yet of you, unseen, this hour, with irrepressible love." The poem was later retitled "Starting from Paumanok."</p>
+			</work>
+		</relations>
+		<l><gap reason="torn away" atLeast="2" unit="chars" extent="at least one line"/></l>
+
+		<l>
+			breezed, the Arc<gap reason="cut away" atLeast="2" unit="chars" extent="at least two letters"/><lb/>
+			braced, the sea-bosomed,<lb/>
+			the Mississippi-drained,<lb/>
+			the fresh-breezed, the<lb/>
+			ample-land, the wonderful,<lb/>
+			the welcome, the inseparable<lb/>
+			brothers!
+		</l>
+		<l>
+			O dear lands! O death!<lb/>
+			O I will not <del rend="overstrike">desert</del><lb/>
+			<del rend="overstrike">you by death</del> be<lb/>
+			<del rend="overstrike">death</del> be <subst><del rend="overstrike" seq="1">divested</del> <add rend="unmarked" place="supralinear" seq="2" xml:id="a21">discharged</add> <add rend="unmarked" place="infralinear" seq="3" xml:id="a22">severed</add></subst><lb/>
+			from you by death
+		</l>
+<alt target="#a21 a22"/>
+		<l>
+			O I <subst><del rend="overstrike" seq="1">do not care!</del> <add rend="unmarked" place="supralinear" seq="2">cannot be severed!</add></subst> I<lb/>
+			<del rend="overstrike">will yet</del> visit you <del rend="overstrike"><add rend="unmarked" place="supralinear"><unclear reason="illegible" resp="#bb" cert="low">still</unclear></add></del><lb/>
+			<add rend="unmarked" place="supralinear">yet</add> with irrepressible love,<lb/>
+		</l>
+		<l>
+			O I <del rend="overstrike">will visi</del> come<lb/>
+			silently and invisibly
+		</l>
+		<l>Again the</l>
+	</lg>
+    </div1>
+	<anchor xml:id="a20"/>
+
+<pb xml:id="leaf014v" facs="20051105_0584.jpg" type="verso"/>
+			<div1 type="verse">
+				<relations>
+					<work ref="xxx.00047" cert="high">
+						<p><ref xml:id="r12" type="text" target="#q13">The first two groups of lines on this page</ref> contributed to the following passage of "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>: "This then is life, / Here is what has come to the surface after so many / throes and convulsions. / How curious! How real! / Underfoot the divine soil&#8212;Overhead the sun." The poem was later retitled "Starting from Paumanok."</p>
+                        <p><ref type="text" xml:id="r13" target="#q14">The third group of lines</ref> seems to have contributed to a slightly later passage of the same poem: "Take my leaves, America! / Make welcome for them everywhere, for they are your own offspring"</p>
+					</work>
+				</relations>
+	<delSpan rend="hashmark" spanTo="#d01"/>
+	<lg type="poem">
+		<l><gap reason="cut away" atLeast="1" unit="chars"/></l>
+		<milestone unit="undeclared"/>
+<lg type="linegroup">		<l><handShift new="#h1"/>This then is life,</l>
+	    <l>This <add place="supralinear" rend="unmarked" hand="#h2"><subst><del rend="overstrike" seq="1">This</del> <add rend="unmarked" place="supralinear" seq="2">Here</add></subst> is what has <del rend="overstrike">been</del> come <del rend="overstrike"><add rend="unmarked" place="supralinear">arrived</add></del> upon the earth, out of</add> <del rend="overstrike">then is</del> the earth,<lb/>
+			<del rend="overstrike" hand="#h2">and what has arrived<lb/>
+			after</del> so many throes<lb/>
+			and convulsions.&#8212;<ref xml:id="q07" target="xxx.00047"/>
+		</l>
+		<add rend="unmarked" place="interlinear">
+        <l>	
+         </l></add>
+			
+</lg>
+
+<lg type="linegroup">
+		<l>How curious! How real!</l>
+		<l>
+			Underfoot, the divine soil&#8212;<lb/>
+			Overhead, the sun.&#8212;<ref xml:id="q13" target="xxx.00047"/>
+		</l>
+</lg>
+<lg type="linegroup">
+		<l>
+			<del rend="overstrike">Afford foothold to my poems,</del><lb/>
+			<del rend="overstrike">you</del>
+		</l>
+		<l>
+			Nourish my poems, <add rend="unmarked" place="supralinear">Earth,</add> and give<lb/>
+			them roots, <del rend="overstrike">you earth,</del><lb/>
+			for they are your<lb/>
+			offspring,
+		</l>
+		<l>
+			Bedew them, <del rend="overstrike">dews,</del> you<lb/>
+			spring and summer<add rend="insertion" place="interlinear">dews&#8212;</add>&#8212;shelter<ref xml:id="q14" target="xxx.00047"/>
+		</l>
+</lg>
+	</lg>
+	<anchor xml:id="d01"/>
+	</div1>
+	
+
+
+<pb xml:id="leaf015r" facs="20051105_0583.jpg" type="recto"/>
+
+	<div1 type="notes">
+	    <ab>Philip Holmes</ab>
+		<ab>Adirondacks</ab>
+		<ab>&#8212;to Troy&#8212;then in the<lb/> cars to Moreau&#8212;then<lb/> by stage to Glen's Falls&#8212;<lb/>then by stage to Lake George<lb/>&#8212;then to Scroon lake&#8212;</ab>
+	</div1>
+		<milestone unit="undeclared" rend="horbar-full"/>
+	<div1 type="verse">
+       <lg type="poem">
+		<l>I will visit the Texan<lb/> in</l>
+       </lg>
+    </div1>
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+	<div1 type="verse">
+	<lg type="poem">
+      <lg type="linegroup">
+		<l>
+			The <del rend="overstrike">wal</del> jaunt over the<lb/>
+			prairies as welcome as<lb/> 
+			ever
+		</l>
+		<del rend="overstrike">
+          <l>
+			The <subst><del rend="overstrike" seq="1">banks of the</del> <add rend="unmarked" place="supralinear" seq="2">long <del rend="overstrike">sail</del> voyage</add></subst> the<lb/>
+			<del rend="overstrike">Missouri</del> up the<lb/>
+			<del rend="overstrike">Mississipp</del>
+		  </l>
+        </del>
+       </lg>
+	   <lg type="linegroup">
+		<l><handShift new="#h2"/>Shine upon them, sun, for they</l>
+       </lg>
+	</lg>
+	</div1>
+
+			
+<pb xml:id="leaf015v" facs="20051105_0582.jpg" type="verso"/>
+
+  <div1 type="verse">
+	<delSpan spanTo="#a19" rend="hashmark"/>
+	<lg type="poem">
+		<l>
+			them; winter snows, for<lb/>
+			they <del rend="overstrike">are</del> would make you
+		</l>
+		<l><del rend="overstrike">Help</del></l>
+		<l>
+			Favor them, <del rend="overstrike">to</del> <del rend="overstrike">yo</del> all you<lb/>
+			laws of materials, and<lb/>
+			<del rend="overstrike">all ponderable things</del><lb/>
+			<subst><del rend="overstrike" seq="1">all</del> <add rend="unmarked" place="supralinear" seq="2">of</add></subst> vulgar and rejected<lb/>
+			things, for they would<lb/>
+			make you illustrious<lb/>
+		</l>
+		<l>You mothers</l>
+		<l>
+			You young women, for<lb/>
+			they <del rend="overstrike">p</del> <add rend="insertion" place="supralinear">would</add> announce you<lb/>
+			<del rend="overstrike">as just</del> <add rend="insertion" place="supralinear">forever</add> as capable<lb/>
+			and eminent as<lb/>
+			<del rend="overstrike">the</del> young men
+		</l>		
+	</lg>
+	<anchor xml:id="a19"/>
+  </div1>
+
+	
+<pb xml:id="leaf016r" facs="20051105_0581.jpg" type="recto"/>
+  <div1 type="verse">
+	<delSpan spanTo="#a18" rend="hashmark"/>
+	<lg type="poem">
+				<relations>
+					<work ref="xxx.00047" cert="low">
+						<p>It is possible that the lines on this page contributed to a passage of the poem "Proto-Leaf," which was published in the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi> and later retitled "Starting from Paumanok." Among the parallels between the two are references to "the Louisianian," "the Georgian," "the Mississippian," and "[the] Arkansian."</p>
+					</work>
+				</relations>
+		<l>
+			The <add rend="insertion" place="supralinear"><subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#kc">p</unclear></del> <add rend="unmarked" place="inline" seq="2">man or woman of</add></subst></add> Texa<subst><del rend="overwrite" seq="1">n</del><add rend="overwrite" place="over" seq="2">s</add></subst>, the Lousianian<lb/>
+			<add rend="unmarked" place="inline">the</add> Flori<subst><del rend="overwrite" seq="1"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del><add rend="overwrite" place="over" seq="2">dian</add></subst>, <add rend="unmarked" place="supralinear">the</add> Georgian<lb/>
+			<add rend="unmarked" place="inline">the</add> Carolinian, <add rend="unmarked" place="supralinear">the</add> Mississippian<lb/>
+			<add rend="unmarked" place="inline">the</add> Arkansian, <add rend="unmarked" place="supralinear">the</add> Californian<lb/>
+			as much my friend as<lb/>
+			ever, and I his friend<lb/>
+			<add rend="insertion" place="supralinear">or her friend</add> as much as ever,
+		</l>
+		<l>
+			Oregon as much mine as<lb/>
+			ever,
+		</l>
+		<l>
+			<add rend="insertion" place="supralinear">you</add> Mannahatta<del rend="overstrike">! Mannahatta</del>!<lb/>
+			<del rend="overstrike">Mannahatta! still</del> close,<lb/>
+			as ever! O close! close <add rend="unmarked" place="supralinear">to me</add>!
+		</l>
+		<l>
+			<del rend="overstrike">O</del> The <add rend="unmarked" place="supralinear">man of</add> Ohio<del rend="overstrike">an</del> <add rend="unmarked" place="supralinear">and woman of Ohio</add> as <subst><del rend="overstrike" seq="1">close</del> <add rend="unmarked" place="supralinear" seq="2">real</add></subst><lb/>
+			to me as ever
+		</l>
+		<add rend="unmarked" place="interlinear">
+          <l>
+			The Kentuckian <del rend="overstrike" seq="2">my</del> for me and I for him as much as ever
+          </l>
+        </add> 
+        <l>Wisconsin, Iowa<lb/>
+			Michigan, Illinois,<lb/>
+			Indiana, Missouri,<lb/>
+			Kansas, Nebraska, Utah,<lb/>
+			<add rend="insertion" place="supralinear">Minnesota!</add> for me <add rend="unmarked" place="supralinear">a</add> <subst><del rend="overstrike" seq="1">as <add rend="unmarked" place="supralinear">much as</add> ever</del> <add rend="unmarked" place="infralinear" seq="2">the same</add></subst> and I<lb/>
+			for them <subst><del rend="overstrike" seq="1">as much</del> <add rend="unmarked" place="infralinear" seq="2">the same</add></subst> as<lb/>
+			ever!
+		</l>
+	</lg>
+	<anchor xml:id="a18"/>
+  </div1>
+			
+
+<pb xml:id="leaf016v" facs="20051105_0580.jpg" type="verso"/>
+  <div1 type="verse">
+	<delSpan spanTo="#a17" rend="hashmark"/>
+	<lg type="poem">
+				<relations>
+					<work ref="xxx.00243" cert="low">
+						<p><ref type="text" xml:id="r14" target="#q15">The first passage</ref> on this page is perhaps related to "Poem of Perfect Miracles," published in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi> After much revision, the poem was eventually retitled "Miracles," though by that time the relevant line ("Or the admirable sight of the perfect old man, or the perfect old woman") had been deleted.</p>
+					</work>
+                    <work ref="xxx.00047" cert="high">
+                        <p><ref type="text" xml:id="r15" target="#q16">The second passage</ref> on this page probably represents an early draft of the following line of "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>: "And sexual organs and acts! do you concentrate in me&#8212;For I am determined to tell you with courageous clear voice, to prove you illustrious." The poem was later retitled "Starting from Paumanok."</p></work>
+				</relations>
+		<l>
+			You old man and old woman;<lb/>
+			for they <subst><del rend="overstrike" seq="1">know</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="inline" seq="2">see</add></del> <add rend="unmarked" place="supralinear" seq="3">would show</add></subst> that<lb/>
+			you are no less<lb/>
+			admirable<del rend="overstrike">,</del> than any<ref xml:id="q15" target="xxx.00243"/>
+		</l>
+
+		<l>
+			You sexual organs and<lb/>
+			acts, for they <subst><del rend="overstrike" seq="1">behold</del> <add rend="unmarked" place="supralinear" seq="2">are determined to tell</add></subst><lb/>
+			you with glad<lb/>
+			courageous loud<lb/>
+			voice, to make<lb/>
+			you illustrious,<ref xml:id="q16" target="xxx.00047"/>
+		</l>
+	</lg>
+	<anchor xml:id="a17"/>
+</div1>
+	
+
+<pb xml:id="leaf017r" facs="20051105_0579.jpg" type="recto"/>
+	<div1 type="verse">
+	<lg type="poem">
+				<relations>
+                    <work ref="xxx.00047" cert="low">
+                        <p>These lines are perhaps related to a passage in the poem "Proto-Leaf," published in the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>, which celebrates "the lands" of the U.S., including many of the states listed here, as well as "Land of Ontario, Erie, Huron, Michigan!"</p></work>
+				</relations>
+	<delSpan rend="hashmark" spanTo="#d4"/>
+		<l>
+			The Tennessee-man and<lb/>
+			the Tennessee-woman<lb/>
+			&#8212;<subst><del rend="overstrike" seq="1">the same as ever <add rend="unmarked" place="supralinear">to me</add></del> <add rend="unmarked" place="supralinear" seq="2">no less to me than ever</add> </subst>)
+		</l>
+		<l>
+			Pennsylvania, New-Jersey,<lb/>
+			Delaware, Maryland,<lb/>
+			Virginia, yet travelled<lb/>
+			by me,
+		</l>
+		<l>
+			<del rend="overstrike">The</del> Maine, New-Hampshire,<lb/>
+			Vermont, Massachusetts,<lb/>
+			Connecticut, Rhode Island,<lb/>
+			New York, yet dwelt<lb/>
+            in by me,
+		</l>
+		<anchor xml:id="d4"/>
+	    <milestone unit="undeclared" rend="horbar-full"/>
+		
+		<del rend="overstrike"><l>Huron, Erie Mic</l></del>
+		<l>
+			Ontario, Erie, Huron,<lb/>
+			Michigan, Superior,<lb/>
+			yet sailed upon<lb/>
+			by me
+		</l>
+
+		<l><gap reason="cut away" atLeast="2" unit="chars" extent="at least one line"/></l>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf017v" facs="20051105_0578.jpg" type="verso"/>
+
+<pb xml:id="leaf018r" facs="20051105_0577.jpg" type="recto"/>
+	<milestone unit="undeclared" rend="horbar-full"/>
+	<delSpan spanTo="#a16" rend="hashmark"/>
+	<div1 type="verse">
+	<lg type="poem">
+				<relations>
+                    <work ref="xxx.00047" cert="high">
+                        <p><ref type="text" xml:id="r16" target="#q17">The first line of this draft</ref> is one of several versions in this notebook of a line that appeared in the 1860&#8211;1861 <hi rend="italic">Leaves of Grass</hi> poem "Proto-Leaf," later retitled "Starting from Paumanok": "Whoever you are! to you endless announcements."</p></work>
+				</relations>
+		<l>To you endless an<ref xml:id="q17" target="xxx.00047"/></l>
+		<l>
+			To you, these, to<lb/>
+			report nature, man,<lb/>
+			politics, <space dim="horizontal" atLeast="3" unit="chars" extent="about 3 letters"/> from<lb/>
+			an American<lb/>
+			point of view.<lb/>
+		</l>
+	</lg>
+	<anchor xml:id="a16"/>
+	</div1>
+
+
+<pb xml:id="leaf018v" facs="loc_bb.00031_large.jpg" type="verso"/>
+
+
+<pb xml:id="leaf019r" facs="20051105_0553.jpg" type="recto"/>
+	<delSpan spanTo="#a09" rend="hashmark"/>
+	<div1 type="verse">
+	<lg type="poem">
+		<l>
+			These are the words of the<lb/>
+			master
+		</l>
+
+		<l>These</l>
+	</lg>
+	<anchor xml:id="a09" />
+	</div1>
+
+<pb xml:id="leaf019v" facs="20051105_0554.jpg" type="verso"/>
+	<div1 type="verse">
+	<lg type="poem">
+		<l>These shall <seg xml:id="a10">live</seg> <add rend="unmarked" place="supralinear" xml:id="a11">abide</add>,</l>
+		
+		<l>Shall grow in</l>
+
+		<l>
+			Shall walk in the streets<lb/>
+			Man<subst><del rend="overwrite" seq="1">h</del><add rend="overwrite" place="over" seq="2">n</add></subst>ahatta
+		</l>
+
+		<l>
+			Shall climb the Alleghenie<gap reason="cut away" atLeast="1" unit="chars" extent="at least one letter"/><lb/>
+			and<lb/>
+		</l>
+        <l><gap reason="cut away" atLeast="2" unit="chars" extent="at least two letters"/>
+        </l>
+	</lg>
+    <alt target="#a10 #a11"/>
+	</div1>
+
+<pb xml:id="leaf020r" facs="20051105_0576.jpg" type="recto"/>
+
+	<delSpan spanTo="#a15" rend="hashmark"/>
+  <div1 type="verse">
+	<lg type="poem">
+				<relations>
+                    <work ref="xxx.00047" cert="high">
+                        <p>This appears to be an early version of a line of the poem "Proto-Leaf" in the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass,</hi> in which the poet says of "the S<hi rend="smallcaps">OUL</hi>," "Forever and forever&#8212;Longer than soil is brown and solid&#8212;Longer than water ebbs and flows."</p></work>
+				</relations>
+	<milestone unit="undeclared" rend="horbar-full"/>
+		<l>
+			As long as the earth<lb/>
+			is brown and<lb/>
+			solid<lb/>
+		</l>
+	</lg>
+  </div1>
+	<milestone unit="undeclared" rend="horbar-full"/>
+  <div1 type="verse">
+	<lg type="poem">
+                <relations>
+                  <work ref="xxx.00047" cert="high">
+                    <p>These lines contributed to the opening lines of "Proto-Leaf," the first poem in the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Starting from Paumanok."</p> 
+                  </work>
+                </relations>
+		<l>Free, savage, strong</l>
+		<l>Cheerful, luxuriant, fluent, self-sufficient,</l>
+		<l>
+			<subst><del rend="overstrike" seq="1">Out from</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">Y</add></del> <add rend="unmarked" place="supralinear" seq="4">fond of</add></subst> <del rend="overstrike">the sea-beach, <subst><del rend="overstrike" seq="1">from</del> <add rend="unmarked" place="supralinear" seq="2">fond</add></subst></del><lb/>
+			of <add rend="unmarked" place="supralinear">slender</add> Paumanok where I was<lb/>
+            <del rend="overstrike">born,</del></l>
+
+		<l><subst><del rend="overstrike" seq="1">From Manhattan</del> <add rend="insertion" place="supralinear" seq="2">fond of the sea&#45;beach</add></subst> <del rend="overstrike">Island</del> <del rend="overstrike">I</del><ref xml:id="q05" target="xxx.00047"/><lb/>
+			send the poems of the States.
+		</l>
+	</lg>
+  </div1>
+	<anchor xml:id="a15"/>
+
+
+<pb xml:id="leaf020v" facs="20051105_0575.jpg" type="verso"/>
+
+
+<pb xml:id="leaf021r" facs="20051105_0569.jpg" type="recto"/>
+
+	<div1 type="verse">
+	<delSpan rend="hashmark" spanTo="#d1"/>
+	<lg type="poem">
+                <relations>
+                  <work ref="xxx.00047" cert="high">
+                    <p>These lines contributed to the third line of "Proto-Leaf," which was first published in the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi> and later titled "Starting from Paumanok." The published line reads, "Fond of fish-shape Paumanok, where I was born."</p> 
+                  </work>
+                </relations>
+		<l>Listen to me,</l>
+		<l>
+			Out from Paumanok, where<lb/>
+			I was born, <subst><add rend="unmarked" place="supralinear" seq="2">and</add> <del rend="overstrike" seq="1">I recite</del></subst>
+		</l>
+	</lg>
+	<anchor xml:id="d1"/>
+	<milestone unit="undeclared" rend="horbar-full"/>
+
+	<lg type="poem">
+		<l>All is in yourself,</l>
+		<l><subst><del rend="overstrike" seq="1">The</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="inline" seq="2">All things, all thoughts,</add></del></subst></l>
+
+		<l>
+			Things, thoughts, the stately<lb/>
+			shows of the world,<lb/>
+			the suns and moons,<lb/>
+			the landscape, summer<lb/>
+			and winter, <del rend="overstrike">the</del><lb/>
+			poems, endearments,
+		</l>
+		<l>All</l>
+	</lg>
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+	<delSpan rend="hashmark" spanTo="#d2"/>
+	<lg type="poem">
+                <relations>
+                  <work ref="xxx.00047" cert="high">
+                    <p>These lines contributed to the opening lines of "Proto-Leaf," the first poem in the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Starting from Paumanok."</p> 
+                  </work>
+                </relations>
+		<l>Free, Savage, and strong,</l>
+		<l>
+			<del rend="overstrike">Primal</del>, <subst><del rend="overstrike" seq="2"><add rend="insertion" place="supralinear" seq="1">arrogant</add></del> <add rend="unmarked" place="supralinear" seq="3">coarse</add></subst> luxuriant, <del rend="overstrike">coarse, and</del><lb/>
+			<del rend="overstrike">combative</del>, <add rend="unmarked" place="supralinear">fluent</add> self-sufficient,
+		</l>
+		<l>
+			<del rend="overstrike"><add rend="unmarked" place="supralinear">A</add></del> <del rend="overstrike">O</del> <subst><del rend="overstrike" seq="1">From</del> <add rend="unmarked" place="supralinear" seq="2">Out <del rend="overstrike" seq="3">of</del> <add rend="unmarked" place="inline" seq="4">from</add></add></subst> Manhattan Island<lb/>
+			I <subst><del rend="overstrike" seq="1">make</del><add rend="unmarked" place="supralinear" seq="2">send</add></subst> the poems<lb/>
+			of The States,
+		</l>
+	</lg>
+	<anchor xml:id="d2"/>
+	</div1>
+
+
+<pb xml:id="leaf021v" facs="20051105_0570.jpg" type="verso"/>
+
+
+<pb xml:id="leaf022r" facs="20051105_0567.jpg" type="recto"/>
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+	<delSpan spanTo="#a14" rend="hashmark"/>
+	<div1 type="poetry">
+	<lg type="poem">
+                <relations>
+                  <work ref="xxx.00047" cert="high">
+                    <p>This draft appears to consist of several versions of lines that Whitman used in the poem "Proto-Leaf," first published in the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>: "How curious! How real! / Underfoot the divine soil&#8212;Overhead the sun." The poem was eventually retitled "Starting from Paumanok."</p> 
+                  </work>
+                </relations>
+	<lg type="linegroup">
+		<l>Fille'd fill'd with <add rend="unmarked" place="supralinear">such</add> <del rend="overstrike">wonders</del></l>
+		<l>Over<add rend="unmarked" place="supralinear">-</add>head, <subst><del rend="overstrike" seq="1">how</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> splendid <del rend="overstrike">the</del> sun!</l>
+		<l>Under-foot, <del rend="overstrike">how</del> the</l>
+	</lg>
+	<lg type="linegroup">
+		<l>O divine soil,</l>
+	</lg>
+    <lg>
+		<l>Under-foot, O divine soil!</l>
+		<l>Overhead, O</l>
+	</lg>
+	<lg type="linegroup">
+		<metamark function="unknown">&#42;</metamark><l> How curious!&#8212;How real!</l>
+		<l>Under<add rend="unmarked" place="supralinear">-</add>foot, the divine soil!</l>
+		<l>Overhead, the sun!</l>
+	</lg>
+	<lg type="linegroup">
+		<del rend="overstrike"><l>How curious</l></del>
+		<del rend="overstrike"><l>How curious I myself!</l></del>
+		<l>Me,</l>
+	</lg>
+	</lg>
+	</div1>
+	<anchor xml:id="a14"/>
+
+
+<pb xml:id="leaf022v" facs="20051105_0568.jpg" type="verso"/>
+
+
+<pb xml:id="leaf023r" facs="20051105_0550.jpg" type="recto"/>
+	<div1 type="verse">
+	<lg type="poem">
+		<l>
+			I understand you, you<lb/>
+			bards of other <del rend="overstrike">ages and</del> lands
+		</l>
+
+		<l>
+			I <subst><del rend="overstrike" seq="1">understand you,</del><add rend="unmarked" place="interlinear" seq="2">bear you in mind,</add></subst> you<lb/>
+			ancestors of men.&#8212;
+		</l>
+	</lg>
+	</div1>
+
+<pb xml:id="leaf023v" facs="20051105_0549.jpg" type="verso"/>
+	<div1 type="verse">
+	  <lg type="poem">
+                <relations>
+                  <work ref="xxx.00047" cert="high">
+                    <p><ref type="text" xml:id="r03" target="#q12">The first line of this draft, "How curious . . . real earth!"</ref> represents an early version of the lines "How curious! How real! / Underfoot the divine soil&#8212;Overhead the sun," which appeared in "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass.</hi></p> 
+                  </work>
+                </relations>
+        <l>
+			How curious is the brown<lb/>
+			<del rend="overstrike">wo</del> real earth!<ref xml:id="q12" target="xxx.00047"/>
+		</l>
+		
+		<l>
+			How curious, how<lb/>
+			spiritual is the water
+		</l>
+      </lg>
+	</div1>
+		<milestone unit="undeclared" rend="horbar-full"/>
+			
+	<div1 type="verse">
+      <lg>
+        <head type="main"><add rend="unmarked" place="supralinear">Politics</add></head>
+		<l>On the one side pledged<lb/>
+			to &#8212;&#160;&#8212;&#160;&#8212;
+		</l>
+
+		<l>
+			On the other side to<lb/>
+			&#8212;&#160;&#8212;&#160;&#8212;
+		</l>
+
+		<l>
+			&#8212;On the one side&#8212;&#160;&#8212;&#160;&#8212;<lb/>
+			<gap reason="illegible" quantity="2" unit="chars" extent="one word"/>
+		</l>
+      </lg>
+	</div1>
+
+
+<pb xml:id="leaf024r" facs="20051105_0566.jpg" type="recto"/>
+
+
+<pb xml:id="leaf024v" facs="20051105_0565.jpg" type="verso"/>
+
+	<div1 type="verse">
+	<lg type="poem">
+		<l>Lo! <del rend="overstrike">the</del> ships sailing!</l>
+		<l>
+			Lo, <del rend="overstrike">the</del> <del rend="overstrike">the</del> <subst><del rend="overstrike" seq="1">interminable</del> <add rend="unmarked" place="supralinear" seq="2">intersecting</add></subst><lb/>
+			streets in cities, full<lb/>
+			of living people, coming<lb/>
+			and going!
+		</l>
+		<l>
+			Lo, <del rend="overstrike">where</del> iron and steam<lb/>
+			so grand, so welcome!
+		</l>
+		<l>Lo, <del rend="overstrike"><unclear reason="illegible" cert="medium" resp="#bb">th</unclear></del></l>
+	</lg>
+	</div1>
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+
+			
+<pb xml:id="leaf025r" facs="20051105_0574.jpg" type="recto"/>
+
+	
+<pb xml:id="leaf025v" facs="20051105_0573.jpg" type="verso"/>
+
+	<div1 type="verse">
+	<lg type="poem">	
+		<relations>
+			<work ref="xxx.00047" cert="high">
+				<p><ref type="text" xml:id="r05" target="#q18">The first two lines</ref> of this draft ("Forever and Thy soul! . . . water ebbs and flows") contributed to the following lines of "Proto-Leaf," the poem that introduced the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>: "The SOUL! / Forever and forever&#8212;Longer than soil is brown and solid&#8212;Longer than water ebbs and flows." The poem was later retitled "Starting from Paumanok."</p>
+				<p><ref type="text" xml:id="r08" target="#q08">The line</ref> "Life,&#8212;how curious! how real" contributed to another line that occurs earlier in the same poem: "How curious! How real!"</p>
+                <p><ref type="text" xml:id="r07" target="#q20">The final two lines of this draft,</ref> "Underfoot, the divine soil, / Overhead, the sun," were also used in "Proto-Leaf," placed immediately after "How curious! How real!"</p>
+			</work>
+			<work ref="xxx.00297" cert="high">
+				<p><ref type="text" xml:id="r06" target="#q19">The lines</ref> "Space and time . . . animals, identity, eyesight" probably led to a passage in the eighth "Chants Democratic" poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song at Sunset." The passage begins, "Illustrious every one!" and concludes, "To breathe the air, how delicious!"</p>
+			</work>
+		</relations>
+	<delSpan rend="hashmark" spanTo="#d3"/>
+	<head type="main"><add rend="unmarked" place="supralinear">Forever and</add> Thy soul!</head>	
+		<l><del rend="overstrike">To c<unclear reason="illegible" cert="low" resp="#kc">ons</unclear></del></l>
+		<l>
+			Forever and forever, <subst><del rend="overstrike" seq="1">as long</del> <add rend="unmarked" place="supralinear" seq="2">longer</add></subst><lb/>
+			<subst><del rend="overstrike" seq="1">as the</del> <add rend="unmarked" place="supralinear" seq="2">than <del rend="overwrite">soil</del><add rend="overwrite" place="over">ground</add> is brown</add></subst> and solid, <del rend="overstrike">as</del> long<add rend="unmarked" place="inline">er</add><lb/>
+			<del rend="overstrike">as</del> than water ebbs and<lb/>
+			flows<ref xml:id="q18" target="xxx.00047"/>
+		</l>
+		<l>
+			They <del rend="overstrike">gi</del> <subst><del rend="overstrike" seq="1">shall</del> <add rend="unmarked" place="supralinear" seq="2">duly</add></subst> give place, <add rend="insertion" place="supralinear">in <subst><del rend="overstrike" seq="1">a few</del> <add rend="insertion" place="supralinear" seq="2">their order of</add></subst> millions of years&#8212;</add> but<lb/>
+			you O my soul shall never<lb/> give place!			
+		</l>
+	<milestone unit="undeclared" rend="horbar-full"/>
+
+	<anchor xml:id="d3"/>
+
+		<metamark function="unknown">&#42;</metamark><l>Life,&#8212;how curious! how real<ref xml:id="q08" target="xxx.00047"/></l>
+		
+		<l>
+			Space, <add rend="insertion" place="supralinear">and time,</add> filled with such<lb/>
+			<del rend="overstrike">easy</del> wonders!
+		</l>
+		
+		<l>To walk, to breathe, how <add rend="unmarked" place="supralinear">delicious</add></l>
+<!-- I'M NOT SURE WHAT TO MAKE OF THE EXTRA LITTLE PENCIL STROKES SCATTERED AROUND IN THIS NEXT LINE. THERE'S ONE AFTER "DAY," ONE AFTER "ANIMALS," AND POSSIBLY ONE AFTER "EYSIGHT." THERE ARE OTHER, DIFFERENT UNACCOUNTABLE STROKES AFTER "CURIOUS" (LIKE A LITTLE CIRCLE?) AND "IDENTITY" (CARET?) BB -->
+		<l>
+			The <del rend="overstrike">daylig</del> day; <subst><del rend="overstrike" seq="1">these</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst><lb/>
+			<del rend="overstrike">curious;</del> <del rend="overstrike">divine,</del><lb/>
+			animals, identity,<lb/>
+			eyesight!<ref xml:id="q19" target="xxx.00297"/>
+		</l>
+
+		<l>
+			Underfoot, the divine<lb/>
+			soil,
+		</l>
+		
+		<l>Overhead, the sun.<ref xml:id="q20" target="xxx.00047"/></l>
+	</lg>
+	</div1>
+
+<pb xml:id="leaf026r" facs="20051105_0564.jpg" type="recto"/>
+	<delSpan spanTo="#a13" rend="hashmark"/>
+	<div1 type="verse">
+	<lg type="poem">
+		<l>
+			<gap reason="torn away" atLeast="1" unit="chars" extent="several words"/><lb/>
+			<del rend="overstrike">to</del> <subst><del rend="overstrike" seq="2"><add rend="insertion" place="supralinear" seq="1">shall</add></del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">ought to</add></del> <add rend="unmarked" place="supralinear" seq="3">deserves</add></subst> <del rend="overstrike" seq="1">receive</del> more than<lb/>
+			you, and never can <add rend="unmarked" place="infralinear">deserve</add><lb/>
+		</l>
+		<l>
+			I do not <subst><del rend="overstrike" seq="1">forget</del> <add rend="unmarked" place="supralinear" seq="2">fail</add></subst> to<lb/>
+			salute you <add rend="unmarked" place="supralinear">with my hand and neck</add>, you<lb/>
+			poets of all ages<lb/>
+			and lands,
+		</l>
+		<l>
+			I do not forget <del rend="overstrike">to bless</del><lb/>
+			<add rend="unmarked" place="supralinear">any one of</add> you, you fallen<lb/>
+			nations, <add rend="unmarked" place="supralinear">to bless you&#8212;</add> &#8212;nor any<lb/>
+			one of you, <del rend="overstrike">you</del><lb/>
+			ancestors of men
+		</l>
+	</lg>
+	</div1>
+	<anchor xml:id="a13" />
+
+			
+<pb xml:id="leaf026v" facs="20051105_0563.jpg" type="verso"/>
+
+	<milestone unit="undeclared" rend="horbar-full"/>
+	<div1 type="verse">
+	<lg type="poem">
+                <relations>
+                  <work ref="xxx.00047" cert="high">
+                    <p><ref type="text" xml:id="r10" target="#q11">The first line of this draft, "How real . . . upon the ground;"</ref> represents an early version of the lines "How curious! How real! / Underfoot the divine soil&#8212;Overhead the sun," which appeared in "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass.</hi></p> 
+                  </work>
+                </relations>
+		<l>
+			How real is the ground!<lb/>
+			Come let us <del rend="overstrike">p</del> set<lb/>
+			our feet upon the<lb/>
+			ground;<ref xml:id="q11" target="xxx.00047"/>
+		</l>
+		<l>
+			How perfect and beautiful<lb/>
+			are the animals!
+		</l>
+		<del rend="overstrike"><l>How vas</l></del>
+		<l>
+			How much room, and<lb/>
+			splendor! How inevitable<lb/>
+			How <del rend="overstrike">vast and</del> spacious!
+		</l>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf027r" facs="20051105_0562.jpg" type="recto"/>
+	<delSpan spanTo="#a12" rend="hashmark"/>
+	<div1 type="verse">
+	<lg type="poem">
+      <lg type="linegroup">
+		<l><gap reason="torn away" atLeast="2" unit="chars" extent="several words"/><lb/><del rend="overstrike">my</del> ancestors <del rend="overstrike">,</del> of man</l>
+		<l>
+			Nor <subst><del rend="overstrike" seq="1">you, you</del> <add rend="unmarked" place="supralinear" seq="2">you</add></subst> <del rend="overstrike" seq="3">the</del><lb/>
+			old poets
+		</l>
+      </lg>
+      <lg type="linegroup">
+		<l>
+			I do not forget to salute<lb/>
+			you, <subst><del rend="overstrike" seq="1">you old</del> <add rend="unmarked" place="supralinear" seq="2">you</add></subst> poets,<lb/>
+			of all <subst><del rend="overstrike" seq="1">times</del> <add rend="unmarked" place="supralinear" seq="2">ages</add></subst> and<lb/>
+			lands,
+		</l>
+      </lg>
+	</lg>
+	</div1>
+	<anchor xml:id="a12"/>
+			
+			
+<pb xml:id="leaf027v" facs="20051105_0561.jpg" type="verso"/>
+	<div1 type="verse">
+	<lg type="poem">
+		<l>
+			Do you not know <unclear reason="cut away" cert="high" resp="#kc">that</unclear><lb/>
+			<subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">your</add></subst> soul has brothers<lb/>
+			and sisters, just as<lb/>
+			much as the <add rend="unmarked" place="supralinear">your </add>body<lb/>
+			has?
+		</l>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf028r" facs="20051105_0560.jpg" type="recto"/>
+	<div1 type="verse">
+		<relations>
+			<work ref="xxx.00047" cert="high">
+				<p><ref type="text" xml:id="r01" target="#q01">The first four lines of this passage, "This then is life . . . overhead the sun,"</ref> were incorporated, in edited form, into an early section of the 1860&#8211;1861 poem "Proto-Leaf," which was eventually titled "Starting from Paumanok."</p>
+                <p><ref type="text" xml:id="r02" target="#q06">The next two lines, "Surround my poems . . . for they are for you,"</ref> were used in a later section of the same poem.</p>
+			</work>
+		</relations>
+	<lg type="poem">
+		<lg type="linegroup">
+			<l>
+				This then<del rend="overstrike">,</del> is life, and<lb/>
+				This the earth,&#8212;
+			</l>
+		</lg>
+
+		<lg type="linegroup">
+			<l>How curious! How real.</l>
+			<l>Underfoot the divine soil,&#8212;</l>
+			<l><subst><del rend="overstrike" seq="1">O</del><add rend="unmarked" place="supralinear" seq="2">o</add></subst>verhead, the sun<ref xml:id="q01" target="xxx.00047"/></l>
+		</lg>
+
+		<lg type="linegroup">
+			<l>
+				Surround<note type="authorial" place="supralinear">?</note> <subst><del rend="overstrike" seq="1">these</del> <add rend="unmarked" place="supralinear" seq="2">my</add></subst> poems, you<lb/>
+				east and west, for<lb/>
+				they are for you
+			</l>
+			<l>
+				And you north and<lb/>
+				south, for they are<lb/>
+				for you,<ref xml:id="q06" target="xxx.00047"/><lb/>
+			</l>
+			<l>
+				Imbue them, nights, for<lb/>
+				they are (of you, and)<lb/>
+				for you,
+			</l>
+			<l>
+				And you, days, for they<lb/>
+				are for you.&#8212;
+			</l>
+			<l>So</l>
+
+		</lg>
+	</lg>
+	</div1>
+			
+			
+<pb xml:id="leaf028v" facs="20051105_0558.jpg" type="verso"/>
+	<div1 type="verse">
+		<l>
+			Great ideas dominate<lb/>
+			over all&#8212;
+		</l>
+	</div1>
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+    <div1 type="verse">
+		<l>
+			What has Shakespeare<lb/>
+			done to England?
+		</l>
+    </div1>
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+    <div1>
+		<l>
+			Not &#8212;&#160;&#8212; not &#8212;&#160;&#8212;&#160;&#8212;<lb/>
+			are of any account<lb/>
+			compared to the<lb/>
+			few men of great<lb/>
+			ideas
+		</l>
+    </div1>
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+    <div1 type="verse">
+		<l>
+			<add rend="unmarked" place="supralinear">Even</add> One great idea vitalizes<lb/>
+			a nation
+		</l>
+    </div1>
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+    <div1 type="notes">		
+		<ab>&#8212;Men of great ideas</ab>
+	</div1>
+
+
+<pb xml:id="leaf029r" facs="20051105_0559.jpg" type="recto"/>
+			
+
+<pb xml:id="leaf029v" facs="20051105_0557.jpg" type="verso"/>
+	<div1 type="verse">
+	<lg type="poem">
+		<del rend="overstrike"><l>You</l></del>
+		<l>Personality!</l>
+		<l>
+			Your Personality! You<lb/>
+			<del rend="overstrike">and</del> whoever you are?<lb/>
+		</l>
+		<l>
+			O you coward that<lb/>
+			dare not <del rend="overstrike">claim</del><lb/>
+			be audacious <del rend="overstrike">for</del><lb/>
+			<del rend="overstrike">your own sake!</del>
+		</l>
+		<l>
+			O you liar that<lb/>
+			<del rend="overstrike">falsely</del> assume to<lb/>
+			be modest and<lb/>
+			deferential
+		</l>
+		<l>O you slave</l>
+		<l>&#8212;O you <add rend="insertion" place="supralinear">tongueless,</add> eyeless, ear<subst><del rend="overwrite" seq="1">el</del><add rend="overwrite" place="over" seq="2">l</add></subst>ess,</l>
+		<l>
+			&#8212;O you <space dim="horizontal" atLeast="4" unit="chars" extent="about 9 letters"/>that<lb/>
+			will not receive me<lb/>
+			for your own sake
+		</l>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf030r" facs="20051105_0556.jpg" type="recto"/>
+
+
+<pb xml:id="leaf030v" facs="20051105_0555.jpg" type="verso"/>
+	<div1 type="verse">
+	<lg type="poem">
+	<head type="main">Personality!</head>
+		<l>
+			You! whoever you are!<lb/>
+			without one single<lb/>
+			exception, in any<lb/>
+			part of any of These<lb/>
+			States!
+		</l>
+
+		<l>
+			I <subst><del rend="overstrike" seq="1">seize</del> <add rend="unmarked" place="supralinear" seq="2">?</add></subst> you with <del rend="overstrike">st</del><lb/>
+			free and severe <del rend="overstrike">you</del><lb/>
+			hand&#8212;I know well,<lb/>
+			<add rend="unmarked" place="supralinear">whoever you are,</add> you are my equal,<lb/>
+			and the President's<lb/>
+			equal,&#8212;and that there<lb/>
+			is no one on this<lb/>
+			globe <del rend="overstrike">and</del> any <del rend="overstrike">better</del><lb/>
+			<del rend="overstrike">g</del> greater than you&#8212;<lb/>
+			and that there is<lb/>
+			no existence in all<lb/>
+			the universes any more<lb/>
+			immortal than you<del rend="overstrike">r</del>,
+		</l>
+	</lg>
+	</div1>
+
+
+<pb xml:id="leaf031r" facs="20051105_0548.jpg" type="recto"/>
+
+
+<pb xml:id="leaf031v" facs="20051105_0547.jpg" type="verso"/>
+	<div1 type="verse">
+      <lg type="poem">
+        <relations>
+			<work ref="xxx.00047" cert="low">
+				<p>The lines on this page bear a faint resemblance to a passage in the poem "Proto-Leaf," published in the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass,</hi> which reads, in part, "And I will show of male and female that either is but the equal of the other, / And I will show that there is no imperfection in male or female, or in the earth [. . .] ." The poem was later retitled "Starting from Paumanok." </p>
+			</work>
+        </relations>
+		<head type="main-authorial">In Poem</head>
+		<l>The earth, <subst><del rend="overstrike" seq="1">that is my</del> <add rend="unmarked" place="supralinear" seq="2">model of poems</add></subst><lb/>
+			<del rend="overstrike">model</del>&#8212;<subst><del rend="overstrike" seq="1">I do not</del> <add rend="unmarked" place="supralinear" seq="2">? none need</add></subst><lb/>
+			discard what I<lb/>
+			find in the theory<lb/>
+			of the great, round <add rend="unmarked" place="supralinear">diversified</add><lb/>
+			earth, so beautiful, <del rend="overstrike">and</del><lb/>
+			<add rend="unmarked" place="interlinear">so rude.</add>
+		</l>
+		<l>
+			The body of a man,<del rend="overstrike">&#8212;</del> that<lb/>
+			<del rend="overstrike">I</del> is my model&#8212;I do<lb/>
+			not reject what I<lb/>
+			find in my body&#8212;I<lb/>
+			am not ashamed&#8212;Why<lb/>
+			should I be ashamed?
+		</l>
+
+		<l>
+			The body of a woman,<del rend="overstrike">&#8212;</del><lb/>
+			that is my perfect<lb/>
+			model&#8212;I believe<lb/>
+			in all the body of<lb/>
+			the woman&#8212;I believe<lb/>
+			the perfect woman<lb/>
+			shall even precede<lb/>
+			the man
+		</l>
+      </lg>
+	</div1>
+
+<pb xml:id="leaf032r" facs="20051105_0546.jpg" type="recto"/>
+
+
+<pb xml:id="leaf032v" facs="20051105_0545.jpg" type="verso"/>
+	<div1 type="verse">
+      <lg type="poem">
+		<head type="main-authorial">Poem of Maternity</head>
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+		<l>O my dear child! My<lb/>
+		   Darling
+		</l>
+		
+		<l>(Now I am maternal&#8212;<lb/>
+		   a child bearer&#8212;<lb/>
+		   I <del rend="overstrike">bea</del> have from<lb/>
+		   my womb borne<lb/>
+		   a child, and<lb/>
+		   observe it
+		</l>
+		
+		<del rend="overstrike"><l>For great ideas!</l></del>
+		
+		<l>The life that is not<lb/>
+		   underlaid by great<lb/>
+		   ideas is &#8212;&#160;&#8212;<lb/>
+		</l>
+      </lg>
+	</div1>
+
+
+<pb xml:id="leaf033r" facs="20051105_0544.jpg" type="recto"/>
+
+
+<pb xml:id="leaf033v" facs="20051105_0543.jpg" type="verso"/>
+	<div1 type="notes">
+		<ab>For friendship:</ab>
+		<ab>&#8212;&#160;&#8212;&#160;&#8212;&#160;&#8212;</ab>
+		<ab>For immortality:</ab>
+		<ab>&#8212;&#160;&#8212;&#160;&#8212;&#160;&#8212;</ab>
+	</div1>
+
+
+<pb xml:id="leaf034r" facs="20051105_0551.jpg" type="recto"/>
+	<div1>
+	<lg type="poem">
+		<l>
+			Dwelling <subst><del rend="overstrike" seq="1">neighbor to the</del> <add rend="unmarked" place="supralinear" seq="2">nigh the</add></subst> Ohioan<lb/>
+			and Kentuckian, a<lb/>
+			friendly neighbor,
+		</l>
+
+		<l>
+			<del rend="overstrike">W</del> Sauntering the streets of<lb/>
+			Boston, Portland,<lb/> long list of cities<lb/>
+			<gap reason="cut away" atLeast="1" unit="chars" extent="at least one letter"/>
+		</l>
+	</lg>
+	</div1>
+			
+<pb xml:id="leaf034v" facs="20051105_0552.jpg" type="verso"/>
+	<div1 type="verse">
+		<delSpan spanTo="#a08" rend="hashmark"/>
+		<lg type="poem">
+		<l>
+			<metamark function="unknown" place="left">&#42;</metamark> National hymns,<lb/>
+			The freeman's and freewoman's<lb/>
+			songs,
+        </l>
+		<l>The master's words, <subst><del rend="overstrike" seq="1">strong</del> <add rend="unmarked" place="supralinear" seq="2">arrogant</add></subst>,<lb/>
+			<subst><del rend="overstrike" seq="1">lawless,</del> <add rend="unmarked" place="supralinear" seq="2">fluent,</add></subst> severe.&#8212;
+		</l>
+		</lg>
+		<anchor xml:id="a08"/>
+	</div1>
+
+<pb xml:id="leaf035r" facs="20051105_0530.jpg" type="recto"/>
+
+
+<pb xml:id="leaf035v" facs="20051105_0529.jpg" type="verso"/>
+
+	<div1 type="verse">
+	    <add rend="unmarked" place="supralinear"><l>? For your own sake</l></add>
+	    <l>To stand fast by me!</l>
+		<l>To stand unshaken, <del rend="overstrike">and</del><lb/>
+			tenacious, <del rend="overstrike">&#8212;to</del></l>
+		
+		<del rend="overstrike"><l>To believe in me&#8212;no<lb/>
+			matter
+		</l></del>
+		<milestone unit="undeclared" rend="horbar-short-left"/>
+	</div1>
+
+
+<pb xml:id="leaf036r" facs="20051105_0542.jpg" type="recto"/>
+
+
+<pb xml:id="leaf036v" facs="20051105_0541.jpg" type="verso"/>
+		<milestone unit="unmarked" rend="horbar-full"/>
+	<div1 type="verse">
+      <lg type="poem">
+		<l>Have you any doubt of mortality?</l>
+		<l>I say there can be no more<lb/>
+		   doubt of immortality than<lb/>
+		   there is of mortality
+		</l>
+      </lg>
+	</div1>
+
+<pb xml:id="leaf037r" facs="20051105_0528.jpg" type="recto"/>
+
+
+<pb xml:id="leaf037v" facs="20051105_0527.jpg" type="verso"/>
+	<div1 type="prose">
+		<p>The observer stand <del rend="overstrike">some</del> <hi rend="underline">clear day</hi> on the northeast height of Washington Park, some <subst><del rend="overwrite" seq="1">y</del><add rend="overwrite" place="over" seq="2">c</add></subst>lear day in the year 1900, (the <space dim="horizontal" atLeast="2" unit="chars" extent="about 3 letters"/><subst><del rend="overwrite" seq="1">of</del><add rend="overwrite" place="over" seq="2">year</add></subst> of These States,) will look on</p>
+	</div1>
+
+<pb xml:id="leaf038r" facs="20051105_0540.jpg" type="recto"/>
+
+
+<pb xml:id="leaf038v" facs="20051105_0539.jpg" type="verso"/>
+	<div1 type="notes">
+		<ab>Primer of Words<lb/>
+         <span rend="bracketed-right" xml:id="s1" from="#s1" to="#s2"/> <del rend="overstrike" seq="1">and Th</del> and<lb/>
+				<seg xml:id="a05">Thoughts</seg><lb/>
+				<seg xml:id="a06">Ideas</seg><lb/>
+				<seg xml:id="a07">Principles</seg>
+		<anchor xml:id="s2"/>
+		<note type="authorial" place="right">(none of these suit</note>
+        <alt target="#a05 #a06 #a07"/>
+        </ab>
+	</div1>
+
+<pb xml:id="leaf039r" facs="20051105_0538.jpg" type="recto"/>
+
+
+<pb xml:id="leaf039v" facs="20051105_0537.jpg" type="verso"/>
+	<div1 type="prose">
+		<p>American songs,&#8212;in which prose (to be spoken&#8212;with a low, or other musical accompaniment,) is interlineated</p>
+	</div1>
+
+<pb xml:id="leaf040r" facs="loc_bb.00026.jpg" type="recto"/>
+
+<pb xml:id="leaf040v" facs="20051105_0536.jpg" type="verso"/>
+	<div1 type="section">
+		<p><gap reason="cut away" atLeast="1" unit="chars" extent="at least one word"/></p>
+	</div1>
+
+<pb xml:id="leaf041r" facs="20051105_0535.jpg" type="recto"/>
+
+<pb xml:id="leaf041v" facs="20051105_0534.jpg" type="verso"/>
+			
+<pb xml:id="leaf042r" facs="20051105_0532.jpg" type="recto"/>
+
+<pb xml:id="leaf042v" facs="20051105_0531.jpg" type="verso"/>
+	<div1 type="prose">
+		<p>I had rather have the good will of the butchers and boatmen of Manhattan Island than all the <seg xml:id="a02">nominations</seg> <add rend="unmarked" place="infralinear" xml:id="a03">approbation</add> <add rend="unmarked" place="infralinear" xml:id="a04">rewards</add> of the government&#8212;literats elegant persons</p><alt target="#a02 #a03 #a04"/>
+		<ab><del rend="overstrike">Jake</del></ab>
+	</div1>
+
+
+<pb xml:id="leaf043r" facs="20051105_0526.jpg" type="recto"/>
+
+
+<pb xml:id="leaf043v" facs="20051105_0525.jpg" type="verso"/>
+	<div1 type="names">
+		<ab rend="circled">Sam Matthews</ab>
+	</div1>
+    <div1 type="prose">
+		<p>Walt Whitman stands to-day in the midst of the American people, a promise, a preface, an overture a</p>
+		<p>Will he fulfil the half-distinct half-indistinct promise?&#8212;Many do not understand him, but there are others, a few, who do understand him.<del rend="overstrike"><gap reason="illegible" quantity="1" unit="chars" extent="one character"/></del> Will he justify the great prophecy of Emerson? or will he too, like thousands of others, flaunt out <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">one</add></subst> bright commencement, the result of gathered powers, only to sink back exhausted&#8212;or to give himself up to the seduction of</p>
+	</div1>
+
+
+<pb xml:id="leaf044r" facs="20051105_0524.jpg" type="recto"/>
+
+	<div1 type="entries">
+		<list>
+        <item>
+			<ab>"Ancient Hebrews"</ab>
+			<ab rend="indent-3">by Abm. Mills</ab>
+			<ab>A. S. Barnes &#38; Co.</ab>
+		</item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>"Glimpses of Life and Manners<lb/> in Persia"</ab>
+			<ab rend="indent-2">by Lady Sheil</ab>
+			<ab>with notes on Russia, Koords,<lb/> Turkomans, Nestorians,</ab>
+			<ab rend="indent-3">(refers to 1849)</ab>
+		</item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>Mrs Ty<unclear reason="illegible" cert="medium" resp="#kc">ne</unclear>dale</ab>
+			<ab rend="indent-2">at Mrs. Manning's </ab>
+			<ab><del rend="overstrike">at</del> in Clinton av.</ab>
+			<ab rend="indent-3">near De Kalb</ab>
+			<ab>nearly opposite the church</ab>
+		</item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>Dr. Draper's Physiology</ab>
+			<ab rend="indent-3">(Harper <lb/>last 2 no's<lb/> Harper)</ab>
+		</item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>Brownlow's Map of the Stars</ab>
+			<ab rend="indent-2">184 Cherry st.</ab>
+		</item>
+
+<pb xml:id="leaf044v" facs="20051105_0523.jpg" type="verso"/>
+
+            <item>
+			<ab>A. Brownson Alcott</ab>
+			<ab rend="indent-3">Oct. 4th '56</ab>
+		    </item>
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+		<item>
+			<ab>Jas. Metcalf</ab>
+			<ab rend="indent-2">79 Warren st. (station house)</ab>
+		</item>
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>Mr. Held</ab>
+			<ab rend="indent-2">4 Boerum</ab>
+			<ab rend="indent-3">near Fulton av.</ab>
+		</item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>Clerke's Rudiments<lb/> &#38; Practice</ab>
+			<ab rend="indent-3">1 vol.</ab>
+		</item>
+
+	    <milestone unit="undeclared" rend="horbar-short-left"/>
+
+		<item>
+			<ab>Comic Blackstone</ab>
+		</item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>Prof Wines'</ab>
+			<ab>Commentaries on the<lb/> Hebrew Law</ab>
+		</item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>Montesquieu</ab>
+			<ab rend="indent-2">Spirit of the Laws</ab>
+		</item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>Robert Hunt's</ab>
+			<ab rend="indent-2">"Poetry of Science"</ab>
+		</item>
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		<item>
+			<ab>Poetry of the East</ab>
+			<ab rend="indent-1">Pub. Whittemore, Niles, &#38; Hall</ab>
+            <ab rend="right">Boston</ab>
+		</item>
+
+
+<pb xml:id="leaf045r" facs="20051105_0522.jpg" type="recto"/>
+
+			<item>
+            <ab>16th Sept&#8212;b</ab>
+            </item>
+		
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+			<item>
+              <ab>J.L. Metcalf</ab>
+              <ab>3d district station house</ab>          
+              <ab><del rend="overstrike">3d ward</del> 79 Warren</ab>
+            </item>
+	
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+			<item>
+            <ab>Organism of Language</ab>
+			<ab rend="right">Becker's</ab>
+			<ab rend="indent-3">Translated into English</ab>
+           </item>
+		
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+		
+			<item><ab>Grimm's work in German Language</ab></item>
+		
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+		
+			<item>
+            <ab>W. Gibson</ab>
+			<ab rend="indent-2">363 Sixth av</ab>
+            </item>
+		
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+			<item>
+            <ab>Middlesex House</ab>
+			<ab rend="indent-3">Concord, Mass</ab>
+            </item>
+
+		<milestone unit="undeclared" rend="horbar-full"/>
+		
+            <item>
+            <ab>Dr. Ruggles</ab>
+			<ab rend="indent-3">24 East Warren</ab>
+            </item>
+		
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+
+            <item>
+            <ab>Wilson</ab>
+			<ab rend="indent-2">4 Greene near Cumberlan</ab>
+            <ab rend="indent-3">1 door</ab>
+            </item>
+		</list>
+	</div1>
+
+			
+<pb xml:id="leaf045v" facs="20051105_0521.jpg" type="verso"/>
+
+</body>
+</text>
+</TEI>
+
