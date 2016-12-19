@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>  
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00025">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="m" type="main">No doubt the efflux</title>
+				<title level="m" type="sub">a machine readable transcription</title>
+				<author>Walt Whitman</author>
+				<editor>Kenneth M. Price</editor>
+				<editor>Ed Folsom</editor>
+				<respStmt>
+					<resp>Transcription and encoding</resp>
+					<persName xml:id="ec">Eric Conrad</persName>
+					<persName xml:id="kc">Kirsten Clawson</persName>
+					<persName xml:id="nhg">Nicole Gray</persName>
+					<persName xml:id="kmp">Kenneth M. Price</persName>
+				</respStmt>
+				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+				<sponsor>University of Iowa</sponsor>
+				<funder>The National Endowment for the Humanities</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2014</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<idno>loc.00025</idno>
+				<distributor>The Walt Whitman Archive</distributor>
+				<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+				<availability>
+					<p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+						reserved. Items in the Archive may be shared in accordance with the Fair Use
+						provisions of U.S. copyright law. Redistribution or republication on other
+						terms, in any medium, requires express written consent from the editors and
+						advance notification of the publisher, Center for Digital Research in the
+						Humanities. Permission to reproduce the graphic images in this archive has
+						been granted by the owners of the originals for this publication only.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<note type="project" target="#dat1">This notebook consists almost entirely of prose. However, the ideas and language developed throughout the notebook can be linked to a number of poems that appeared in <hi rend="italic">Leaves of Grass</hi>, including "Song of Myself," "Great are the Myths," "Faces," and "The Sleepers," versions of which appeared in <hi rend="italic">Leaves of Grass</hi> in 1855. Thus, this notebook was almost certainly written before that date. Content from the first several paragraphs of this notebook was also used slightly revised in "Song of the Open Road," first published in the 1856 edition of <hi rend="italic">Leaves</hi> as "Poem of the Road."</note>             
+			</notesStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Walt Whitman</author>
+					<date notBefore="1845" notAfter="1855">Before 1855</date>
+					<title>Thoughts, ideas, and trial lines (3 vols.)</title>                  
+					<idno type="callno">MSS18630, box 38, reel 24</idno>
+					<orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+					<note type="project">Transcribed from digital images of the original.</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2016-12-13" who="#nhg">corrected</change>
+			<change when="2016-11-17" who="#nhg">corrected</change>
+			<change when="2016-11-02" who="#nhg">added work relations information, updated editorial note</change>
+			<change when="2016-11-01" who="#nhg">checked against White transcription</change>
+			<change when="2016-10-31" who="#nhg">proofed</change>
+			<change when="2016-10-12" who="#nhg">checked, corrected</change>
+			<change when="2015-04-08" who="#kc">converted from P4 to P5, checked</change>
+			<change when="2004-01-01" who="#ec">transcribed and encoded</change>
+		</revisionDesc>
+	</teiHeader>
+
+<text type="notebook">
+<body>
+		<div1 type="prose">
+		<pb xml:id="leaf001r" facs="loc.00025.001.jpg" type="recto"/>
+		<pb xml:id="leaf001v" facs="loc.00025.002.jpg" type="verso"/>
+
+		<pb xml:id="leaf002r" facs="loc.00025.003.jpg" type="recto"/>
+		 
+			<div2 type="section" xml:id="nde05">
+				<relations>
+					<work ref="xxx.00111" cert="high">
+						<p><ref target="#nde05" xml:id="r03" type="text">This section</ref> appeared, with some revisions, in the 1856 edition of <hi rend="italic">Leaves of Grass</hi>, in the poem that would be titled "Song of the Open Road": "Here is the efflux of the soul, / The efflux of the soul comes through beautiful / gates of laws, provoking questions, / These yearnings, why are they? these thoughts / in the darkness, why are they? / Why are there men and women that while they are nigh me the sun-light expands my blood? / Why when they leave me do my pennants of joy sink flat and lank? / Why are there trees I never walk under but large and melodious thoughts descend upon me? / (I think they hang there winter and summer on those trees, and always drop fruit as I pass;) / What is it I interchange so suddenly with strangers? / What with some driver as I ride on the seat by his side? / What with some fisherman, drawing his seine by the shore, as I walk by and pause? / What gives me to be free to a woman's or man's good-will? What gives them to be free to mine? / The efflux of the soul is happiness&#8212;here is happiness, / I think it pervades the air, waiting at all times, / Now it flows into us&#8212;we are rightly charged" (1856, pp. 229&#8211;30).</p>
+					</work>
+				</relations>
+				<ab>No doubt the efflux of the soul <subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#nhg">is</unclear></del> <add rend="unmarked" place="supralinear" seq="2">comes</add></subst> through beautiful <add rend="insertion" place="supralinear">gates of</add> laws that <del rend="overstrike">we may</del> at some future period <add rend="insertion" place="supralinear">perhaps a few score millions of years, we may</add> understand better.&#8212;At present, its <add rend="insertion" place="supralinear">tide</add> is what <subst><del rend="overstrike" seq="1">we</del> <add rend="unmarked" place="supralinear" seq="2">folks</add></subst> call capricious, and cannot well be traced <add rend="unmarked" place="supralinear">&#42; ( )</add>.&#8212;Why as I just <del rend="overstrike">catch a</del> look <add rend="insertion" place="supralinear">in the railroad car</add> at some <subst><del rend="overstrike" seq="1">workman's</del> <add rend="unmarked" place="supralinear" seq="2">half turned</add></subst> face, do I love that <subst><del rend="overstrike" seq="1">being,</del> <add rend="unmarked" place="supralinear" seq="2">woman?</add></subst> <subst><del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">T</add></subst>hough<del rend="overstrike">tless</del> <del rend="overstrike">that</del> she is neither young nor <subst><del rend="overstrike" seq="1">beautiful?</del> <add rend="unmarked" place="supralinear" seq="2">fair <subst><del rend="overstrike" seq="1">featured</del> <add rend="unmarked" place="supralinear" seq="2">complexioned<subst><del rend="overwrite" seq="1">?</del><add rend="overwrite" place="over" seq="2">,&#8212;</add></subst></add></subst></add></subst>&#8212;<subst><del rend="overstrike" seq="1">she</del> <add rend="unmarked" place="supralinear" seq="2"><gap reason="illegible" atLeast="1" unit="chars"/></add></subst> remains in my memory afterward for a year, and I calm myself to sleep at night by thinking of her.&#8212;Why <subst><del rend="overstrike" seq="1">are</del> <add rend="unmarked" place="supralinear" seq="2">be</add></subst> there men I meet, and <subst><del rend="overstrike" seq="1">many</del> <add rend="unmarked" place="supralinear" seq="2">others</add></subst> I know, that <subst><del rend="overstrike" seq="1">when</del> <add rend="unmarked" place="supralinear" seq="2">while</add></subst> they are with me, the sunlight of Paradise
+		
+		<pb xml:id="leaf002v" facs="loc.00025.004.jpg" type="verso"/>
+			
+			<subst><del rend="overstrike" seq="1">warms</del> <add rend="unmarked" place="supralinear" seq="2">expands</add></subst> my blood&#8212;that <subst><add rend="insertion" place="supralinear" seq="2">when</add> <del rend="overstrike" seq="1">if</del></subst> I walk with an arm of theirs around my neck, my soul <subst><del rend="overstrike" seq="1">leaps and laughs like a new&#45;waked child&#8212;</del><add rend="unmarked" place="interlinear" seq="2">scoots and courses like <subst><del rend="overstrike" seq="1">a caressed</del> <add rend="unmarked" place="supralinear" seq="2">an unleashed</add></subst> dog <del rend="overstrike" seq="5">caressed</del>&#8212;</add></subst>that when they leave me the pennants of my joy sink flat <subst><del rend="overstrike" seq="1">from the</del> <add rend="unmarked" place="supralinear" seq="2">and lank</add></subst> in the deadest calm?&#8212;</ab>
+
+			<p>Why, <del rend="overstrike">do I as I sit at my table in</del> do flocks of <subst><del rend="overstrike" seq="1">thoughts,</del> <add rend="unmarked" place="supralinear" seq="2">ideas, some</add></subst> twittering as wrens <subst><add rend="insertion" place="supralinear" seq="1">or chirping or <del rend="overstrike" seq="2">robins</del> pee <unclear reason="illegible" resp="#nhg" cert="low">sweets</unclear>?</add></subst> some soft as pigeons, some screaming as <subst><del rend="overstrike" seq="1">eagles</del> <add rend="unmarked" place="supralinear" seq="2">sea&#45;hawks</add></subst>, some shy and afar off as the wild brant, some <space dim="horizontal"/> <add rend="insertion" place="supralinear">invariably</add> why do these <del rend="overstrike">swarms</del> beat their <add rend="insertion" place="supralinear">countless</add> wings and clutch
+	
+		<pb xml:id="leaf003r" facs="loc.00025.005.jpg" type="recto"/>
+			
+			their feet upon me, as I sit <subst><del rend="overstrike" seq="1">in the adjoining room</del> <add rend="unmarked" place="supralinear" seq="2">near by</add></subst>, <del rend="overstrike">to</del> where my brother is practising <subst><del rend="overwrite" seq="1"><unclear reason="illegible" resp="#nhg" cert="low">on</unclear></del><add rend="overwrite" place="over" seq="2">at</add></subst> the piano?&#8212;There is a certain block between my house and the <subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">S</add></subst>outh ferry, not especially different from other blocks <add rend="insertion" place="supralinear"><unclear reason="illegible" cert="low" resp="#kc">densely</unclear> bordered by trees;</add>: Why <del rend="overstrike">then</del> do I never pass <subst><del rend="overstrike" seq="1">it</del> <add rend="unmarked" place="supralinear" seq="2">there</add></subst>, without new and large and <subst><del rend="overstrike" seq="1">beautiful</del> <add rend="unmarked" place="supralinear" seq="2">melodious</add></subst> <subst><del rend="overstrike" seq="1">thoughts</del> <add rend="unmarked" place="supralinear" seq="2">thoughts</add></subst> descending upon me?&#8212;<subst><del rend="overstrike" seq="1">I think</del> <add rend="insertion" place="supralinear" seq="2">I guess</add> <add rend="insertion" place="interlinear" seq="3">they hang there, winter and summer, <unclear reason="illegible" cert="medium" resp="#nhg">ply</unclear> the limbs of those trees and continually drop the <unclear reason="illeiglbe" cert="low" resp="#nhg">fruit</unclear> <del rend="overstrike" seq="4">upon</del> if I travel that <del rend="overstrike" seq="5"><unclear reason="illegible" cert="low" resp="#nhg">block</unclear></del> way.</add></subst> Some fisherman that <del rend="overstrike">always</del>&#8212;<subst><del rend="overstrike" seq="1">stop to pass the time-O-day with</del> <add rend="unmarked" place="supralinear" seq="2">give good morning to, and pass</add></subst> <add rend="insertion" place="supralinear" seq="3">ten or twenty minutes</add> as he draws his seine by the shore&#8212;<add rend="insertion" place="supralinear">some carpenter working his rip saw through a plank&#8212;</add> some driver, <add rend="unmarked" place="interlinear">as I ride on top of the stage,&#8212;men rough,</add> <del rend="overstrike">rough,</del> not handsome, not accomplished&#8212;why do I know that the subtle <choice><orig>chlo&#45;<pb xml:id="leaf003v" facs="loc.00025.008.jpg" type="verso"/>roform</orig><reg>chloroform</reg></choice>
+		
+		of our spirits is affecting each other, and though we may <subst><del rend="overstrike" seq="1">never meet</del> <add rend="unmarked" place="supralinear" seq="2">encounter not</add></subst> again, we <del rend="overstrike"><subst><del rend="overstrike" seq="1">know</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">feel</add></del></subst> that we two</del> have <subst><del rend="overstrike" seq="1">pass</del> <add rend="unmarked" place="supralinear" seq="2">exchanged</add></subst> the <add rend="insertion" place="supralinear">right</add> <subst><del rend="overstrike" seq="1">mysterious</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">unspoken</add></del></subst> password <subst><del rend="overstrike" seq="2"><add rend="insertion" place="supralinear" seq="1">of the night,</add></del></subst> and <subst><del rend="overstrike" seq="1">have</del> <add rend="unmarked" place="supralinear" seq="2">are</add></subst> thence free <subst><del rend="overstrike" seq="1">entrance</del> <add rend="unmarked" place="supralinear" seq="2">comers</add></subst> to <del rend="overstrike">each</del> the guarded tents of each others' <del rend="overstrike">love</del> most interior love?</p> <ab>&#42;(What is the <subst><del rend="overstrike" seq="1">cause</del> <add rend="unmarked" place="supralinear" seq="2">meaning</add></subst>, any how, of my <subst><del rend="overstrike" seq="1">love</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">attachment</add></del> <add rend="unmarked" place="supralinear" seq="4">adhesiveness</add></subst> <subst><del rend="overstrike" seq="1">for</del> <add rend="unmarked" place="supralinear" seq="2">toward</add></subst> others?&#8212;What is the cause of their<add rend="unmarked" place="inline">s</add> <del rend="overstrike">love</del> <add rend="unmarked" place="supralinear">toward</add> <subst><del rend="overstrike" seq="1">for</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">for</add></del></subst> me?)&#8212;(Am I loved by them boundlessly because my love for them is more boundless?&#8212;)</ab></div2>
+		
+		<pb xml:id="leaf004r" facs="loc.00025.009.jpg" type="recto"/>
+			<div2 type="section">
+				<relations>
+					<work ref="xxx.00048" cert="high">
+						<p><ref target="#nde06" xml:id="r04" type="text">This phrase</ref> appared in the poem that would be titled "Song of Myself": "Or while I swim in the bath . . . . or drink from the pump at the corner . . . . or the curtain is down at the opera . . . . or I glimpse at a woman's face in the railroad car; / Lighting on every moment of my life, / Bussing my body with soft and balsamic busses, / Noiselessly passing handfuls out of their hearts and giving them to be mine" (1855, p. 50).</p>
+					</work>
+				</relations>
+			<delSpan rend="hashmark" spanTo="#d1"/>
+				<p><seg xml:id="nde06">
+				<subst><add rend="insertion" place="supralinear" seq="1">While the curtain is down at the opera <add rend="insertion" place="supralinear" seq="2">while I swim in the bath</add> while I wait for my friend at the corner, while I <del rend="overstrike" seq="3"><del rend="overstrike"><gap reason="illegible" unit="word" quantity="1"/></del> swim in the bath,</del></add></subst></seg> I behold <subst><add rend="insertion" place="supralinear" seq="1">and am beheld by people</add> <del rend="overstrike" seq="2">men and women</del></subst>; I speak little or nothing; I <del rend="overstrike">offer</del> make no gifts to them; I do not <add rend="insertion" place="supralinear">so much as</add> turn my neck or pat my <subst><del rend="overstrike" seq="1">boot in their behalf</del> <add rend="insertion" place="supralinear" seq="2">instep to gain <unclear reason="illegible" resp="#nhg" cert="medium">any</unclear> <del rend="overstrike" seq="3"><unclear reason="illegible" resp="#kmp" cert="medium">thing</unclear> from them;</del> <add rend="unmarked" place="supralinear" seq="4">of their <unclear reason="illegible" cert="low" resp="#nhg">favor</unclear>;</add></add></subst> we never met <subst><del rend="overstrike" seq="1">nor</del> <add rend="unmarked" place="supralinear" seq="2">before,&#8212;never</add></subst> heard <del rend="overstrike">of or</del> shall <subst><add rend="insertion" place="supralinear" seq="1">hear</add> <del rend="overstrike" seq="2">eachs other before</del> <add rend="unmarked" place="supralinear" seq="3"><del rend="overstrike" seq="4">each's</del> names.&#8212;nor dates nor employments.&#8212;</add></subst>With all this, some god <add rend="insertion" place="supralinear">walks in</add> noiseless and resistless, <del rend="overstrike">takes</del> and takes their hearts out of their breasts, and gives them to me for ever.&#8212;Often I <subst><del rend="overstrike" seq="1">see it, and get</del> <add rend="unmarked" place="supralinear" seq="2">catch</add></subst> the <subst><del rend="overstrike" seq="1">hint</del> <add rend="unmarked" place="supralinear" seq="2">sign;</add></subst> and oftener, no doubt, it <subst><del rend="overstrike" seq="1">goes</del> <add rend="insertion" place="supralinear" seq="2">flies <subst><del rend="overstrike" seq="1">over</del> <add rend="unmarked" place="supralinear" seq="2">by</add></subst> me</add> <del rend="overstrike" seq="1">over</del></subst> as unknown as my neighbor's dreams.&#8212;</p>
+		<anchor xml:id="d1"/></div2>
+
+
+	<pb xml:id="leaf004v" facs="loc.00025.011.jpg" type="verso"/>
+<div2 type="section" xml:id="nde07">
+	<relations>
+		<work ref="xxx.00264" cert="high">
+			<p><ref target="#nde07" type="text" xml:id="r05">Phrases from this section</ref> are similar to language used in the following lines of the poem that would be titled "The Sleepers": "I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p>
+		</work>
+	</relations>
+		<delSpan rend="hashmark" spanTo="#d2"/>
+		<ab>and bring her naked to his bed, that <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">they <del rend="overstrike" seq="3">together</del></add></subst> may sleep<del rend="overstrike">,</del> <subst><add rend="insertion" place="supralinear" seq="2">together</add> <del rend="overstrike" seq="1">with her&#8212;</del></subst>; and she shall come again whenever he will, and the taste shall <del rend="overstrike">always</del> be sweeter and sweeter always)</ab> 
+			<ab>President <subst><del rend="overstrike" seq="1">Lo</del> <add rend="insertion" place="supralinear" seq="2"><add place="inline" rend="unmarked">Their</add> <del rend="overstrike">Their</del> <del rend="overstrike">Rules</del> and their Pets!</add></subst> I see them lead him <del rend="overstrike">onward</del> now.&#8212;I see <del rend="overstrike">the</del> his large slow gait, his face <add rend="insertion" place="supralinear">illuminated <del rend="overstrike">and gay</del></add> like the face of a <subst><del rend="overstrike" seq="1">happy</del> <add rend="unmarked" place="supralinear" seq="2">young</add></subst> child.&#8212;<del rend="overstrike">I see him shooting the light of his soul</del></ab>
+		<milestone unit="undeclared" rend="horbar-full"/>
+			
+	<delSpan rend="hashmark" spanTo="#d20"/><ab>Onward <add rend="insertion" place="supralinear">he</add> moves <add rend="insertion" place="supralinear">with</add> the gay procession, <subst><del rend="overstrike" seq="1">to the music of laughter</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike" seq="3">and the <unclear reason="illegible" cert="low" resp="#kc">swing</unclear> band</del> of laughing pioneers</add></subst> and the <add rend="insertion" place="supralinear">wild trilling</add> bugles of joy.&#8212;</ab><anchor xml:id="d20"/>
+			<ab>Onward he moves with the gay procession, and the laughing pioneers, and the wild&#45;trilling bugles of joy</ab>
+		<anchor xml:id="d2"/></div2>
+			
+	<pb xml:id="leaf005r" facs="loc.00025.014.jpg" type="recto"/>
+	
+		<div2 type="section">
+			<relations>
+				<work ref="xxx.00264" cert="high">
+					<p><ref target="#nde01 #nde02" type="text" xml:id="r01">These segments</ref> are a version of the following lines that appeared in the poem that would be titled "The Sleepers": "Cache and cache again deep in the ground and sea, and where it is neither ground or sea. / Well do they do their jobs, those journeymen divine, / Only from me can they hide nothing and would not if they could; / I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p>
+				</work>
+			</relations>
+			<delSpan rend="hashmark" spanTo="#d9"/>
+			<head type="main" rend="underline">The Poet</head>
+			<ab>
+		<del rend="overstrike">I think</del> His sight is the sight of the <add rend="unmarked" place="supralinear"><note type="authorial" place="inline">?</note> (bird</add> and his scent the instinct of the <add rend="unmarked" place="supralinear"><note type="authorial" place="inline">?</note> dog</add></ab>
+			<milestone unit="undeclared" rend="horbar-full"/>
+
+			<p xml:id="nde01">I think ten million supple&#45;<add rend="insertion" place="supralinear">fingered</add> gods are perpetually employed hiding beauty in the world&#8212;<subst><del rend="overstrike" seq="1">hiding</del> <add rend="unmarked" place="supralinear" seq="2">burying</add></subst> it<del rend="overstrike">s</del> every&#45;where in every&#45;thing&#8212;<del rend="overstrike">but</del> <add rend="unmarked" place="supralinear">and</add> most of all <subst><del rend="overstrike" seq="1">where</del> <add rend="unmarked" place="supralinear" seq="2">in spots that</add></subst> men and women do not think of <del rend="overstrike">it</del>, and never look&#8212;as <del rend="overstrike">in</del> death, and <subst><del rend="overstrike" seq="1">misery</del> <add rend="unmarked" place="supralinear" seq="2">poverty</add></subst> and wickedness.&#8212;Cache <subst><del rend="overstrike" seq="1"><gap reason="illegible" unit="word" quantity="1"/></del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">after</add></del> <add rend="unmarked" place="infralinear" seq="4">and</add></subst> cache <subst><del rend="overstrike" seq="1">&#8212;it is&#8212;</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">again they</add></del></subst> all over the earth, and in the heavens <subst><del rend="overstrike" seq="1">above</del> <add rend="insertion" place="supralinear" seq="2">that swathe the earth</add></subst> and in the <del rend="overstrike">dept</del> waters of the sea.&#8212;<del rend="overstrike">Thei</del> They do their <subst><del rend="overstrike" seq="1">work</del> <add rend="unmarked" place="supralinear" seq="2">jobs</add></subst> well; those <subst><del rend="overstrike" seq="1">supple&#45;fingered gods.</del> <add rend="unmarked" place="supralinear" seq="2">journeymen divine.</add></subst>
+		<anchor xml:id="d9"/>
+
+	<pb xml:id="leaf005v" facs="loc.00025.015.jpg" type="verso"/>
+		<delSpan rend="hashmark" spanTo="#d3"/>
+		<del rend="overstrike">But</del> Only <subst><del rend="overstrike" seq="1">to</del> <add rend="unmarked" place="supralinear" seq="2">from</add></subst> the poet <subst><del rend="overstrike" seq="1">do</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">can</add></del></subst> they <add rend="insertion" place="supralinear">can hide</add> nothing; <add rend="insertion" place="supralinear">and would not if they could.&#8212;</add><del rend="overstrike">hide</del>.&#8212;
+
+<delSpan rend="hashmark" spanTo="#d21"/>		
+		Him they <subst><del rend="overstrike" seq="1">attend</del> <add rend="unmarked" place="supralinear" seq="2">wait on</add></subst> night and day and <del rend="overstrike">show where they take</del> uncover all, that he shall see the naked breast and the most private <space dim="horizontal"/> <del rend="overstrike">of Delight</del>.&#8212;<anchor xml:id="d21"/></p>
+		<milestone unit="undeclared" rend="horbar-full"/>
+
+			<p xml:id="nde02">I <subst><del rend="overstrike" seq="1">think</del> <add rend="unmarked" place="supralinear" seq="2">reckon</add></subst> he is <subst><del rend="overstrike" seq="1">the really the god</del> <add rend="unmarked" place="supralinear" seq="2">Boss</add></subst> of those gods; <subst><del rend="overstrike" seq="1">for they</del> <add rend="unmarked" place="supralinear" seq="2">and the work they do is done for him,</add></subst> and all that they have concealed they have concealed for his <subst><del rend="overstrike" seq="1">sake</del> <add rend="unmarked" place="supralinear" seq="2">sake</add></subst>&#8212;<subst><del rend="overstrike" seq="1">Ahead</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">For</add></del> <add rend="unmarked" place="supralinear" seq="4">Him they attend outdoors or indoors; <del rend="overstrike">to his perceptions they open all.&#8212;</del></add></subst>They <del rend="overstrike">ru</del> run <del rend="overstrike">nimbly</del> ahead <subst><del rend="overstrike" seq="1">as</del> <add rend="unmarked" place="supralinear" seq="2">when</add></subst> he walks, <subst><del rend="overstrike" seq="1">and</del> <add rend="unmarked" place="supralinear" seq="4">and</add> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">to</add></del></subst> lift their cunning covers, and <del rend="overstrike">poi</del> signify <del rend="overstrike">to</del> him with <del rend="overstrike">pointed</del> pointed stretched arms.&#8212;<del rend="overstrike">The</del> <del rend="overstrike">The</del> (They undress Delight</p>
+		<anchor xml:id="d3"/></div2>
+	</div1>
+
+	<pb xml:id="leaf006r" facs="loc.00025.016.jpg" type="recto"/>
+	
+	<div1 type="poem" xml:id="nde08">
+		<relations>
+			<work ref="xxx.00430" cert="high">
+				<p>The ideas and the language in <ref target="#nde08" xml:id="r06" type="text">these lines</ref> appeared, revised, in the following lines from the poem that would be titled "Great are the Myths": "Great is youth, and equally great is old age . . . . great are the day and night; / Great is wealth and great is poverty . . . . great is expression and great is silence. / Youth large lusty and loving . . . . youth full of grace and force and fascination, / Do you know that old age may come after you with equal grace and force and fascination? / Day fullblown and splendid . . . . day of the immense sun, and action and ambition and laughter, / The night follows close, with millions of suns, and sleep and restoring darkness. / Wealth with the flush hand and fine clothes and hospitality: / But then the soul's wealth&#8212;which is candor and knowledge and pride and enfolding love: / Who goes for men and women showing poverty richer than wealth?" (1855, pp. 93&#8211;4).</p>
+			</work>
+		</relations>
+		<delSpan rend="hashmark" spanTo="#d4"/>	
+	<lg>
+		
+		<l>What variety what richness <add rend="unmarked" place="supralinear">in life:</add></l>
+		
+		<l>But <subst><del rend="overstrike" seq="1">grea</del> <add rend="unmarked" place="supralinear" seq="2">richer</add></subst> than life <subst><del rend="overstrike" seq="1">is</del> <add rend="unmarked" place="supralinear" seq="2">spreads out</add></subst> what we call <unclear reason="illegible" cert="high" resp="#nhg">Death</unclear></l>
+		
+		<l>How supple is youth,</l>
+		
+		<l>
+			How muscular, how full of<lb/>
+			love and grace and <choice><orig>unspeak<lb/>
+			able</orig><reg>unspeakable</reg></choice> fascination
+		</l>
+		
+		<l>
+			But old age may wear <del rend="overstrike">more<lb/>
+			love and</del> graces and fascinations<lb/>
+			a thousand fold.
+		</l>
+
+		<l>
+			How large and splendid is<lb/>
+			the sunlit day
+		</l>
+
+		<l>
+			Till the night comes with<lb/>
+			<subst><del rend="overstrike" seq="1">its mystery and darkness</del> <add rend="insertion" place="supralinear" seq="2">transparent darkness and mystery</add></subst><lb/>
+			and the stars,
+		</l>
+
+		<l>
+			<del rend="overstrike">And those</del> <subst><del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">T</add></subst>ouching the soul<lb/>
+			closer than the grandest<lb/>
+			day.
+		</l>
+
+		<l>
+			How magnificent <subst><del rend="overstrike" seq="1">are riches</del> <add rend="unmarked" place="supralinear" seq="2">is wealth</add></subst><lb/>
+			<del rend="overstrike">that spread over one</del> affording<lb/>
+			gifts <del rend="overstrike">without stint</del> from the<lb/><anchor xml:id="d4"/>
+
+	<pb xml:id="leaf006v" facs="loc.00025.017.jpg" type="verso"/>
+<delSpan rend="hashmark" spanTo="#d22"/>
+			ample hand, and superb<lb/>
+			clothes and hospitality
+		</l>
+
+		<l>
+			But all <subst><del rend="overstrike" seq="1">riches are</del> <add rend="unmarked" place="supralinear" seq="2">wealth is</add></subst> nothing to the<lb/>
+			soul's, which <subst><del rend="overstrike" seq="1">are</del> <add rend="unmarked" place="supralinear" seq="2">is</add></subst> candor<lb/>
+			<del rend="overstrike">and life</del> and <del rend="overstrike">all</del> enfolding love,
+		</l>
+
+		<l>
+			Did not Jesus show that<lb/>
+			what we call p<subst><del rend="overwrite" seq="1">rope</del><add rend="overwrite" place="over" seq="2">ove</add></subst>rty<lb/>
+			is <del rend="overstrike">great</del> the greatest <subst><del rend="overstrike" seq="1">riches</del> <add rend="unmarked" place="supralinear" seq="2">wealth</add></subst>?
+		</l>
+	<anchor xml:id="d22"/>
+	</lg>
+	</div1>
+
+	<pb xml:id="leaf007r" facs="loc.00025.018.jpg" type="recto"/>
+	<div1 type="prose">
+	<div2 type="section">
+		<relations>
+			<work ref="xxx.00271" cert="high">
+				<p>Language and ideas from <ref target="#nde09 #nde10" xml:id="r07" type="text">these paragraphs</ref> appeared in the the following lines from the poem that would be titled "Faces": "This now is too lamentable a face for a man; / Some abject louse asking leave to be . . cringing for it, / Some milknosed maggot blessing what lets it wrig to its hole" (1855, p. 83).</p>
+			</work>
+		</relations>
+		<delSpan rend="hashmark" spanTo="#d5"/>
+
+		<p xml:id="nde09">Why what is this curious little <subst><del rend="overstrike" seq="1">thing</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">creature</add></del> <add rend="unmarked" place="supralinear" seq="4">thing</add></subst> <del rend="overstrike">you</del> <subst><del rend="overstrike" seq="1">pr</del> <add rend="unmarked" place="supralinear" seq="2">you</add></subst> <subst><del rend="overstrike" seq="1">out</del> <add rend="unmarked" place="supralinear" seq="2">hold</add></subst> before us?&#8212;<del rend="overstrike">We read in the advertisements of your new <del rend="overstrike">and</del> edition of <subst><del rend="overstrike" seq="1">our</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> race, enlarged and improved.</del> Do you call <subst><del rend="overstrike" seq="1">this</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">such as this</add></del> <add rend="unmarked" place="supralinear" seq="4">such an</add></subst> <subst><del rend="overstrike" seq="1">abject</del> <add rend="unmarked" place="infralinear" seq="2">wretched</add></subst> <subst><del rend="overstrike" seq="1">thing</del> <add rend="unmarked" place="supralinear" seq="2">creature as you have pictured here</add></subst> a man?&#8212;<subst><add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">A</del> <subst><del rend="overwrite" seq="1">m</del><add rend="overwrite" place="over" seq="2">M</add></subst>an is the President of the earth.</add> <del rend="overstrike" seq="1">Why</del></subst> <subst><del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">T</add></subst>his is no man <add rend="insertion" place="supralinear"><del rend="overstrike">Man is <unclear reason="illegible" cert="medium" resp="#kc">a</unclear> master of</del> the President of the <del rend="overstrike"><add rend="insertion" place="supralinear">whole</add></del> earth.</add>.&#8212;This is <subst><del rend="overstrike" seq="1">some</del> <add rend="insertion" place="supralinear" seq="2">the abject</add></subst> louse&#8212;<subst><del rend="overstrike" seq="1">some</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> milk&#45;faced maggot</p>
+<anchor xml:id="d5"/>
+	<pb xml:id="leaf007v" facs="loc.00025.021.jpg" type="verso"/>
+<delSpan rend="hashmark" spanTo="#d23"/><delSpan rend="hashmark" spanTo="#d24"/>
+		<p xml:id="nde10">What an abject <space dim="horizontal"/> creature <space dim="horizontal"/> <del rend="overstrike">would</del> make a <del rend="overstrike">human being</del> man.&#8212;Notice! what louse is this&#8212;<del rend="overstrike">you</del> what <subst><del rend="overstrike" seq="1">crawling snivelling</del> <add rend="unmarked" place="supralinear" seq="2">milk faced</add></subst> maggot, <anchor xml:id="d24"/>
+		
+		that <subst><del rend="overstrike" seq="1">falls</del> <del rend="overstrike" seq="2">lays</del> <add rend="insertion" place="supralinear" seq="3">flattens</add></subst> itself upon the ground, and asks leave to live, <subst><del rend="overstrike" seq="1">as of no</del> <add rend="unmarked" place="supralinear" seq="2">not as of</add></subst> right of its own, but by special favor; <del rend="overstrike">snufflin</del> snivelling how it <subst><del rend="overstrike" seq="1">is</del> <add rend="unmarked" place="interlinear" seq="2">were</add></subst> righteously condemned, being of the vermin race, and <subst><del rend="overstrike" seq="1">is</del> <add rend="unmarked" place="supralinear" seq="2">will <subst><del rend="overstrike" seq="1">crawl</del> <add rend="unmarked" place="infralinear" seq="2">be</add></subst></add></subst> only too thankful <subst><add rend="unmarked" place="supralinear" seq="2">if it <del rend="overstrike" seq="2">be let</del> can, <subst><del rend="overstrike" seq="1">creep</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">crawl</add></del> <add rend="unmarked" place="inline" seq="4">escape</add></subst></add> <del rend="overstrike" seq="1">to go to its hole under the dung, and</del></subst> <subst><del rend="overstrike" seq="1">escape</del> <add rend="unmarked" place="supralinear" seq="2">dodge</add></subst> the stick or booted heel<del rend="overstrike">!</del> and escape to its hole under the dung!
+		</p>
+		<anchor xml:id="d23"/>
+		
+	<pb xml:id="leaf008r" facs="loc.00025.022.jpg" type="recto"/>
+
+		<p>I should think poorly of myself if I <subst><del rend="overstrike" seq="1">could</del> <add rend="unmarked" place="supralinear" seq="2">should</add></subst> be even a few days with any community <add rend="insertion" place="supralinear">either</add> of sane or insane people, and not make them convinced, whether they acknowledged it or not, <subst><del rend="overstrike" seq="1">with</del> <add rend="insertion" place="supralinear" seq="2">of</add></subst> my truth, my sympathy, and my dignity.&#8212;I should be <del rend="overstrike">assured</del> certain enough that those attributes were not in me.&#8212;<del rend="overstrike">The</del> Although it may balk and tremble a few moments on its <add rend="unmarked" place="supralinear">balance?</add> it <del rend="overstrike">is</del> will surely signify</p></div2>
+
+	<pb xml:id="leaf008v" facs="loc.00025.023.jpg" type="verso"/>
+<div2 type="section">
+	<relations>
+		<work ref="xxx.00266" cert="low">
+			<p><ref target="#nde11" xml:id="r08" type="text">These passages</ref> include language and ideas similar to those that appeared in the section from the poem that would be titled "To Think of Time" beginning: "Posh and ice in the river . . . . half-frozen mud in the streets" (1855, p. 66).</p>
+		</work>
+	</relations>
+		<ab>No piety that macerates and flogs itself, and refuses women and laughter and a <del rend="overstrike">rich florid</del> long, strong florid life, <del rend="overstrike">is equal</del> begins to be piety in comparison with that which
+			<milestone unit="undeclared" rend="horbar-full"/></ab>
+
+		<ab>If your souls do not</ab>
+
+		<ab>The most accomplished lapidary cannot <subst><del rend="overstrike" seq="1">tell</del> <add rend="unmarked" place="supralinear" seq="2">separate</add></subst> the real opal an <add rend="unmarked" place="supralinear">?</add> and from their counterfeits in glass, <subst><del rend="overstrike" seq="1">as</del> <add rend="unmarked" place="supralinear" seq="2">so</add></subst> unerringly as the soul can tell what is its truth and what is sham.&#8212;Yet in the <del rend="overstrike">superb</del> ordinations, this clarifying and separating power <add rend="insertion" place="supralinear">in any thing like perfection</add> is not arrived at <del rend="overstrike">in any thing like perfection,</del> hastily.&#8212;Nature is not a young fellow <metamark function="transpose">&#42;</metamark></ab>
+
+	<pb xml:id="leaf009r" facs="loc.00025.024.jpg" type="recto"/>
+		<ab xml:id="nde11">In the city when the streets have been long neglected, they heap up banks of mud in the shape of graves, and put boards at the head and feet, with very significant inscriptions.&#8212;</ab>
+			<milestone unit="undeclared" rend="horbar-full"/>
+		<delSpan rend="hashmark" spanTo="#d25"/>
+		<ab>Comparison between a sincere devotee of any time, and a fashionable preacher.&#8212;</ab>
+		<anchor xml:id="d25"/>
+			<milestone unit="undeclared" rend="horbar-full"/>
+
+		<ab>O yes the Fugitive Slave Law is obeyed northerly every day in the year&#8212;except three hundred and sixty-five</ab>
+
+	<pb xml:id="leaf009v" facs="loc.00025.025.jpg" type="verso"/>
+		<ab>All this Religion of the world -<space dim="horizontal"/>- as it <add rend="unmarked" place="interlinear">is</add> let us not be too stern with it&#8212;it is the meagre grass thin and pale and yellow which shows the life of the soil<del rend="overstrike">; and</del></ab>
+
+		<p>A bell&#45;ringer went out <add rend="insertion" place="supralinear">at night</add> to sound his alarm for a fire.&#8212;After two or three rings, the notes ceased, and when they went to see, the bell ringer was dead.&#8212;</p>
+
+	<pb xml:id="leaf010r" facs="loc.00025.026.jpg" type="recto"/>
+		<ab><subst><del rend="overstrike" seq="1">are</del> <add rend="insertion" place="supralinear" seq="2"><del rend="overstrike">be</del> <gap reason="cut away" atLeast="1" unit="chars"/></add></subst> ready.&#8212;<gap reason="cut away" atLeast="1" unit="chars"/> amplitude of her means, <gap reason="cut away, illegible" atLeast="1" unit="chars"/> time is inconceivably ample.&#8212;<subst><del rend="overstrike" seq="1">Therefore</del> <add rend="unmarked" place="supralinear" seq="2">It is for</add></subst> <subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">S</add></subst>he does not rush, <del rend="overstrike">and</del> nor get in any tight spot that needs hard scratching</ab>
+			<milestone unit="undeclared" rend="horbar-full"/>
+		
+		<delSpan rend="hashmark" spanTo="#d6"/>
+		<ab>Give <add rend="insertion" place="supralinear">me</add> the commander who carries a thousand regiments in his breast <add rend="insertion" place="supralinear">both horses foot;</add> and <add rend="insertion" place="supralinear">in his head</add> whole packs of artillery, the swiftest and best disciplined in the world</ab>
+		<anchor xml:id="d6"/>
+		
+	<pb xml:id="leaf010v" facs="loc.00025.027.jpg" type="verso"/>
+		
+		<ab><gap reason="cut away" atLeast="1" unit="chars"/>
+			<milestone unit="undeclared" rend="horbar-full"/>
+		Comes some one to a man saying, your mother is famished, your brother is blue and dead with cold, and the man answers, I have <del rend="overstrike"><unclear reason="illegible" cert="medium" resp="#kc">big</unclear></del> meat, but it is inconvenient to go for it <add rend="insertion" place="supralinear">just now;</add> and I have cloth but it is out of reach on a <del rend="overstrike">high</del> shelf</ab>
+
+	<pb xml:id="leaf011r" facs="loc.00025.028.jpg" type="recto"/>
+		
+		<ab>Inexplicably curious is <del rend="overstrike">the con</del> what we call happiness.&#8212;I have felt the <subst><del rend="overstrike" seq="1">strange</del> <add rend="unmarked" place="supralinear" seq="2">sweet</add></subst> mystery more for forty minutes cleaning <add rend="insertion" place="supralinear">and gresing</add> my boots, than</ab>
+			<milestone unit="undeclared" rend="horbar-full"/>
+
+		<ab>Has what I have said an <space dim="horizontal"/> seized upon your soul and set its sign there</ab> 
+		<add rend="unmarked" place="interlinear">If not then I know there is no elementary vigor <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">in my</add> <add rend="unmarked" place="infralinear" seq="2">words</add></subst></add> <ab>If <del rend="overstrike">it have</del> not, then I throw my words <subst><del rend="overstrike" seq="1">with</del> <add rend="unmarked" place="supralinear" seq="2">among</add></subst> the <add rend="insertion" place="supralinear">other</add> parings and crusts of the swill tub, and go home and bathe myself, and listen to music, and touch my lips to the flesh of sleeping children, and <add rend="insertion" place="supralinear">come and</add> try again.</ab></div2>
+
+	<pb xml:id="leaf011v" facs="loc.00025.029.jpg" type="verso"/>
+		<div2 type="section"><head type="main">The Poet</head>
+		
+		<ab>What you call your Religion, <del rend="overstrike">however warm it may</del> paint <del rend="overstrike">it as</del> with as much red as you can stick on&#8212;wrench the biggest words <del rend="overstrike">to</del> to describe it&#8212;and then multiply many fold; <del rend="overstrike">yet</del> it is <add rend="insertion" place="supralinear">yet</add> too <subst><del rend="overstrike" seq="1">feeble</del> <add rend="unmarked" place="supralinear" seq="2">feeble</add></subst> and <subst><del rend="overstrike" seq="1">cold</del> <add rend="unmarked" place="supralinear" seq="2">babyish</add></subst> for the Poet.&#8212;He <del rend="overstrike">must</del> will have something <add rend="insertion" place="supralinear">infinitely more</add> alive and ample and strong and fiery and comprehensive.&#8212;</ab>
+		
+		<ab xml:id="ab01" next="#ab02">There is an ugliness undone and unspoken, worse than <del rend="overstrike">the</del> any sins of ignorance or <subst><del rend="overstrike" seq="1">bad temper</del> <add rend="unmarked" place="supralinear" seq="2">uncouth ways.</add></subst>.&#8212;A man shall maliciously tell of <subst><del rend="overstrike" seq="1">some</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> chap <add rend="insertion" place="supralinear">at the table</add> picking his teeth with the dinner fork, and show</ab>
+
+	<pb xml:id="leaf012r" facs="loc.00025.030.jpg" type="recto"/>
+		<delSpan rend="hashmark" spanTo="#d7"/>
+		<ab><subst><del rend="overstrike" seq="1">This hat</del> <add rend="insertion" place="supralinear" seq="2">This being a little hood</add></subst> and <subst><del rend="overstrike" seq="1">coat you have</del> <add rend="unmarked" place="supralinear" seq="2">tunic</add></subst> tailored <del rend="overstrike"><add rend="insertion" place="supralinear">too small</add></del> for <del rend="overstrike">the soul is</del> for some <subst><del rend="overstrike" seq="1">wilted sickly</del> <add rend="unmarked" place="supralinear" seq="2">poor consumptive <del rend="overstrike">wasted</del></add></subst> child, and gaudy with spangles of tin.&#8212;<del rend="overstrike"><add rend="unmarked" place="infralinear">you <unclear reason="illegible" cert="low" resp="#kc">bring</unclear> your clothier's tapes and</add></del></ab>
+		<anchor xml:id="d7"/>
+
+		<ab>For thy soul, <subst><del rend="overstrike" seq="1">that is so large that</del> <add rend="insertion" place="supralinear" seq="2">whose far spreading <del rend="overstrike">the breasts</del> shoulders burst</add></subst> the overcoat of the universe, as <subst><add rend="insertion" place="supralinear" seq="2"><del rend="overstrike">too</del> insupportably</add> <del rend="overstrike" seq="1">inconceivably cramping</del> <add rend="unmarked" place="supralinear" seq="4">pinching and scant</add></subst> and of <subst><del rend="overstrike" seq="1">no</del> <add rend="unmarked" place="supralinear" seq="2">small</add></subst> account.&#8212;<subst><del rend="overstrike" seq="1">that</del> <add rend="unmarked" place="supralinear" seq="2">who</add></subst> <del rend="overstrike">t</del> takes the suns for its <subst><del rend="overstrike" seq="1">toys</del> <add rend="unmarked" place="supralinear" seq="2">toys</add></subst>, and soon wants <del rend="overstrike">something</del> better&#8212;<del rend="overstrike">they will</del> you <subst><del rend="overstrike" seq="1">bring a</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">piece</del> tailor up the</add></subst> little hood and tunic <subst><del rend="overstrike" seq="1">tailored for</del> <add rend="insertion" place="supralinear" seq="2">sizable to</add></subst> some poor consumptive child, and <subst><del rend="overstrike" seq="1">made</del> <add rend="unmarked" place="supralinear" seq="2"> horribly</add></subst> gaudy with spangles of tin?</ab>
+			<milestone unit="undeclared" rend="horbar-full"/>
+		<ab xml:id="ab02" prev="#ab01">an ill bred <subst><del rend="overstrike" seq="1">soul</del> <add rend="unmarked" place="supralinear" seq="2">heart</add></subst> far <del rend="overstrike">worse than</del> more dismal than any want of etiquette.</ab>
+
+	<pb xml:id="leaf012v" facs="loc.00025.031.jpg" type="verso"/>
+		<ab><add rend="unmarked" place="supralinear"><subst><del rend="overwrite" seq="1">S</del><add rend="overwrite" place="over" seq="2">L</add></subst>ooking to the <subst><del rend="overstrike" seq="1">outer</del> <add rend="unmarked" place="supralinear" seq="2">scrofulous</add></subst> politics <del rend="overstrike">whose</del> of Europe, and what comes thence,</add> <del rend="overstrike">Men</del> folks think it <del rend="overstrike">a</del> dismal <subst><del rend="overstrike" seq="1">thing when the kings</del> <add rend="unmarked" place="supralinear" seq="2">that</add></subst> some king or kings daughter, <del rend="overstrike">un</del> unseated from their thrones and exiled, should pine and linger, and be starved of the grand <del rend="overstrike">pre-sustenance which</del> honors and prerogatives of</ab>
+		
+		<ab>But all</ab>
+			<milestone unit="undeclared" rend="horbar-full"/>
+		
+		<ab>Greatness is simply development</ab>
+
+	<pb xml:id="leaf013r" facs="loc.00025.032.jpg" type="recto"/>
+		<p><subst><del rend="overstrike" seq="1">Shall</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">Does</add></del></subst> <subst><del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">T</add></subst>he clothier comes supercilious <subst><add rend="insertion" place="supralinear" seq="2">and swallow tailed</add> <del rend="overstrike" seq="1">and swallow&#45;tailed</del></subst>, <del rend="overstrike">wh</del> <subst><del rend="overstrike" seq="1">with</del> <add rend="insertion" place="supralinear" seq="2">and flirts his</add></subst> measuring tape, <del rend="overstrike">and shears</del> for <subst><del rend="overstrike" seq="1">the</del> <add rend="insertion" place="supralinear" seq="2">my</add></subst> Soul <subst><del rend="overstrike" seq="1">whose</del> <add rend="unmarked" place="supralinear" seq="2">&#8212;my Soul <del rend="overstrike" seq="3">that</del>, with</add></subst> far&#45;<subst><del rend="overstrike" seq="1">stretching</del> <add rend="unmarked" place="supralinear" seq="2">bulging</add></subst> shoulders bursting the overcoat of the <subst><del rend="overstrike" seq="1">universe</del> <add rend="unmarked" place="supralinear" seq="2">heavens</add></subst> as insupportably pinching and scant&#8212;<del rend="overstrike">who takes fiery suns for toys, and soon wants some thing brighter;&#8212;</del>and <subst><del rend="overstrike" seq="1">can</del> <add rend="unmarked" place="supralinear" seq="2">will</add></subst> the <subst><del rend="overstrike" seq="1">swallow tailed gentlemen</del> <add rend="unmarked" place="supralinear" seq="2">loud promising gentlemen</add></subst> duly send home to me nothing better than this <add rend="insertion" place="supralinear">little</add> tunic for some poor consumptive child&#8212;this baby hood, with spangles of tin?</p></div2>
+
+	<pb xml:id="leaf013v" facs="loc.00025.033.jpg" type="verso"/>
+		<div2 type="section">
+			<relations>
+				<work ref="xxx.00264" cert="high">
+					<p><ref target="#nde03 #nde04" type="text" xml:id="r02">These segments</ref> are a version of the following lines that appeared in the poem that would be titled "The Sleepers": "Cache and cache again deep in the ground and sea, and where it is neither ground or sea. / Well do they do their jobs, those journeymen divine, / Only from me can they hide nothing and would not if they could; / I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p>
+				</work>
+			</relations>
+			<delSpan rend="hashmark" spanTo="#d8"/>
+		<p xml:id="nde03">I think ten million supple&#45;<subst><del rend="overstrike" seq="1">fingered</del> <add rend="unmarked" place="supralinear" seq="2">wristed</add></subst> gods are <subst><del rend="overstrike" seq="1">perpetually employed</del> <add rend="unmarked" place="supralinear" seq="2">always</add></subst> hiding beauty in the world&#8212;burying it every where <del rend="overstrike">in</del> every thing&#8212;and most of all in spots that men and women do not think of and never look&#8212;as Death and Poverty and Wickedness.&#8212;Cache! and Cache again! all over the earth, and in the heavens that swathe the earth, and in the waters of the sea.&#8212;They do their jobs well; those journeymen divine. Only from the Poet they can hide nothing and would not if they could.&#8212;I reckon he is Boss of those gods; and the work they do is done for him; and all they have concealed, they have concealed for his sake.&#8212;Him they attend indoors and outdoors.&#8212;They run ahead when he walks, and lift their cunning covers and signify him with pointed stretched arms.</p>
+		
+		<p xml:id="nde04">Their President and their Pet! I see them lead him now.&#8212;I see his large, slow gait&#8212;his face illuminated like the face of an arm&#45;bound child. Onward he moves with the gay procession, and the laughing pioneers, and the wild trilling bugles of joy.&#8212;</p>
+		<anchor xml:id="d8"/></div2>
+		
+	<pb xml:id="leaf014r" facs="loc.00025.034.jpg" type="recto"/>
+		<pb xml:id="leaf014v" facs="loc.00025.035.jpg" type="verso"/>
+	</div1>
+
+</body>
+</text>
+</TEI>
