@@ -3,9 +3,9 @@
 <?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
 
 <TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.05589">
-<relations>
+<!--<relations>
 <work ref="xxx.00001"><p>This notebook, now lost, contains much draft material used in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, in addition to a few images and phrasings that Whitman used in the second (1856) and third (1860) editions.</p></work>
-</relations>
+</relations>-->
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -75,6 +75,7 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
+         <change who="#bb" when="2016-11-15">commented out the relations markup immediately inside the TEI element</change>
          <change who="#bb" when="2016-08-09">changed title to be based upon the first bit of our own transcription</change>
          <change who="#bb" when="2016-07-18">incorporated Ken's proofreading corrections</change>
          <change who="#bb" when="2016-04-14">revised; added work IDs</change>

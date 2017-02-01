@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00158">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"Summer Duck"</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="bb">Brett Barney</persName>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.00158</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2016 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+        <note type="project" target="#dat1">
+	<note type="project" target="#dat1">These pages were written by Whitman in the early to mid-1850s. William White described the pages as "torn from a tall notebook" (<hi rend="italic">Daybooks and Notebooks</hi> [New York: New York University Press, 1978], 770&#8211;773). White noted a possible relationship between the opening words and the first poem of the 1855 edition, eventually titled "Song of Myself." The lines at the end of this manuscript were also reworked and used for a different section of the same poem. For further discussion of the dating and importance of this notebook, see Matt Miller, <hi rend="italic">Collage of Myself: Walt Whitman and the Making of</hi> Leaves of Grass (Lincoln: University of Nebraska Press, 2010), 26&#8211;29.</note> 
+          </note>             
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Wood drake</title>
+                    <date cert="medium" notBefore="1852" notAfter="1855" xml:id="dat1">Between 1852 and 1855</date>
+                    <idno type="callno">MSS18630</idno>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2017-01-12" who="#bb">correct based on Ken's proofreading</change>
+            <change when="2016-10-25" who="#bb">corrected; added Work IDs and date information</change>
+            <change when="2015-04-05" who="#kc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="notebook">
+        <body>
+            <pb xml:id="leaf001r" facs="loc_nhg.00015.jpg" type="recto"/>
+            <div1 type="notes">
+	<relations>
+       <work ref="xxx.00048" cert="high">
+		<p>These notes about the "summer duck" contributed to the following lines in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Song of Myself.": "My tread scares the wood-drake and wood-duck on my distant and day-long ramble, / They rise together, they slowly circle around. / . . . / And acknowledge the red yellow and white playing within me, / And consider the green and violet and the tufted crown intentional" (p. 20).</p>
+	   </work>
+    </relations>
+            <ab rend="hanging indent">
+                "Summer Duck" or "Wood Duck" <add rend="insertion" place="supralinear">"wood drake"</add> very gay, including in its colors white,<lb/> red, yellow, green, blue, &amp;c crowns violet&#8212;length 20 inches<lb/>&#8212;common in the United States&#8212;often by <del rend="overstrike">creeks</del> streams and<lb/> ponds&#8212;rises and slowly circuits&#8212;selects hollow<lb/> trees to breed in&#8212;keep in parties&#8212;generally move in pairs <add rend="unmarked" place="supralinear">at least</add></ab>
+
+            <ab rend="hanging indent">King Bird "Tyrant Flycatcher" length 8&#189; inches&#8212;loud shrill voice&#8212;<lb/>attacks hawks and crows as if for amusement&#8212;when tired it<lb/> retreats to some stake or limb, with a triumphant twitter.&#8212;</ab>
+                <ab rend="hanging indent">Peewee&#8212;<add rend="insertion" place="supralinear">one of the</add> earliest comers in spring&#8212;builds nest often under the<lb/> eaves of a deserted house or barn&#8212;pleasing note&#8212;</ab>
+                <ab rend="hanging indent">"Redstart"&#8212;beautiful small bird arrives here latter part of April,<lb/> returns south late in September&#8212;common in<lb/> woods and along roadside and meadow&#8212;feeds on insects&#8212;<lb/>active&#8212;has a lively twitter.&#8212;</ab>
+                <note type="authorial" place="inline">&#9758;All the above are met on Long Island</note>
+            </div1>
+            <div1 type="notes">
+            <ab rend="right">young squaw<lb/> Papoose&#8212;<add rend="unmarked" place="supralinear">old</add> squaw
+            </ab>
+            </div1>
+            <div1 type="prose">
+            <p>One personal deed,&#8212;one <del rend="overstrike">great</del> effusion of some grand strength and will of man&#8212;may go far beyond law, custom, and all other conventionalisms&#8212;and seize upon the heart of the whole race, utterly defiant of authority&#8212;or argument against <del rend="overstrike"><unclear reason="illegible" cert="medium" resp="#bb">them</unclear></del> it.&#8212;</p></div1>
+            <div1 type="prose">
+            <p>Do you suppose the world is finished, at any <add rend="insertion" place="supralinear">certain</add> time&#8212;like a contract for paving a street?&#8212;Do you suppose because the American government has been formed, and public schools established, we have nothing more to do but take our ease, and make money, and <del rend="overstrike">let this grow</del> sleep out the rest of the <unclear reason="illegible" resp="#bb" cert="medium">time</unclear>?</p>
+            </div1>            
+            <div1 type="prose">
+              <p>Fear <subst><del rend="overstrike" seq="1">delectation!</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="supralinear" seq="2">delicatesse</add></del> <add rend="unmarked" place="supralinear" seq="3">grace!</add></subst> Fear <subst><del rend="overstrike" seq="1">grace!&#8212;</del> <add rend="unmarked" place="supralinear" seq="2">delicatesse!&#8212; <add rend="unmarked" place="supralinear"><note type="authorial"><del rend="overstrike">al</del> del-i-ca-te&#347;s&#8212;</note></add></add></subst> These precede the <note type="authorial" place="inline">(what is it in fruit when just ripe)</note> terrible ripeness of nature&#8212;the decay of the ruggedness of <del rend="overstrike">a</del> m<subst><del rend="overwrite" seq="1">a</del><add rend="overwrite" place="over" seq="2">e</add></subst>n&#8212;<del rend="overstrike">the</del> and of <del rend="overstrike">a</del> natio<subst><del rend="overwrite" seq="1">n</del><add seq="2" rend="overwrite" place="over">ns</add></subst>.&#8212;</p></div1>
+            
+            <pb xml:id="leaf001v" facs="loc_nhg.00016.jpg" type="verso"/>
+<!-- BEGIN HERE -->
+            <div1 type="prose"><ab>Go on! go on! we ha'n't got time</ab></div1>
+            
+            <div1 type="notes"><p>Ens <add rend="unmarked" place="supralinear">l</add>&#8212;a being, existence, essence, that recondite part of a substance from which all its qualities flow, (<unclear reason="illegible" resp="#kc" cert="medium">old</unclear> term in metaphysics)</p></div1>
+
+            <milestone unit="undeclared" rend="horbar-short-left"/>
+            
+            <div1 type="notes">
+            <p><add rend="unmarked" place="interlinear" xml:id="a2">Look out there's</add> <seg xml:id="a1">"Take heed to yourselves&#8212;there's</seg> a mad man <subst><del rend="overstrike" seq="1">stalking</del> <add rend="unmarked" place="supralinear" seq="2">loose</add></subst> <seg xml:id="a3">through</seg> <add rend="unmarked" place="interlinear" xml:id="a4">in</add> the ship, with a knife in his hands,"&#8212;such was the warning sung out at night more than once below in the Old Jersey prison ship, <add rend="insertion" place="supralinear">1780</add> moored at the Wallabout, in the revolution.&#8212;Utter derangement was a frequent symptom of the aggravated sicknesses that prevailed there.&#8212;The prisoners were allowed no light at night.&#8212;<alt target="#a1 #a2"/><alt target="#a3 #a4"/></p>
+            
+            <p>No physicians were <del rend="overstrike">allowed</del> provided.&#8212;</p>
+            </div1>
+            <div1 type="notes">
+            <p>Sophocles, Eschylus, and Euripides flourished about the time of the birth of Socrates 468 B.C. <add rend="insertion" place="interlinear">and years afterward.</add>&#8212;Great as their remains are, they were transcended by other works that have not come down to us.&#8212;Those other works, often gained the first prizes.&#8212;</p>
+            
+            <p>In Eschylus the figures are shadowy, vast, and majestic&#8212;dreaming, moving with haughty grandeurs, strength and will</p>
+            
+            <p>In <choice><sic>Sophokles</sic><corr>Sophocles</corr></choice>, the dialogue and feelings are more like reality and the interest approaches home,&#8212;great poetical beauty.&#8212;</p>
+            
+            <p>In Euripides, love and compassion&#8212;scientific refinement,&#8212;something like skepticism.&#8212;This writer was a hearer of Socrates.&#8212;</p>
+            </div1>
+            <div1 type="notes">
+            <p><hi rend="underline">Phallic festivals</hi>.&#8212;wild mirthful processions in honor of the god Dionysus <add rend="unmarked" place="supralinear">(Bacchus)</add>&#8212;in Athens, and other parts of Greece&#8212;unbounded license&#8212;mocking jibes and irony&#8212;epithets and biting insults</p>
+            </div1>
+            <div1 type="verse">
+            <lg type="poem">
+                <head type="main">To the Poor&#8212;</head>
+                <l>I have my place among you</l>
+                <l>Is it nothing that I have preferred to be poor, rather than<lb/> to be rich?</l>
+                <l>The road to riches is easily open to me,</l>
+                <l>But I do not choose it.</l>
+                <l>I choose to stay with you.&#8212;</l>
+            </lg>
+            </div1>
+            
+            <pb xml:id="leaf002r" facs="loc_nhg.00017.jpg" type="recto"/>
+
+            <div1 type="prose">
+            <p><gap reason="cut away" atLeast="1" unit="chars"/>(bring in a few<gap reason="cut away" atLeast="1" unit="chars" extent="several words"/> of ancient, and modern times&#8212;the worst I can find and the most <unclear reason="illegible" resp="#bb" cert="medium">comely </unclear>and their <subst><del rend="overstrike" seq="2"><add rend="unmarked" place="supralinear">ope</add></del> <del rend="overstrike" seq="1">effects&#8212;</del> <add rend="unmarked" place="supralinear" seq="3">practical</add></subst> operations.)</p>
+            </div1>
+
+            <div1 type="prose">
+            <p>Does any one tell me that it is the part of a man to obey such enactments as these?</p>
+            <p>I tell you the world is demented with this very obedience&#8212;</p>
+            <p>When a man, untrammeling himself from blind obedience to <del rend="overstrike">pries</del> the craft of priests and politicians, branches out with his own sovereign will and strength&#8212;knowing that <del rend="overstrike">himself</del> the unspeakable <add rend="insertion" place="supralinear">greatness</add> of himself, or of the meanest of his fellow creatures&#8212;expands far beyond all the laws and governments of the earth&#8212;then he begins really to be a man.&#8212;Then he is great.&#8212;</p>
+            </div1>
+            <div1 type="prose">
+            <ab><span rend="bracket-left" from="#a5" to="#a6" xml:id="a5">From the baldness of birth to the baldness of burials and shrouds<anchor xml:id="a6"/></span></ab>
+            </div1>
+            <div1 type="prose">
+            <p><hi rend="underline">Something behind or afterward.</hi>&#8212;Leave the impression that no matter what is said, there is something greater to say&#8212;something behind still more marvellous and beautiful&#8212;</p>
+            </div1>
+
+            <pb xml:id="leaf002v" facs="loc_nhg.00018.jpg" type="verso"/>
+
+            <div1 type="prose">
+            <p><gap reason="cut away" atLeast="1" unit="chars" extent="several words"/> He does better with spare<gap reason="cut away" atLeast="1" unit="chars" extent="several words"/> out, hunger, starvation, opposing enemies, contentious</p>
+            </div1>
+            <div1 type="prose">
+            <p><hi rend="underline">Riches.</hi>&#8212;It is only the mean and vulgar appetite that craves money <del rend="overstrike">and property</del> <add rend="insertion" place="supralinear">as the</add> first and foremost of its wants</p>
+            </div1>
+
+            <milestone unit="undeclared" rend="horbar-full"/>
+            
+            <delSpan rend="hashmark" spanTo="#d01"/>
+            <div1 type="verse">
+            <lg type="poem">
+
+	<relations>
+       <work ref="xxx.00048" cert="high">
+		<p>Several of the lines in this draft were reworked and included in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Song of Myself."
+The first line became "I step up to say that what we do is right and what we affirm is right . . . . and some is only the ore of right." The line "I have not appeared . . . " became "I moisten the roots of all that has grown." The line "Do you suppose the celestial laws . . ." became "Did you guess the celestial laws are yet to be worked over and rectified?" The fragmentary line at the end became "What blurt is it about virtue and about vice?" (p. 28).</p>
+	   </work>
+    </relations>
+
+            <lg type="linegroup">
+                <l>I have appeared among you to say that <subst><del rend="overstrike" seq="1">all</del> <add rend="unmarked" place="supralinear" seq="2">what</add></subst> you do is<lb/> right, and <del rend="overstrike">that</del> what you affirm is right;</l>
+                <l>But that <subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#bb">it is</unclear></del> <add rend="unmarked" place="supralinear" seq="2">they are</add></subst> only the alphabet<note place="supralinear">?</note> of right.&#8212;</l>
+                <l>And that you shall use them as beginnings and first attempts.&#8212;</l>
+            </lg>
+            <lg type="linegroup">
+
+                <l>I have not appeared <del rend="overstrike">to take any</del> with violent<lb/> hands to pull up by the roots any thing that has grown,</l>
+                <l>Whatever has grown, has grown well.&#8212;</l>
+                <l>Do you <subst><del rend="overstrike" seq="1">suppose</del> <add rend="unmarked" place="supralinear" seq="2">fancy</add></subst> there <subst><del rend="overstrike" seq="1">was any flaw</del> <add rend="insertion" place="supralinear" seq="2">is some water<del rend="overstrike">s</del></add></subst> in the<lb/> semen of the <del rend="overstrike">first</del> perpetual copulation?</l>
+                <l>Do you <subst><del rend="overstrike" seq="1">believe</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">of</del> suppose</add></subst> the <subst><del rend="overstrike" seq="1">universe</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overwrite"><gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/></del><add rend="overwrite" place="over">celestial</add> laws <del rend="overstrike">of</del></add></subst> might be reformed and<lb/> rectified?</l>
+            </lg>
+            <lg type="linegroup">
+            <l><gap reason="torn away" atLeast="7" unit="chars" extent="several words"/><unclear reason="illegible" resp="#bb" cert="medium">Virtue</unclear> and about Vice <gap reason="cut away" atLeast="1" unit="chars"/></l>
+            <l><gap reason="torn away" atLeast="1" unit="chars" extent="several words"/>what<gap reason="torn away" atLeast="1" unit="chars" extent="an unknown number of words"/></l>
+            </lg>
+            </lg>
+            </div1>
+            <anchor xml:id="d01"/>
+        </body>
+    </text>
+</TEI>

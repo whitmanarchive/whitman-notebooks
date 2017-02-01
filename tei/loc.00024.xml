@@ -46,14 +46,14 @@
 </availability>
 </publicationStmt>
 <notesStmt>
-	<note type="project" target="#dat1">Whitman likely wrote the building specifications on what is presented here as the last page of this notebook first, and then flipped the notebook over and wrote notes from the other direction. References to the <hi rend="italic">San Francisco</hi> can be dated to sometime after January 1854. The cover of the notebook is labeled "Note Book Walt Whitman" in a hand that is not Whitman's. Selections from this notebook were used in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>. See Edward Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:113&#8211;117.</note>                        	
+	<note type="project" target="#dat1">Whitman likely wrote the building specifications on what is presented here as the last page of this notebook first, and then flipped the notebook over and wrote notes from the other direction. References to the <hi rend="italic">San Francisco</hi> can be dated to sometime after January 1854. The cover of the notebook is labeled "Note Book Walt Whitman" in a hand that is not Whitman's. Selections and subjects from this notebook were used in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, including phrases from the poems that would later be titled "Song of Myself" and "Song of the Answerer." See Edward Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:113&#8211;117.</note>                        	
 </notesStmt>
 <sourceDesc>
 <bibl>
 <author>Walt Whitman</author>
 <title>Notebook LC #83</title>
 	<date cert="medium" notBefore="1853" notAfter="1855" xml:id="dat1">Between 1853 and 1855</date>
-	<idno type="callno">MSS45443</idno> 
+	<idno type="callno">MSS45443, Box 2, Reel 1</idno> 
 	<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
 	<note type="project">Transcribed from digital images of the original item.</note>
 </bibl>
@@ -141,7 +141,7 @@
 
 </div2>
 
-<pb facs="loc.00024.011.jpg" xml:id="leaf006v" type="verso"/>
+<pb facs="loc.00024.011.jpg" xml:id="leaf006r" type="recto"/>
 
 <div2 type="poem">
 
@@ -155,7 +155,7 @@
 </lg>
 </div2>
 
-<pb facs="loc.00024.012.jpg" xml:id="leaf007r" type="recto"/>
+<pb facs="loc.00024.012.jpg" xml:id="leaf006v" type="verso"/>
 
 <div2 type="prose">
 <ab>Black Bob and the young girl</ab>
@@ -164,7 +164,7 @@
 <ab>When the San Francisco was wrecked, the most valuable <subst><del rend="overwrite" seq="1">g</del><add rend="overwrite" place="over" seq="2">j</add></subst>ewelry lay about the cabin unnoticed on the floor</ab>
 	<milestone unit="undeclared" rend="horbar-full"/></div2>
 	
-	<pb facs="loc.00024.013.jpg" xml:id="leaf006r" type="recto"/>
+	<pb facs="loc.00024.013.jpg" xml:id="leaf007r" type="recto"/>
 <div2 type="prose">
 	<relations>
 		<work ref="xxx.00127" cert="low">

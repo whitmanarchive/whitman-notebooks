@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
 <?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>  
 
@@ -65,7 +65,8 @@
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
-         <change who="#bb" when="2016-07-18">incorporated Ken's proofreading corrections</change>
+      <change who="#bb" when="2016-11-15">corrected values of @xml:id on pb elements</change>
+      <change who="#bb" when="2016-07-18">incorporated Ken's proofreading corrections</change>
       <change when="2016-05-13" who="#bb">revised; added dating note</change>
       <change when="2016-04-21" who="#nhg">added work relations information from previous transcription</change>
       <change when="2015-02-05" who="#kc">converted from P4 to P5, checked</change>
@@ -118,7 +119,7 @@
     </work>
     </relations>
         <p>Exist.&#8212;<del rend="overstrike">The Soul is larger than the</del> Do not trouble yourself to <subst><del rend="overstrike" seq="1">set</del> <add rend="unmarked" place="supralinear" seq="6">soothe</add> <del rend="overstrike" seq="5"><add rend="unmarked" place="supralinear" seq="4">satisfy</add></del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">soothe</add></del></subst> sputterers and <del rend="overstrike">babb</del> infidels <add rend="unmarked" place="supralinear">?</add>.&#8212; (Manure <subst><del rend="overstrike" seq="1">thy soul,</del> <add rend="unmarked" place="supralinear" seq="2">the fields of the heart,</add></subst> for it brings great crops.&#8212;) <del rend="overstrike">As</del> <subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">S</add></subst>ure as the
-<pb xml:id="leaf004r" facs="nyp.00129.005.jpg" type="recto"/>
+<pb xml:id="leaf003r" facs="nyp.00129.005.jpg" type="recto"/>
 most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&#8212;<del rend="overstrike">you</del> the effects <subst><del rend="overstrike" seq="1">come when</del> <add rend="unmarked" place="supralinear" seq="2">appear after</add></subst> the causes <subst><del rend="overstrike" seq="1">appear.</del> <add rend="unmarked" place="supralinear" seq="2">are born.</add></subst></p>
         <milestone unit="undeclared" rend="horbar-full"/>
       </div1>
@@ -127,9 +128,9 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
         <p>I see on the Egyptian head-rests the most hideous forms and combinations of groups as if they intended to scare away <unclear reason="illegible" cert="high" resp="#bb">unrest</unclear></p>
       </div1>
 
-<pb xml:id="leaf004v" facs="nyp.00129.006.jpg" type="verso"/>
+<pb xml:id="leaf003v" facs="nyp.00129.006.jpg" type="verso"/>
 
-<pb xml:id="leaf005r" facs="nyp.00129.007.jpg" type="recto"/>
+<pb xml:id="leaf004r" facs="nyp.00129.007.jpg" type="recto"/>
       <div1 type="prose">
 
 
@@ -147,22 +148,22 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
         <p>Greater than <del rend="overstrike">b</del> wires of iron or treaties, or even strong mutual interests is <del rend="overstrike">the</del> <choice><sic>Smpathy</sic><corr>Sympathy</corr></choice>.&#8212;When Creighton <add rend="insertion" place="supralinear"> </add> <subst><del rend="overwrite" seq="1"><unclear reason="illegible" cert="medium" resp="#kc">re</unclear></del><add rend="overwrite" place="over" seq="2">ho</add></subst>ve <del rend="overstrike">too</del> to for many days and nights and rescued the wrecked thousand on the <subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">S</add></subst>an Francisco</p>
       </div1>
 
-<pb xml:id="leaf005v" facs="nyp.00129.008.jpg" type="verso"/>
+<pb xml:id="leaf004v" facs="nyp.00129.008.jpg" type="verso"/>
       <div1 type="prose">
         <p>If a man spatter mud on his new clothes, by <subst><del rend="overwrite" seq="1"><unclear reason="illegible" cert="low" resp="#bb">re</unclear></del><add rend="overwrite" place="over" seq="2">lifting</add></subst> a child or an old woman over the <subst><del rend="overstrike" seq="1">gutter</del> <add rend="unmarked" place="supralinear" seq="2">slush</add></subst> let him nevertheless be content.&#8212;Mud like that strikes in and makes beauty spots</p>
       </div1>
 
-<pb xml:id="leaf006r" facs="nyp.00129.009.jpg" type="recto"/>
+<pb xml:id="leaf005r" facs="nyp.00129.009.jpg" type="recto"/>
       <div1 type="prose">
         <head type="main"><hi rend="underline">Pride of Birth</hi>.&#8212;</head>
         <p>There is nothing in <metamark function="transpose" place="supralinear" rend="insertion" xml:id="tr01">&#42;</metamark> <add rend="unmarked" place="supralinear">nothing</add> royal blood, or <subst><del rend="overwrite" seq="1">in</del><add rend="overwrite" place="over" seq="2">the</add></subst> <subst><del rend="overstrike" seq="1">succession</del> <add rend="unmarked" place="supralinear" seq="2">inheritance</add></subst> through a direct line of the <add rend="insertion" place="supralinear">name of the</add> most <add rend="insertion" place="supralinear"><subst><del rend="overwrite" seq="1">re<gap reason="illegible" atLeast="4" unit="chars" extent="about four letters"/></del><add rend="overwrite" place="over" seq="2">historical</add></subst></add> heroes, or <del rend="overstrike">in any</del> <add rend="insertion" place="supralinear"><metamark function="transpose" place="supralinear" rend="insertion, bracketed" target="#tr02">tr &#42;</metamark></add> 
 <metamark function="group">(</metamark><transpose anchored="1" target="#tr01" xml:id="tr02">the eminency of any office of President or Governor or Mayor,</transpose><metamark function="group">)</metamark> <del rend="overstrike">that begins to</del> <del rend="overstrike">but</del> <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/></del> that should make us carry our heads so high, <subst><del rend="overwrite" seq="1">as</del> <add rend="overwrite" place="over" seq="2">and</add></subst> so fill us with <subst><del rend="overstrike" seq="1">more than imperial pride,</del> <add rend="unmarked" place="supralinear" seq="2">bulging pride <del rend="overstrike" seq="3">than ever spread itself in capitols, or courts,</del></add></subst> as the consciousness that we are <del rend="overstrike">hum</del> human souls.&#8212;<subst><del rend="overwrite" seq="1">H</del><add rend="overwrite" place="over" seq="2">O</add></subst>ffice, however <subst><del rend="overstrike" seq="1">high</del> <add rend="unmarked" place="supralinear" seq="2">exalted</add></subst>, and wealth, however capacious, <subst><del rend="overstrike" seq="2"><add rend="insertion" place="supralinear" seq="1">may but</add></del> <add rend="unmarked" place="supralinear" seq="2">often</add></subst> show <del rend="overstrike">many</del> a mean and starved nature
-<pb xml:id="leaf006v" facs="nyp.00129.010.jpg" type="verso"/>
+<pb xml:id="leaf005v" facs="nyp.00129.010.jpg" type="verso"/>
 <del rend="overstrike">for their <unclear reason="illegible" resp="#bb" cert="low">domos</unclear>; as the</del></p>
         <p>The best of such distinction<add rend="unmarked" place="inline">s</add> abstractly amount<del rend="overstrike">s</del> to little.&#8212; Toiled for, suffered for, lived for, as they are by the <del rend="overstrike">vast</del> majority of men, their <add rend="insertion" place="supralinear">only real</add> charm is that they <del rend="overstrike">but faintly</del> symbolize <add rend="insertion" place="supralinear">afar off</add> the unspeakable haughtiness and nob<subst><del rend="overwrite" seq="1">ility</del><add rend="overwrite" place="over" seq="2">leness</add></subst> which<del rend="overstrike">,</del> <del rend="overstrike">are grace</del> the <subst><del rend="overstrike" seq="1">soul</del> <add rend="unmarked" place="supralinear" seq="2">personality</add></subst> of <del rend="overstrike">every</del> man carries well, if he <subst><del rend="overstrike" seq="1">but</del> <add rend="unmarked" place="supralinear" seq="2">once</add></subst> take the hint of his <add rend="insertion" place="supralinear">own</add> <del rend="overstrike">inalienable</del> birthright.</p>
       </div1>
 
-<pb xml:id="leaf007r" facs="nyp.00129.011.jpg" type="recto"/>
+<pb xml:id="leaf006r" facs="nyp.00129.011.jpg" type="recto"/>
       <delSpan rend="hashmark" spanTo="#d3"/>
       <div1 type="prose">
         <relations>
@@ -180,7 +181,7 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
       </div1>
       <anchor xml:id="d3"/>
 
-<pb xml:id="leaf007v" facs="nyp.00129.012.jpg" type="verso"/>
+<pb xml:id="leaf006v" facs="nyp.00129.012.jpg" type="verso"/>
       <div1 type="prose">
         <p>Yes he is like a small boy who raises a big kite, and it pulls entirely too hard for him.&#8212; He had better let it go ere it carry him entirely <del rend="overstrike">out</del> up in the air and out of sight</p>
       </div1>
@@ -188,7 +189,7 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
       <div1 type="prose">
         <p>A coffin swimming buoyantly on the swift flowing current of the river</p>
       </div1>
-<pb xml:id="leaf008r" facs="nyp.00129.013.jpg" type="recto"/>
+<pb xml:id="leaf007r" facs="nyp.00129.013.jpg" type="recto"/>
       <div1 type="prose">
         <p>Yes I believe in the Trinity,&#8212;God Reality&#8212;God Beneficence or Love&#8212;and God <choice><orig>Imortality</orig><reg>Immortality</reg></choice> or Growth.</p>
       </div1>
@@ -198,7 +199,7 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
         <p>He dives in the water for a <subst><del rend="overstrike" seq="1">dead</del> <add rend="unmarked" place="supralinear" seq="2">drowned</add></subst> man and sees the body <del rend="overstrike">and</del> with open staring eyes and the hair floating out and up from his head</p>
         <anchor xml:id="d2"/>
       </div1>
-<pb xml:id="leaf008v" facs="nyp.00129.014.jpg" type="verso"/>
+<pb xml:id="leaf007v" facs="nyp.00129.014.jpg" type="verso"/>
       <delSpan rend="hashmark" spanTo="#d4"/>
       <div1 type="verse">
         <relations>
@@ -224,7 +225,7 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
       </div1>
       <anchor xml:id="d4"/>
       
-<pb xml:id="leaf009r" facs="nyp.00129.015.jpg" type="recto"/>
+<pb xml:id="leaf008r" facs="nyp.00129.015.jpg" type="recto"/>
       <div1 type="prose">
         <relations>
           <work ref="xxx.00048" cert="high">
@@ -238,7 +239,7 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
         <p>The style of the most magnificent heroes or rulers is</p>
       </div1>
       
-<pb xml:id="leaf009v" facs="nyp.00129.016.jpg" type="verso"/>
+<pb xml:id="leaf008v" facs="nyp.00129.016.jpg" type="verso"/>
 
       <div1 rend="prose">
         <p>
@@ -251,23 +252,23 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
         <p>Loyalty of some flatterer of royalty who (latter) is brought to the scaffold</p>
       </div1>
 
-<pb xml:id="leaf010r" facs="nyp.00129.017.jpg" type="recto"/>
+<pb xml:id="leaf009r" facs="nyp.00129.017.jpg" type="recto"/>
       <div1 type="prose">
         <p><subst><del rend="overstrike" seq="1">The reason that</del> <add rend="unmarked" place="supralinear" seq="2">Who do</add></subst> <del rend="overstrike">the</del> we <subst><del rend="overstrike" seq="1">turn f</del> <add rend="unmarked" place="supralinear" seq="2">look</add></subst> back, <add rend="unmarked" place="supralinear">as</add> century after <add rend="unmarked" place="supralinear">century</add> adds to the leng<subst><del rend="overwrite" seq="1">h</del><add rend="overwrite" place="over" seq="2">th</add></subst> of the road between us,&#8212;why do we <add rend="insertion" place="supralinear">always</add> turn with <del rend="overstrike"><unclear reason="illegible" resp="#bb" cert="medium">living</unclear></del> pleasure and curiosity to the sayings and doings <add rend="insertion" place="supralinear">thirty centuries ago</add> of wandering Jewish tribes, of little Greek communit<subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">ies</add></subst>, o<subst><del rend="overwrite" seq="1">r</del><add rend="overwrite" place="over" seq="2">f</add></subst> half savage Rome, and of Ethiopia and Persia? There is something in those sayings and doings that effuses directly from the soul&#8212;Raw and bungling as they send it out, <del rend="overstrike">&#8212;</del> <subst><del rend="overwrite" seq="1">T</del><add rend="overwrite" place="over" seq="2">t</add></subst>hey do not <del rend="overstrike">give it f<gap reason="illegible" atLeast="3" unit="chars" extent="about three letters"/></del> send it out at second hand, but fresh and alive.&#8212;</p>
       </div1>
 
-<pb xml:id="leaf010v" facs="nyp.00129.018.jpg" type="verso"/>
+<pb xml:id="leaf009v" facs="nyp.00129.018.jpg" type="verso"/>
       <div1 type="prose">
         <metamark function="transpose" target="#p01">&#42;</metamark> <transpose anchored="0" xml:id="p01"><p>This Poetry, or aliment of the soul, we must have.&#8212;It is clamored for with the most irresistible longing.&#8212;Accordingly it is everywhere and <del rend="overstrike">upon</del> each <del rend="overstrike">objec</del> and all that our senses can</p></transpose>
         <p>Children and simple people often <del rend="overstrike">touch the <gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/> tune</del> make speeches that illustrate <del rend="overstrike">this relation with</del> some of these relations, better</p>
       </div1>
       
-<pb xml:id="leaf011r" facs="nyp.00129.019.jpg" type="recto"/>
+<pb xml:id="leaf010r" facs="nyp.00129.019.jpg" type="recto"/>
       <div1 type="prose">
         <p><add rend="insertion" place="supralinear">Much</add> <subst><del rend="overwrite" seq="1">T</del><add rend="overwrite" place="over" seq="2">t</add></subst>he largest portion of what rides jauntily through the <del rend="overstrike">world</del> literary <subst><del rend="overstrike" seq="1">world</del> <add rend="unmarked" place="supralinear" seq="2">avenues</add></subst> as poetry, and keeps the saddle for scores, perhaps fifties of years, is awkward and <subst><del rend="overstrike" seq="1">ill-bouncing</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2"><unclear reason="illegible" resp="#bb" cert="medium">badly</unclear></add></del> <add rend="unmarked" place="supralinear" seq="4">ill paced</add></subst> enough;&#8212;<subst><del rend="overstrike" seq="1">Jingling</del> <add rend="unmarked" place="supralinear" seq="2">such as</add></subst> Love-<subst><del rend="overstrike" seq="1">songs</del> <add rend="unmarked" place="supralinear" seq="2">shambles</add></subst>, in long metre or short, <del rend="overstrike">some very</del> some of them ardent, <del rend="overstrike">and</del> but most of them very dismal and spavined<subst><add rend="unmarked" place="inline" seq="2">,</add> <del rend="overstrike" seq="2">;</del></subst> <subst><del rend="overstrike" seq="1">make up</del> <add rend="unmarked" place="supralinear" seq="2">&#8212;both styles</add></subst> <del rend="overstrike">having</del> always <del rend="overstrike">been ready and numerous</del> on the road;&#8212;and</p> 
       </div1>
 
-<pb xml:id="leaf011v" facs="nyp.00129.020.jpg" type="verso"/>
+<pb xml:id="leaf010v" facs="nyp.00129.020.jpg" type="verso"/>
       <div1 type="prose">
         <p><metamark function="transpose">&#42;</metamark> What stuff passes for poetry in the world</p>
         <p>What awkward and ill-bouncing riders</p>
@@ -281,12 +282,12 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
         <p>case of the dr<subst><del rend="overwrite" seq="1">y</del><add rend="overwrite" place="over" seq="2">iver</add></subst> who came in looking as natural as life, but was frozen dead and hard</p>
       </div1>
       
-<pb xml:id="leaf012r" facs="nyp.00129.021.jpg" type="recto"/>
+<pb xml:id="leaf011r" facs="nyp.00129.021.jpg" type="recto"/>
       <div1 type="prose">
         <p>A lawyer who had put off his case once, came in court and asked further delay, <del rend="overstrike">in a tearf</del> with tears in his eyes stating the death of his mother. The Judge was just granting his request, with great commiseration, when an old lady from the gallery cries out "O <hi rend="underline"><space dim="horizontal" atLeast="4" unit="chars" extent="about 6 letters"/></hi> my son! how often have I whipped you for lying."</p>
       </div1>
 
-<pb xml:id="leaf012v" facs="nyp.00129.022.jpg" type="verso"/>
+<pb xml:id="leaf011v" facs="nyp.00129.022.jpg" type="verso"/>
       <div1 type="section">
         <relations>
           <work ref="xxx.00526" cert="low">
@@ -296,7 +297,7 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
         <p>pork and pound cake <del rend="overstrike">and things</del> and <subst><del rend="overstrike" seq="1">things</del> <add rend="insertion" place="supralinear" seq="2">products that can be</add></subst> <unclear reason="illegible" cert="medium" resp="#kc">stewed</unclear> or <add rend="insertion" place="supralinear"><unclear reason="illegible" cert="medium" resp="#kc">worn</unclear></add> put in the bank.&#8212;All <del rend="overstrike">expr</del> that makes clear this relation, and <del rend="overstrike">tracks</del> defines the road <del rend="overstrike">between</del> between <subst><del rend="overstrike" seq="1">any thing</del> <add rend="unmarked" place="supralinear" seq="2">conceivable objects</add></subst> and the human spirit, <add rend="insertion" place="supralinear">and explains what those objects mean,</add> is poetry, coarse or fine.&#8212;Even if <add rend="insertion" place="supralinear">the explanation</add> be <subst><del rend="overstrike" seq="1">done at second and third hand, <add rend="unmarked" place="supralinear">removes</add> and</del> <add rend="unmarked" place="supralinear" seq="2">two or three removes off, <del rend="overstrike" seq="4">or</del> as most are, or</add></subst> distantly suggested, <subst><del rend="overstrike" seq="1">we are thankful;</del> <add rend="unmarked" place="supralinear" seq="2">folks take them and relish them well;</add></subst> for we are greedy of this sort of <subst><del rend="overstrike" seq="1">feeding</del> <add rend="unmarked" place="supralinear" seq="2">diet</add></subst>, and <del rend="overstrike">exceedingly voracious,</del> never get <subst><del rend="overstrike" seq="1">weary</del> <add rend="unmarked" place="supralinear" seq="2">tired</add></subst> of stuffing <metamark function="transpose">&#42;</metamark></p>
       </div1>
 
-<pb xml:id="leaf013r" facs="nyp.00129.023.jpg" type="recto"/>
+<pb xml:id="leaf012r" facs="nyp.00129.023.jpg" type="recto"/>
       <div1 type="prose">
         <ab>pork</ab>
       </div1>
@@ -305,11 +306,11 @@ most certain sure&#8212;<del rend="overstrike">as</del> reliable as Immortality&
         <p><metamark function="transpose" xml:id="tr03">&#42;</metamark>I discover that among people whose company is pleasant to me, I almost invariably grow fonder and fonder of those <del rend="overstrike">who without any</del> who <subst><del rend="overstrike" seq="1">evidently</del> <add rend="unmarked" place="supralinear" seq="2">constantly</add></subst> like me <add rend="insertion" place="supralinear">and are not afraid to show it <del rend="overstrike" seq="2">steadily,</del> who</add> and <del rend="overstrike">are</del> good natured, <del rend="overstrike">and</del> have no notably offensive ways,.<del rend="overstrike">, and don't blow hot and cold</del> <metamark function="group" target="#tr04">(</metamark><transpose anchored="0" xml:id="tr04">They may be <subst><del rend="overstrike" seq="1">plain</del> <add rend="unmarked" place="supralinear" seq="2">ugly</add></subst> in the face; simple or slack in mind; and of common <del rend="overstrike">po</del> employment.&#8212;</transpose><metamark function="group" target="#tr04">)</metamark> <metamark function="transpose" target="#tr04">&#42; tr</metamark><!-- HERE WHITMAN HAS INDICATED A TRANSPOSITION, BY USING A ASTERISK.  HOWEVER I DO NOT KNOW WHICH OTHER ASTERISK HE IS REFERRING TO.  THERE ARE SEVERAL IN THIS NOTEBOOK. --> </p>
       </div1>
 
-<pb xml:id="leaf013v" facs="nyp.00129.024.jpg" type="verso"/>
+<pb xml:id="leaf012v" facs="nyp.00129.024.jpg" type="verso"/>
       <div1 type="prose">
         <p><del rend="overstrike">Pile up your</del></p>
         <p>You shall go in some rich man's house, where the long suite of parlors <subst><del rend="overstrike" seq="1">have</del> <add rend="unmarked" place="supralinear" seq="2">has</add></subst> been attacked and taken possession of by artists, ornamenters, makers of carpeting, <add rend="unmarked" place="supralinear">marble mantels,</add> curtains, <del rend="overstrike">good</del> soft seats, <add rend="insertion" place="supralinear">and</add> morocco binding for books.&#8212;<del rend="overstrike">and marble mantels</del> <add rend="unmarked" place="interlinear">What can be unbought; for the place yet <add rend="insertion" place="infralinear">looks very beggarly.</add></add> The <del rend="overstrike">worthy</del> gentleman who <del rend="overstrike">has</del> footed the bills, <del rend="overstrike">for all these,</del> has surely <subst><del rend="overstrike" seq="1">omitted</del> <add rend="unmarked" place="supralinear" seq="2">forgotten</add></subst> something.&#8212;We remember that <subst><del rend="overstrike" seq="1">hour</del> <del rend="overstrike" seq="2"><add rend="insertion" place="supralinear">moment</add></del> <add rend="unmarked" place="supralinear" seq="3">first of April</add></subst> at the post office, when the young man in the linen jacket <add rend="insertion" place="supralinear">blotched with ink</add> handed <del rend="overstrike">us</del> <subst><del rend="overstrike" seq="1">out of</del> <add rend="unmarked" place="supralinear" seq="2">through</add></subst> the window a
-<pb xml:id="leaf014r" facs="nyp.00129.025.jpg" type="recto"/>
+<pb xml:id="leaf013r" facs="nyp.00129.025.jpg" type="recto"/>
 very rare envelope, promising great things, <del rend="overstrike">when</del> and<del rend="overstrike">,</del> we found nothing at all inside but a piece of blank paper.&#8212;</p>
       </div1>
         <milestone unit="undeclared" rend="horbar-full"/>
@@ -317,7 +318,7 @@ very rare envelope, promising great things, <del rend="overstrike">when</del> an
         <p><metamark function="transpose">&#42;</metamark> It is this which is the source of all Poetry; for there is <add rend="insertion" place="supralinear">in <del rend="overstrike">all</del> men</add> an instinct of the truth. <del rend="overstrike">in all men</del> <subst><del rend="overstrike" seq="1">There is a file</del> <add rend="unmarked" place="supralinear" seq="2">We have a saw</add></subst>-toothed appetite <del rend="overstrike"><add rend="insertion" place="supralinear">with</add></del> which restlessly hankers for <del rend="overstrike">some satisfactory</del> food out of this immense and varied earth, <del rend="overstrike">beyond men something</del> more <add rend="insertion" place="supralinear">satisfactory</add> than</p>
       </div1>
 
-<pb xml:id="leaf014v" facs="nyp.00129.026.jpg" type="verso"/>
+<pb xml:id="leaf013v" facs="nyp.00129.026.jpg" type="verso"/>
       <div1 type="prose">
         <p>where the Congress meets is the sacred <note type="authorial" place="supralinear">?</note> place.&#8212;If they adjourn from there <space dim="horizontal" atLeast="8" unit="chars" extent="about two words"/> to some log house or shed of hemlock boards</p>
       </div1>
@@ -332,7 +333,7 @@ very rare envelope, promising great things, <del rend="overstrike">when</del> an
         <p><subst><del rend="overstrike" seq="1">Ever</del> <add rend="insertion" place="supralinear" seq="2">The <del rend="overstrike">heart</del> <add rend="insertion" place="supralinear">kernel</add> of every object</add></subst> thing <del rend="overstrike">that</del> can be seen or <add rend="insertion" place="supralinear">felt or</add> thought of has its relation to the soul, and is significant of something there.&#8212;<del rend="overstrike">This is the</del> He who can <subst><del rend="overstrike" seq="1">put</del> <add rend="unmarked" place="supralinear" seq="2">tear off</add></subst> all husks and skins <del rend="overstrike">aside and</del> and <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">peel</unclear> the</del> <add rend="unmarked" place="supralinear" seq="2">pierce <del rend="overstrike">or</del></add></subst>  <add rend="insertion" place="supralinear">straight through every</add>stratagem<del rend="overstrike">s</del> of concealment, <del rend="overstrike">and goes to the actual</del> <metamark function="transposition">&#42;</metamark></p>
       </div1>
 
-<pb xml:id="leaf015r" facs="nyp.00129.002.jpg" type="recto"/>
+<pb xml:id="leaf014r" facs="nyp.00129.002.jpg" type="recto"/>
       
 </body>
 </text>
