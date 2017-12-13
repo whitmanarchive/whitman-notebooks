@@ -1,6 +1,7 @@
-# ignore config files except examples
+# ignore config files except examples and public config
 **/*.yml
 !**/*.example.yml
+!**/public.yml
 
 # ignore html-generated
 html-generated/**
