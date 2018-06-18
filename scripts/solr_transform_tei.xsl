@@ -84,6 +84,17 @@
     </field>
   </xsl:template>-->
 
+  <!-- ============= URL ============== -->
+
+  <xsl:template name="uri">
+    <field name="uri">
+      <xsl:value-of select="$site_url"/>
+      <xsl:text>/manuscripts/notebooks/transcriptions/</xsl:text>
+      <xsl:value-of select="$filenamepart"/>
+      <xsl:text>.html</xsl:text>
+    </field>
+  </xsl:template>
+
   <!-- ============= Custom (Other) Fields ============= -->
 
   <xsl:template name="other_fields">
