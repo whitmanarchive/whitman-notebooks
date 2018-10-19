@@ -70,7 +70,7 @@ class TeiToEs
   # TODO text other from author, title, publisher, pubplace, and date[@when]
 
   def uri
-    "#{@options["site_url"]}/manuscripts/notebooks/tei/#{@filename}.html"
+    "#{@options["site_url"]}/manuscripts/notebooks/transcriptions/#{@filename}.html"
   end
 
 end
