@@ -8,7 +8,6 @@ default:
   site_url: https://whitmanarchive.org
   collection_desc: Notebooks for The Walt Whitman Archive
   tei_solr_xsl: collections/whitman-notebooks/scripts/solr_transform_tei.xsl
-  # es_type:
 
   variables_solr:
     project: The_Walt_Whitman_Archive
@@ -20,4 +19,3 @@ development:
     project: The_Walt_Whitman_Archive
     site_url: https://whitman-dev.unl.edu
     slug: whitman-notebooks
-:wq
