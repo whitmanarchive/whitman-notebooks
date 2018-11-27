@@ -1,21 +1,26 @@
 default:
-  # NOTE: options that apply to all the whitman data repos
-  # are in data/config/private.yml
-  # (solr_core, solr_path, solr_variables, etc)
-
   shortname: whitman-notebooks
   collection: whitman
   site_url: https://whitmanarchive.org
-  collection_desc: Notebooks for The Walt Whitman Archive
-  tei_solr_xsl: collections/whitman-notebooks/scripts/solr_transform_tei.xsl
+  solr_core: api_whitman
+  tei_solr_xsl: scripts/overrides/solr_transform_tei.xsl
+
+development:
+  es_path: https://whitman-dev.unl.edu/elastic
+  es_index: api_v1
+  site_url: https://whitman-dev.unl.edu
+  solr_path: https://whitman-dev.unl.edu/solr
 
   variables_solr:
     project: The_Walt_Whitman_Archive
-    site_url: https://whitmanarchive.org
     slug: whitman-notebooks
-development:
-  site_url: https://whitman-dev.unl.edu
+    site_url: https://whitman-dev.unl.edu
+
+production:
+  site_url: https://whitmanarchive.org
+  solr_path: https://whitman-prod.unl.edu/solr
+
   variables_solr:
     project: The_Walt_Whitman_Archive
-    site_url: https://whitman-dev.unl.edu
     slug: whitman-notebooks
+    site_url: https://whitmanarchive.org
