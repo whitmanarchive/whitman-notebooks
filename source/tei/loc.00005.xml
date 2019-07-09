@@ -57,11 +57,12 @@ Humanities</sponsor>
 <date cert="medium" notBefore="1852" notAfter="1854" xml:id="dat1">Between 1852 and 1854</date><!--NOTE: this date is based on Matt Miller's dating in Collage of Myself-->
 <idno type="callno">Box 39, Folder "Literary, Before 1855, Women"</idno> 
 	<orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName> 
-<note type="project">Transcribed from digital images of the original item.</note>
+<note type="project">Transcribed from digital images of the original.</note>
 </bibl>
 </sourceDesc>
 </fileDesc>
 <revisionDesc>
+	<change when="2017-10-09" who="#nhg">added inline relations information</change>
 	<change when="2017-07-13" who="#nhg">tweaked editorial note</change>
 	<change when="2016-05-24" who="#nhg">updated work ID information</change>
     <change when="2016-02-18" who="#bb">updated encoding of transposition</change>
@@ -140,10 +141,10 @@ rend="overstrike">and never rest till</del></ab>
 <head type="main-authorial">My Lesson</head>
 
 <lg>
-	<l>Have you learned <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">my</add></subst> lesson complete:</l>
-<l><seg>It is well&#8212;it is <add rend="insertion" place="supralinear">but</add> the gate to a larger lesson&#8212;and</seg>
-<seg><del rend="overstrike">And</del> that to another<add rend="insertion" place="supralinear">:</add> <del rend="overstrike">still</del></seg></l>
-	<l>And <subst><del rend="overstrike" seq="1">every one</del> <add rend="unmarked" place="supralinear" seq="2">each successive one</add></subst> <del rend="overstrike">opens</del> to another still</l>
+	<l corresp="#l2219">Have you learned <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">my</add></subst> lesson complete:</l>
+<l corresp="#l2223 #l2224">It is well&#8212;it is <add rend="insertion" place="supralinear">but</add> the gate to a larger lesson&#8212;and<lb/>
+<del rend="overstrike">And</del> that to another<add rend="insertion" place="supralinear">:</add> <del rend="overstrike">still</del></l>
+	<l corresp="#l2224">And <subst><del rend="overstrike" seq="1">every one</del> <add rend="unmarked" place="supralinear" seq="2">each successive one</add></subst> <del rend="overstrike">opens</del> to another still</l>
 </lg></div2>
 <div2 type="section">
 <list>

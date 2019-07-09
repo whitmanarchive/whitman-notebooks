@@ -43,17 +43,16 @@
                 </availability>
             </publicationStmt>
             <notesStmt>
-                <note type="project" target="#dat1">Two <hi rend="italic">Tribune</hi> clippings pasted onto one of the pages of this notebook are dated 1852, though the rest of the notebook is probably from earlier. Part of the notebook outlines a piece of early fiction. The name of one character, "Mr. Covert," appears in Whitman's story <ref target="per.00340">"Revenge and Requital; A Tale of a Murderer Escaped,"</ref> first published in the <hi rend="italic">United States Magazine and Democratic Review</hi> in 1845. The piece would be revised and/or reprinted several times in various publications before ultimately appearing as "One Wicked Impulse!" in <hi rend="italic">Specimen Days</hi> (1882&#8211;83). While the name "Mr. Covert" connects the notebook with "One Wicked Impulse!" there are only minor similarities between the plot-points of the two. It is thus possible that this notebook contains notes towards a different, as-yet-undiscovered piece of early fiction. Whitman also copied two excerpts of poetry in this notebook (leaf 10 recto). The first poetic quotation comes from Robert Blair's poem "The Grave" (1743). The source of the second quotation is unknown. The note on the verso of what is represented here as the last page of this notebook is upside down, suggesting that Whitman may have begun writing from one direction in this notebook, then flipped it over and started writing in the other direction. The cover of the notebook is labeled "Note Book Walt Whitman 82" in a hand that is not Whitman's.</note>             
+                <note type="project" target="#dat1">The plot described in this notebook corresponds to Whitman's novel <hi rend="italic">Life and Adventures of Jack Engle: An Auto-Biography</hi>, published serially in the New York <hi rend="italic">Sunday Dispatch</hi> from March 14 to April 18, 1852. Two <hi rend="italic">Tribune</hi> clippings pasted onto one of the pages of this notebook also are dated March 1852.  The writing in the notebook therefore probably dates to before or early in 1852. The name of the character "Covert" also appears in Whitman's story <ref target="per.00340">"Revenge and Requital; A Tale of a Murderer Escaped,"</ref> first published in the <hi rend="italic">United States Magazine and Democratic Review</hi> in 1845, although the plot of that story bears only minor resemblance to the plot of <hi rend="italic">Jack Engle</hi>. Covert, a villainous lawyer in both tales, may have been based on a man from Whitman's own experience. For more about this connection and the composition and publication of <hi rend="italic">Jack Engle</hi>, see Zachary Turpin, "Introduction to Walt Whitman's 'Life and Adventures of Jack Engle,'" <hi rend="italic">Walt Whitman Quarterly Review</hi> 34 (2017), 225&#8211;261.  Whitman also copied two excerpts of poetry in this notebook (leaf 10 recto). The first poetic quotation comes from Robert Blair's poem "The Grave" (1743). The source of the second quotation is unknown. The note on the verso of what is represented here as the last page of this notebook is upside down, suggesting that Whitman may have begun writing from one direction in this notebook, then flipped it over and started writing in the other direction. The cover of the notebook is labeled "Note Book Walt Whitman 82" in a hand that is not Whitman's.</note>             
             </notesStmt>
             <sourceDesc>
                 <bibl>
                     <author>Walt Whitman</author>
                     <title>Notebook LC #82</title> 
-                    <date cert="medium" notBefore="1842" notAfter="1852" xml:id="dat1">Before 1852</date>
+                    <date cert="medium" notBefore="1841" notAfter="1852" xml:id="dat1">Before or early in 1852</date>
                     <idno type="callno">MSS18630</idno>
                     <orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
-                    <note type="project">Transcribed from our own digital images of the original 
-                        manuscript.</note>
+                    <note type="project">Transcribed from digital images of the original.</note>
                 </bibl>
                 <bibl type="pasteon" xml:id="ref1">
                     <author>unknown author</author>
@@ -69,6 +68,7 @@
             </handNotes>
         </profileDesc>
         <revisionDesc>
+            <change when="2017-04-13" who="#nhg">updated editorial note and date in light of discovery of Jack Engle</change>
             <change when="2016-07-25" who="#nhg">updated editorial note to match EAD, added work ID note</change>
             <change when="2015-05-11" who="#nhg">updated copyright statement</change>
             <change when="2015-05-05" who="#nhg">corrected</change>

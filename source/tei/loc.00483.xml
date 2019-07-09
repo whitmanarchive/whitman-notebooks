@@ -59,8 +59,7 @@
                   1855</date>
                <idno type="callno">MSS18630</idno>
                <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
-               <note type="project">Transcribed from our own digital images of the original
-                  manuscript.</note>
+               <note type="project">Transcribed from digital images of the original.</note>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -71,6 +70,7 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
+         <change when="2017-04-11" who="#nhg">edited source information</change>
          <change when="2016-10-31" who="#nhg">revised work relations information</change>
          <change when="2015-05-11" who="#nhg">updated copyright statement</change>
          <change when="2015-05-06" who="#nhg">replaced segs with lbs</change>
