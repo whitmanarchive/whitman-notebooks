@@ -7,13 +7,12 @@ class TeiToEs
   # in the below example, the xpath for "person" is altered
   def override_xpaths
     xpaths = {}
-    xpaths["date"] = [
-      "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore",
-      "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"
-    ]
-    xpaths["date_display"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date"
+    xpaths["date"] = {
+      "not_before" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore",
+      "not_after" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notAfter"
+    }
     xpaths["format"] = "/TEI/text/@type"
-    return xpaths
+    xpaths
   end
 
   #################
@@ -39,12 +38,13 @@ class TeiToEs
   end
 
   def date(before=true)
-    date = ""
-    @xpaths["date"].each do |xpath|
-      date = get_text(xpath)
-      break if !date.empty?
+    date_str = ""
+    if before
+      date_str = get_text(@xpaths["date"]["not_before"])
+    else
+      date_str = get_text(@xpaths["date"]["not_after"])
     end
-    CommonXml.date_standardize(date, before)
+    CommonXml.date_standardize(date_str, before)
   end
 
   def format
@@ -71,6 +71,30 @@ class TeiToEs
 
   def uri
     "#{@options["site_url"]}/manuscripts/notebooks/transcriptions/#{@filename}.html"
+  end
+
+  def uri_data
+    File.join(
+      @options["data_base"],
+      "data",
+      "#{@options["collection"]}-notebooks",
+      "source/tei",
+      "#{@id}.xml"
+    )
+  end
+
+  def uri_html
+    # TODO until HTML is generated, leave nil
+    nil
+    # File.join(
+    #   @options["data_base"],
+    #   "data",
+    #   "#{@options["collection"]}-notebooks",
+    #   "output",
+    #   @options["environment"],
+    #   "html",
+    #   "#{@id}.html"
+    # )
   end
 
 end
