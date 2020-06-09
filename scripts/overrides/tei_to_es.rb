@@ -77,7 +77,7 @@ class TeiToEs
     File.join(
       @options["data_base"],
       "data",
-      "#{@options["collection"]}-notebooks",
+      @options["collection"],
       "source/tei",
       "#{@id}.xml"
     )
@@ -89,7 +89,7 @@ class TeiToEs
     # File.join(
     #   @options["data_base"],
     #   "data",
-    #   "#{@options["collection"]}-notebooks",
+    #   @options["collection"],
     #   "output",
     #   @options["environment"],
     #   "html",
