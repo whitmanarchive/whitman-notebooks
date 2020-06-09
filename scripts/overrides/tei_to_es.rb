@@ -7,11 +7,20 @@ class TeiToEs
   # in the below example, the xpath for "person" is altered
   def override_xpaths
     xpaths = {}
+    xpaths["contributors"] =
+      ["/TEI/teiHeader/fileDesc/titleStmt/respStmt/persName"]
     xpaths["date"] = {
       "not_before" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore",
       "not_after" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notAfter"
     }
     xpaths["format"] = "/TEI/text/@type"
+    xpaths["publisher"] = "/TEI/teiHeader/sourceDesc/bibl/orgName"
+    xpaths["rights"] = "/TEI/teiHeader/fileDesc/publicationStmt/availability"
+    xpaths["rights_holder"] =
+      "/TEI/teiHeader/fileDesc/publicationStmt/distributor"
+    xpaths["rights_uri"] =
+      "/TEI/teiHeader/fileDesc/publicationStmt/availability//ref/@target"
+    xpaths["source"] = "/TEI/text/teiHeader/fileDesc/sourceDesc/bibl/title"
     xpaths
   end
 
@@ -61,7 +70,14 @@ class TeiToEs
     [ "en" ]
   end
 
-  # TODO place, publisher, rights, rights_uri, rights_holder, source
+  # TODO place, publisher, source
+  def rights
+    get_text(@xpaths["rights"])
+  end
+
+  def rights_uri
+    get_text(@xpaths["rights_uri"])
+  end
 
   def subcategory
     "notebooks"
