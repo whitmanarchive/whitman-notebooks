@@ -53,7 +53,7 @@ class TeiToEs
     else
       date_str = get_text(@xpaths["date"]["not_after"])
     end
-    CommonXml.date_standardize(date_str, before)
+    Datura::Helpers.date_standardize(date_str, before)
   end
 
   def format
