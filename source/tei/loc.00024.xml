@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00024">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00024">
 
 <teiHeader>
 <fileDesc>
@@ -46,7 +42,7 @@
 </availability>
 </publicationStmt>
 <notesStmt>
-	<note type="project" target="#dat1">Whitman likely wrote the building specifications on what is presented here as the last page of this notebook first, and then flipped the notebook over and wrote notes from the other direction. References to the <hi rend="italic">San Francisco</hi> can be dated to sometime after January 1854. The cover of the notebook is labeled "Note Book Walt Whitman" in a hand that is not Whitman's. Selections and subjects from this notebook were used in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, including phrases from the poems that would later be titled "Song of Myself" and "Song of the Answerer." See Edward Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:113&#8211;117.</note>                        	
+	<note type="project" target="#dat1">Whitman likely wrote the building specifications on what is presented here as the last page of this notebook first, and then flipped the notebook over and wrote notes from the other direction. References to the <hi rend="italic">San Francisco</hi> can be dated to sometime after January 1854. The cover of the notebook is labeled "Note Book Walt Whitman" in a hand that is not Whitman's. Selections and subjects from this notebook were used in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, including phrases from the poems that would later be titled "Song of Myself" and "Song of the Answerer." See Edward Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:113–117.</note>                        	
 </notesStmt>
 <sourceDesc>
 <bibl>
@@ -54,13 +50,20 @@
 <title>Notebook LC #83</title>
 	<date cert="medium" notBefore="1853" notAfter="1855" xml:id="dat1">Between 1853 and 1855</date>
 	<idno type="callno">MSS45443, Box 2, Reel 1</idno> 
-	<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
+	<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842–1937, Library of Congress, Washington, D.C.</orgName>
 	<note type="project">Transcribed from digital images of the original.</note>
+	<relatedItem type="text" xml:id="rel01" target="loc.05704"/>
+	<relatedItem type="text" xml:id="rel02" target="loc.05705"/>
+	<relatedItem type="document" target="wwa.00029"/>
+	<note type="project" target="#rel01 #rel02">At some point Whitman clipped out portions of several pages in this notebook, including leaf 2 as represented here. Because it is not entirely clear what text was added when, we have not included images or transcriptions of the clipped-out page as part of this notebook transcription. However, we have made <ref target="../loc.00024/images_short/index.html">composite images</ref> that show the continuation of the text on this leaf, and the manuscripts have been transcribed in separate files.</note>
 </bibl>
 	
 </sourceDesc>
 </fileDesc>
 <revisionDesc>
+	<change when="2019-12-10" who="#nhg">added relatedItem info and inline relation, updated note</change>
+	<change when="2019-11-19" who="#nhg">revised wording of several work notes</change>
+	<change when="2017-10-24" who="#nhg">added inline relations information</change>
 	<change when="2016-10-31" who="#nhg">revised work relations information</change>
     <change when="2016-02-18" who="#bb">changed transpose element to match new model</change>
 	<change when="2015-05-15" who="#kmp">blessed</change>
@@ -91,6 +94,8 @@
 		<p>Edward Grier writes: "The nature of property and ownership deeply concerned Whitman prior to 1855. Although none of these passages appear directly in the poetry, there is an inner relationship with 'A Song for Occupations' and 'Crossing Brooklyn Ferry'" (<hi rend="italic">Notebooks and Unpublished Prose</hi>, 1:113).</p>
 	</work>
 	<work ref="xxx.00112" cert="low"/>
+	<work ref="xxx.00048" cert="high"><p>The clipped-out segment of leaf002v, which continues onto the page that remains here, includes lines that were used in the 1855 <hi rend="italic">Leaves of Grass</hi>, in the poem eventually titled "Song of Myself": "They descend in new forms from the tips of his fingers, / They are wafted with the odor of his body or breath . . . . they fly out of the glance
+		of his eyes" (1855, p. 44).</p></work>
 </relations>
 <pb facs="loc.00024.002.jpg" xml:id="leaf001v" type="verso"/>
 
@@ -105,23 +110,23 @@
 <!--LEAF 2, PAGE TWO, VERSO-->
 <pb facs="loc.00024.004.jpg" xml:id="leaf002v" type="verso"/>
 <delSpan rend="hashmark" spanTo="#d1"/>
-	<ab><add rend="insertion" place="supralinear"><gap reason="cut away"/></add> <gap reason="cut away"/> wonders</ab>
+	<ab xml:id="ab1"><add rend="insertion" place="supralinear"><gap reason="cut away"/></add> descend wonders</ab>
 <anchor xml:id="d1"/>
 
 <!--LEAF3,  RECTO-->
 <pb facs="loc.00024.005.jpg" xml:id="leaf003r" type="recto"/>
-	<ab>What is it to own any thing?&#8212;It is to incorporate it into yourself, as the primal god swallowed the <subst><del rend="overstrike" seq="1">twelve</del> <add rend="unmarked" place="supralinear" seq="2">five</add></subst> immortal offspring of <subst><del rend="overstrike" seq="1">Gaea</del> <add rend="unmarked" place="supralinear" seq="2">Rhea</add></subst>, and <subst><del rend="overstrike" seq="1">added</del> <add rend="unmarked" place="supralinear" seq="2">accumulated</add></subst> to his life and <del rend="overstrike">stren</del> knowledge and strength all that would have grown in them.&#8212;</ab>
+	<ab>What is it to own any thing?—It is to incorporate it into yourself, as the primal god swallowed the <subst><del rend="overstrike" seq="1">twelve</del> <add rend="unmarked" place="supralinear" seq="2">five</add></subst> immortal offspring of <subst><del rend="overstrike" seq="1">Gaea</del> <add rend="unmarked" place="supralinear" seq="2">Rhea</add></subst>, and <subst><del rend="overstrike" seq="1">added</del> <add rend="unmarked" place="supralinear" seq="2">accumulated</add></subst> to his life and <del rend="overstrike">stren</del> knowledge and strength all that would have grown in them.—</ab>
 
 <pb facs="loc.00024.006.jpg" xml:id="leaf003v" type="verso"/>
 <!--LEAF3 VERSO-->
-	<transpose anchored="1" target="#a1"><p><metamark function="transpose" target="#tr01" place="inline">&#42;</metamark> if he merely have all the care and <del rend="overstrike">lifting</del> hauling and <del rend="overstrike">hoisting</del> lowering and hoisting of them, and so goes on for a lifetime, and they never serve <del rend="overstrike">to</del> his sinews and blood and senses <add rend="insertion" place="supralinear">for food or for warmth</add>.&#8212;The more of these he has, the more books to keep, the more he <del rend="overstrike">must</del> stay<add rend="unmarked" place="inline">s</add> indoors, the more he demeans and wilts <del rend="overstrike">himself</del> and shins it, and deforms himself into the crooked. Will it pay?&#8212;</p>
+	<transpose anchored="1" target="#a1"><p><metamark function="transpose" target="#tr01" place="inline">*</metamark> if he merely have all the care and <del rend="overstrike">lifting</del> hauling and <del rend="overstrike">hoisting</del> lowering and hoisting of them, and so goes on for a lifetime, and they never serve <del rend="overstrike">to</del> his sinews and blood and senses <add rend="insertion" place="supralinear">for food or for warmth</add>.—The more of these he has, the more books to keep, the more he <del rend="overstrike">must</del> stay<add rend="unmarked" place="inline">s</add> indoors, the more he demeans and wilts <del rend="overstrike">himself</del> and shins it, and deforms himself into the crooked. Will it pay?—</p>
 	
-	<p>Just as much as the <choice><orig>care&#45;taker</orig><reg>caretaker</reg></choice> of beef and apples <subst><del rend="overstrike" seq="1">who never eats thereof</del> <add rend="unmarked" place="supralinear" seq="2">and coal</add></subst> which never warm him nor enrich</p></transpose>
+	<p>Just as much as the <choice><orig>care-taker</orig><reg>caretaker</reg></choice> of beef and apples <subst><del rend="overstrike" seq="1">who never eats thereof</del> <add rend="unmarked" place="supralinear" seq="2">and coal</add></subst> which never warm him nor enrich</p></transpose>
 	
 <pb facs="loc.00024.007.jpg" xml:id="leaf004r" type="recto"/>
 
-<ab>into the soul and is <gap reason="cut away"/> strength and life and knowledge they evoke there.&#8212;</ab>
-	<ab>I will not envy a man who possesses <del rend="overstrike"><unclear reason="illegible" resp="#mc" cert="high">a</unclear></del> side<add place="inline" rend="unmarked">s</add> of beef and barrels of apples or cubic rods of good coal <metamark target="tr01" function="transpose" place="inline">&#42;</metamark></ab>
+<ab>into the soul and is <gap reason="cut away"/> strength and life and knowledge they evoke there.—</ab>
+	<ab>I will not envy a man who possesses <del rend="overstrike"><unclear reason="illegible" resp="#mc" cert="high">a</unclear></del> side<add place="inline" rend="unmarked">s</add> of beef and barrels of apples or cubic rods of good coal <metamark target="tr01" function="transpose" place="inline">*</metamark></ab>
 <anchor xml:id="a1"/>
 
 
@@ -136,22 +141,27 @@
 <pb facs="loc.00024.010.jpg" xml:id="leaf005v" type="verso"/>
 
 <div2 type="prose">
-<ab><hi rend="underline">Faith</hi>.&#8212;Becalmed at sea, a man refreshes himself by swimming round the ship.&#8212;A <subst><del rend="overstrike" seq="1">little child seeing him</del> <add rend="unmarked" place="supralinear" seq="2">deaf and dumb boy</add></subst> is looking over <del rend="overstrike">the</del><space dim="horizontal"/> <add rend="unmarked" place="supralinear">his younger brother</add> and the swimmer, <del rend="overstrike">lazily</del> floating lazily on his back, smiles and beckons with his head <del rend="overstrike">for the babe to come.&#8212;</del></ab>
-	<ab>Without <gap reason="deletion, illegible"/> waiting a moment the young child, laughing and clucking springs into the</ab>
+	<relations><work ref="xxx.00048" cert="low">
+		<p>In light of the draft lines that follow in this notebook, it seems possible that this section relates to the following lines from the poem that was eventually titled "Song of Myself": "Long have you timidly waded, holding a plank by the shore, / Now I will you to be a bold swimmer, / To jump off in the midst of the sea, and rise again and nod to me and shout, and laughingly dash with your hair" (1855, p. 52).</p>
+	</work></relations>
+<ab><hi rend="underline">Faith</hi>.—Becalmed at sea, a man refreshes himself by swimming round the ship.—A <subst><del rend="overstrike" seq="1">little child seeing him</del> <add rend="unmarked" place="supralinear" seq="2">deaf and dumb boy</add></subst> is looking over <del rend="overstrike">the</del><space dim="horizontal"/> <add rend="unmarked" place="supralinear">his younger brother</add> and the swimmer, <del rend="overstrike">lazily</del> floating lazily on his back, smiles and beckons with his head <del rend="overstrike">for the babe to come.—</del></ab>
+	<ab xml:id="ab01a" next="ab01b">Without <gap reason="deletion, illegible"/> waiting a moment the young child, laughing and clucking springs into the</ab>
 
 </div2>
 
 <pb facs="loc.00024.011.jpg" xml:id="leaf006r" type="recto"/>
 
 <div2 type="poem">
-
+	<relations><work ref="xxx.00048" cert="low">
+		<p>In light of the draft lines that follow in this notebook, it seems possible that this section relates to the following lines from the poem that would be titled "Song of Myself": "Long have you timidly waded, holding a plank by the shore, / Now I will you to be a bold swimmer, / To jump off in the midst of the sea, and rise again and nod to me and shout, and laughingly dash with your hair" (1855, p. 52).</p>
+	</work></relations>
 <head type="main-authorial" rend="underline">Death Song</head>
 <lg>
 <l>Joy Joy! O full of Joy</l>
 	<milestone unit="undeclared" rend="horbar-full"/>
 <l><subst><del rend="overstrike" seq="1">On the sea-shore</del> <add rend="unmarked" place="supralinear" seq="2">Away becalmed at sea</add></subst> one day</l>
-<l>I saw a babe, laughing kicking, &#38;c &#38;c</l>
-<l>And as a swimmer <del rend="overstrike">passed</del> floated <del rend="overstrike">idly</del> in the waves, he called the child.&#8212;Laughing it sprang, and there</l>
+<l>I saw a babe, laughing kicking, &amp;c &amp;c</l>
+<l xml:id="l01">And as a swimmer <del rend="overstrike">passed</del> floated <del rend="overstrike">idly</del> in the waves, he called the child.—Laughing it sprang, and there</l>
 </lg>
 </div2>
 
@@ -159,30 +169,33 @@
 
 <div2 type="prose">
 <ab>Black Bob and the young girl</ab>
-	<ab>When the <del rend="overstrike">passengers</del> ship strikes, who thinks of a gold watch or earrings?&#8212;</ab>
+	<ab>When the <del rend="overstrike">passengers</del> ship strikes, who thinks of a gold watch or earrings?—</ab>
 	<milestone unit="undeclared" rend="horbar-full"/> 
-<ab>When the San Francisco was wrecked, the most valuable <subst><del rend="overwrite" seq="1">g</del><add rend="overwrite" place="over" seq="2">j</add></subst>ewelry lay about the cabin unnoticed on the floor</ab>
+<ab xml:id="ab01">When the San Francisco was wrecked, the most valuable <subst><del rend="overwrite" seq="1">g</del><add rend="overwrite" place="over" seq="2">j</add></subst>ewelry lay about the cabin unnoticed on the floor</ab>
 	<milestone unit="undeclared" rend="horbar-full"/></div2>
 	
 	<pb facs="loc.00024.013.jpg" xml:id="leaf007r" type="recto"/>
 <div2 type="prose">
 	<relations>
 		<work ref="xxx.00127" cert="low">
-			<p>The subject of agitation appears in the poem that would become "Myself and Mine": "Let others praise eminent men and hold up peace&#8212;I hold up agitation and conflict" (1860, p. 224).</p>
+			<p>The subject of agitation appears in the poem that became "Myself and Mine": "Let others praise eminent men and hold up peace—I hold up agitation and conflict" (1860, p. 224).</p>
 		</work>
 		<work ref="xxx.00048" cert="high">
-			<p>The words "emptier of privies" from <ref target="#rf01 #rf02" type="text" xml:id="r01">these lines</ref> are echoed in the poem that would be titled "Song of Myself": "To a drudge of the cottonfields or emptier of privies I lean" (1855, p. 45). <ref target="#rf03 #rf04">These lines</ref> also match the following lines from the poem: "Long have you timidly waded, holding a plank by the shore, / Now I will you to be a bold swimmer, / To jump off in the midst of the sea, and rise again and nod to me and shout, and laughingly dash with your hair" (1855, p. 52).</p>
+			<p>The words "emptier of privies" from <ref target="#rf01 #rf02" type="text" xml:id="r01">these lines</ref> are echoed in the poem eventually titled "Song of Myself": "To a drudge of the cottonfields or emptier of privies I lean" (1855, p. 45). <ref target="#rf03 #rf04">These lines</ref> also match the following lines from the poem: "Long have you timidly waded, holding a plank by the shore, / Now I will you to be a bold swimmer, / To jump off in the midst of the sea, and rise again and nod to me and shout, and laughingly dash with your hair" (1855, p. 52).</p>
 		</work>
 		<work ref="xxx.00113" cert="high">
-			<p><ref target="#rf02 #rf03">Lines from this section</ref> appear, revised, in the poem that would become "Song of the Answerer": "He says indifferently and alike, How are you friend? to the President at his levee, / And he says Good day my brother, to Cudge that hoes in the sugarfield;" (1855, p. 86).</p>
+			<p><ref target="#rf02 #rf03">Lines from this section</ref> appear, revised, in the poem that became "Song of the Answerer": "He says indifferently and alike, How are you friend? to the President at his levee, / And he says Good day my brother, to Cudge that hoes in the sugarfield;" (1855, p. 86).</p>
 		</work>
+		<work ref="xxx.00259" cert="high">
+			<p><ref target="#ab100 #ab101">Lines from this section</ref> correspond to a line from the manuscript poem, unpublished in Whitman's lifetime, titled "Pictures": "And now a merry recruiter passes, with fife and drum, seeking who will join his troop." The first several lines of the poem (not including this line) were revised and published in <hi rend="italic">The American</hi> in October 1880 as "My Picture-Gallery," a poem later included in <hi rend="italic">Leaves of Grass</hi> as part of the "Autumn Rivulets" cluster (1881, p. 310).</p>
+		</work> 
 	</relations>
-	<ab>sea, and as he rises <add rend="unmarked" place="supralinear">to the surface</add> feels no fear but laughs and though he sink and drown he feels it not for the man is with him there</ab>
+	<ab xml:id="ab01b" prev="ab01a">sea, and as he rises <add rend="unmarked" place="supralinear">to the surface</add> feels no fear but laughs and though he sink and drown he feels it not for the man is with him there</ab>
 
 <pb facs="loc.00024.014.jpg" xml:id="leaf007v" type="verso"/>
 
-<ab><del rend="overstrike">The Death</del>, Disaster, and temptation, are the examiners <del rend="overstrike">and measurers</del> of <add rend="insertion" place="supralinear">a</add> man.&#8212;They take his weight and density; and thenceforward he can be labeled or stamped at so much value.</ab>
-<ab>Agitation is the test of the goodness and solidness of all politics and laws and institutions <gap reason="deletion, illegible"/> and religions.&#8212;If they cannot stand it, there is no <del rend="overstrike">life</del> genuine life in them, and shall die.</ab>
+<ab><del rend="overstrike">The Death</del>, Disaster, and temptation, are the examiners <del rend="overstrike">and measurers</del> of <add rend="insertion" place="supralinear">a</add> man.—They take his weight and density; and thenceforward he can be labeled or stamped at so much value.</ab>
+<ab>Agitation is the test of the goodness and solidness of all politics and laws and institutions <gap reason="deletion, illegible"/> and religions.—If they cannot stand it, there is no <del rend="overstrike">life</del> genuine life in them, and shall die.</ab>
 
 <pb facs="loc.00024.015.jpg" xml:id="leaf008r" type="recto"/>
 
@@ -198,11 +211,11 @@
 <!--ON THIS PAGE THERE ARE 13 LETTERS BARELY VISIBLE DOWN THE RIGHT MARGIN. PAGE HAS BEEN CUT OFF ON THIS SIDE-->
 	<delSpan rend="hashmark" spanTo="#d3"/><ab xml:id="rf04">
 <del rend="overstrike">Hav</del> You have timidly waded close to the shore, <del rend="overstrike">wading</del> holding a board</ab>
-	<ab xml:id="rf05">Come with me, <del rend="overstrike">I <unclear reason="deletion, illegible" resp="#nhg" cert="medium">and</unclear></del> <add rend="unmarked" place="supralinear">that</add> I <subst><del rend="overstrike" seq="1">learn</del> <add rend="unmarked" place="supralinear" seq="2">teach</add></subst> you that you be a bold swimmer, and leap from the <space dim="horizontal" extent="10 letters"/> into the <subst><del rend="overstrike" seq="1">open</del> <add rend="insertion" place="supralinear" seq="2"><del rend="overstrike" seq="3"><unclear reason="deletion illegible" resp="#mc" cert="high">plain sou</unclear></del> unsounded</add></subst> sea, and come up, and <del rend="overstrike">laugh</del> shout, and laughingly shake the water from your hair.&#8212;
+	<ab xml:id="rf05">Come with me, <del rend="overstrike">I <unclear reason="deletion, illegible" resp="#nhg" cert="medium">and</unclear></del> <add rend="unmarked" place="supralinear">that</add> I <subst><del rend="overstrike" seq="1">learn</del> <add rend="unmarked" place="supralinear" seq="2">teach</add></subst> you that you be a bold swimmer, and leap from the <space dim="horizontal" extent="10 letters"/> into the <subst><del rend="overstrike" seq="1">open</del> <add rend="insertion" place="supralinear" seq="2"><del rend="overstrike" seq="3"><unclear reason="deletion illegible" resp="#mc" cert="high">plain sou</unclear></del> unsounded</add></subst> sea, and come up, and <del rend="overstrike">laugh</del> shout, and laughingly shake the water from your hair.—
 </ab><milestone unit="undeclared" rend="horbar-full"/><anchor xml:id="d3"/>
 
-	<milestone unit="undeclared" rend="horbar-short-center"/><ab>The poet is a recruiter</ab>
-	<ab>He goes forth beating the drum.&#8212;O, who will not join his troop?</ab>
+	<milestone unit="undeclared" rend="horbar-short-center"/><ab xml:id="ab100">The poet is a recruiter</ab>
+	<ab xml:id="ab101">He goes forth beating the drum.—O, who will not join his troop?</ab>
 
 
 <!--THE FOLLOWING ARE THE LETTERS VISIBLE ON THE RIGHT HAND SIDE OF THE LEAF8V IMAGE.  -->
@@ -225,7 +238,7 @@
 	<pb facs="loc.00024.027.jpg" xml:id="leaf009v" type="verso"/>
 	<pb facs="loc.00024.017.jpg" xml:id="leaf010r" type="recto"/>
 	
-	<p>The boat starts out from her ship, and finds a vast cake of ice reaching from one shore to the other. Five times she drives into it, and five times recoils and has to put back.&#8212;The sixth time she plunges <del rend="overstrike">far</del> desperately on, the ice opens a crack as she advances, and so makes a chance for her just the very way she most wants to go.&#8212;</p>
+	<p>The boat starts out from her ship, and finds a vast cake of ice reaching from one shore to the other. Five times she drives into it, and five times recoils and has to put back.—The sixth time she plunges <del rend="overstrike">far</del> desperately on, the ice opens a crack as she advances, and so makes a chance for her just the very way she most wants to go.—</p>
 
 <pb facs="loc.00024.018.jpg" xml:id="leaf010v" type="verso"/>
 
@@ -236,12 +249,12 @@
 
 <pb facs="loc.00024.019.jpg" xml:id="leaf011v" type="verso"/>
 
-	<ab>a noble soul <subst><del rend="overstrike" seq="1">shows</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">off</del> often illustrates</add></subst> itself in what the world rates as trivial; the grandeur and beauty of the spirit making the commonest action more luminous than the sun.&#8212;I knew of a <!--GRIER HAS THIS DELETION LISTED AS 'FARM' BUT IT SEEMS CLEAR  THIS  IS 'POOR'--><del rend="overstrike">poor</del> woman, in a little farm house in the country, who took a pair of <add rend="insertion" place="supralinear">her</add> home&#45;knit stockings and exchanged them at the store for tea.&#8212;Coming home she stopped at her nearest neighbor's gate, and called to her that she had <subst><del rend="overstrike" seq="1">tea,</del> <add rend="insertion" place="supralinear" seq="2">something good;</add></subst> and the neighbor <del rend="overstrike"><gap reason="illegible" quantity="1" unit="char"/></del> must fetch out a cup and go</ab>
+	<ab>a noble soul <subst><del rend="overstrike" seq="1">shows</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">off</del> often illustrates</add></subst> itself in what the world rates as trivial; the grandeur and beauty of the spirit making the commonest action more luminous than the sun.—I knew of a <!--GRIER HAS THIS DELETION LISTED AS 'FARM' BUT IT SEEMS CLEAR  THIS  IS 'POOR'--><del rend="overstrike">poor</del> woman, in a little farm house in the country, who took a pair of <add rend="insertion" place="supralinear">her</add> home-knit stockings and exchanged them at the store for tea.—Coming home she stopped at her nearest neighbor's gate, and called to her that she had <subst><del rend="overstrike" seq="1">tea,</del> <add rend="insertion" place="supralinear" seq="2">something good;</add></subst> and the neighbor <del rend="overstrike"><gap reason="illegible" quantity="1" unit="char"/></del> must fetch out a cup and go</ab>
 
 	<pb facs="loc.00024.022.jpg" xml:id="leaf012r" type="recto"/>
 	
 	
-		<ab><del rend="overstrike">half</del> halves; for both loved tea, <del rend="overstrike">and had no money,</del> and were without for <del rend="overstrike">a</del> some days, and had no money.&#8212;</ab></div2>
+		<ab><del rend="overstrike">half</del> halves; for both loved tea, <del rend="overstrike">and had no money,</del> and were without for <del rend="overstrike">a</del> some days, and had no money.—</ab></div2>
 
 
 <pb facs="loc.00024.021.jpg" xml:id="leaf012v" type="verso"/>
@@ -249,8 +262,8 @@
 <div2 type="prose">
 
 <delSpan rend="hashmark" spanTo="#d4"/>
-	<ab>Front windows on first floor,&#8212;lights 13 x 17&#8212;Window five lights high&#8212;</ab>
-	<ab>A sash of two lights across top&#8212;The other eight lights made in two door&#45;sides, hung each with hinges</ab>
+	<ab>Front windows on first floor,—lights 13 x 17—Window five lights high—</ab>
+	<ab>A sash of two lights across top—The other eight lights made in two door-sides, hung each with hinges</ab>
 <anchor xml:id="d4"/>
 
 </div2>

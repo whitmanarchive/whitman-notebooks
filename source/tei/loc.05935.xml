@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>  
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.05935">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.05935">
     <!--<relations>
         <work ref="xxx.00610" cert="high">
             <p>Scholars have noted a close relationship between this notebook and numerous passages from "The Eighteenth Presidency!" found in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2119&#8211;2135</p>
@@ -24,6 +21,7 @@
                 <respStmt>
                     <resp>transcription and encoding</resp>
                     <persName xml:id="kc">Kirsten Clawson</persName>
+                    <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="bb">Brett Barney</persName>
                 </respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
@@ -46,7 +44,7 @@
                     <addrLine>Lincoln, NE 68588-4100</addrLine>
                 </address>
                 <availability>
-                    <p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+                    <p>Copyright © 2012 by Ed Folsom and Kenneth M. Price, all rights
                         reserved. Items in the Archive may be shared in accordance with the Fair Use
                         provisions of U.S. copyright law. Redistribution or republication on other
                         terms, in any medium, requires express written consent from the editors and
@@ -56,8 +54,8 @@
                 </availability>
             </publicationStmt>
             <notesStmt>
-                <note type="project" target="#dat1">Scholars have offered a variety of opinions regarding the date of this notebook's composition. Andrew C. Higgins notes that the latest biographical information is for 1848 and judges this to be "the earliest of the major pre-<hi rend="italic">Leaves of Grass</hi> notebooks," probably used by Whitman "over a period of several years, beginning in the late 1840s." Higgins sees the racialized language and "the immature style of the poetry" as further support for an early date. Emory Holloway, in concluding that Whitman wrote the entries in "the period before 1855," focuses on a reference to the Fugitive Slave Act of 1850. However, as the controversy surrounding the return of fugitive slaves was current for many years before and after 1854, this reference alone does not provide definitive evidence for a particular date. Edward F. Grier believes "the winter of 1855&#8211;1856" to be the most likely date for the notebook, though "some of the contents baffle any theory of WW's development." See Higgins, "Wage Slavery and the Composition of <hi rend="italic">Leaves of Grass</hi>: The 'Talbot Wilson' Notebook," <hi rend="italic">Walt Whitman Quarterly Review</hi> 20:2 (Fall 2002), 53&#8211;77; Holloway 86; and Grier 209.<lb/><lb/>
- Ed Folsom has noted that this notebook contains Whitman's "earliest draft" of the "mash'd fireman" passage of "Song of Myself," which would suggest that at least some of the notebook dates to about 1854. See Folsom, "Erasing Race: The Lost Black Presence in Whitman's Manuscripts," in <hi rend="italic">Whitman Noir: Black America and the Good Gray Poet</hi> (Iowa City: University of Iowa Press, 2014), 3&#8211;31.
+                <note type="project" target="#dat1">Scholars have offered a variety of opinions regarding the date of this notebook's composition. Andrew C. Higgins notes that the latest biographical information is for 1848 and judges this to be "the earliest of the major pre-<hi rend="italic">Leaves of Grass</hi> notebooks," probably used by Whitman "over a period of several years, beginning in the late 1840s." Higgins sees the racialized language and "the immature style of the poetry" as further support for an early date. Emory Holloway, in concluding that Whitman wrote the entries in "the period before 1855," focuses on a reference to the Fugitive Slave Act of 1850. However, as the controversy surrounding the return of fugitive slaves was current for many years before and after 1854, this reference alone does not provide definitive evidence for a particular date. Edward F. Grier believes "the winter of 1855–1856" to be the most likely date for the notebook, though "some of the contents baffle any theory of WW's development." See Higgins, "Wage Slavery and the Composition of <hi rend="italic">Leaves of Grass</hi>: The 'Talbot Wilson' Notebook," <hi rend="italic">Walt Whitman Quarterly Review</hi> 20:2 (Fall 2002), 53–77; Holloway 86; and Grier 209.<lb/><lb/>
+ Ed Folsom has noted that this notebook contains Whitman's "earliest draft" of the "mash'd fireman" passage of "Song of Myself," which would suggest that at least some of the notebook dates to about 1854. See Folsom, "Erasing Race: The Lost Black Presence in Whitman's Manuscripts," in <hi rend="italic">Whitman Noir: Black America and the Good Gray Poet</hi> (Iowa City: University of Iowa Press, 2014), 3–31.
 <lb/><lb/>The original notebook is one of several that were lost during World War II, and its current whereabouts are unknown. </note>   
             </notesStmt>
             <sourceDesc>
@@ -82,8 +80,8 @@
                     <title>Notebook LC #87</title>
                     <date cert="medium" notBefore="1848" notAfter="1856" xml:id="dat1">Between 1848 and 1856</date>
                     <idno type="callno">MSS45443</idno>
-                    <orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
-                    <note type="project">Transcribed from digital images of photostats of the original, with other text supplied from Emory Holloway, <hi rend="italic">Uncollected Poetry and Prose of Walt Whitman</hi> (Garden City, NY: Doubleday, 1921), 2: 86&#8211;90; and Edward F. Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:209&#8211;221. <lb/><lb/>The photostats, though obviously incomplete, prove that Holloway took considerable liberties, omitting much material from his transcription, which also ignores pagination and silently reorders parts of the text. Furthermore, because Holloway offers no description of or rationale for his editorial interventions, it is impossible to know the text's original order or how much of it is not represented by either his transcription or the photostats. For these reasons, our transcription, which follows the order offered by Grier, omits the usual references to page breaks. Images of the pages represented by photostats are <ref target="../loc.05935/images/index.html">available here</ref>.</note>
+                    <orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842–1937, Library of Congress, Washington, D.C.</orgName>
+                    <note type="project">Transcribed from digital images of photostats of the original, with other text supplied from Emory Holloway, <hi rend="italic">Uncollected Poetry and Prose of Walt Whitman</hi> (Garden City, NY: Doubleday, 1921), 2: 86–90; and Edward F. Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:209–221. <lb/><lb/>The photostats, though obviously incomplete, prove that Holloway took considerable liberties, omitting much material from his transcription, which also ignores pagination and silently reorders parts of the text. Furthermore, because Holloway offers no description of or rationale for his editorial interventions, it is impossible to know the text's original order or how much of it is not represented by either his transcription or the photostats. For these reasons, our transcription, which follows the order offered by Grier, omits the usual references to page breaks. Images of the pages represented by photostats are <ref target="../loc.05935/images/index.html">available here</ref>.</note>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -98,13 +96,13 @@
           <div1 type="list">
 <list>            <head type="authorial">Autobiographical Data</head>
             
-            <item>From the middle to the latter part of Oct. 1844 I was in <hi rend="underline">New Mirror</hi>&#8212;</item>
+            <item>From the middle to the latter part of Oct. 1844 I was in <hi rend="underline">New Mirror</hi>—</item>
             
             <item>We lived at Vandykes 4th of July 1826</item>
             
             <item>We lived in Adams st in Brooklyn, 1827</item>
             
-            <item>I was in Lawyer Clarkes office in 1830&#8212;</item>
+            <item>I was in Lawyer Clarkes office in 1830—</item>
             
             <item>We moved to Brooklyn in May 1823</item>
             
@@ -112,11 +110,11 @@
             
             <item>Moved to Johnson st May 1st 1825</item>
             
-            <item>Moved to Tillary st (Martin's) 1st May 1827&#8212;moved to own house Nov lived there till Nov 1831</item>
+            <item>Moved to Tillary st (Martin's) 1st May 1827—moved to own house Nov lived there till Nov 1831</item>
             
-            <item>We lived in Henry st the winter before the first cholera summer (1830&#8211;1831?)</item>
+            <item>We lived in Henry st the winter before the first cholera summer (1830–1831?)</item>
             
-            <item>I was at Clements printing office in the summer of 1831&#8212;</item>
+            <item>I was at Clements printing office in the summer of 1831—</item>
             
             <item>I went to Spooner's in the fall of '32.</item>
             
@@ -126,15 +124,15 @@
             
             <item>We lived at Norwich in 1834.</item>
             
-            <item>I went up to Hempstead from New York 1st of May 1836&#8212;went to Norwich to teach school in June same year.</item>
+            <item>I went up to Hempstead from New York 1st of May 1836—went to Norwich to teach school in June same year.</item>
             
-            <item>I kept the school west of Babylon the winter of 36&#8211;7</item>
+            <item>I kept the school west of Babylon the winter of 36–7</item>
             
             <item>At Long Swamp the spring of '37</item>
             
-            <item>At Smithtown the fall and winter of 37&#8212;</item>
+            <item>At Smithtown the fall and winter of 37—</item>
             
-            <item>Went to Huntington the spring of 38&#8212;</item>
+            <item>Went to Huntington the spring of 38—</item>
             
             <item>We moved to Dix Hills in May 1840</item>
             
@@ -148,7 +146,7 @@
             
             <item>Fall and winter of 1842 boarded at Mrs. R. in Spring st.</item>
             
-            <item>Spring of 1843 boarded at Mrs. Bonnard's in John st.&#8212;</item>
+            <item>Spring of 1843 boarded at Mrs. Bonnard's in John st.—</item>
             
             <item>Also at Mrs. Edgarton's in Vesey.</item>
             
@@ -162,9 +160,9 @@
             
             <item>Edited <hi rend="italic">Democrat</hi> in Summer of 44</item>
             
-            <item>Wrote for <hi rend="italic">Dem Review, American Review</hi> and <hi rend="italic">Columbian Magazines</hi> during 45 and 6&#8212;as previously.</item>
+            <item>Wrote for <hi rend="italic">Dem Review, American Review</hi> and <hi rend="italic">Columbian Magazines</hi> during 45 and 6—as previously.</item>
             
-            <item>About the latter part of February '46, commenced editing the Brooklyn <hi rend="italic">Eagle</hi>&#8212;continued till last of January '48.</item>
+            <item>About the latter part of February '46, commenced editing the Brooklyn <hi rend="italic">Eagle</hi>—continued till last of January '48.</item>
             
             <item>Left Brooklyn for New Orleans, Feb. 11th '48</item>
             
@@ -175,19 +173,24 @@
             <p>The oppression of my heart is not fitful and has no pangs; but a torpor like that of some stagnant pool.</p>
             </div1>
           <div1 type="verse">
+              <relations>
+                  <work ref="xxx.00048" cert="low">
+                      <p>A line in this section is similar to the following line in the poem eventually titled "Song of Myself": "I hear the sound of the human voice . . . . a sound I love," (1855, p. 31).</p>
+                  </work>
+              </relations>
             <lg type="poem">
             <lg type="section">
                 <head type="authorial">2</head>
                 <l>Yet I know not why I should be sad.</l>
                 <l>Around me are my brother men, merry and jovial.</l>
-                <l>The laugh sounds out and the beautiful sound of the human voice a sound I love.</l>
+                <l xml:id="l100">The laugh sounds out and the beautiful sound of the human voice a sound I love.</l>
                 <l>No dear one is in danger, and health shelter and food are vouchsafed me.</l>
             </lg>
             
             <lg type="section">
                 <head type="authorial">3</head>
                 <l>O, Nature! impartial, and perfect in imperfection!</l>
-                <l>Every precious gift to man is linked with a curse&#8212;and each pollution has some sparkle from heaven.</l>
+                <l>Every precious gift to man is linked with a curse—and each pollution has some sparkle from heaven.</l>
                 <l>The mind, raised upward, then holds communion with angels and its reach overtops heaven; yet then it stays in the meshes of the world too and is stung by a hundred serpents every day.</l>
             </lg>
 
@@ -199,7 +202,7 @@
 
             <lg type="section">
                 <head type="authorial">5</head>
-                <l>Thus it comes that I am not glad to night.&#8212;</l>
+                <l>Thus it comes that I am not glad to night.—</l>
                 <l>I feel cramped here in these coarse walls of flesh.</l>
                 <l>The soul disdains its</l>
                 <l>O Mystery of Death, I pant for the time when I shall solve you!</l>
@@ -212,9 +215,9 @@
           <div1 type="prose">
             <head type="authorial" rend="underline">Subjects for articles</head>
                 
-            <p>Rapid and temporary mann<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/> of American changes of popula<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/> for eminent statesmen.&#8212;(inst<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/> of Crawford) (<hi rend="underline">reverse</hi> instance, Pi<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/></p>
+            <p>Rapid and temporary mann<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/> of American changes of popula<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/> for eminent statesmen.—(inst<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/> of Crawford) (<hi rend="underline">reverse</hi> instance, Pi<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/></p>
                 
-            <p>Answer the objection that de<unclear reason="obscured" cert="high" resp="#bb">m</unclear>ocratic forms of gov. not energet<unclear reason="obscured" cert="high" resp="#bb">ic</unclear> enough in cases of emergency. (Commonwealth of England&#8212;directo<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/> of France.)</p>
+            <p>Answer the objection that de<unclear reason="obscured" cert="high" resp="#bb">m</unclear>ocratic forms of gov. not energet<unclear reason="obscured" cert="high" resp="#bb">ic</unclear> enough in cases of emergency. (Commonwealth of England—directo<gap reason="obscured" atLeast="1" unit="chars" extent="at least one letter"/> of France.)</p>
           </div1>
 
 <!-- <pb facs="loc_bb.00033.jpg" type="recto"/>-->
@@ -252,16 +255,16 @@
                     </work>
                 </relations>-->
               
-          <ab><del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/>dling</del>persons <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>grades <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>onal <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>.&#8212;Why <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> <unclear reason="illegible" cert="low" resp="#bb">manners</unclear> <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>a <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>ity to <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> from an <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> who <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> and <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> soil.</ab>
+          <ab><del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/>dling</del>persons <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>grades <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>onal <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>.—Why <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> <unclear reason="illegible" cert="low" resp="#bb">manners</unclear> <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>a <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>ity to <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> from an <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> who <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> and <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> soil.</ab>
           </div1>
 <!--<pb facs="loc_bb.00035.jpg" type="recto"/>-->
 
 <div1 type="prose">
-<p>Give us turbulence, <add rend="insertion" place="supralinear">give us excitement,</add> give us <del rend="overstrike">f</del> the rage and disputes of hell,&#8212;any thing rather than this lethargy of death that spreads like a <add rend="insertion" place="supralinear">the</add> vapor of decaying corpses over our land&#8212;<!--<ref xml:id="q01" target="xxx."/>--></p>
+<p>Give us turbulence, <add rend="insertion" place="supralinear">give us excitement,</add> give us <del rend="overstrike">f</del> the rage and disputes of hell,—any thing rather than this lethargy of death that spreads like a <add rend="insertion" place="supralinear">the</add> vapor of decaying corpses over our land—<!--<ref xml:id="q01" target="xxx."/>--></p>
                 
-          <p>Why what was it&#8212;that little thing that made the rebellion of '76&#8212;a little question of tea and writing paper <add rend="insertion" place="supralinear">only great because it involved a great principle</add><!--<ref xml:id="q02" target="xxx."/>--></p>
+          <p>Why what was it—that little thing that made the rebellion of '76—a little question of tea and writing paper <add rend="insertion" place="supralinear">only great because it involved a great principle</add><!--<ref xml:id="q02" target="xxx."/>--></p>
             <milestone unit="undeclared" rend="horbar-full"/>
-          <p>The next worst thing to having such enormous outrages put into laws and acquiesced in by the people without any alarm, is to have them practically carried out.&#8212;Nations sink by stages, first one, and then <del rend="overstrike">th</del> another,<!--<ref xml:id="q03" target="xxx."/>--></p>
+          <p>The next worst thing to having such enormous outrages put into laws and acquiesced in by the people without any alarm, is to have them practically carried out.—Nations sink by stages, first one, and then <del rend="overstrike">th</del> another,<!--<ref xml:id="q03" target="xxx."/>--></p>
           </div1>
           <div1 type="prose">      
           <p>I come not here to flatter<!--<ref xml:id="q04" target="xxx."/>--></p>
@@ -277,25 +280,25 @@
               </relations>-->
               
             <delSpan rend="hashmark" spanTo="#d01"/>
-            <p>Why confine the matter to that part of <del rend="overstrike">the</del> it involved in the Scriptures?&#8212;</p>
+            <p>Why confine the matter to that part of <del rend="overstrike">the</del> it involved in the Scriptures?—</p>
             
             <p>The influence of the gallows fails</p>
             <anchor xml:id="d01"/>       
           </div1>
 <milestone unit="undeclared" rend="horbar-full"/>
           <div1 type="prose">
-            <p>There is invariably this fact about superior natures; they understand each other, and <add rend="insertion" place="supralinear">with similar sight</add> behold the <add rend="insertion" place="supralinear">soul, the</add> universe, immortality, and <del rend="overstrike">the fallacies of</del> all the aims and arts of men.&#8212;</p>
+            <p>There is invariably this fact about superior natures; they understand each other, and <add rend="insertion" place="supralinear">with similar sight</add> behold the <add rend="insertion" place="supralinear">soul, the</add> universe, immortality, and <del rend="overstrike">the fallacies of</del> all the aims and arts of men.—</p>
             <milestone unit="undeclared" rend="horbar-full"/>
           </div1>
           <div1 type="prose">
-              <metamark function="unknown">1*</metamark> <p>The constitution covenants that <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> the free states shall give up runaway servants&#8212;that we all know.&#8212;But by by the letter and spirit of its most important provisions, we hold the right to decide how to do it, who the runaway servants are, and to <subst><del rend="overstrike" seq="1">settle</del> <add rend="unmarked" place="supralinear" seq="2">perform</add></subst> the whole <del rend="overstrike">thing</del> obligation as we perform any other obligation by due process of law and without any violent <del rend="overstrike">or unlawful</del> intrusion from abroad.&#8212;<!--<ref xml:id="q05" target="xxx."/>--></p>
+              <metamark function="unknown">1*</metamark> <p>The constitution covenants that <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> the free states shall give up runaway servants—that we all know.—But by by the letter and spirit of its most important provisions, we hold the right to decide how to do it, who the runaway servants are, and to <subst><del rend="overstrike" seq="1">settle</del> <add rend="unmarked" place="supralinear" seq="2">perform</add></subst> the whole <del rend="overstrike">thing</del> obligation as we perform any other obligation by due process of law and without any violent <del rend="overstrike">or unlawful</del> intrusion from abroad.—<!--<ref xml:id="q05" target="xxx."/>--></p>
           </div1>
 <!--<pb facs="loc_bb.00037.jpg" type="recto"/>-->            
           <div1 type="prose">
             <delSpan rend="hashmark" spanTo="#d02"/>
             <p>"O, liberty," said Madame Roland, "what crimes have been committed in thy name!"</p>
             <p>"O, Bible!" say I, "what nonsense and folly have been supported in <hi rend="italic">thy</hi> name!"</p>
-            <p>Calvin burned Servetus at Geneva and found his defence in the Bible.&#8212;Henry 8th Edward 6th and the bloody Mary offered up scores of victims, at the stake and gallows, for religious opinion, and found their defence in the Bible.&#8212;The Inquisition also and St. Bartholomew's horrid massacre <del rend="overstrike">are</del> discover ample authority in the Bible.&#8212;</p>
+            <p>Calvin burned Servetus at Geneva and found his defence in the Bible.—Henry 8th Edward 6th and the bloody Mary offered up scores of victims, at the stake and gallows, for religious opinion, and found their defence in the Bible.—The Inquisition also and St. Bartholomew's horrid massacre <del rend="overstrike">are</del> discover ample authority in the Bible.—</p>
             <anchor xml:id="d02"/>
           </div1>
 <!--<pb facs="loc_bb.00038.jpg" type="verso"/>-->            
@@ -312,9 +315,9 @@
                   </work>
               </relations>-->
               
-              <p>I know that <del rend="overstrike">timidest</del> America is strong, and supple, and full of growth.&#8212;I know we are on good terms with the world, and on extra good terms with ourselves.&#8212;<add rend="insertion" place="supralinear">Treaties we make with Europe; steamships paddle <add rend="insertion" place="supralinear">the sea</add></add><!--<ref xml:id="q06" target="xxx.00610"/>--> Gold comes from California, and trade is brisk, and the jobbers are busy nailing up goods, and sending them off to customers, and the railroads <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">go</unclear></del> <add rend="unmarked" place="supralinear" seq="2">run</add></subst> loaded, and all goes <del rend="overstrike">gay and</del> thriftily.&#8212;These things I do not expect to see <del rend="overstrike">grow</del> less <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="2" unit="chars" extent="about three letters"/></del> <add rend="insertion" place="supralinear" seq="2">of</add></subst> <del rend="overstrike">n<gap reason="illegible" atLeast="3" unit="chars" extent="about five letters"/></del> but more, <del rend="overstrike">for</del> and if any one <choice><sic>suppoes</sic> <corr>supposes</corr></choice> I am at all alarmed about the prospects of business <add rend="insertion" place="supralinear">on this continent</add> he misunderstands me, for I am not&#8212;<del rend="overstrike">son</del> no I see its way clear for a hundred years.&#8212;But with all <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="low">this</unclear></del> <add rend="insertion" place="supralinear" seq="2">such</add></subst> decking ourselves <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">in</add></subst> the robes of safety and gain, there <add rend="insertion" place="supralinear">at the gate</add> sits Mordecai the Jew and we know that <add rend="insertion" place="supralinear">terrible sign that</add> either <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> we <del rend="overstrike">r<gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/>t h<gap reason="illegible" atLeast="1" unit="chars" extent="one or two letters"/></del> are to have his life, or he is to hang the best part of us on the gallows high.&#8212;</p>
+              <p>I know that <del rend="overstrike">timidest</del> America is strong, and supple, and full of growth.—I know we are on good terms with the world, and on extra good terms with ourselves.—<add rend="insertion" place="supralinear">Treaties we make with Europe; steamships paddle <add rend="insertion" place="supralinear">the sea</add></add><!--<ref xml:id="q06" target="xxx.00610"/>--> Gold comes from California, and trade is brisk, and the jobbers are busy nailing up goods, and sending them off to customers, and the railroads <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">go</unclear></del> <add rend="unmarked" place="supralinear" seq="2">run</add></subst> loaded, and all goes <del rend="overstrike">gay and</del> thriftily.—These things I do not expect to see <del rend="overstrike">grow</del> less <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="2" unit="chars" extent="about three letters"/></del> <add rend="insertion" place="supralinear" seq="2">of</add></subst> <del rend="overstrike">n<gap reason="illegible" atLeast="3" unit="chars" extent="about five letters"/></del> but more, <del rend="overstrike">for</del> and if any one <choice><sic>suppoes</sic> <corr>supposes</corr></choice> I am at all alarmed about the prospects of business <add rend="insertion" place="supralinear">on this continent</add> he misunderstands me, for I am not—<del rend="overstrike">son</del> no I see its way clear for a hundred years.—But with all <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="low">this</unclear></del> <add rend="insertion" place="supralinear" seq="2">such</add></subst> decking ourselves <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">in</add></subst> the robes of safety and gain, there <add rend="insertion" place="supralinear">at the gate</add> sits Mordecai the Jew and we know that <add rend="insertion" place="supralinear">terrible sign that</add> either <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> we <del rend="overstrike">r<gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/>t h<gap reason="illegible" atLeast="1" unit="chars" extent="one or two letters"/></del> are to have his life, or he is to hang the best part of us on the gallows high.—</p>
             
-            <p>What are all <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">these</add></subst> business prospects, <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">these</add></subst> steamships, <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">these</add></subst> fat sub-treasuries and <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">our</add></subst> profitable trade? <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="4" unit="chars" extent="two words"/></del> <add rend="unmarked" place="supralinear" seq="2">I do not want these</add></subst> want brave and large souled men, <del rend="overstrike">wicked</del> men <del rend="overstrike">if</del> not <metamark function="unknown" place="right">&#43;</metamark><!--<ref xml:id="q07" target="xxx."/>--></p>
+            <p>What are all <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">these</add></subst> business prospects, <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">these</add></subst> steamships, <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">these</add></subst> fat sub-treasuries and <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">our</add></subst> profitable trade? <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="4" unit="chars" extent="two words"/></del> <add rend="unmarked" place="supralinear" seq="2">I do not want these</add></subst> want brave and large souled men, <del rend="overstrike">wicked</del> men <del rend="overstrike">if</del> not <metamark function="unknown" place="right">+</metamark><!--<ref xml:id="q07" target="xxx."/>--></p>
           </div1>
 <!--<pb facs="loc_bb.00039.jpg" type="recto"/>-->            
           <div1 type="prose">
@@ -324,19 +327,19 @@
                   </work>
               </relations>-->
               
-            <p><subst><del rend="overstrike" seq="1">If this</del> <add rend="insertion" place="supralinear" seq="2">Are these <add rend="insertion" place="supralinear">two or three</add> drops <del rend="overstrike">be</del> any <del rend="overstrike">prophecy of </del></add></subst> sample <subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#bb">held</unclear> any prophecy of the requirements of the g<gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">of the storm </add></subst> that is cooking for us? If I thought it was, <unclear reason="illegible" cert="medium" resp="#bb">men</unclear> of <add rend="insertion" place="infralinear">these would be no days of dalliance or of ease <del rend="overstrike">and</del> or talk.&#8212;They would be days <del rend="overstrike">of</del> for all <unclear reason="illegible" cert="low" resp="#bb">live</unclear> all Americans to get on their killing clothes</add> I should <add rend="insertion" place="supralinear">advise</add> all living Americans to get on their killing clothes, for there would be a little butchering to be done</p>
+            <p><subst><del rend="overstrike" seq="1">If this</del> <add rend="insertion" place="supralinear" seq="2">Are these <add rend="insertion" place="supralinear">two or three</add> drops <del rend="overstrike">be</del> any <del rend="overstrike">prophecy of </del></add></subst> sample <subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#bb">held</unclear> any prophecy of the requirements of the g<gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">of the storm </add></subst> that is cooking for us? If I thought it was, <unclear reason="illegible" cert="medium" resp="#bb">men</unclear> of <add rend="insertion" place="infralinear">these would be no days of dalliance or of ease <del rend="overstrike">and</del> or talk.—They would be days <del rend="overstrike">of</del> for all <unclear reason="illegible" cert="low" resp="#bb">live</unclear> all Americans to get on their killing clothes</add> I should <add rend="insertion" place="supralinear">advise</add> all living Americans to get on their killing clothes, for there would be a little butchering to be done</p>
           </div1>
 <milestone unit="undeclared" rend="horbar-full"/>  
           <div1 type="prose">
 <relations>
 <work ref="xxx.00048" cert="high">
-<p>This passage appears to be an early draft version of a passage in the first poem of the <date when="1855">1855</date> edition of <hi rend="italic">Leaves of Grass</hi>, in which the poetic persona declares, "I am the mashed fireman with breastbone broken" and describes his rescue by "comrades" with "white and beautiful" faces. The poem was later titled "Song of Myself."</p>
+<p>This passage appears to be an early draft version of a passage in the first poem of the <date when="1855">1855</date> edition of <hi rend="italic">Leaves of Grass</hi>, in which the poetic persona declares, "I am the mashed fireman with breastbone broken" and describes his rescue by "comrades" with "white and beautiful" faces (1855, p. 39). The poem was later titled "Song of Myself."</p>
 </work>
 </relations>
-            <p><del rend="overstrike">I was years ago present at</del> Years ago I formed <add rend="unmarked" place="supralinear">one</add> of a great crowd <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="3" unit="chars" extent="about three letters"/></del> <add rend="unmarked" place="supralinear" seq="2">that rapidly</add></subst> gathered where a building had fallen in and buried a man alive.&#8212;Down somewhere in those ruins the poor fellow <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="3" unit="chars" extent="about three letters"/></del> <add rend="unmarked" place="supralinear" seq="2">lurked,</add></subst> deprived of his liberty, <del rend="overstrike">and either in</del> <del rend="overstrike">in danger</del> perhaps dead or in danger of death.&#8212;How every body worked! how the shovels flew!&#8212;And all for black Caesar&#8212;for <del rend="overstrike">black</del> the buried man wasn't any body else.&#8212;</p>
+            <p xml:id="p01"><del rend="overstrike">I was years ago present at</del> Years ago I formed <add rend="unmarked" place="supralinear">one</add> of a great crowd <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="3" unit="chars" extent="about three letters"/></del> <add rend="unmarked" place="supralinear" seq="2">that rapidly</add></subst> gathered where a building had fallen in and buried a man alive.—Down somewhere in those ruins the poor fellow <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="3" unit="chars" extent="about three letters"/></del> <add rend="unmarked" place="supralinear" seq="2">lurked,</add></subst> deprived of his liberty, <del rend="overstrike">and either in</del> <del rend="overstrike">in danger</del> perhaps dead or in danger of death.—How every body worked! how the shovels flew!—And all for black Caesar—for <del rend="overstrike">black</del> the buried man wasn't any body else.—</p>
           </div1> 
 <div1 type="prose">
-            <p>Our country seems to be threatened with a sort of ossification of the spirit. Amid all the advanced grandeurs of these times beyond any other of which we know&#8212;amid the never enough praised spread of common education and common newspapers and books&#8212;amid the universal accessibility of riches and personal comforts&#8212;the wonderful inventions&#8212;the cheap swift travel bringing far nations together&#8212;amid all the extreme reforms and benevolent societies&#8212;the current that bears us is one broadly and deeply materialistic and infidel. It is the very worst kind of infidelity because it suspects not itself but proceeds complacently onward and abounds in churches and all the days of its life solves never the simple riddle why it has not a good time.&#8212;For I do not believe the people of these days are happy. The public countenance lacks its bloom of love and its freshness of faith.&#8212;For want of these, it is cadaverous as a corpse. <!--<ref xml:id="q08" target="xxx."/>--></p>
+            <p>Our country seems to be threatened with a sort of ossification of the spirit. Amid all the advanced grandeurs of these times beyond any other of which we know—amid the never enough praised spread of common education and common newspapers and books—amid the universal accessibility of riches and personal comforts—the wonderful inventions—the cheap swift travel bringing far nations together—amid all the extreme reforms and benevolent societies—the current that bears us is one broadly and deeply materialistic and infidel. It is the very worst kind of infidelity because it suspects not itself but proceeds complacently onward and abounds in churches and all the days of its life solves never the simple riddle why it has not a good time.—For I do not believe the people of these days are happy. The public countenance lacks its bloom of love and its freshness of faith.—For want of these, it is cadaverous as a corpse. <!--<ref xml:id="q08" target="xxx."/>--></p>
           </div1> 
 <!--<pb facs="loc_bb.00040.jpg" type="verso"/>-->
 
@@ -346,11 +349,11 @@
 
 <!--<pb facs="loc_bb.00041.jpg" type="recto"/>-->
           <div1 type="prose">
-            <p>Going among a large collection of blind persons&#8212;the wish that they could see and have all the blessings and knowledge thence&#8212;would it make your sight any less valuable to you?</p>
+            <p>Going among a large collection of blind persons—the wish that they could see and have all the blessings and knowledge thence—would it make your sight any less valuable to you?</p>
           </div1>
 <milestone unit="undeclared" rend="horbar-full"/>
           <div1 type="prose">  
-            <p>As to the feeling of a man for a woman and a woman for a man, and all the vigor and beauty and muscular yearning&#8212;it is well to know that neither the possession of these feelings nor the easy talking and writing about them, and having them powerfully infused in poems is any discredit . . . . but rather a credit.&#8212;No woman can bear clean and vigorous children without them.&#8212;Most of what is called delicacy is filthy, or sick, and unworthy of a woman of live <add rend="insertion" place="supralinear">rosy</add> body and a clean <del rend="overstrike">rosy</del> affectionate spirit.&#8212;At any rate all these things are necessary to the breeding of robust wholesome offspring.&#8212;</p>
+            <p>As to the feeling of a man for a woman and a woman for a man, and all the vigor and beauty and muscular yearning—it is well to know that neither the possession of these feelings nor the easy talking and writing about them, and having them powerfully infused in poems is any discredit . . . . but rather a credit.—No woman can bear clean and vigorous children without them.—Most of what is called delicacy is filthy, or sick, and unworthy of a woman of live <add rend="insertion" place="supralinear">rosy</add> body and a clean <del rend="overstrike">rosy</del> affectionate spirit.—At any rate all these things are necessary to the breeding of robust wholesome offspring.—</p>
           </div1>
 
 <!--<pb facs="loc_bb.00042.jpg" type="verso"/>-->
@@ -371,7 +374,7 @@
             
 <!--<pb facs="loc_bb.00044.jpg" type="verso"/>-->
           <div1 type="prose">
-            <p>What can be a more admirable aim for the most exalted human ambition, than the wish and resolve to be <hi rend="underline">perfect</hi>?&#8212;Though the carrying out of this resolve requires some mental purification, the most of it, I think is of a physical nature. How many faults have I!&#8212;How many weaknesses!&#8212;Ah, if the flesh could but act what my rational mind, in its moments of clear inspiration aspires to, how much better I should be!&#8212;Faint not, heart!&#8212;Advance stoutly and perseveringly!</p>
+            <p>What can be a more admirable aim for the most exalted human ambition, than the wish and resolve to be <hi rend="underline">perfect</hi>?—Though the carrying out of this resolve requires some mental purification, the most of it, I think is of a physical nature. How many faults have I!—How many weaknesses!—Ah, if the flesh could but act what my rational mind, in its moments of clear inspiration aspires to, how much better I should be!—Faint not, heart!—Advance stoutly and perseveringly!</p>
           </div1>
 
           <div1 type="prose">  
@@ -379,15 +382,15 @@
           </div1>
 
           <div1 type="prose">  
-            <p>In Jamaica first time in the latter part of the summer of 1839. In the winter succeeding, I taught school <del rend="overstrike">at</del> between Jamaica and Flushing&#8212;also in February and spring of '40 at Trimming Square.&#8212;</p>
+            <p>In Jamaica first time in the latter part of the summer of 1839. In the winter succeeding, I taught school <del rend="overstrike">at</del> between Jamaica and Flushing—also in February and spring of '40 at Trimming Square.—</p>
             
             <p>In summer of 40 I taught at Woodbury.</p>
             
-            <p>Was at Jamaica and through Queens co. electioneering in fall of 1840.&#8212;</p>
+            <p>Was at Jamaica and through Queens co. electioneering in fall of 1840.—</p>
           </div1>
 <!--<pb facs="loc_bb.00045.jpg" type="recto"/>-->            
           <div1 type="prose">
-            <p>By the article of Sidney Smith (1826) it appears that at that time certain high orders of criminals had not the privilege of being heard by their counsel in their trials&#8212;jury</p>
+            <p>By the article of Sidney Smith (1826) it appears that at that time certain high orders of criminals had not the privilege of being heard by their counsel in their trials—jury</p>
             
             <p><q who="Sidney Smith">"I have myself," says Mr Scarlett, the English Barrister "<hi rend="underline">often</hi> seen persons I thought innocent convicted, and the guilty escape."</q><bibl rend="right"><author>Sidney Smith</author><lb/> <title level="m">essays</title></bibl>
                 </p>
@@ -400,24 +403,24 @@
 <milestone unit="undeclared" rend="horbar-full"/> 
              
           <div1 type="prose">
-            <p>Winter of 1840, went to white stone, and was there till next spring.&#8212;</p>
+            <p>Winter of 1840, went to white stone, and was there till next spring.—</p>
             
-            <p>Went to New York in May 1841, and wrote for "Democratic Review," worked at printing business in New World" office boarded at Mrs. Chipmans&#8212;</p>
+            <p>Went to New York in May 1841, and wrote for "Democratic Review," worked at printing business in New World" office boarded at Mrs. Chipmans—</p>
             
-            <p>&#8212;Went in April 1842 to ed<gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> Aurora</p>
+            <p>—Went in April 1842 to ed<gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> Aurora</p>
             
             <p>Wrote for "sun," &amp;c</p>
             
             <p>J. W. died at Dix Hills Sept 8th 1845</p>
           </div1>
           <div1 type="prose">
-            <p>There is a quality in some persons which ignores and fades away the <space dim="horizontal"/> around the hearts of all the people they meet.&#8212;To them they respond perhaps for the first time in their lives&#8212;now they have ease&#8212;now they take holiday&#8212;here is some one that they are not afraid of&#8212;they do not feel awe or respect or suspicion&#8212;they can be themselves&#8212;they can expose their secret failings and crimes.&#8212;Most people that come to them are formal or good or eminent&#8212;are repugnant to them&#8212;They close up their leaves then.</p>
+            <p>There is a quality in some persons which ignores and fades away the <space dim="horizontal"/> around the hearts of all the people they meet.—To them they respond perhaps for the first time in their lives—now they have ease—now they take holiday—here is some one that they are not afraid of—they do not feel awe or respect or suspicion—they can be themselves—they can expose their secret failings and crimes.—Most people that come to them are formal or good or eminent—are repugnant to them—They close up their leaves then.</p>
           </div1>
 
 <!--<pb facs="loc_bb.00046.jpg" type="verso"/>-->    
           <div1 type="notes"><ab>
             <table>
-            <row><cell>The Pretender," son of James II appeared in Scotland.&#8212;<unclear reason="unclear" cert="medium" resp="#bb">his</unclear> <gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/> no avail</cell></row>
+            <row><cell>The Pretender," son of James II appeared in Scotland.—<unclear reason="unclear" cert="medium" resp="#bb">his</unclear> <gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/> no avail</cell></row>
         
                 <row>
                     <cell>1727</cell>
@@ -426,7 +429,7 @@
                 
                 <row>
                     <cell>1745</cell>
-                    <cell>Charles Edward, the Young Pretender came to Scotland, advanced to Edinburgh, was proclaimed king there, Battle of Culloden blasted all his hopes&#8212;after which, for six months, he wandered in disguise from cave to cave, and at last escaped to France<lb/><lb/>Adm. Byng executed.&#8212;</cell>
+                    <cell>Charles Edward, the Young Pretender came to Scotland, advanced to Edinburgh, was proclaimed king there, Battle of Culloden blasted all his hopes—after which, for six months, he wandered in disguise from cave to cave, and at last escaped to France<lb/><lb/>Adm. Byng executed.—</cell>
                 </row>
 
                 <row>
@@ -436,7 +439,7 @@
                 
                 <row>
                     <cell>1768.</cell>
-                    <cell>Middlesex election. Wilkes' case. Wilkes was three times chosen, and refused by the house.&#8212;</cell>
+                    <cell>Middlesex election. Wilkes' case. Wilkes was three times chosen, and refused by the house.—</cell>
                 </row>
                 
                 <row>
@@ -461,13 +464,13 @@
 <!--<pb facs="loc_bb.00047.jpg" type="recto"/>-->                
                 <row>
                     <cell>1791</cell>
-                    <cell>Another quarrel of Burke with Fox, as he had formerly quarrelled with Sheridan in the House.&#8212;</cell>
+                    <cell>Another quarrel of Burke with Fox, as he had formerly quarrelled with Sheridan in the House.—</cell>
                 </row>
             </table></ab>
           </div1>
             
           <div1 type="prose">
-            <p><hi rend="underline">French Revolution</hi>. The king by his weakness extortion and <choice><orig>tyrany</orig><corr>tyranny</corr></choice> had incensed the people the States' general had assembled&#8212;the commons wished one body made of the three orders, and assumed the title of national assembly&#8212;Paris was (1789.) environed by a royal army of 50,000. The popular minister, M. Necker was removed, and then the insurrection broke out, the Bastile was destroyed, the king (17th July) visited the hotel de Ville and surrendered himself to the people.&#8212;In June, 1791, the king attempted to escape from Paris.&#8212;He was caught and brought back National assembly completed a new constitution, which was accepted by the king in Sept. the same year.&#8212;The Nat. As. then dissolved, and a new one was chosen, to the exclusion of every member of the former.&#8212;(Duke of Brunswick's proclamation 2nd page.) Sept 21, 1792, new Convention met, and decreed the abolition of royalty, and the formation of a republic.&#8212;Since the deposition of the king, the prisons had been filled, with suspected persons; on the 2nd of Sept. they were found open, and a horrid massacre took place.&#8212;In Dec. 1792, the Convention tried the king, convicted him, and on the 21st of Jan. 1793 he was beheaded.&#8212;</p>
+            <p><hi rend="underline">French Revolution</hi>. The king by his weakness extortion and <choice><orig>tyrany</orig><corr>tyranny</corr></choice> had incensed the people the States' general had assembled—the commons wished one body made of the three orders, and assumed the title of national assembly—Paris was (1789.) environed by a royal army of 50,000. The popular minister, M. Necker was removed, and then the insurrection broke out, the Bastile was destroyed, the king (17th July) visited the hotel de Ville and surrendered himself to the people.—In June, 1791, the king attempted to escape from Paris.—He was caught and brought back National assembly completed a new constitution, which was accepted by the king in Sept. the same year.—The Nat. As. then dissolved, and a new one was chosen, to the exclusion of every member of the former.—(Duke of Brunswick's proclamation 2nd page.) Sept 21, 1792, new Convention met, and decreed the abolition of royalty, and the formation of a republic.—Since the deposition of the king, the prisons had been filled, with suspected persons; on the 2nd of Sept. they were found open, and a horrid massacre took place.—In Dec. 1792, the Convention tried the king, convicted him, and on the 21st of Jan. 1793 he was beheaded.—</p>
           </div1>
 <!--<pb facs="loc_bb.00048.jpg" type="verso"/>-->            
           <div1 type="notes">
@@ -475,9 +478,9 @@
                 <p>Shakspere born in 1564 died in 1615</p>
                 <p>Sir W. Raleigh born in 1552 was beheaded in 1618, under James 1st</p>
                 <p>Francis Bacon, Lord Verulam, born in 1561, died in 1626.</p>
-                <p>Algernon Sidney born in 1617, died in 1683 on the Scaffold. a bold champion of liberty&#8212;was beheaded under Charles II.</p>
+                <p>Algernon Sidney born in 1617, died in 1683 on the Scaffold. a bold champion of liberty—was beheaded under Charles II.</p>
                 <p>Dryden, born 1631 died 1701</p>
-                <p>Tillotson, born 1630 died 1694 archbishop of Canterbury, writer of sermons.&#8212;</p>
+                <p>Tillotson, born 1630 died 1694 archbishop of Canterbury, writer of sermons.—</p>
                 <p>Sir Wm. Temple born 1629 died 1700</p>
                 <p>John Locke born 1632, died 1704</p>
                 <p>George Farquhar, Irish, born 1678, died in 1707. writer of comedies.</p>
@@ -485,27 +488,27 @@
                 <p>Congreve, Irish, born 1672 died 1729. comic writer</p>
 <!--<pb facs="loc_bb.00049.jpg" type="recto"/>-->
 
-                <p>Sir Richard Steele, Irish, born <space dim="horizontal"/> died 1729. commenced "Tatler" in 1709&#8212;followed by "Spectator" and "Guardian".&#8212;When George I came to the throne, he received the honor of knighthood.&#8212;</p>
+                <p>Sir Richard Steele, Irish, born <space dim="horizontal"/> died 1729. commenced "Tatler" in 1709—followed by "Spectator" and "Guardian".—When George I came to the throne, he received the honor of knighthood.—</p>
                 <p>Swift, Irish, born 1667 died 1744 author of "Tale of a Tub," "Gullivers Travels."</p>
                 <p>Swift, Rabelais, and Voltaire, have been accounted the three greatest wits of modern times.</p>
                 <p>Pope, born 1688 died 1744. (Queen Anne)</p>
                 <p>Sir Robert Walpole, born 1676, died in 1745. (George I)</p>
                 <p>Isaac Watts, born 1674 died in 1748 (a dissenter)</p>
-                <p>St. John, Vicount Bolingbroke, born 1672, died 1751.&#8212;At George 1st, he withdrew to France, joined the "Pretender."&#8212;Impeached of high treason, was pardoned, and afterward returned to England. He married a niece of Madame de Maintainon</p>
-                <p>Camoens, a Portuguese, contempoaray of Tasso, Italian.&#8212;C's poem on the first discovery of East Indies by Vasco de Gama</p>
+                <p>St. John, Vicount Bolingbroke, born 1672, died 1751.—At George 1st, he withdrew to France, joined the "Pretender."—Impeached of high treason, was pardoned, and afterward returned to England. He married a niece of Madame de Maintainon</p>
+                <p>Camoens, a Portuguese, contempoaray of Tasso, Italian.—C's poem on the first discovery of East Indies by Vasco de Gama</p>
             
           </div1>
 <!--<pb facs="loc_bb.00050.jpg" type="verso"/>-->
           <div1 type="prose">
             <ab rend="center">Britain</ab>
             
-            <p>Little known before time of the Romans.&#8212;<add rend="unmarked" place="interlinear">About the beginning of Christian era&#8212;</add> Had rude forces, infantry and horses&#8212;Cesar first visited the island.&#8212;Claudius was the emperor, under whom it was subjected. Caractacus sought to free his country, was taken prisoner and carried to Rome.&#8212;"Alas! he said how is it possible that a people possessed of such magnificence at home should envy me a humble cottage in Britain?"&#8212;Boadicea, a Briton queen, <gap reason="illegible" atLeast="3" unit="chars" extent="about 4 letters"/>d by the Romans, fought, led her own armies, was routed, committed suicide by poison.&#8212;Romans left, after being masters for 400 years.&#8212;</p>
+            <p>Little known before time of the Romans.—<add rend="unmarked" place="interlinear">About the beginning of Christian era—</add> Had rude forces, infantry and horses—Cesar first visited the island.—Claudius was the emperor, under whom it was subjected. Caractacus sought to free his country, was taken prisoner and carried to Rome.—"Alas! he said how is it possible that a people possessed of such magnificence at home should envy me a humble cottage in Britain?"—Boadicea, a Briton queen, <gap reason="illegible" atLeast="3" unit="chars" extent="about 4 letters"/>d by the Romans, fought, led her own armies, was routed, committed suicide by poison.—Romans left, after being masters for 400 years.—</p>
             
-            <p>After Romans abdicated, the British were so annoyed by the Picts and Scots, that they invited the Saxons, to come <gap reason="illegible" atLeast="3" unit="chars" extent="about 4 letters"/> from Germany, and protect them.&#8212;They came under Hengist and Horsa, brothers.&#8212;Vortigern was their king.&#8212;Treachery of the Saxons.&#8212;Prince Arthur a native Briton took up arms against them.&#8212;Es-sex Sus-sex, <add rend="insertion" place="supralinear">Wes-sex</add>  &amp;c. Saxon kingdoms.&#8212;About 400 years after the arrival of Saxons, they having founded different kingdoms, and, quarrelled&#8212;all were united under Egbert of Wessex, who was crowned king of England. At this time St Gregory (Pope) (St George?) sent missionaries to convert them. (Saw some children for sale in the slave market at Rome)</p>
+            <p>After Romans abdicated, the British were so annoyed by the Picts and Scots, that they invited the Saxons, to come <gap reason="illegible" atLeast="3" unit="chars" extent="about 4 letters"/> from Germany, and protect them.—They came under Hengist and Horsa, brothers.—Vortigern was their king.—Treachery of the Saxons.—Prince Arthur a native Briton took up arms against them.—Es-sex Sus-sex, <add rend="insertion" place="supralinear">Wes-sex</add>  &amp;c. Saxon kingdoms.—About 400 years after the arrival of Saxons, they having founded different kingdoms, and, quarrelled—all were united under Egbert of Wessex, who was crowned king of England. At this time St Gregory (Pope) (St George?) sent missionaries to convert them. (Saw some children for sale in the slave market at Rome)</p>
             
-            <p>Danes now invaded England, and committed great ravages. "Alfred the Great" fought against them.&#8212;Edward, Son of Alfred
+            <p>Danes now invaded England, and committed great ravages. "Alfred the Great" fought against them.—Edward, Son of Alfred
 <!--<pb facs="loc_bb.00051.jpg" type="recto"/>-->
-Ethelstan, son of <subst><del rend="overwrite" seq="1">Alfred</del><add rend="overwrite" place="over" seq="2">Edward</add></subst>.&#8212;Edmund.&#8212;Edred. Edwy.&#8212;Edgar.&#8212;Edward II.&#8212;Ethelred II.&#8212;Edmund Ironside. (Danes, under Canute <gap reason="illegible" atLeast="3" unit="chars" extent="about four or five letters"/> invaded Eng.) Canute and Edmund, keeping the kingdom in constant war, the nobility obliged them to divide the empire.&#8212;Soon after Edward was murdered, and Canute thereby came into possession of the crown.&#8212;Harold, son of Canute.&#8212;Hardicanute, another son&#8212; Danes deposed, and Edward the Confessor, <add rend="insertion" place="supralinear">a Saxon,</add> king.&#8212; Harold, son of a nobleman.&#8212; His pretensions were opposed by William, Duke of Normandy.&#8212; The crown had been left William by Edward the Confessor.&#8212; Pope in favor of William. William entered England, fought Harold, defeated him, and gained the crown. End of Saxon dynasty, after 600 years.</p>
+Ethelstan, son of <subst><del rend="overwrite" seq="1">Alfred</del><add rend="overwrite" place="over" seq="2">Edward</add></subst>.—Edmund.—Edred. Edwy.—Edgar.—Edward II.—Ethelred II.—Edmund Ironside. (Danes, under Canute <gap reason="illegible" atLeast="3" unit="chars" extent="about four or five letters"/> invaded Eng.) Canute and Edmund, keeping the kingdom in constant war, the nobility obliged them to divide the empire.—Soon after Edward was murdered, and Canute thereby came into possession of the crown.—Harold, son of Canute.—Hardicanute, another son— Danes deposed, and Edward the Confessor, <add rend="insertion" place="supralinear">a Saxon,</add> king.— Harold, son of a nobleman.— His pretensions were opposed by William, Duke of Normandy.— The crown had been left William by Edward the Confessor.— Pope in favor of William. William entered England, fought Harold, defeated him, and gained the crown. End of Saxon dynasty, after 600 years.</p>
           </div1>
             
           <div1 type="list">

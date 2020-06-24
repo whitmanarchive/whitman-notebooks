@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>  
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00005">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00005">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-	<title level="m" type="main" rend="bracketed">med Coph&#243;sis</title>
+	<title level="m" type="main" rend="bracketed">med Cophósis</title>
 <title level="m" type="sub">a machine readable transcription</title>
 <author>Walt Whitman</author>
 <editor>Kenneth M. Price</editor>
@@ -37,9 +34,8 @@ Humanities</sponsor>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>P.O. Box 884100</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
-<addrLine>kprice@unlnotes.unl.edu</addrLine>
+<addrLine>kprice2@unl.edu</addrLine>
 <addrLine>Ed-Folsom@uiowa.edu</addrLine>
-<addrLine>bbarney2@unlnotes.unl.edu</addrLine>
 </address>
 <availability>
 	<p>The text of the original item is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>  
@@ -48,7 +44,7 @@ Humanities</sponsor>
 </availability>
 </publicationStmt>
 <notesStmt>
-	<note type="project" target="#dat1">These pages were written by Whitman in the early to mid-1850s. William White described the pages as "torn from a tall notebook" (<hi rend="italic">Daybooks and Notebooks</hi> [New York: New York University Press, 1978], 773&#8211;777). White noted a relationship between these pages and the poems "Who Learns My Lesson Complete?," "By Blue Ontario's Shore," "Song of the Answerer," and "There Was a Child Went Forth." Some of the ideas and language being worked out here also appear in the poem that would be titled "Song of Myself." For a discussion of the dating and importance of this notebook, see Matt Miller, <hi rend="italic">Collage of Myself: Walt Whitman and the Making of</hi> Leaves of Grass (Lincoln: University of Nebraska Press, 2010), 11&#8211;16.</note>       
+	<note type="project" target="#dat1">These pages were written by Whitman in the early to mid-1850s. William White described the pages as "torn from a tall notebook" (<hi rend="italic">Daybooks and Notebooks</hi> [New York: New York University Press, 1978], 773–777). White noted a relationship between these pages and the poems "Who Learns My Lesson Complete?," "By Blue Ontario's Shore," "Song of the Answerer," and "There Was a Child Went Forth." Some of the ideas and language being worked out here also appear in the poem eventually titled "Song of Myself." For a discussion of the dating and importance of this notebook, see Matt Miller, <hi rend="italic">Collage of Myself: Walt Whitman and the Making of</hi> Leaves of Grass (Lincoln: University of Nebraska Press, 2010), 11–16.</note>       
 </notesStmt>
 <sourceDesc>
 <bibl>
@@ -56,12 +52,14 @@ Humanities</sponsor>
 <title>Women</title>
 <date cert="medium" notBefore="1852" notAfter="1854" xml:id="dat1">Between 1852 and 1854</date><!--NOTE: this date is based on Matt Miller's dating in Collage of Myself-->
 <idno type="callno">Box 39, Folder "Literary, Before 1855, Women"</idno> 
-	<orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName> 
+	<orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName> 
 <note type="project">Transcribed from digital images of the original.</note>
 </bibl>
 </sourceDesc>
 </fileDesc>
 <revisionDesc>
+	<change when="2019-11-18" who="#bb">tweaked the wording of the date note</change>
+	<change when="2019-08-07" who="#nhg">added inline relation</change>
 	<change when="2017-10-09" who="#nhg">added inline relations information</change>
 	<change when="2017-07-13" who="#nhg">tweaked editorial note</change>
 	<change when="2016-05-24" who="#nhg">updated work ID information</change>
@@ -88,50 +86,42 @@ Humanities</sponsor>
 
 <div2 type="section">
 
-	<list><item><add rend="unmarked" place="supralinear">med</add> Coph&#243;sis, <add rend="unmarked" 
-place="supralinear">g</add> 
+	<list><item><add rend="unmarked" place="supralinear">med</add> Cophósis, <add rend="unmarked" place="supralinear">g</add> 
 deafness, dumbness, or dulness of any sense.</item>
 
-		<item><add rend="unmarked" place="supralinear">med</add> C&#333;pos, <add rend="unmarked" place="supralinear">gr</add> a morbid lassitude</item>
+		<item><add rend="unmarked" place="supralinear">med</add> Cōpos, <add rend="unmarked" place="supralinear">gr</add> a morbid lassitude</item>
 
 <item><hi rend="underline">Sensorium</hi>, the seat of sensation, 
 doubtless the brain</item>
 
-<item>Liaison (l&#275;-a-zohn), a binding or 
+<item>Liaison (lē-a-zohn), a binding or 
 fastening together</item></list>
 </div2>
 <div2 type="section">
+	<relations>
+		<work ref="xxx.00048" cert="high">
+			<p>Part of this section about happiness likely contributed to the following line in the poem eventually titled "Song of Myself": "Happiness . . . . which whoever hears me let him or her set out in search of this day" (1855, p. 31).</p>
+		</work>
+	</relations>
 <ab>Because women do not appear in history and philosophy with any thing 
-like the same prominence as men&#8212;that is no reason for thinking them less 
-than men:&#8212;The great names that we know are but the accidental 
-scraps.&#8212;Mention to me the twenty
+like the same prominence as men—that is no reason for thinking them less 
+than men:—The great names that we know are but the accidental 
+scraps.—Mention to me the twenty
 <del rend="overstrike">grea</del> most majestic characters that have 
-existed upon the earth, and have their names recorded.&#8212;It is very 
-well.&#8212;But for that twenty, there are millions upon millions just as great, 
-whose names are unrecorded.&#8212;It was in them to do <del 
-rend="overstrike">grander</del> actions as grand&#8212;to say as beautiful thoughts&#8212;to set <del 
-rend="overstrike">the</del> examples for their race.&#8212;But <add 
-rend="insertion" place="supralinear">in each one</add> the book was not 
-opened.&#8212;It lay in its place ready</ab>
+existed upon the earth, and have their names recorded.—It is very 
+well.—But for that twenty, there are millions upon millions just as great, 
+whose names are unrecorded.—It was in them to do <del rend="overstrike">grander</del> actions as grand—to say as beautiful thoughts—to set <del rend="overstrike">the</del> examples for their race.—But <add rend="insertion" place="supralinear">in each one</add> the book was not 
+opened.—It lay in its place ready</ab>
 
-<ab>The greatest and truest knowledge can never be taught or passed over 
-from him or her who has it, to him or her who has it not.&#8212;It is in the 
-soul.&#8212;It is not susceptible of proof or <del 
-	rend="overstrike">demon</del> explanation.&#8212;It applies to all things and encloses them.&#8212;<subst><del rend="overstrike" seq="1">All that there is in what</del> <del rend="overstrike" seq="3"><add rend="unmarked" 
-place="supralinear" seq="2">The enti</add></del> <add 
-	rend="unmarked" place="supralinear" seq="4">What</add></subst> men think enviable, if it <subst><del 
-rend="overstrike" seq="1">were</del>
+<ab><seg xml:id="seg01">The greatest and truest knowledge can never be taught or passed over 
+from him or her who has it, to him or her who has it not.—It is in the 
+soul.—It is not susceptible of proof or <del rend="overstrike">demon</del> explanation.—It applies to all things and encloses them.—<subst><del rend="overstrike" seq="1">All that there is in what</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">The enti</add></del> <add rend="unmarked" place="supralinear" seq="4">What</add></subst> men think enviable, if it <subst><del rend="overstrike" seq="1">were</del>
 		<add rend="insertion" place="supralinear" seq="2">could be</add></subst> collected 
 together for ten thousand years, would not be of the least account, 
-compared with this wisdom.&#8212;It is the <del rend="overstrike">sight of the</del> 
-consciousness of the reality and excellence of every thing.&#8212;It is 
-happiness.&#8212;<subst><del rend="overstrike" seq="1">Every</del> <add rend="unmarked" 
-	place="supralinear" seq="2">Each</add></subst> man <add rend="insertion" place="supralinear">and <subst><del 
-rend="overstrike" seq="1">every</del> <add rend="unmarked" 
-	place="supralinear" seq="2">each</add></subst> woman</add> is eligible to it, without education just <del 
-rend="overstrike">the</del> as readily as with whoever reads these words, 
-let him or her set out upon the search this day, <del 
-rend="overstrike">and never rest till</del></ab>
+compared with this wisdom.—It is the <del rend="overstrike">sight of the</del> 
+consciousness of the reality and excellence of every thing.—</seg><seg xml:id="seg02">It is 
+happiness.—<subst><del rend="overstrike" seq="1">Every</del> <add rend="unmarked" place="supralinear" seq="2">Each</add></subst> man <add rend="insertion" place="supralinear">and <subst><del rend="overstrike" seq="1">every</del> <add rend="unmarked" place="supralinear" seq="2">each</add></subst> woman</add> is eligible to it, without education just <del rend="overstrike">the</del> as readily as with whoever reads these words, 
+let him or her set out upon the search this day, <del rend="overstrike">and never rest till</del></seg></ab>
 </div2>
 
 <div2 type="section">
@@ -141,10 +131,10 @@ rend="overstrike">and never rest till</del></ab>
 <head type="main-authorial">My Lesson</head>
 
 <lg>
-	<l corresp="#l2219">Have you learned <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">my</add></subst> lesson complete:</l>
-<l corresp="#l2223 #l2224">It is well&#8212;it is <add rend="insertion" place="supralinear">but</add> the gate to a larger lesson&#8212;and<lb/>
+	<l xml:id="l01">Have you learned <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">my</add></subst> lesson complete:</l>
+<l xml:id="l02">It is well—it is <add rend="insertion" place="supralinear">but</add> the gate to a larger lesson—and<lb/>
 <del rend="overstrike">And</del> that to another<add rend="insertion" place="supralinear">:</add> <del rend="overstrike">still</del></l>
-	<l corresp="#l2224">And <subst><del rend="overstrike" seq="1">every one</del> <add rend="unmarked" place="supralinear" seq="2">each successive one</add></subst> <del rend="overstrike">opens</del> to another still</l>
+	<l xml:id="l03">And <subst><del rend="overstrike" seq="1">every one</del> <add rend="unmarked" place="supralinear" seq="2">each successive one</add></subst> <del rend="overstrike">opens</del> to another still</l>
 </lg></div2>
 <div2 type="section">
 <list>
@@ -157,45 +147,41 @@ rend="overstrike">and never rest till</del></ab>
 
 <div2 type="section">
 	<relations>
-		<work ref="xxx.00526" cert="high">
+		<work ref="xxx.00526" cert="low">
 			<p>This language appears in the preface of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "His thoughts are the hymns of the praise of things" (v).</p>
 		</work>
-		<work ref="xxx.00221" cert="high">
+		<work ref="xxx.00221" cert="low">
 			<p>In the 1856 edition of <hi rend="italic">Leaves of Grass</hi>, this language was moved to the poetry, appearing in the poem that was ultimately titled "By Blue Ontario's Shore": "His thoughts are the hymns of the praise of things" (1891, p. 269).</p>
 		</work>
 	</relations>
-<head type="main-authorial">Poem "Praise of things"</head>
+<head type="main-authorial" xml:id="head01">Poem "Praise of things"</head>
 </div2>
 
 <pb facs="loc.00005.002.jpg" xml:id="leaf001v" type="verso"/>
-	<metamark function="transposition" place="top left" target="#ab1">&#42; <hi rend="circled">down</hi></metamark> 
+	<metamark function="transposition" place="top left" target="#ab1">* <hi rend="circled">down</hi></metamark> 
 <div2 type="prose">
 	
 
-<note type="authorial" place="top">sp&#243;r-a-des, 
-scattered islands, stars, &#38;c</note>
+<note type="authorial" place="top">spór-a-des, 
+scattered islands, stars, &amp;c</note>
 
 <transpose anchored="1" target="#a01"><ab>
-Novel?&#8212;Work of some sort <add rend="insertion" 
-place="supralinear">Play?</add>&#8212;instead of sporadic characters&#8212;introduce them in large masses, on a far grander scale&#8212;armies&#8212;twenty-three full-formed perfect athletes&#8212;<subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="1" unit="word"/></del><add rend="overwrite" place="over" seq="2">orbs</add></subst>&#8212;take characters through the orbs&#8212;"spiritualism"</ab>
+Novel?—Work of some sort <add rend="insertion" place="supralinear">Play?</add>—instead of sporadic characters—introduce them in large masses, on a far grander scale—armies—twenty-three full-formed perfect athletes—<subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="1" unit="word"/></del><add rend="overwrite" place="over" seq="2">orbs</add></subst>—take characters through the orbs—"spiritualism"</ab>
 	<add rend="unmarked" place="infralinear"><ab>
-	nobody appears upon the stage singly&#8212;but 
+	nobody appears upon the stage singly—but 
 all in huge aggregates</ab>
-	<ab>nobody speaks alone&#8212;whatever is said, is said by 
-		an immense number <milestone unit="undeclared" 
-			rend="horbar-short-left"/></ab></add></transpose>
+	<ab>nobody speaks alone—whatever is said, is said by 
+		an immense number <milestone unit="undeclared" rend="horbar-short-left"/></ab></add></transpose>
 
 <ab>
-<hi rend="underline">Shade</hi>&#8212;An <add rend="insertion" 
-place="infralinear">twenty-five old men</add> old man with rapid gestures&#8212;eyes 
-black and flashing like lightning&#8212;long white beard&#8212;attended by an immense 
-train&#8212;<hi rend="underline">no</hi> warriors or warlike weapons or 
-helmets&#8212;all emblematic of peace&#8212;shadowy&#8212;rapidly <del 
-rend="overstrike">approaches and pauses</del> sweeping by&#8212;</ab>
+<hi rend="underline">Shade</hi>—An <add rend="insertion" place="infralinear">twenty-five old men</add> old man with rapid gestures—eyes 
+black and flashing like lightning—long white beard—attended by an immense 
+train—<hi rend="underline">no</hi> warriors or warlike weapons or 
+helmets—all emblematic of peace—shadowy—rapidly <del rend="overstrike">approaches and pauses</del> sweeping by—</ab>
 
 
 <span rend="bracketed" xml:id="s1" from="#s1" to="#s2"/>
-<ab>if in a play&#8212;let the descriptions <del rend="overstrike">not</del> 
+<ab>if in a play—let the descriptions <del rend="overstrike">not</del> 
 that are usually put in brief, in brackets, in italic, be also in poetry, 
 carefully finished as the dialogue</ab><anchor xml:id="s2"/>
 
@@ -204,46 +190,46 @@ carefully finished as the dialogue</ab><anchor xml:id="s2"/>
 <div2 type="prose">
 	<relations>
 		<work ref="xxx.00226" cert="high">
-			<p>Language from this section was adapted to make up the first few lines of the poem that would eventually be titled "There was a Child Went Forth": "There was a child went forth every day, / And the first object he look'd upon, that object he became" (1891, p. 90).</p>
+			<p>Language from this section was adapted to make up the first few lines of the poem that would eventually be titled "There was a Child Went Forth": "There was a child went forth every day, / And the first object he looked upon and received with wonder or pity or love or dread, that object he became, / And that object became part of him for the day or a certain part of the day . . . . or for many years or stretching cycles of years" (1855, p. 90).</p>
 		</work>
 		<work ref="xxx.00113" cert="low">
 			<p>The figure of the answerer appears in the poem eventually titled "Song of the Answerer": "He is the answerer, / What can be answered he answers, and what cannot be answered he shows how it cannot be answered" (1855, p. 86).</p>
 		</work>
 		<work ref="xxx.00048" cert="low">
-			<p>The "leaf of grass" that appears in this segment may have turned into the "leaf of grass" in the poem that would become "Song of Myself": "I believe a leaf of grass is no less than the journeywork of the stars" (1855, p. 34).</p>
+			<p>The "leaf of grass" that appears in this segment may have turned into the "leaf of grass" in the poem that would become "Song of Myself": "I believe a leaf of grass is no less than the journeywork of the stars" (1855, p. 34). The "voices" described in the last part of this section may relate to the following lines: "Through me many long dumb voices, / Voices of the interminable generations of prisoners and slaves, / Voices of the diseas'd and despairing and of thieves and dwarfs, / Voices of cycles of preparation and accretion, / And of the threads that connect the stars, and of wombs and of the father-stuff" (1855, p. 29).</p>
 		</work>
 	</relations>
-<head type="main-authorial" rend="underline">The answerer</head>
+<head type="main-authorial" rend="underline" xml:id="head02">The answerer</head>
 
 <ab>
-	<hi rend="underline">Plot for a Poem or other work</hi>&#8212;A manly 
-unpretensive philosopher&#8212;without any of the old insignia, such as age, books 
-<del rend="overstrike">eth</del> etc.&#8212;a fine-formed person, of 
-beautiful countenance, &#38;c&#8212;sits every day at the door of his house&#8212;To him for 
-advice come all sorts of people.&#8212;Some come to puzzle him&#8212;some come from 
-curiosity&#8212;some from ironical contempt&#8212;his answers&#8212;his opinions
+	<hi rend="underline">Plot for a Poem or other work</hi>—A manly 
+unpretensive philosopher—without any of the old insignia, such as age, books 
+<del rend="overstrike">eth</del> etc.—a fine-formed person, of 
+beautiful countenance, &amp;c—sits every day at the door of his house—To him for 
+advice come all sorts of people.—Some come to puzzle him—some come from 
+curiosity—some from ironical contempt—his answers—his opinions
 </ab>
 
 <ab xml:id="ab4">
-	<metamark function="paragraph" place="left" target="#ab4">&#182; 2</metamark> <add rend="unmarked" place="supralinear">A man appears in public 
-every day&#8212;</add> Every time he appears with a companion&#8212;one day it is a 
-beautiful youth&#8212;another time with a voluptuous woman&#8212;another time with 
+	<metamark function="paragraph" place="left" target="#ab4">¶ 2</metamark> <add rend="unmarked" place="supralinear">A man appears in public 
+every day—</add> Every time he appears with a companion—one day it is a 
+beautiful youth—another time with a voluptuous woman—another time with 
 a poor pale emaciated sick person, whom he has brought out for a little 
-air&#8212;another
+air—another
 </ab>
 
-<ab>
-<span rend="bracketed" xml:id="s3" from="#s3" to="#s4"/>&#9758; good subject Poem<anchor xml:id="s4"/>&#8212;Variety of characters, each one of whom comes forth every day&#8212;things appearing, transfers and promotions every day.
+<ab xml:id="ab2">
+<span rend="bracketed" xml:id="s3" from="#s3" to="#s4"/>☞ good subject Poem<anchor xml:id="s4"/>—Variety of characters, each one of whom comes forth every day—things appearing, transfers and promotions every day.
 </ab>
 
-<ab>There was a child went forth every day&#8212;and the first thing that he 
+<ab xml:id="ab3">There was a child went forth every day—and the first thing that he 
 <del rend="overstrike">saw</del> looked at with fixed love, that thing he 
-became for the day.&#8212;</ab>
+became for the day.—</ab>
 	
-	<anchor xml:id="a01"/><ab xml:id="ab1"><metamark function="transposition" target="#ab1" place="inline">&#42;</metamark> Bring in whole races, or castes, or generations, to express 
-		themselves&#8212;personify the general objects of the creation and give them voice&#8212;every thing on the most august scale&#8212;a leaf of grass, with its equal voice.&#8212;</ab>
-	<ab>&#9758;&#8212;voice of the generations of slaves&#8212;of those who have 
-		suffered&#8212;voice of Lovers.&#8212;of Night&#8212;Day&#8212;Space&#8212;the stars&#8212;the countless ages of the Past&#8212;the countless ages of the future&#8212;
+	<anchor xml:id="a01"/><ab xml:id="ab1"><metamark function="transposition" target="#ab1" place="inline">*</metamark> Bring in whole races, or castes, or generations, to express 
+		themselves—personify the general objects of the creation and give them voice—every thing on the most august scale—a leaf of grass, with its equal voice.—</ab>
+	<ab xml:id="ab5">☞—voice of the generations of slaves—of those who have 
+		suffered—voice of Lovers.—of Night—Day—Space—the stars—the countless ages of the Past—the countless ages of the future—
 	</ab>
 
 </div2>
@@ -253,6 +239,9 @@ became for the day.&#8212;</ab>
 	<relations>
 		<work ref="xxx.00048" cert="high">
 			<p>A segment in this section is similar to the following lines from the poem that would eventually be titled "Song of Myself": "Before I was born out of my mother generations guided me, / My embryo has never been torpid . . . . nothing could overlay it; / For it the nebula cohered to an orb . . . . the long slow strata piled to rest it on . . . . vast vegetables gave it sustenance, / Monstrous sauroids transported it in their mouths and deposited it with care. / All forces have been steadily employed to complete and delight me, / Now I stand on this spot with my soul." (1855, p. 50).</p>
+		</work>
+		<work ref="xxx.00526" cert="low">
+			<p>The line "Can he be religious and have nothing to do with churches or prayers?" bears a distant resemblance to the following line in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "The great master has nothing to do with miracles" (1855, p. viii).</p>
 		</work>
 	</relations>
 	<note type="authorial" place="top">(a <hi rend="underline">spiritual novel</hi>?</note>
@@ -264,91 +253,84 @@ capability</hi>. Phren. Jour. vol 7, page 96
 
 
 	<span rend="bracketed" xml:id="s5" from="#s5" to="#s6"/><ab>
-	<hi rend="underline">A tradition</hi>&#8212;that to eat the meat of 
-serpents is restorative and helps <add rend="unmarked" 
-place="supralinear">longevity</add></ab> 
+	<hi rend="underline">A tradition</hi>—that to eat the meat of 
+serpents is restorative and helps <add rend="unmarked" place="supralinear">longevity</add></ab> 
 	<ab>In writing, the same taste and law as in personal 
-demeanor&#8212;that is never to strain, or exhibit the least apparent desire to make 
-<hi rend="underline">stick out</hi> the pride, grandeur and boundless richness&#8212;but to <hi 
-rend="underline">be</hi> those, and let the spirit of them vitalize whatever is 
+demeanor—that is never to strain, or exhibit the least apparent desire to make 
+<hi rend="underline">stick out</hi> the pride, grandeur and boundless richness—but to <hi rend="underline">be</hi> those, and let the spirit of them vitalize whatever is 
 said</ab><anchor xml:id="s6"/>
 
 
-<ab>In writing, give no second hand articles&#8212;no quotations&#8212;no 
-	authorities&#8212;<hi rend="underline">give the real thing</hi>&#8212;ready money&#8212;</ab>
+<ab>In writing, give no second hand articles—no quotations—no 
+	authorities—<hi rend="underline">give the real thing</hi>—ready money—</ab>
 
 <milestone unit="undeclared" rend="horbar-full"/>
-<ab>
+<ab xml:id="ab6">
 A poem in which all things and qualities and processes express 
-themselves&#8212;the nebula&#8212;the fixed stars&#8212;the earth&#8212;the grass, waters, vegetable, sauroid, and all processes&#8212;man&#8212;animals.
+themselves—the nebula—the fixed stars—the earth—the grass, waters, vegetable, sauroid, and all processes—man—animals.
 </ab>
 
 <milestone unit="undeclared" rend="horbar-full"/>
 
 <ab>Can a man be wise without he get wisdom from the books?</ab>
-<ab>Can he be religious and have nothing to do with churches or 
+<ab xml:id="ab01">Can he be religious and have nothing to do with churches or 
 prayers?</ab>
 <ab>Can he have a great style, without being dressed in fine clothes and 
 without any name or fame?</ab>
 
 	<ab>In writing, every thing is to be brought in in its <hi rend="underline">human</hi>
-relations&#8212;this invariably.&#8212;It is not needful that this should be made <del 
-rend="overwrite">t</del><add rend="overwrite" place="over">p</add>alpable to all ages&#8212;but 
+relations—this invariably.—It is not needful that this should be made <del rend="overwrite">t</del><add rend="overwrite" place="over">p</add>alpable to all ages—but 
 it must <hi rend="underline">be</hi>, and it must act supreme in all the 
-plot or course of writing.&#8212;</ab>
+plot or course of writing.—</ab>
 
 <milestone unit="undeclared" rend="horbar-short-left"/>
 
-<ab>A large stone cavity, exactly cut out&#8212;in this is placed a man&#8212;he has 
-plenty to eat&#8212;he has whatever he asks for&#8212;money unbounded is around 
-him&#8212;but there he lives&#8212;he walks around carrying with him that portable 
-impenetrable stone coffin.&#8212;</ab>
+<ab>A large stone cavity, exactly cut out—in this is placed a man—he has 
+plenty to eat—he has whatever he asks for—money unbounded is around 
+him—but there he lives—he walks around carrying with him that portable 
+impenetrable stone coffin.—</ab>
 
 <milestone unit="undeclared" rend="horbar-short-left"/>
 
-<ab>"String team"&#8212;the horses,&#8212;three, four, or five&#8212;in single file, without 
-curb or bit, that draw the cars, or other vehicles&#8212;the peculiar manner 
-of calling to 'em and directing them&#8212;"Black Jack's" illustrations of the 
-way of guiding them&#8212;</ab>
+<ab>"String team"—the horses,—three, four, or five—in single file, without 
+curb or bit, that draw the cars, or other vehicles—the peculiar manner 
+of calling to 'em and directing them—"Black Jack's" illustrations of the 
+way of guiding them—</ab>
 
 <pb facs="loc.00005.004.jpg" xml:id="leaf002v" type="verso"/>
 
-<ab><add rend="unmarked" place="supralinear">You are one of</add> The common statesman thinks of men as people to be governed&#8212;thinks a government 
-a great thing in itself&#8212;takes much care about checks and 
-balances&#8212;offices&#8212;&#38;c.&#8212;</ab>
+<ab><add rend="unmarked" place="supralinear">You are one of</add> The common statesman thinks of men as people to be governed—thinks a government 
+a great thing in itself—takes much care about checks and 
+balances—offices—&amp;c.—</ab>
 
 <ab>
 <add rend="unmarked" place="supralinear">You are</add> The common 
-philosopher maps out his system, fortifies it by powerful argument&#8212;proves 
-how it is true&#8212;how much better than all <del rend="overstrike">that</del> 
-the rest of its rivals&#8212;&#38;c.</ab>
+philosopher maps out his system, fortifies it by powerful argument—proves 
+how it is true—how much better than all <del rend="overstrike">that</del> 
+the rest of its rivals—&amp;c.</ab>
 
 <ab>Do not fancy <gap reason="deletion, illegible"/> that I have come to 
-descend among you, gentlemen&#8212;I encompass you all</ab>
+descend among you, gentlemen—I encompass you all</ab>
 
 <ab><hi rend="underline">A rule or two invariable in personal and literary 
-demeanor</hi>.&#8212;<hi rend="underline">Never</hi> to complain of any attacks or harsh criticisms upon 
-myself, or my writings&#8212;never to defend either by a single word or 
-argument&#8212;never to deprecate any one's enmity or opposition&#8212;nor vindicate 
-myself.&#8212;Not to suppose or recognize <del rend="overstrike">th</del> as a 
-possible occurrence, that it can be necessary for me to <hi 
-rend="underline">prove</hi> I am right <subst><del rend="overstrike" seq="1">and</del> <add 
-	rend="unmarked" place="supralinear" seq="2">or</add></subst>
-	<subst><del rend="overstrike" seq="1"><hi rend="underline">great</hi></del> <add rend="unmarked" place="supralinear" seq="2">clean</add></subst>.&#8212;</ab>
+demeanor</hi>.—<hi rend="underline">Never</hi> to complain of any attacks or harsh criticisms upon 
+myself, or my writings—never to defend either by a single word or 
+argument—never to deprecate any one's enmity or opposition—nor vindicate 
+myself.—Not to suppose or recognize <del rend="overstrike">th</del> as a 
+possible occurrence, that it can be necessary for me to <hi rend="underline">prove</hi> I am right <subst><del rend="overstrike" seq="1">and</del> <add rend="unmarked" place="supralinear" seq="2">or</add></subst>
+	<subst><del rend="overstrike" seq="1"><hi rend="underline">great</hi></del> <add rend="unmarked" place="supralinear" seq="2">clean</add></subst>.—</ab>
 
 <milestone unit="undeclared" rend="horbar-short-left"/>
 
 <ab>It is only the common ambition that is satisfied with the eminence that 
-comes from wealth or office.&#8212;Far above these is the eminence of 
-personal qualities&#8212;a grand presence&#8212;wit&#8212;conversational power&#8212;that charm, we 
-don't know what it is, which goes with the mere face and body <add 
-rend="insertion" place="supralinear">magnetism</add> of some men and women, 
-and makes every body love them, wherever they go.&#8212;Even the movement of 
+comes from wealth or office.—Far above these is the eminence of 
+personal qualities—a grand presence—wit—conversational power—that charm, we 
+don't know what it is, which goes with the mere face and body <add rend="insertion" place="supralinear">magnetism</add> of some men and women, 
+and makes every body love them, wherever they go.—Even the movement of 
 one's limbs, and the gestures of the hands
 are <subst><del rend="overstrike" seq="1">great</del> <add rend="unmarked" place="supralinear" seq="2">can 
-fascinate</add></subst>.&#8212;<subst><del rend="overstrike" seq="1">But 
-all</del> <add rend="unmarked" place="supralinear" seq="2">That</add></subst> which comes from the mere possession of riches, is <del 
-rend="overstrike">little.&#8212;It is</del> rather a blur upon the highest 
+fascinate</add></subst>.—<subst><del rend="overstrike" seq="1">But 
+all</del> <add rend="unmarked" place="supralinear" seq="2">That</add></subst> which comes from the mere possession of riches, is <del rend="overstrike">little.—It is</del> rather a blur upon the highest 
 <del rend="overstrike">action; it is</del> forms of humanity</ab>
 
 </div2>
@@ -357,9 +339,8 @@ rend="overstrike">little.&#8212;It is</del> rather a blur upon the highest
 <head type="main-authorial" rend="underline">A Crayon<del rend="overstrike">s</del> in
 brief</head>
 
-	<ab><hi rend="underline">an illus<del 
-		rend="overstrike">tration</del>.</hi><add rend="insertion" place="supralinear">&#8212;</add>Socrates, sauntering through the market place, attracted by the princely youth of 
-Athens&#8212;cross-questioning&#8212;his big paunch&#8212;his bare feet&#8212;his subtle tongue&#8212;</ab>
+	<ab><hi rend="underline">an illus<del rend="overstrike">tration</del>.</hi><add rend="insertion" place="supralinear">—</add>Socrates, sauntering through the market place, attracted by the princely youth of 
+Athens—cross-questioning—his big paunch—his bare feet—his subtle tongue—</ab>
 
 </div2>
 </div1>

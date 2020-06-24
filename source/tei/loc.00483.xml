@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>  
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00483">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00483">
+   <relations>
+      <work ref="xxx.00526" cert="low">
+         <p>Some of Whitman's language about the poet and religion in this notebook is similar to the language and ideas used in the preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi>.</p>
+      </work>
+   </relations>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,6 +17,7 @@
                <persName xml:id="jyc">Jonathan Y. Cheng</persName>
                <persName xml:id="nhg">Nicole Gray</persName>
                <persName xml:id="kmp">Kenneth M. Price</persName>
+               <persName xml:id="bb">Brett Barney</persName>
             </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of
                Nebraska-Lincoln</sponsor>
@@ -44,21 +46,19 @@
             </availability>
          </publicationStmt>
          <notesStmt>
-            <note type="project" target="#dat1">This notebook contains notes in both prose and verse.
+            <note type="project" target="#dat1">Whitman probably inscribed the material in this notebook in the early 1850s as he was composing the first (1855) edition of <hi rend="italic">Leaves of Grass</hi>.
                </note>
-            <note type="project" target="#leaf010v">Content from leaf 10 verso was revised and used in "The Sleepers," which first
-               appeared untitled in <hi rend="italic">Leaves of Grass</hi> (1855). Whitman would change the title of this
-               poem two more times, to "Night Poem" (1856) and "Sleep-Chasings" (1860), before settling on
-               the final title in the 1871 edition of <hi rend="italic">Leaves of Grass</hi>.</note>
+            <note type="project" target="#leaf010v">Content from leaf 10 verso was revised and used in the poem eventually titled "The Sleepers," which first
+               appeared as the fourth poem in that edition. The same passage likely also relates to lines in the 1855 poem eventually titled "Song of Myself."</note>
+            <note type="project" target="#leaf013r">Content from leaf 13 recto may relate to other sections of the poem eventually titled "Song of Myself."</note>
          </notesStmt>
          <sourceDesc>
             <bibl>
                <author>Walt Whitman</author>
                <title>Notes and Notebooks</title>
-               <date xml:id="dat1" cert="medium" notBefore="1850" notAfter="1855">Between 1850 and
-                  1855</date>
+               <date xml:id="dat1" cert="medium" notBefore="1850" notAfter="1855">Between 1850 and 1855</date>
                <idno type="callno">MSS18630</idno>
-               <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+               <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName>
                <note type="project">Transcribed from digital images of the original.</note>
             </bibl>
          </sourceDesc>
@@ -70,6 +70,8 @@
          </handNotes>
       </profileDesc>
       <revisionDesc>
+         <change when="2019-12-04" who="#bb">revised wording of date and work notes; corrected some pointers</change>
+         <change when="2017-11-20" who="#nhg">added inline relations information</change>
          <change when="2017-04-11" who="#nhg">edited source information</change>
          <change when="2016-10-31" who="#nhg">revised work relations information</change>
          <change when="2015-05-11" who="#nhg">updated copyright statement</change>
@@ -83,8 +85,7 @@
          <change who="#nhg" when="2014-12-08">checked, corrected</change>
          <change who="#nhg" when="2014-10-15">completed header information</change>
          <change who="#jyc" when="2014-10-08">transcribed, encoded</change>
-         <change who="#nhg" when="2014-08-07">metadata extracted and transformed from
-            EAD file</change>
+         <change who="#nhg" when="2014-08-07">metadata extracted and transformed from EAD file</change>
       </revisionDesc>
    </teiHeader>
    
@@ -96,14 +97,13 @@
          <pb xml:id="leaf002r" facs="loc.00483.003.jpg" type="recto"/>
          <div2 type="section">
          <ab><handShift new="#h1"/>In his presence all the <del rend="overstrike">crowns and
-               sce</del> Presidents and governors and kings of the world bend their heads&#8212;</ab>
-         <ab>All wealth and vaunted honor&#8212;</ab>
+               sce</del> Presidents and governors and kings of the world bend their heads—</ab>
+         <ab>All wealth and vaunted honor—</ab>
          <ab>His eminence <subst><del rend="overstrike" seq="1">makes</del>
                <add place="supralinear" rend="unmarked" seq="2">makes that</add></subst> all rank
             however vaunted</ab>
-         <ab>When he appears, Presidents and Governors descend into the crowd, <del
-               rend="overstrike">for H alone <del rend="overstrike">is</del> has eminence; and in its company,</del>
-            capitalists and bankers are cheap with all their golden eagles.&#8212;The learnedest
+         <ab>When he appears, Presidents and Governors descend into the crowd, <del rend="overstrike">for H alone <del rend="overstrike">is</del> has eminence; and in its company,</del>
+            capitalists and bankers are cheap with all their golden eagles.—The learnedest
             professors, 
             
             <pb xml:id="leaf002v" facs="loc.00483.004.jpg" type="verso"/>and the
@@ -111,255 +111,202 @@
                <add place="supralinear" rend="unmarked" seq="2">authors</add></subst> of the
                   <subst><del rend="overstrike" seq="1">best</del>
                <add place="supralinear" rend="insertion" seq="2">most renowned</add></subst> books,
-                  <subst><del rend="overstrike" seq="1">are</del> <del rend="overstrike"
-                  hand="#h1" seq="3">
-                  <add place="supralinear" rend="unmarked" seq="2">becom</add></del> <add place="inline"
-                     rend="unmarked" seq="4">are</add></subst> baffled of their art, <del
-               rend="overstrike">and</del> 
+                  <subst><del rend="overstrike" seq="1">are</del> <del rend="overstrike" hand="#h1" seq="3">
+                  <add place="supralinear" rend="unmarked" seq="2">becom</add></del> <add place="inline" rend="unmarked" seq="4">are</add></subst> baffled of their art, <del rend="overstrike">and</del> 
             
-            having come to <subst><del rend="overstrike" seq="1"
-                  >the flowering</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike" seq="3">sweetness blooming</del></add></subst> of a great <subst><del rend="overstrike" seq="1">fact</del>
+            having come to <subst><del rend="overstrike" seq="1">the flowering</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike" seq="3">sweetness blooming</del></add></subst> of a great <subst><del rend="overstrike" seq="1">fact</del>
                <add place="supralinear" rend="insertion" seq="2">fact embodying flower and
                fruit</add></subst> in nature, where <del rend="overstrike">they
-            and</del> the <del rend="overstrike">bes</del> best of <subst><del rend="overstrike"
-                  seq="1">them</del>
-               <add place="supralinear" rend="unmarked" seq="2">themselves</add></subst> are but the <del
-               rend="overstrike">first</del>
-            <subst><del rend="overstrike" seq="1">twittering</del> <add place="supralinear" rend="unmarked" seq="2">?</add></subst> sprouts, groping <add
-               place="supralinear" rend="insertion">feebly</add>
+            and</del> the <del rend="overstrike">bes</del> best of <subst><del rend="overstrike" seq="1">them</del>
+               <add place="supralinear" rend="unmarked" seq="2">themselves</add></subst> are but the <del rend="overstrike">first</del>
+            <subst><del rend="overstrike" seq="1">twittering</del> <add place="supralinear" rend="unmarked" seq="2">?</add></subst> sprouts, groping <add place="supralinear" rend="insertion">feebly</add>
             <subst><del rend="overstrike" seq="1">out of</del>
                <add place="supralinear" rend="unmarked" seq="2">from</add></subst> the February
-            ground.&#8212;</ab>
+            ground.—</ab>
          
-         <ab><handShift new="#h2"/>having come to a great fact in the orchard of nature covered with <del
-               rend="overstrike">perfec</del> flowers and fruit, where the best of themselves is
-            but a <space dim="horizontal"/> feebly pushing through the February ground.&#8212;</ab></div2>
+         <ab><handShift new="#h2"/>having come to a great fact in the orchard of nature covered with <del rend="overstrike">perfec</del> flowers and fruit, where the best of themselves is
+            but a <space dim="horizontal"/> feebly pushing through the February ground.—</ab></div2>
          <!--the above is a rewrite of the previous passage-->
          
          <pb xml:id="leaf003r" facs="loc.00483.005.jpg" type="recto"/>
             <div2 type="section">
                <relations>
                   <work ref="xxx.00264" cert="high">
-                     <p><ref target="#hp01" xml:id="r01" type="text">Lines from this passage</ref> were revised and used in "The Sleepers," which first
-                        appeared untitled in <hi rend="italic">Leaves of Grass</hi> (1855), including the following lines: "Now the vast dusk bulk that is the whale's bulk . . . . it seems mine, / Warily, sportsman! though I lie so sleepy and sluggish, my tap is death" (1855, p. 74).</p>
+                     <p><ref target="#hp01" xml:id="r01" type="text">Lines from this passage</ref> were revised and used in the poem eventually titled "The Sleepers," which first appeared in <hi rend="italic">Leaves of Grass</hi> (1855), including the following lines: "Now the vast dusk bulk that is the whale's bulk . . . . it seems mine, / Warily, sportsman! though I lie so sleepy and sluggish, my tap is death" (1855, p. 74).</p>
+                  </work>
+                  <work ref="xxx.00048" cert="high">
+                     <p><ref target="#hp01" xml:id="r02" type="text">This passage</ref> likely also relates to the following lines in the poem eventually titled "Song of Myself": "How the flukes splash! / How they contort rapid as lightning, with spasms and spouts of blood!" (1855, p. 48).</p>
                   </work>
                </relations>
-         <ab><handShift new="#h1"/>The rights of property! Why what <add place="supralinear"
-               rend="insertion"><handShift new="#h2"/>build</add><handShift new="#h1"/>
+         <ab><handShift new="#h1"/>The rights of property! Why what <add place="supralinear" rend="insertion"><handShift new="#h2"/>build</add><handShift new="#h1"/>
             <subst><del rend="overstrike" seq="1">foundation</del>
-               <add place="supralinear" rend="unmarked" seq="2">substance</add></subst> is there <subst><del
-                  rend="overstrike" seq="1">for the</del> <add rend="unmarked" place="supralinear" seq="2">in any other</add></subst> right of property than that
-            which is built on the primal right&#8212;the first&#8209;born, deepest broadest right&#8212;the right <add rend="insertion" place="supralinear"><handShift new="#h2"/>of every human being</add> <handShift new="#h1"/>to his personal self.&#8212;</ab>
+               <add place="supralinear" rend="unmarked" seq="2">substance</add></subst> is there <subst><del rend="overstrike" seq="1">for the</del> <add rend="unmarked" place="supralinear" seq="2">in any other</add></subst> right of property than that
+            which is built on the primal right—the first‑born, deepest broadest right—the right <add rend="insertion" place="supralinear"><handShift new="#h2"/>of every human being</add> <handShift new="#h1"/>to his personal self.—</ab>
          <ab>Every man who claims or takes the power to own another man as his
-            property, stabs me in <del rend="overstrike">that</del> the heart of my own rights&#8212;for
-         <pb xml:id="leaf003v" facs="loc.00483.006.jpg" type="verso"/> they <add place="supralinear"
-            rend="insertion">only</add> grow of that first vast principle, as a tree
+            property, stabs me in <del rend="overstrike">that</del> the heart of my own rights—for
+         <pb xml:id="leaf003v" facs="loc.00483.006.jpg" type="verso"/> they <add place="supralinear" rend="insertion">only</add> grow of that first vast principle, as a tree
          grows from the seed</ab>
          <ab>Why do we arrest and <space dim="horizontal"/> a
-            thief of property.&#8212;Mainly because in stealing from another man he jeopardizes
-            the principle by why you and I and all others hold our own<del rend="overstrike"
-              >?</del></ab>
+            thief of property.—Mainly because in stealing from another man he jeopardizes
+            the principle by why you and I and all others hold our own<del rend="overstrike">?</del></ab>
          <pb xml:id="leaf004r" facs="loc.00483.007.jpg" type="recto"/>
-         <ab>The one scratches me a little on the <subst><del rend="overstrike"
-                  seq="1">cheek</del>
+         <ab>The one scratches me a little on the <subst><del rend="overstrike" seq="1">cheek</del>
                <add place="supralinear" rend="unmarked" seq="2">forehead</add></subst>,
             the other draws his murderous razor through my heart</ab>
-         <ab>The one maugre all the snivellings of the <unclear reason="illegible"
-               cert="low" resp="#jyc">fash</unclear>
-            <space dim="horizontal"/> leaves the man as he found him solid and real as a <space
-               dim="horizontal"/>&#8212;the other</ab>
+         <ab>The one maugre all the snivellings of the <unclear reason="illegible" cert="low" resp="#jyc">fash</unclear>
+            <space dim="horizontal"/> leaves the man as he found him solid and real as a <space dim="horizontal"/>—the other</ab>
          <pb xml:id="leaf004v" facs="loc.00483.008.jpg" type="verso"/>
-         <ab><handShift new="#h2"/>If every man and woman <subst><del rend="overstrike" seq="1"
-                  >upon this which</del>
+         <ab><handShift new="#h2"/>If every man and woman <subst><del rend="overstrike" seq="1">upon this which</del>
                <add place="supralinear" rend="unmarked" seq="2">riding in</add></subst>
             this <subst><add place="supralinear" rend="insertion" seq="2">huge round
                car</add> <del rend="overstrike" seq="1">huge vehicle</del>
                </subst> that <subst><del rend="overstrike" seq="1">wheels</del>
                <add place="supralinear" rend="unmarked" seq="2">whirls</add></subst> us
             through the universe, be not <del rend="overstrike">interested in</del>
-            touched to the vitals, by the <subst><del rend="overstrike" seq="1"
-                  >discussion</del>
+            touched to the vitals, by the <subst><del rend="overstrike" seq="1">discussion</del>
                <add place="supralinear" rend="unmarked" seq="2">question</add></subst>
             whether another of the passengers<subst><del rend="overstrike" seq="1">, <del rend="overstrike">can</del>
                   <unclear reason="illegible" resp="#nhg" cert="low">can</unclear> safely</del>
                <add place="supralinear" rend="unmarked" seq="2">shall</add></subst> be
-            made a slave, tell me O learned lawyer or professor&#8212;tell me what are they
-            interested in?&#8212;What does touch them?&#8212;What comes home to a man, if <add
-               place="supralinear" rend="insertion">the principle</add> the right to
-            himself does not?&#8212;Is there in the wide world any <subst><del rend="overstrike"
-                  seq="1">principle</del>
+            made a slave, tell me O learned lawyer or professor—tell me what are they
+            interested in?—What does touch them?—What comes home to a man, if <add place="supralinear" rend="insertion">the principle</add> the right to
+            himself does not?—Is there in the wide world any <subst><del rend="overstrike" seq="1">principle</del>
                <add place="supralinear" rend="unmarked" seq="2">thing</add></subst>, that
             so evenly and so universally bears upon <add place="supralinear" rend="insertion">every
                individual of</add> our race, in all ages, in
-            <pb xml:id="leaf005r"
-               facs="loc.00483.009.jpg" type="recto"/>tongues and colors and climates, and
-            conditions,&#8212;Is there any thing that <add place="supralinear" rend="insertion"
-              >it stands us in hand &#8212;</add>all of us without one single exception, <del
-               rend="overstrike">are so</del> to keep the the rats and the <subst><del rend="overstrike" seq="1"
-                  >wolves</del> <add rend="unmarked" place="supralinear" seq="2">moths</add></subst> so carefully away from, as this&#8212;the warrantee deed,
+            <pb xml:id="leaf005r" facs="loc.00483.009.jpg" type="recto"/>tongues and colors and climates, and
+            conditions,—Is there any thing that <add place="supralinear" rend="insertion">it stands us in hand —</add>all of us without one single exception, <del rend="overstrike">are so</del> to keep the the rats and the <subst><del rend="overstrike" seq="1">wolves</del> <add rend="unmarked" place="supralinear" seq="2">moths</add></subst> so carefully away from, as this—the warrantee deed,
             the original charter of the very feet <subst><del rend="overstrike" seq="1">we stand
                on?</del> <add place="supralinear" seq="2" rend="unmarked">that bear us up</add></subst></ab>
          <milestone unit="undeclared" rend="horbar-short-left"/>
          <ab>A good saying in the street</ab>
-         <ab>Only something from a gentleman <subst><del rend="overstrike"
-                  seq="1">w</del><add place="supralinear" rend="unmarked" seq="2"
-               >c</add></subst>ould insult me; and a gentleman never <del rend="overstrike"
-                  >can</del> would insult me.</ab>
+         <ab>Only something from a gentleman <subst><del rend="overstrike" seq="1">w</del><add place="supralinear" rend="unmarked" seq="2">c</add></subst>ould insult me; and a gentleman never <del rend="overstrike">can</del> would insult me.</ab>
          <pb xml:id="leaf005v" facs="loc.00483.010.jpg" type="verso"/>
-         <ab><handShift new="#h1"/>&#9758; <del rend="overstrike">Common</del> Good naturedly
-            treat every thing&#8212;every sect&#8212;every dogma&#8212;every nation&#8212;<del rend="overstrike">pen</del> refer to the heart of what goodness there
-            is in them &#8212;</ab>
+         <ab><handShift new="#h1"/>☞ <del rend="overstrike">Common</del> Good naturedly
+            treat every thing—every sect—every dogma—every nation—<del rend="overstrike">pen</del> refer to the heart of what goodness there
+            is in them —</ab>
          <pb xml:id="leaf006r" facs="loc.00483.011.jpg" type="recto"/>
          <pb xml:id="leaf006v" facs="loc.00483.012.jpg" type="verso"/>
-         <ab>The difference is between the laws of a <add place="supralinear"
-               rend="insertion"> just and equitable</add> republic and the laws, even
-            though be the same, that come from an irresponsible tyrant.&#8212;</ab>
+         <ab>The difference is between the laws of a <add place="supralinear" rend="insertion"> just and equitable</add> republic and the laws, even
+            though be the same, that come from an irresponsible tyrant.—</ab>
          <pb xml:id="leaf007r" facs="loc.00483.013.jpg" type="recto"/>
          <ab><handShift new="#h2"/>I have heard of people who suggest as a choker upon (the right <note type="authorial" place="supralinear">?</note> of
-            freedom that all men are more or less slaves&#8212;some
-            to gain, some to fashion, others to priests and superstition.&#8212;The hard-working
+            freedom that all men are more or less slaves—some
+            to gain, some to fashion, others to priests and superstition.—The hard-working
             mechanic, they say, is</ab>
          <pb xml:id="leaf007v" facs="loc.00483.014.jpg" type="verso"/>
          <pb xml:id="leaf008r" facs="loc.00483.015.jpg" type="recto"/>
-         <ab>I know there are strong and solid arguments against slavery&#8212;lawyer&#8212;practical man&#8212;arguments addressed to the great American thought
-            Will it pay?&#8212;&#38;c &#38;c &#38;c &#38;c</ab>
-         <ab><del rend="overstrike">These</del> Discourses <del
-               rend="overstrike">upon</del> in this channel entertain and instruct us
+         <ab>I know there are strong and solid arguments against slavery—lawyer—practical man—arguments addressed to the great American thought
+            Will it pay?—&amp;c &amp;c &amp;c &amp;c</ab>
+         <ab><del rend="overstrike">These</del> Discourses <del rend="overstrike">upon</del> in this channel entertain and instruct us
             well</ab>
          <milestone unit="undeclared" rend="horbar-full"/>
-         <ab>But all these must be now left aside.&#8212;We will ascend to <del
-               rend="overstrike">that</del> tribunal of last resort&#8212;we will not
-            waste words with messengers and secretarys.&#8212;We will <del rend="overstrike"
-              >go directly</del> stand face to face with the <pb xml:id="leaf008v"
-               facs="loc.00483.016.jpg" type="verso"/> chief of the supreme bench. We will speak
-            with the soul.&#8212;</ab>
-         <ab><handShift new="#h1"/><span rend="bracket-right" xml:id="s1" from="#s1" to="#s2"/>The learned think the unlearned an inferior race.&#8212;The merchant
+         <ab>But all these must be now left aside.—We will ascend to <del rend="overstrike">that</del> tribunal of last resort—we will not
+            waste words with messengers and secretarys.—We will <del rend="overstrike">go directly</del> stand face to face with the <pb xml:id="leaf008v" facs="loc.00483.016.jpg" type="verso"/> chief of the supreme bench. We will speak
+            with the soul.—</ab>
+         <ab><handShift new="#h1"/><span rend="bracket-right" xml:id="s1" from="#s1" to="#s2"/>The learned think the unlearned an inferior race.—The merchant
                 thinks his bookkeepers<anchor xml:id="s2"/> and clerks sundry degrees below
             him; they in turn think the porter and carmen common; and they the laborer that brings
             in coal, and the stevedores that haul the great burdens with them?</ab>
          <pb xml:id="leaf009r" facs="loc.00483.017.jpg" type="recto"/>
-         <ab>But this is an inferior race.&#8212;Well who shall be the judge
+         <ab>But this is an inferior race.—Well who shall be the judge
                   <subst><del rend="overstrike" seq="1">who is the</del>
                <add place="supralinear" rend="unmarked" seq="2">of inferior
-               and</add></subst> superior races.&#8212;The class of dainty gentlemen think that all
-            servants and laboring people are inferior.&#8212;<add place="supralinear"
-               rend="insertion">In all lands,</add> The select few who live and dress richly, <del
-               rend="overstrike">always</del> make a mean estimate of the body of the
-            people.&#8212;</ab>
+               and</add></subst> superior races.—The class of dainty gentlemen think that all
+            servants and laboring people are inferior.—<add place="supralinear" rend="insertion">In all lands,</add> The select few who live and dress richly, <del rend="overstrike">always</del> make a mean estimate of the body of the
+            people.—</ab>
          <milestone unit="undeclared" rend="horbar-short-center"/>
          <ab>If it it be <del rend="overstrike">right</del> justifiable
-            to take away liberty for inferiority&#8212;then it is just to take money or
+            to take away liberty for inferiority—then it is just to take money or
             goods, to commit rapes, <pb xml:id="leaf009v" facs="loc.00483.018.jpg" type="verso"/> to
-            seize on any thing you will, for the same reason.&#8212;<subst><del rend="overstrike"
-                  seq="1">Would</del>
-               <add place="supralinear" rend="unmarked" seq="2">Is</add></subst> it <del
-               rend="overstrike">be</del> enough answer to the crime of stealing a watch,
+            seize on any thing you will, for the same reason.—<subst><del rend="overstrike" seq="1">Would</del>
+               <add place="supralinear" rend="unmarked" seq="2">Is</add></subst> it <del rend="overstrike">be</del> enough answer to the crime of stealing a watch,
             that you stole it from an ignorant nigger, who dont know the odds between an adverb and
-            three times twelve?&#8212;If you spend your violent lust on a woman, by terror and
-            violence, <del rend="overstrike">is</del> will it <subst><del
-                  rend="overstrike" seq="1">balance accounts</del>
+            three times twelve?—If you spend your violent lust on a woman, by terror and
+            violence, <del rend="overstrike">is</del> will it <subst><del rend="overstrike" seq="1">balance accounts</del>
                <add place="supralinear" rend="unmarked" seq="2">receipt the
                bill</add></subst> when <del rend="overstrike">who</del> you endorse it,
-            nothing but a mulatto wench?&#8212;</ab>
+            nothing but a mulatto wench?—</ab>
          <pb xml:id="leaf010r" facs="loc.00483.019.jpg" type="recto"/>
          <ab>But <del rend="overstrike">free</del> as great as any
-            worldly wealth to a man,&#8212;or <del rend="overstrike">her</del> womanhood to a
-            woman,&#8212;greater than these, I think, is <add place="supralinear" rend="insertion"
-              >the right of</add> liberty, to any and to all men and women.&#8212;</ab>
+            worldly wealth to a man,—or <del rend="overstrike">her</del> womanhood to a
+            woman,—greater than these, I think, is <add place="supralinear" rend="insertion">the right of</add> liberty, to any and to all men and women.—</ab>
          <ab>It is as logical to take the life or property of some poor fellow for his
-            inferiority or color, as it is to take his personal liberty.&#8212; 
+            inferiority or color, as it is to take his personal liberty.— 
             </ab>
          <pb xml:id="leaf010v" facs="loc.00483.020.jpg" type="verso"/>
-         <delSpan spanTo="#a01" rend="hashmark"/><ab xml:id="hp01">Beware the flukes of the whale. <add
-               place="supralinear" rend="insertion">He is slow and sleepy&#8212;but
-               when he moves, his lightest touch is death.&#8212;</add>&#8212;<del rend="overstrike"
-              >I think he already feels the lance, for he moves a little restlessly. You
-               are great sportsmen, no doubt What!</del> <subst><del rend="overwrite" seq="1">t</del><add place="over" rend="overwrite" seq="2">T</add></subst>hat <del rend="overstrike" hand="#h1"
-               >black and</del> <add rend="unmarked" place="supralinear">huge</add> lethargic mass, my sportsmen, dull and sleepy as it seems,
-                  <subst><del rend="overstrike" hand="#h1" seq="1">has</del> <add place="supralinear"
-                  rend="unmarked" hand="#h1" seq="2">holds</add></subst> the lightning and the
-            <subst><add
-               place="supralinear" rend="unmarked" seq="2">taps</add> <del rend="overstrike" seq="1">bolts</del> </subst> of
-            thunder.&#8212;He is slow&#8212;O, long and long and slow and slow&#8212;but when
+         <delSpan spanTo="#a01" rend="hashmark"/><ab xml:id="hp01">Beware the flukes of the whale. <add place="supralinear" rend="insertion">He is slow and sleepy—but
+               when he moves, his lightest touch is death.—</add>—</ab><ab xml:id="ab100"><del rend="overstrike">I think he already feels the lance, for he moves a little restlessly. You
+                  are great sportsmen, no doubt What!</del> </ab><ab xml:id="ab101"><subst><del rend="overwrite" seq="1">t</del><add place="over" rend="overwrite" seq="2">T</add></subst>hat <del rend="overstrike" hand="#h1">black and</del> <add rend="unmarked" place="supralinear">huge</add> lethargic mass, my sportsmen, dull and sleepy as it seems,
+                  <subst><del rend="overstrike" hand="#h1" seq="1">has</del> <add place="supralinear" rend="unmarked" hand="#h1" seq="2">holds</add></subst> the lightning and the
+            <subst><add place="supralinear" rend="unmarked" seq="2">taps</add> <del rend="overstrike" seq="1">bolts</del> </subst> of
+            thunder.—He is slow—O, long and long and slow and slow—but when
             he does move, his lightest touch is death.</ab><anchor xml:id="a01"/>
          <pb xml:id="leaf011r" facs="loc.00483.021.jpg" type="recto"/>
          <delSpan spanTo="#a02" rend="hashmark"/><ab xml:id="hp02">The flukes of a whale they are as quick as light</ab>
          <milestone unit="undeclared" rend="horbar-full"/>
                <ab>The Poet</ab>
-               <ab><del rend="overstrike"
-            >His</del> He has a charm that makes <add place="supralinear"
-                  rend="insertion">fluid</add>
+               <ab><del rend="overstrike">His</del> He has a charm that makes <add place="supralinear" rend="insertion">fluid</add>
                <del rend="overstrike">the heart of</del> every thing in the universe
                however distant or however dense, and <del rend="overstrike">when
                   made</del> so he <del rend="overstrike">breath</del> inhales it as a
                breath, and it is <add place="supralinear" rend="insertion">all</add> good
-               air and <seg xml:id="w1">arterializes</seg> <add place="supralinear" rend="unmarked"
-                  hand="#h1" xml:id="w2">vitalizes</add>
+               air and <seg xml:id="w1">arterializes</seg> <add place="supralinear" rend="unmarked" hand="#h1" xml:id="w2">vitalizes</add>
                <alt target="#w1 #w2" weights="0.5 0.5"/>
-               <!--simulatenous wordchoice--><note place="inline" type="authorial">?</note> the blood <del rend="overstrike" 
-                  >within</del> that goes squirting through his heart.&#8212;</ab><anchor
-            xml:id="a02"/></div2>
+               <!--simulatenous wordchoice--><note place="inline" type="authorial">?</note> the blood <del rend="overstrike">within</del> that goes squirting through his heart.—</ab><anchor xml:id="a02"/></div2>
          <pb xml:id="leaf011v" facs="loc.00483.022.jpg" type="verso"/>
             <div2 type="section">
          <ab>The poet, having not a dime, has the good of all things. And men,
-            indeed, only have the good of any thing, in proportion as they <del rend="overstrike"
-              >enjoy</del> approach <del rend="overstrike">the
+            indeed, only have the good of any thing, in proportion as they <del rend="overstrike">enjoy</del> approach <del rend="overstrike">the
                   n</del>
                his nature</ab>
-         <ab>The mere rich man, whose draught on the bank <del rend="overstrike"
-              >for</del> is good for scores of thousands, may be, indeed generally must
+         <ab>The mere rich man, whose draught on the bank <del rend="overstrike">for</del> is good for scores of thousands, may be, indeed generally must
             be, a <add place="supralinear" rend="insertion">blind and</add> naked beggar
             in <subst><del rend="overstrike" seq="1">the</del>
                <add place="supralinear" rend="unmarked" seq="2">the only</add></subst> real
             riches. <del rend="overstrike">of</del></ab>
          <pb xml:id="leaf012r" facs="loc.00483.023.jpg" type="recto"/>
-         <ab>All the riches <seg xml:id="w3">?</seg> <add place="supralinear" rend="unmarked"
-            hand="#h1" xml:id="w4">evoked</add>
+         <ab>All the riches <seg xml:id="w3">?</seg> <add place="supralinear" rend="unmarked" hand="#h1" xml:id="w4">evoked</add>
             <alt target="#w3 #w4" weights="0.25 0.75"/>
             <!--simulatenous wordchoice-->
             into the world by <del rend="overstrike">all
-               the</del> inventors, by the industrious, and by the keen, <del rend="overstrike"
-              >are</del> become bubbles when the true poet scatters the utterance of his
-            soul upon the world.&#8212;To have the crops fail&#8212;to forego all the flour and pork of the western
-            states&#8212;<add place="supralinear" rend="insertion">to burn the navy, or
+               the</del> inventors, by the industrious, and by the keen, <del rend="overstrike">are</del> become bubbles when the true poet scatters the utterance of his
+            soul upon the world.—To have the crops fail—to forego all the flour and pork of the western
+            states—<add place="supralinear" rend="insertion">to burn the navy, or
                   <del rend="overstrike">half the</del> a populous town</add> were less
-            to lose, than one of his great sayings to lose.&#8212;</ab>
+            to lose, than one of his great sayings to lose.—</ab>
          <pb xml:id="leaf012v" facs="loc.00483.024.jpg" type="verso"/>
-         <ab>Each word is sweet medicine to the soul.&#8212;</ab>
+         <ab>Each word is sweet medicine to the soul.—</ab>
          <delSpan spanTo="#a03" rend="hashmark"/><l>He sheds light upon the<lb/>
             sun,</l>
-         <ab><subst><del
-               rend="overstrike" seq="1">He</del> <add rend="unmarked" place="supralinear" seq="2">On</add></subst> The darkest night he sheds an infinite
+         <ab><subst><del rend="overstrike" seq="1">He</del> <add rend="unmarked" place="supralinear" seq="2">On</add></subst> The darkest night he sheds an infinite
             darkness.</ab><anchor xml:id="a03"/>
          <ab>You can, to the poet, bring nothing which is not a curious miracle to
-            him.&#8212;</ab></div2>
+            him.—</ab></div2>
          <pb xml:id="leaf013r" facs="loc.00483.025.jpg" type="recto"/>
-         <div2 type="section"><note type="authorial" place="top left">Change all this to commendation &#9759;</note>
-         <ab>What has been called Religion <add place="supralinear" rend="insertion">that
-               of Ethiopia or still backward&#8212;</add>&#8212;<add place="supralinear" rend="insertion"
-              >that of <add place="supralinear" rend="insertion">Belus
-                  and</add> Osiris and Isis, or that of</add>&#8212;that of Jupiter and Ceres&#8212;that of Jerusalem with its
-            temple an <space dim="horizontal"/>&#8212;that of Rome under Popes and Jesuits <add place="supralinear"
-               rend="insertion">that of Mahomet or Budda <add rend="insertion" place="supralinear">Bhudda</add></add>
+         <div2 type="section">
+            <relations>
+               <work ref="xxx.00048" cert="low">
+                  <p>This section may relate to the following passages in the poem eventually titled "Song of Myself": "Buying drafts of Osiris and Isis and Belus and Brahma and Adonai, / In my portfolio placing Manito loose, and Allah on a leaf, and the crucifix engraved, / ... / Honestly taking them all for what they are worth, and not a cent more" (1855, p. 45) and "I do not despise you priests..." (1855, p. 48).</p>
+               </work>
+            </relations>
+            <note type="authorial" place="top left">Change all this to commendation ☟</note>
+         <ab><seg xml:id="seg101">What has been called Religion <add place="supralinear" rend="insertion">that
+               of Ethiopia or still backward—</add>—<add place="supralinear" rend="insertion">that of <add place="supralinear" rend="insertion">Belus
+                  and</add> Osiris and Isis, or that of</add>—that of Jupiter and Ceres—that of Jerusalem with its
+            temple an <space dim="horizontal"/>—that of Rome under Popes and Jesuits <add place="supralinear" rend="insertion">that of Mahomet or Budda <add rend="insertion" place="supralinear">Bhudda</add></add>
             <subst><del rend="overstrike" seq="1">Par</del> <add rend="unmarked" place="supralinear" seq="2">those</add></subst> of our Methodists and <choice><orig>Epicopalians</orig><reg>Episcopalians</reg></choice>
-            and Presbyterians and Quakers and Unitarians and Mormons&#8212;what are they <del
-               rend="overstrike">any or</del> all <del rend="overstrike">or</del> any of them? <subst><del rend="overstrike"
-                  seq="1">We</del>
+            and Presbyterians and Quakers and Unitarians and Mormons—what are they <del rend="overstrike">any or</del> all <del rend="overstrike">or</del> any of them?</seg> <seg xml:id="seg102"><subst><del rend="overstrike" seq="1">We</del>
                <add place="supralinear" rend="unmarked" seq="2">I</add></subst> know they are
-            <add place="supralinear" rend="insertion">intrinsically</add> little or nothing, though nations and ages have writhed for <del
-               rend="overstrike"><add place="supralinear" rend="insertion">most of</add></del> them in life and in death.&#8212;<subst><del rend="overstrike" seq="1">We</del>
+            <add place="supralinear" rend="insertion">intrinsically</add> little or nothing, though nations and ages have writhed for <del rend="overstrike"><add place="supralinear" rend="insertion">most of</add></del> them in life and in death.—<subst><del rend="overstrike" seq="1">We</del>
                <add place="supralinear" rend="unmarked" seq="2">I</add></subst> know they do
-            not satisfy the appetite of <pb xml:id="leaf013v" facs="loc.00483.026.jpg" type="verso"
-            /> the soul, with all their churches and their libraries and their
-            priesthood.&#8212;</ab>
-         <ab>Nevertheless let us treat them with decent forbearance. Mean as they are when we have
-            ascended beyond them, and look back, they were <add place="supralinear" rend="insertion"
-              >doubtless</add> the roads for their times<subst><del rend="overstrike"
-                  seq="1">,</del><add place="inline" rend="unmarked" seq="2"
-                  >.&#8212;</add></subst><del rend="overstrike">and</del> Let us not
-               <del rend="overstrike">despise</del> too quickly despise them;&#8212;for they have <subst><del rend="overstrike" seq="1">brought</del> <add place="supralinear" rend="unmarked" seq="2">sufficed to bring</add></subst> us where
-            we are.&#8212;</ab>
-               <ab>Like scaffolding which is a blur and nuisance when the house is well up&#8212;yet the house could not be achieved without the scaffold.&#8212;</ab></div2>
+            not satisfy the appetite of <pb xml:id="leaf013v" facs="loc.00483.026.jpg" type="verso"/> the soul, with all their churches and their libraries and their
+            priesthood.—</seg></ab>
+         <ab xml:id="ab200">Nevertheless let us treat them with decent forbearance. Mean as they are when we have
+            ascended beyond them, and look back, they were <add place="supralinear" rend="insertion">doubtless</add> the roads for their times<subst><del rend="overstrike" seq="1">,</del><add place="inline" rend="unmarked" seq="2">.—</add></subst></ab><ab xml:id="ab201"><del rend="overstrike">and</del> Let us not
+               <del rend="overstrike">despise</del> too quickly despise them;—for they have <subst><del rend="overstrike" seq="1">brought</del> <add place="supralinear" rend="unmarked" seq="2">sufficed to bring</add></subst> us where
+            we are.—</ab>
+               <ab xml:id="ab202">Like scaffolding which is a blur and nuisance when the house is well up—yet the house could not be achieved without the scaffold.—</ab></div2>
          <pb xml:id="leaf014r" facs="loc.00483.027.jpg" type="recto"/>
          <pb xml:id="leaf014v" facs="loc.00483.028.jpg" type="verso"/>
          </div1>
