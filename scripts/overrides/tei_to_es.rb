@@ -7,22 +7,18 @@ class TeiToEs
   # in the below example, the xpath for "person" is altered
   def override_xpaths
     xpaths = {}
-    xpaths["contributors"] =
-      ["/TEI/teiHeader/fileDesc/titleStmt/respStmt/persName"]
-    xpaths["date"] = {
-      "not_before" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore",
-      "not_after" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notAfter"
-    }
     xpaths["format"] = "/TEI/text/@type"
-    xpaths["publisher"] = "/TEI/teiHeader/sourceDesc/bibl/orgName"
-    xpaths["rights"] = "/TEI/teiHeader/fileDesc/publicationStmt/availability"
-    xpaths["rights_holder"] =
-      "/TEI/teiHeader/fileDesc/publicationStmt/distributor"
-    xpaths["rights_uri"] =
-      "/TEI/teiHeader/fileDesc/publicationStmt/availability//ref/@target"
-    xpaths["source"] = "/TEI/text/teiHeader/fileDesc/sourceDesc/bibl/title"
+    xpaths["rights_holder"] = "///fileDesc/publicationStmt/distributor"
+    xpaths["source"] = "//sourceDesc/bibl/note[@type='project']"
+    xpaths["works"] = "//text//work/@ref"
     xpaths
   end
+
+  # NOTE do not need following fields:
+  # keywords
+  # recipient
+  # spatial fields
+  # topics
 
   #################
   #    GENERAL    #
@@ -46,20 +42,6 @@ class TeiToEs
     "manuscripts"
   end
 
-  def date(before=true)
-    date_str = ""
-    if before
-      date_str = get_text(@xpaths["date"]["not_before"])
-    else
-      date_str = get_text(@xpaths["date"]["not_after"])
-    end
-    Datura::Helpers.date_standardize(date_str, before)
-  end
-
-  def format
-    get_text(@xpaths["format"])
-  end
-
   def language
     # TODO verify that none of these are primarily english
     "en"
@@ -70,20 +52,21 @@ class TeiToEs
     [ "en" ]
   end
 
-  # TODO place, publisher, source
-  def rights
-    get_text(@xpaths["rights"])
+  def person
+    []
   end
 
-  def rights_uri
-    get_text(@xpaths["rights_uri"])
+  def publisher
+    # blank
+  end
+
+  def source
+    get_text(@xpaths["source"])
   end
 
   def subcategory
     "notebooks"
   end
-
-  # TODO text other from author, title, publisher, pubplace, and date[@when]
 
   def uri
     "#{@options["site_url"]}/manuscripts/notebooks/transcriptions/#{@filename}.html"
