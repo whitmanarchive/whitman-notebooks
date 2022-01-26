@@ -29,7 +29,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>loc.00142</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -47,7 +47,7 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>loc.00142</idno></publicationStmt>
             <notesStmt>
                 <note type="project" target="#dat1">Because it comprises material that Whitman used in the first edition of <hi rend="italic">Leaves of Grass</hi>, this notebook must date to sometime before mid-1855.<lb/><lb/>Emory Holloway has posited several connections between passages in this notebook and specific lines in the 1855 edition. Although some of these connections are dubious, the notebook's series of drafts about the effects of music are clearly related to what ultimately became section 26 of "Song of Myself." See Emory Holloway, ed., <hi rend="italic">The Uncollected Poetry and Prose of Walt Whitman</hi> (Garden City, New York: Doubleday, Page &amp; Co., 1921), 2:83–86.
                 </note>

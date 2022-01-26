@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uva.00062">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uva.00062">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title level="m" type="main" rend="bracketed">Review&#8212;</title>
+<title level="m" type="main" rend="bracketed">Review—</title>
 <title level="m" type="sub">a machine readable transcription</title>
 <author>Walt Whitman</author>
 <editor>Kenneth M. Price</editor>
@@ -28,7 +24,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>uva.00062</idno>
+
 <distributor>The Walt Whitman Archive</distributor>
 <address>
 <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -45,14 +41,14 @@
     <p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
     <p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p> 
 </availability>
-</publicationStmt>
+<idno>uva.00062</idno></publicationStmt>
 <notesStmt>
 <note type="project" target="#dat1">Whitman wrote these notes on May 23rd and 24th, 1865, during the Grand Review of the Armies, a parade of Union forces in Washington, D.C.</note>
 </notesStmt>
 <sourceDesc>
 <bibl>
 <author>Walt Whitman</author>
-<date xml:id="dat1" cert="high" notBefore="1865-05-23" notAfter="1865-05-24">23&#8211;24 May, 1865</date>
+<date xml:id="dat1" cert="high" notBefore="1865-05-23" notAfter="1865-05-24">23–24 May, 1865</date>
 <orgName xml:id="uva">Papers of Walt Whitman (MSS 3829), Clifton Waller Barrett Library of American Literature, Albert H. Small Special Collections Library, University of Virginia</orgName>
 <note type="project">Transcribed from digital images of the original.</note>
 </bibl>
@@ -94,7 +90,7 @@
 
 <milestone unit="undeclared" rend="horbar-long-left"/>
 
-<ab>the Irish with their heads all <del rend="overstrike">d</del> copiously dressed with branches of green—impulsive, shouting&#8212;</ab>
+<ab>the Irish with their heads all <del rend="overstrike">d</del> copiously dressed with branches of green—impulsive, shouting—</ab>
 
 <milestone unit="undeclared" rend="horbar-short-left"/>
 
@@ -102,7 +98,7 @@
 
 <pb xml:id="leaf003v" facs="uva.00062.006.jpg" type="verso"/>
 
-—some of the very full artillery regts <subst><del rend="ovewrwrite" seq="1"><gap reason="illegible" extent="one letter" quantity="1" unit="chars"></gap></del><add rend="unmarked" place="over" seq="2">l</add></subst>ook'd splendidly—moving in masses—
+—some of the very full artillery regts <subst><del rend="ovewrwrite" seq="1"><gap reason="illegible" extent="one letter" quantity="1" unit="chars"/></del><add rend="unmarked" place="over" seq="2">l</add></subst>ook'd splendidly—moving in masses—
 
 <milestone unit="undeclared" rend="horbar-short-left"/>
 
@@ -122,8 +118,8 @@ good, hearty young men</ab>
 
 <pb xml:id="leaf007r" facs="uva.00062.008.jpg" type="recto"/>
 
-<ab>&#8212;the pontoons</ab>
-<ab>&#8212;the big panniers on mules backs fill'd with shovels 
+<ab>—the pontoons</ab>
+<ab>—the big panniers on mules backs fill'd with shovels 
 <add place="right" rend="insertion">(panniers made of ox-hide)</add></ab>
 
 <milestone unit="undeclared" rend="horbar-short-left"/>

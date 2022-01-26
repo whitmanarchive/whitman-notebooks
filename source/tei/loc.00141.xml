@@ -28,7 +28,7 @@
         </edition>
       </editionStmt>
       <publicationStmt>
-        <idno>loc.00141</idno>
+        
         <distributor>The Walt Whitman Archive</distributor>
         <address>
           <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -42,7 +42,7 @@
           <p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
           <p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p> 
         </availability>
-      </publicationStmt>
+      <idno>loc.00141</idno></publicationStmt>
       <notesStmt>
         <note type="project" target="#dat1">Early discussions of this notebook dated it in the 1840s, and the date associated with it in the Library of Congress finding aid is 1847. The cover of the notebook features a note calling it the "Earliest and
           Most Important Notebook of Walt Whitman." A note on leaf 27 recto includes the date April 19, 1847, and the year 1847 is listed again as part of a payment note on leaf 43 recto.  More recently, however, scholars have argued that Whitman repurposed this notebook, and that most of the writing was more likely from 1853 to 1854, just before the publication of <hi rend="italic">Leaves of Grass</hi>.  Almost certainly Whitman began the notebook by keeping accounts, producing the figures that are still visible on some of the page stubs, and later returned to it to write the poetry and prose drafts. For further discussion of dating and the fascinating history of this notebook into the twentieth century, see Matt Miller, <hi rend="italic">Collage of Myself: Walt Whitman and the Making of</hi> Leaves of Grass (Lincoln: University of Nebraska Press, 2010), 2–8.  See also Andrew C. Higgins, "Wage Slavery and the Composition of <hi rend="italic">Leaves of Grass</hi>: The 'Talbot Wilson' Notebook," <hi rend="italic">Walt Whitman Quarterly Review</hi> 20:2 (Fall 2002), 53–77; and Floyd Stovall, "Dating Whitman's Early Notebooks," <hi rend="italic">Studies in Bibliography</hi> 24 (1971), 197–204.

@@ -23,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>loc.00158</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -41,7 +41,7 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            </publicationStmt>
+            <idno>loc.00158</idno></publicationStmt>
             <notesStmt>
         <note type="project" target="#dat1">
             <note type="project" target="#dat1">These pages were written by Whitman in the early to mid-1850s. William White described the pages as "torn from a tall notebook" (<hi rend="italic">Daybooks and Notebooks</hi> [New York: New York University Press, 1978], 770–773). White noted a possible relationship between the opening words and the first poem of the 1855 edition, eventually titled "Song of Myself." The lines at the end of this manuscript were also reworked and used for a different section of the same poem. Matt Miller has noted that the information in the first several notes was taken from J. P. Giraud Jr., <hi rend="italic">The Birds of Long Island</hi> (New York: Wiley &amp; Putnam, 1844). For further discussion of the dating and importance of this notebook, see Miller, <hi rend="italic">Collage of Myself: Walt Whitman and the Making of</hi> Leaves of Grass (Lincoln: University of Nebraska Press, 2010), 26–29.</note> 

@@ -26,7 +26,7 @@ Humanities</sponsor>
 </titleStmt><editionStmt>
 <edition><date>2004</date></edition>
 </editionStmt><publicationStmt>
-<idno>loc.00005</idno>
+
 <distributor>The Walt Whitman Archive</distributor>
 	<address>
 <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -42,7 +42,7 @@ Humanities</sponsor>
 	<p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
 	<p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p> 
 </availability>
-</publicationStmt>
+<idno>loc.00005</idno></publicationStmt>
 <notesStmt>
 	<note type="project" target="#dat1">These pages were written by Whitman in the early to mid-1850s. William White described the pages as "torn from a tall notebook" (<hi rend="italic">Daybooks and Notebooks</hi> [New York: New York University Press, 1978], 773–777). White noted a relationship between these pages and the poems "Who Learns My Lesson Complete?," "By Blue Ontario's Shore," "Song of the Answerer," and "There Was a Child Went Forth." Some of the ideas and language being worked out here also appear in the poem eventually titled "Song of Myself." For a discussion of the dating and importance of this notebook, see Matt Miller, <hi rend="italic">Collage of Myself: Walt Whitman and the Making of</hi> Leaves of Grass (Lincoln: University of Nebraska Press, 2010), 11–16.</note>       
 </notesStmt>

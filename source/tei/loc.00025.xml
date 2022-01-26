@@ -25,7 +25,7 @@
 				</edition>
 			</editionStmt>
 			<publicationStmt>
-				<idno>loc.00025</idno>
+				
 				<distributor>The Walt Whitman Archive</distributor>
 				<address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -43,7 +43,7 @@
 						Humanities. Permission to reproduce the graphic images in this archive has
 						been granted by the owners of the originals for this publication only.</p>
 				</availability>
-			</publicationStmt>
+			<idno>loc.00025</idno></publicationStmt>
 			<notesStmt>
 				<note type="project" target="#dat1">This notebook consists almost entirely of prose. However, the ideas and language developed throughout the notebook can be linked to a number of poems that appeared in <hi rend="italic">Leaves of Grass</hi>, including "Song of Myself," "Great are the Myths" (ultimately shortened to a few lines and titled "Youth, Day, Old Age, and Night"), "Faces," "The Sleepers," and "To Think of Time," versions of which appeared in <hi rend="italic">Leaves of Grass</hi> in 1855. One manuscript passage is similar to a passage in the preface to the 1855 edition. Thus, this notebook was almost certainly written before that date. Content from the first several paragraphs of this notebook was also used slightly revised in "Song of the Open Road," first published in the 1856 edition of <hi rend="italic">Leaves</hi> as "Poem of the Road."</note>             
 			</notesStmt>

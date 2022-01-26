@@ -25,7 +25,7 @@
         </edition>
       </editionStmt>
       <publicationStmt>
-        <idno>nyp.00129</idno>
+        
         <distributor>The Walt Whitman Archive</distributor>
         <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -43,7 +43,7 @@
             Humanities. Permission to reproduce the graphic images in this archive has
             been granted by the owners of the originals for this publication only.</p>
         </availability>
-      </publicationStmt>
+      <idno>nyp.00129</idno></publicationStmt>
       <notesStmt>
         <note type="project" target="#dat1">Emory Holloway has pointed out that Whitman's reference to the sinking of the <hi rend="italic">San Francisco</hi> indicates that this notebook, "or at least part of it, is later than 1853." He writes that "it was probably begun in 1854" because the "marble church" in the first passage presumably refers to the Marble Collegiate Church in Manhattan, "which was not completed until then." See Holloway, "A Whitman Manuscript," <hi rend="italic">American Mercury</hi> 3 (December 1924), 475–480. See also Andrew C. Higgins, "Art and Argument: The Rise of Walt Whitman's Rhetorical Poetics, 1838-1855," PhD diss.,  University of Massachusetts, Amherst, 1999; and Edward F. Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:128–135.
           <lb/><lb/>Of the notebook passages that can be identified with published works, most represent early versions of images and phrases from the 1855 poem eventually titled "Song of Myself." One passage clearly contributed to the 1856 poem later titled "Song of the Open Road." Others are possibly connected to the poems eventually titled "A Song for Occupations" and "Great Are the Myths," both first published in the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> and to the preface for that volume. One passage seems to have contributed to the 1860–1861 poem that Whitman later titled "Our Old Feuillage." 

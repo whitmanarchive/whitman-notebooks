@@ -26,7 +26,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <idno>loc.05589</idno>
+            
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -40,7 +40,7 @@
                <p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
                <p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p> 
             </availability>
-         </publicationStmt>
+         <idno>loc.05589</idno></publicationStmt>
       <notesStmt>
         <note type="project" target="#dat1">As Floyd Stovall has noted, the few datable references in this notebook (e.g., the fighting at Sebastopol during the Crimean War) are to events from about 1853 to late 1854, shortly before the first publication of <hi rend="italic">Leaves of Grass</hi>. See Floyd Stovall, "Dating Whitman's Early Notebooks," <hi rend="italic">Studies in Bibliography</hi> 24 (1971), 197–204. See also Edward Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:138–155. Whitman's notes about Egypt and mention of "Dr. Abbott" in the notebook probably also date to around 1854: Stovall writes that at this time "Whitman made frequent visits to the Egyptian Museum, which was established by Dr. Henry Abbott in New York" (202). Whitman discussed Abbott's museum at some length in the article "One of the Lessons Bordering Broadway: The Egyptian Museum," published in <hi rend="italic">Life Illustrated</hi> on December 8, 1855. 
           <lb/><lb/>This notebook contains much draft material for Whitman's early poems, although this fact has not often been recognized by scholars. Both Stovall and Grier point out that most of the connections to printed works are to poems and prose published in the 1855 edition of <hi rend="italic">Leaves of Grass</hi> but that the notebook also contains material clearly related to things that were first printed in the second (1856) and third (1860–1861) editions.

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uva.00053">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="uva.00053">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -29,7 +25,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-<idno>uva.00053</idno>
+
 <distributor>The Walt Whitman Archive</distributor>
 <address>
 <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -46,7 +42,7 @@
     <p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
     <p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p> 
 </availability>
-</publicationStmt>
+<idno>uva.00053</idno></publicationStmt>
 <notesStmt>
 <note type="project" target="#leaf001r">The writing on the first page is upside-down relative to the rest of the notebook.</note>
 <note type="project" target="#leaf017v">The seventeenth leaf has been pasted to the end of the notebook. In the process, the writing on the verso, which is turned 90 degrees counter-clockwise relative to the rest of the notebook, has been partially obscured.</note>
@@ -89,7 +85,7 @@
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>this is the bed of death</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
-<ab>he is failing fast&#8212;the muffled groan, the laboring panting chest &#38; throat, the convulsion <note place="supralinear">?</note> without intermission, the attitude of the hands, the restlessness&#8212;the contraction &#38; dilation of the nostrils&#8212;<add rend="unmarked" place="supralinear">fortunately</add> he is out of his head, poor fellow</ab>
+<ab>he is failing fast—the muffled groan, the laboring panting chest &amp; throat, the convulsion <note place="supralinear">?</note> without intermission, the attitude of the hands, the restlessness—the contraction &amp; dilation of the nostrils—<add rend="unmarked" place="supralinear">fortunately</add> he is out of his head, poor fellow</ab>
 </div2>
 
 <pb xml:id="leaf001v" facs="uva.00053.002.jpg" type="verso"/>
@@ -100,14 +96,14 @@
 <div2 type="sub-section">
 <ab><add rend="unmarked" place="supralinear">Lieut</add> Wm Hubbard</ab> <ab>co B. 27th Indiana reg't</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
-<ab>Bed 34&#8212;ward H.</ab>
+<ab>Bed 34—ward H.</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>father Wm Hubbard,</ab> <ab>Cloverdale, Putnam co. Ind.</ab>
 <milestone unit="undeclared" rend="horbar-long-left"/>
 <ab>wrote Wm. Letter to his father above.</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
-<ab>wound bad in foot, instep, rec'd at Chancellorsville, Va. Sunday forenoon&#8212;bones out, pretty badly mashed, will get over it, but foot useless probably.</ab>
-<label><date when="1863-06-23">June 23&#8212;</date></label><ab>is recovering</ab>
+<ab>wound bad in foot, instep, rec'd at Chancellorsville, Va. Sunday forenoon—bones out, pretty badly mashed, will get over it, but foot useless probably.</ab>
+<label><date when="1863-06-23">June 23—</date></label><ab>is recovering</ab>
 </div2>
 
 <pb xml:id="leaf003v" facs="uva.00053.006.jpg" type="verso"/>
@@ -120,16 +116,16 @@
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>wants a <hi rend="underline">little jelly, &amp; an orange</hi></ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
-<ab>wound<subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="two letters" quantity="2" unit="chars"/></del><add rend="unmarked" place="over" seq="2">ed</add></subst> <add rend="insertion" place="supralinear">last Sunday at Chancellorsville</add> in leg&#8212;I saw the bullet &amp; a piece of the bone&#8212;stout hearty Ohio boy.&#8212;parents live in Huron, Erie co. Ohio&#8212;mothers address Mrs W. R. Benton, as above&#8212;</ab>
+<ab>wound<subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="two letters" quantity="2" unit="chars"/></del><add rend="unmarked" place="over" seq="2">ed</add></subst> <add rend="insertion" place="supralinear">last Sunday at Chancellorsville</add> in leg—I saw the bullet &amp; a piece of the bone—stout hearty Ohio boy.—parents live in Huron, Erie co. Ohio—mothers address Mrs W. R. Benton, as above—</ab>
 </div2>
 
 <pb xml:id="leaf004v" facs="uva.00053.008.jpg" type="verso"/>
 <pb xml:id="leaf005r" facs="uva.00053.009.jpg" type="recto"/>
 
 <div2 type="sub-section">
-<ab>Henry Eberle,</ab> <ab>bed 8 Ward K&#8212;</ab><ab><subst><del rend="overstrike" seq="1">ward</del> <add rend="unmarked" place="supralinear" seq="2">co</add></subst> H. 28th Penn Vol.</ab>
+<ab>Henry Eberle,</ab> <ab>bed 8 Ward K—</ab><ab><subst><del rend="overstrike" seq="1">ward</del> <add rend="unmarked" place="supralinear" seq="2">co</add></subst> H. 28th Penn Vol.</ab>
 <ab>wants a <subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="one letter" quantity="1" unit="chars"/></del><add rend="unmarked" place="over" seq="2">G</add></subst>erman prayer book</ab>
-<ab>wounded in left shoulder pretty bad&#8212;reads German &amp; English&#8212;born in Penn.</ab>
+<ab>wounded in left shoulder pretty bad—reads German &amp; English—born in Penn.</ab>
 </div2>
 
 <pb xml:id="leaf005v" facs="uva.00053.010.jpg" type="verso"/>
@@ -145,7 +141,7 @@
 <div2 type="sub-section">
 <ab>Hiram F. Willis</ab> <ab>ward I, bed 21</ab> <ab>co I. <del rend="overstrike">bed</del> 84th Penn.</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
-<ab>wounded at <subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="one letter" quantity="1" unit="chars"/></del><add rend="unmarked" place="over" seq="2">C</add></subst>hancellorsville Sunday.&#8212;wounded in hands &amp;c. &amp; in thigh</ab>
+<ab>wounded at <subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="one letter" quantity="1" unit="chars"/></del><add rend="unmarked" place="over" seq="2">C</add></subst>hancellorsville Sunday.—wounded in hands &amp;c. &amp; in thigh</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>father Hiram Willis</ab> <ab>Eldred, Wayne co Penn</ab>
 </div2>
@@ -153,7 +149,7 @@
 
 <div2 type="sub-section">
 <ab>
-<add rend="unmarked" place="supralinear">ward. D.</add> Dont forget Austin Lawton ward D. <add rend="insertion" place="supralinear">(also Chas Moody, bed 44)</add> ward D. n<subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="two letters" quantity="2" unit="chars"/></del><add rend="unmarked" place="over" seq="2">orth</add></subst> side near the door right arm badly wounded&#8212;left hand slightly wounded&#8212;Ohio boy&#8212;(born in England) has a friend in one of the Departments.</ab>
+<add rend="unmarked" place="supralinear">ward. D.</add> Dont forget Austin Lawton ward D. <add rend="insertion" place="supralinear">(also Chas Moody, bed 44)</add> ward D. n<subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="two letters" quantity="2" unit="chars"/></del><add rend="unmarked" place="over" seq="2">orth</add></subst> side near the door right arm badly wounded—left hand slightly wounded—Ohio boy—(born in England) has a friend in one of the Departments.</ab>
 </div2>
 
 <pb xml:id="leaf006v" facs="uva.00053.012.jpg" type="verso"/>
@@ -181,13 +177,13 @@
 </work>
 </relations>
 
-<dateline><date when="1863-05-10">Sunday May 10th&#8212;'63</date></dateline>
+<dateline><date when="1863-05-10">Sunday May 10th—'63</date></dateline>
 <dateline><date when="1863-05-10">Sunday May 10th</date></dateline> 
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>spen<subst><del rend="overwrite" seq="1">d</del><add place="over" rend="unmarked" seq="2">t</add></subst> <del rend="overstrike">a good part of</del> the day the day in Armory Sq. Hospital in wards E. F. G. H. I &amp; K.</ab>
-<ab>many badly wounded men from <choice><orig>Chancellorville</orig><reg>Chancellorsville</reg></choice> &amp;c all forms of wounds, <seg xml:id="ph1">some</seg> <add rend="unmarked" place="supralinear" xml:id="ph2">a large proportion</add><alt target="#ph1 #ph2" weights="0.5 0.5"/> in head&#8212;</ab>
-<ab>&#8212;some cases of men badly burnt by explosion of caissons &amp;c</ab>
-<ab>&#8212;wrote a number of letters for Ohio &amp; Indiana m<subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="two letters" quantity="2" unit="chars"/></del><add place="over" rend="unmarked" seq="2">en</add></subst><anchor xml:id="q01"/>
+<ab>many badly wounded men from <choice><orig>Chancellorville</orig><reg>Chancellorsville</reg></choice> &amp;c all forms of wounds, <seg xml:id="ph1">some</seg> <add rend="unmarked" place="supralinear" xml:id="ph2">a large proportion</add><alt target="#ph1 #ph2" weights="0.5 0.5"/> in head—</ab>
+<ab>—some cases of men badly burnt by explosion of caissons &amp;c</ab>
+<ab>—wrote a number of letters for Ohio &amp; Indiana m<subst><del rend="overwrite" seq="1"><gap reason="illegible" extent="two letters" quantity="2" unit="chars"/></del><add place="over" rend="unmarked" seq="2">en</add></subst><anchor xml:id="q01"/>
 </ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
 </div1>
@@ -198,7 +194,7 @@
 
 <ab>Wm Williams</ab>
 <ab>bed 41 Ward G.</ab>
-<ab>&#8212;bring some pickles</ab>
+<ab>—bring some pickles</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>badly wounded in arm has suffered much</ab>
 <milestone unit="undeclared" rend="horbar-long-left"/>
@@ -210,8 +206,8 @@
 
 <div1 type="section">
 <dateline><date when="1863-05-11">Monday night May 11 '63</date></dateline>
-<ab>spent four hours this evening in Armory&#8212;</ab>
-<ab>recollect the poor young fellow in Ward E. with <subst><del rend="overstrike" seq="1">one</del> <add rend="unmarked" place="supralinear" seq="2">left</add></subst> leg amputated <subst><del rend="overstrike" seq="1">well up to thigh</del> <add rend="unmarked" place="supralinear" seq="2">below the knee</add></subst> &amp; a wound in arm&#8212;<add rend="insertion" place="supralinear">co D</add> 77th New York&#8212;<add rend="insertion" place="supralinear">wounded Sunday May 4th at Chancellorsville</add> tells me he wants his mother to come &amp; and see him, but has not money enough to send her for that purpose</ab>
+<ab>spent four hours this evening in Armory—</ab>
+<ab>recollect the poor young fellow in Ward E. with <subst><del rend="overstrike" seq="1">one</del> <add rend="unmarked" place="supralinear" seq="2">left</add></subst> leg amputated <subst><del rend="overstrike" seq="1">well up to thigh</del> <add rend="unmarked" place="supralinear" seq="2">below the knee</add></subst> &amp; a wound in arm—<add rend="insertion" place="supralinear">co D</add> 77th New York—<add rend="insertion" place="supralinear">wounded Sunday May 4th at Chancellorsville</add> tells me he wants his mother to come &amp; and see him, but has not money enough to send her for that purpose</ab>
 <ab>Erskine Branch [after a long seige, sometimes at death's door, much pain, <subst><del rend="overstrike" seq="1">one</del> <add rend="unmarked" place="supralinear" seq="2">two</add></subst> or three partial recoveries, &amp; then relapsing, he got quite well, got up &amp; went out at last a well-drest handsome fellow</ab>
 </div1>
 
@@ -226,7 +222,7 @@
 <ab>William Williams</ab>
 <ab> co F. 27th Indiana</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
-<ab>wounded seriously in shoulder&#8212;<subst><del rend="overwrite" seq="1">a</del><add place="over" rend="overwrite" seq="2">he</add></subst> lay naked to the waist on acc't of the heat&#8212;I never saw a more superb development of chest, <del rend="overstrike">&amp;</del> limbs, neck, &amp;c. a perfect model of manly strength&#8212;seemed awful to take such God's masterpiece &amp;</ab>
+<ab>wounded seriously in shoulder—<subst><del rend="overwrite" seq="1">a</del><add place="over" rend="overwrite" seq="2">he</add></subst> lay naked to the waist on acc't of the heat—I never saw a more superb development of chest, <del rend="overstrike">&amp;</del> limbs, neck, &amp;c. a perfect model of manly strength—seemed awful to take such God's masterpiece &amp;</ab>
 <ab>nearest friend Mr. J.C. Williams</ab>
 <ab>Lafayette Tippecanoe co. Indiana</ab>
 </div2>
@@ -254,7 +250,7 @@
 <milestone unit="undeclared" rend="horbar-long-left"/>
 <ab><add rend="insertion" place="supralinear">Mrs.</add> Eveline Ballou Sullivan</ab> <ab>Ashland co. Ohio</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
-<ab>wounded in the left leg, below knee, flesh wound, at Chancellorsville Sunday 4th&#8212;&#8212;feeling pretty comfortable, has good care</ab>
+<ab>wounded in the left leg, below knee, flesh wound, at Chancellorsville Sunday 4th——feeling pretty comfortable, has good care</ab>
 </div2>
 
 <pb xml:id="leaf013v" facs="uva.00053.026.jpg" type="verso"/>
@@ -290,7 +286,7 @@
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>wounded at 2d Fredericksburg Sunday 4th May.</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
-<ab>lost <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">his</add></subst> <add place="supralinear" rend="unmarked">left</add> leg below the knee (amputated there)&#8212;doing pretty well</ab>
+<ab>lost <subst><del rend="overstrike" seq="1">your</del> <add rend="unmarked" place="supralinear" seq="2">his</add></subst> <add place="supralinear" rend="unmarked">left</add> leg below the knee (amputated there)—doing pretty well</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>also slight wound on upper left arm</ab>
 <milestone unit="undeclared" rend="horbar-long-left"/>
@@ -309,8 +305,8 @@
 <delSpan rend="pasteover" spanTo="#d1"/>
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>Member of co K 51st New York</ab>
-<ab xml:id="ab1" next="#ab2"><unclear reason="illegible" resp="#ec" cert="low">in</unclear> Carver</ab><anchor xml:id="d1"/><ab xml:id="ab2" prev="#ab1"> Hospital&#8212;lost his left
-arm&#8212;a Brooklyn boy</ab>
+<ab xml:id="ab1" next="#ab2"><unclear reason="illegible" resp="#ec" cert="low">in</unclear> Carver</ab><anchor xml:id="d1"/><ab xml:id="ab2" prev="#ab1"> Hospital—lost his left
+arm—a Brooklyn boy</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab>John Lowery</ab>
 <ab>Amos H. Vliet</ab>

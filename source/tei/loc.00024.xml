@@ -26,7 +26,7 @@
 </titleStmt><editionStmt>
 <edition><date>2004</date></edition>
 </editionStmt><publicationStmt>
-<idno>loc.00024</idno>
+
 <distributor>The Walt Whitman Archive</distributor>
 <address>
 <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -40,7 +40,7 @@
 	<p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
 	<p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p> 
 </availability>
-</publicationStmt>
+<idno>loc.00024</idno></publicationStmt>
 <notesStmt>
 	<note type="project" target="#dat1">Whitman likely wrote the building specifications on what is presented here as the last page of this notebook first, and then flipped the notebook over and wrote notes from the other direction. References to the <hi rend="italic">San Francisco</hi> can be dated to sometime after January 1854. The cover of the notebook is labeled "Note Book Walt Whitman" in a hand that is not Whitman's. Selections and subjects from this notebook were used in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, including phrases from the poems that would later be titled "Song of Myself" and "Song of the Answerer." See Edward Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:113–117.</note>                        	
 </notesStmt>
