@@ -98,11 +98,9 @@ doubtless the brain</item>
 fastening together</item></list>
 </div2>
 <div2 type="section">
-	<relations>
-		<work ref="xxx.00048" cert="high">
-			<p>Part of this section about happiness likely contributed to the following line in the poem eventually titled "Song of Myself": "Happiness . . . . which whoever hears me let him or her set out in search of this day" (1855, p. 31).</p>
-		</work>
-	</relations>
+	
+	<note type="work_relations" target="xxx.00048" cert="high"><p>Part of this section about happiness likely contributed to the following line in the poem eventually titled "Song of Myself": "Happiness . . . . which whoever hears me let him or her set out in search of this day" (1855, p. 31).</p></note>
+	
 <ab>Because women do not appear in history and philosophy with any thing 
 like the same prominence as men—that is no reason for thinking them less 
 than men:—The great names that we know are but the accidental 
@@ -125,9 +123,7 @@ let him or her set out upon the search this day, <del rend="overstrike">and neve
 </div2>
 
 <div2 type="section">
-	<relations><work ref="xxx.00250" cert="high">
-		<p>This section includes lines that read like an early draft of the poem that was eventually titled "Who Learns My Lesson Complete?" In the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, Whitman included the lines: "Who learns my lesson complete? / ... / It is no lesson . . . . it lets down the bars to a good lesson, / And that to another . . . . and every one to another still" (p. 92).</p>
-	</work></relations>
+	<note type="work_relations" target="xxx.00250" cert="high"><p>This section includes lines that read like an early draft of the poem that was eventually titled "Who Learns My Lesson Complete?" In the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, Whitman included the lines: "Who learns my lesson complete? / ... / It is no lesson . . . . it lets down the bars to a good lesson, / And that to another . . . . and every one to another still" (p. 92).</p></note>
 <head type="main-authorial">My Lesson</head>
 
 <lg>
@@ -146,14 +142,11 @@ let him or her set out upon the search this day, <del rend="overstrike">and neve
 </div2>
 
 <div2 type="section">
-	<relations>
-		<work ref="xxx.00526" cert="low">
-			<p>This language appears in the preface of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "His thoughts are the hymns of the praise of things" (v).</p>
-		</work>
-		<work ref="xxx.00221" cert="low">
-			<p>In the 1856 edition of <hi rend="italic">Leaves of Grass</hi>, this language was moved to the poetry, appearing in the poem that was ultimately titled "By Blue Ontario's Shore": "His thoughts are the hymns of the praise of things" (1891, p. 269).</p>
-		</work>
-	</relations>
+	<note type="work_relations" target="xxx.00526" cert="low"><p>This language appears in the preface of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "His thoughts are the hymns of the praise of things" (v).</p>
+	</note>
+		
+		<note type="work_relations" target="xxx.00221" cert="low"><p>In the 1856 edition of <hi rend="italic">Leaves of Grass</hi>, this language was moved to the poetry, appearing in the poem that was ultimately titled "By Blue Ontario's Shore": "His thoughts are the hymns of the praise of things" (1891, p. 269).</p></note>
+	
 <head type="main-authorial" xml:id="head01">Poem "Praise of things"</head>
 </div2>
 
@@ -188,17 +181,15 @@ carefully finished as the dialogue</ab><anchor xml:id="s2"/>
 </div2>
 
 <div2 type="prose">
-	<relations>
-		<work ref="xxx.00226" cert="high">
-			<p>Language from this section was adapted to make up the first few lines of the poem that would eventually be titled "There was a Child Went Forth": "There was a child went forth every day, / And the first object he looked upon and received with wonder or pity or love or dread, that object he became, / And that object became part of him for the day or a certain part of the day . . . . or for many years or stretching cycles of years" (1855, p. 90).</p>
-		</work>
-		<work ref="xxx.00113" cert="low">
-			<p>The figure of the answerer appears in the poem eventually titled "Song of the Answerer": "He is the answerer, / What can be answered he answers, and what cannot be answered he shows how it cannot be answered" (1855, p. 86).</p>
-		</work>
-		<work ref="xxx.00048" cert="low">
-			<p>The "leaf of grass" that appears in this segment may have turned into the "leaf of grass" in the poem that would become "Song of Myself": "I believe a leaf of grass is no less than the journeywork of the stars" (1855, p. 34). The "voices" described in the last part of this section may relate to the following lines: "Through me many long dumb voices, / Voices of the interminable generations of prisoners and slaves, / Voices of the diseas'd and despairing and of thieves and dwarfs, / Voices of cycles of preparation and accretion, / And of the threads that connect the stars, and of wombs and of the father-stuff" (1855, p. 29).</p>
-		</work>
-	</relations>
+	<note type="work_relations" target="xxx.00226" cert="high"><p>Language from this section was adapted to make up the first few lines of the poem that would eventually be titled "There was a Child Went Forth": "There was a child went forth every day, / And the first object he looked upon and received with wonder or pity or love or dread, that object he became, / And that object became part of him for the day or a certain part of the day . . . . or for many years or stretching cycles of years" (1855, p. 90).</p>
+	</note>
+		
+		<note type="work_relations" target="xxx.00113" cert="low"><p>The figure of the answerer appears in the poem eventually titled "Song of the Answerer": "He is the answerer, / What can be answered he answers, and what cannot be answered he shows how it cannot be answered" (1855, p. 86).</p>
+		</note>
+		
+		<note type="work_relations" target="xxx.00048" cert="low"><p>The "leaf of grass" that appears in this segment may have turned into the "leaf of grass" in the poem that would become "Song of Myself": "I believe a leaf of grass is no less than the journeywork of the stars" (1855, p. 34). The "voices" described in the last part of this section may relate to the following lines: "Through me many long dumb voices, / Voices of the interminable generations of prisoners and slaves, / Voices of the diseas'd and despairing and of thieves and dwarfs, / Voices of cycles of preparation and accretion, / And of the threads that connect the stars, and of wombs and of the father-stuff" (1855, p. 29).</p>
+	</note>
+	
 <head type="main-authorial" rend="underline" xml:id="head02">The answerer</head>
 
 <ab>
@@ -236,14 +227,11 @@ became for the day.—</ab>
 
 <pb facs="loc.00005.003.jpg" xml:id="leaf002r" type="recto"/>
 <div2 type="prose">
-	<relations>
-		<work ref="xxx.00048" cert="high">
-			<p>A segment in this section is similar to the following lines from the poem that would eventually be titled "Song of Myself": "Before I was born out of my mother generations guided me, / My embryo has never been torpid . . . . nothing could overlay it; / For it the nebula cohered to an orb . . . . the long slow strata piled to rest it on . . . . vast vegetables gave it sustenance, / Monstrous sauroids transported it in their mouths and deposited it with care. / All forces have been steadily employed to complete and delight me, / Now I stand on this spot with my soul." (1855, p. 50).</p>
-		</work>
-		<work ref="xxx.00526" cert="low">
-			<p>The line "Can he be religious and have nothing to do with churches or prayers?" bears a distant resemblance to the following line in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "The great master has nothing to do with miracles" (1855, p. viii).</p>
-		</work>
-	</relations>
+	<note type="work_relations" target="xxx.00048" cert="high"><p>A segment in this section is similar to the following lines from the poem that would eventually be titled "Song of Myself": "Before I was born out of my mother generations guided me, / My embryo has never been torpid . . . . nothing could overlay it; / For it the nebula cohered to an orb . . . . the long slow strata piled to rest it on . . . . vast vegetables gave it sustenance, / Monstrous sauroids transported it in their mouths and deposited it with care. / All forces have been steadily employed to complete and delight me, / Now I stand on this spot with my soul." (1855, p. 50).</p>
+	</note>
+		
+		<note type="work_relations" target="xxx.00526" cert="low"><p>The line "Can he be religious and have nothing to do with churches or prayers?" bears a distant resemblance to the following line in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "The great master has nothing to do with miracles" (1855, p. viii).</p></note>
+	
 	<note type="authorial" place="top">(a <hi rend="underline">spiritual novel</hi>?</note>
 
 <ab>
