@@ -15,6 +15,7 @@
 <persName xml:id="ah">Amy Hezel</persName>
 	<persName xml:id="kmp">Kenneth M. Price</persName>
 	<persName xml:id="bb">Brett Barney</persName>
+	<persName xml:id="km">Kevin McMullen</persName>
 </respStmt>
 	<sponsor>Center for Digital Research in the Humanities</sponsor>
 <sponsor>The Institute for Advanced Technology in the 
@@ -58,6 +59,7 @@ Humanities</sponsor>
 </sourceDesc>
 </fileDesc>
 <revisionDesc>
+	<change when="2022-03-03" who="#km">updated relations encoding</change>
 	<change when="2019-11-18" who="#bb">tweaked the wording of the date note</change>
 	<change when="2019-08-07" who="#nhg">added inline relation</change>
 	<change when="2017-10-09" who="#nhg">added inline relations information</change>
