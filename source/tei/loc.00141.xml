@@ -818,11 +818,8 @@
         <pb facs="loc.00141.048.jpg" xml:id="leaf024v" type="verso"/>
   
         <div2 type="prose">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00048" cert="high">
-              <p>Portions of these passages directly echo lines from "Song of Myself." <ref target="#tw16 #tw17" type="text" xml:id="r20">These passages</ref> correspond to all or part of the following lines from the published poem: "I tramp a perpetual journey, / My signs are a rain-proof coat and good shoes and a staff cut from the woods; / No friend of mine takes his ease in my chair, / I have no chair, nor church nor philosophy; / I lead no man to a dinner-table or library or exchange, / But each man and each woman of you I lead upon a knoll, / My left hand hooks you round the waist, / My right hand points to landscapes of continents, and a plain public road. / Not I, not any one else can travel that road for you, / You must travel it for yourself. / It is not far . . . . it is within reach, / Perhaps you have been on it since you were born, and did not know, / Perhaps it is everywhere on water and on land." (1855, pp. 51-2).</p>
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00048" cert="high"><p>Portions of these passages directly echo lines from "Song of Myself." <ref target="#tw16 #tw17" type="text" xml:id="r20">These passages</ref> correspond to all or part of the following lines from the published poem: "I tramp a perpetual journey, / My signs are a rain-proof coat and good shoes and a staff cut from the woods; / No friend of mine takes his ease in my chair, / I have no chair, nor church nor philosophy; / I lead no man to a dinner-table or library or exchange, / But each man and each woman of you I lead upon a knoll, / My left hand hooks you round the waist, / My right hand points to landscapes of continents, and a plain public road. / Not I, not any one else can travel that road for you, / You must travel it for yourself. / It is not far . . . . it is within reach, / Perhaps you have been on it since you were born, and did not know, / Perhaps it is everywhere on water and on land." (1855, pp. 51-2).</p></note>
+          
           <p>whose sides are crowded <del rend="overstrike">with</del> the rich cities of all living philosophy, and oval gates 
             <del rend="overstrike"><unclear reason="deleted, illegible" resp="#nhg" cert="medium">hop</unclear></del> 
             that 
@@ -1030,11 +1027,8 @@
           <anchor xml:id="d1"/>
         </div2>
         <div2 type="prose">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00048" cert="high">
-              <p><ref target="#p01">A line in this passage</ref> matches the following in the poem that would be titled "Song of Myself": "Not one is dissatisfied . . . . not one is demented with the mania of owning things" (1855, p. 34).</p>
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#p01">A line in this passage</ref> matches the following in the poem that would be titled "Song of Myself": "Not one is dissatisfied . . . . not one is demented with the mania of owning things" (1855, p. 34).</p></note>
+          
           <ab>
             <subst>
                
@@ -1329,11 +1323,8 @@
         <pb facs="loc.00141.062.jpg" xml:id="leaf031v" type="verso"/>
   
         <div2 type="prose">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00048" cert="high">
-              <p><ref xml:id="r21" target="#tw18" type="text">These phrases</ref> from this passage are directly echoed in the poem later titled "Song of Myself": "Washes and razors for foofoos . . . . for me freckles and a bristling beard" (1855, p. 28). This line was dropped from "Song of Myself" in 1881. There are also resonances with other lines from "Song of Myself" in <ref target="#ab03" type="text">this section</ref>, particularly the line: "And nothing, not God, is greater to one than one's-self is" (1855, p. 53).</p>
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00048" cert="high"><p><ref xml:id="r21" target="#tw18" type="text">These phrases</ref> from this passage are directly echoed in the poem later titled "Song of Myself": "Washes and razors for foofoos . . . . for me freckles and a bristling beard" (1855, p. 28). This line was dropped from "Song of Myself" in 1881. There are also resonances with other lines from "Song of Myself" in <ref target="#ab03" type="text">this section</ref>, particularly the line: "And nothing, not God, is greater to one than one's-self is" (1855, p. 53).</p></note>
+      
           <ab>The being I want to see you <del rend="overstrike">develope</del> become</ab>
           <ab xml:id="ab03">If 
             <subst>
@@ -1472,11 +1463,8 @@
         <pb facs="loc.00141.067.jpg" xml:id="leaf034r" type="recto"/>
   
         <div2 type="prose">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00048" cert="high">
-              <p><ref target="#tw20" xml:id="r22" type="text">This passage</ref> is echoed in the following lines from the poem that would be titled "Song of Myself": "The boatmen and clamdiggers arose early and stopped for me, / I tucked my trowser-ends in my boots and went and had a good time, / You should have been with us that day round the chowder-kettle." (1855, p. 18).</p>
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw20" xml:id="r22" type="text">This passage</ref> is echoed in the following lines from the poem that would be titled "Song of Myself": "The boatmen and clamdiggers arose early and stopped for me, / I tucked my trowser-ends in my boots and went and had a good time, / You should have been with us that day round the chowder-kettle." (1855, p. 18).</p></note>
+          
           <ab xml:id="tw20">I will not descend among professors and capitalists <del rend="overstrike">and good society</del>—I will turn <del rend="overstrike">up</del> the ends of my <choice><orig>trowsers</orig><reg>trousers</reg></choice>
             <del rend="overstrike">up</del> around my boots, and my cuffs back from my wrists and go 
             <subst>
@@ -1511,20 +1499,15 @@
         <pb facs="loc.00141.070.jpg" xml:id="leaf035v" type="verso"/>
   
         <div2 type="poetry">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00048" cert="high">
-              <p><ref target="#tw21 #tw22" xml:id="r23" type="text">These lines</ref> anticipate the following, from the poem that would be titled "Song of Myself": "I am the poet of the body, / And I am the poet of the soul." (1855, p. 26).  The phrasing, "I am the poet of _____, and of _____" is echoed in a later line, but slaves and masters become woman and man.</p>
-            </work>
-            <work ref="xxx.00264" cert="low">
-              <p><ref target="#tw21 #tw22" xml:id="r24" type="text">These lines</ref> anticipate the reference to slaves and masters in the poem that would be titled "The Sleepers": "The call of the slave is one with the master's call . . and the master salutes the slave," (1855, p. 76).</p>
-            </work>
-            <work ref="xxx.00526" cert="low">
-              <p>These lines also may anticipate the following lines in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "Little or big, learned or unlearned, white or black, legal or illegal, sick or well, from the first inspiration down the windpipe to the last expiration out of it,
+          <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw21 #tw22" xml:id="r23" type="text">These lines</ref> anticipate the following, from the poem that would be titled "Song of Myself": "I am the poet of the body, / And I am the poet of the soul." (1855, p. 26).  The phrasing, "I am the poet of _____, and of _____" is echoed in a later line, but slaves and masters become woman and man.</p></note>
+           
+           <note type="work_relations" target="xxx.00264" cert="low"><p><ref target="#tw21 #tw22" xml:id="r24" type="text">These lines</ref> anticipate the reference to slaves and masters in the poem that would be titled "The Sleepers": "The call of the slave is one with the master's call . . and the master salutes the slave," (1855, p. 76).</p></note>
+            
+            <note type="work_relations" target="xxx.00526" cert="low"><p>These lines also may anticipate the following lines in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "Little or big, learned or unlearned, white or black, legal or illegal, sick or well, from the first inspiration down the windpipe to the last expiration out of it,
                 all that a male or female does that is vigorous and benevolent and clean is so much sure profit to him or her
                 in the unshakable order of the universe and through the whole scope of it forever.
-                If the savage or felon is wise it is well . . . . if the greatest poet or savan is wise it is simply the same . . if the President or chief justice is wise it is the same . . . if the young mechanic or farmer is wise it is no more or less . . if the prostitute is wise it is no more nor less" (1855, p. x).</p>
-            </work>
-          </relations>
+                If the savage or felon is wise it is well . . . . if the greatest poet or savan is wise it is simply the same . . if the President or chief justice is wise it is the same . . . if the young mechanic or farmer is wise it is no more or less . . if the prostitute is wise it is no more nor less" (1855, p. x).</p></note>
+          
             <delSpan spanTo="#d2" rend="hashmark"/>
             <lg type="linegroup" xml:id="tw21">
               <l xml:id="l01">I am the poet of slaves,<lb/>
@@ -1555,11 +1538,8 @@
   
             <pb facs="loc.00141.071.jpg" xml:id="leaf036r" type="recto"/>
             <lg type="linegroup" xml:id="tw23">
-              <note type="work_relations" target="" cert="">
-                <work ref="xxx.00048" cert="high">
-                  <p><ref xml:id="r25" type="text" target="#tw23 #tw24">This heavily edited passage</ref> shows Whitman thinking through the lines: "To any one dying . . . . thither I speed and twist the knob of the door, / Turn the bedclothes toward the foot of the bed, / Let the physician and the priest go home" through "And when you rise in the morning you will find what I tell you is so" from the poem that would be titled "Song of Myself" (1855, p. 45). Many lines are exactly the same.</p>
-                </work>
-              </relations>
+              <note type="work_relations" target="xxx.00048" cert="high"><p><ref xml:id="r25" type="text" target="#tw23 #tw24">This heavily edited passage</ref> shows Whitman thinking through the lines: "To any one dying . . . . thither I speed and twist the knob of the door, / Turn the bedclothes toward the foot of the bed, / Let the physician and the priest go home" through "And when you rise in the morning you will find what I tell you is so" from the poem that would be titled "Song of Myself" (1855, p. 45). Many lines are exactly the same.</p></note>
+              
               <l xml:id="l202">
                   <subst><del rend="overwrite" seq="1">I</del><add rend="overwrite" place="over" seq="2">I</add> 
                      
@@ -1706,14 +1686,10 @@
             <pb facs="loc.00141.073.jpg" xml:id="leaf037r" type="recto"/>
   
             <lg type="linegroup">
-              <note type="work_relations" target="" cert="">
-                <work ref="xxx.00266" cert="high">
-                  <p><ref target="#tw25 #tw26 #tw27" xml:id="r26" type="text">These lines</ref> are similar to the following lines in the poem that would eventually be titled "To Think of Time": "The difference between sin and goodness is no apparition; / The earth is not an echo . . . . man and his life and all the things of his life are well-considered" (1855, p. 67).</p>
-                </work>
-                <work ref="xxx.00048" cert="low">
-                  <p><ref target="#tw28" type="text" xml:id="r27">This line</ref> is similar to a line in the poem that would become "Song of Myself": "A word of reality . . . . materialism first and last imbueing" (1855, p. 28). <ref target="#tw29 #tw30" xml:id="r28" type="text">These lines</ref> also have words that appear in the following lines found in the poem: "I find I incorporate gneiss and coal and long-threaded moss and fruits and grains and esculent roots," and "In vain the plutonic rocks send their old heat against my approach" (1855, p. 34).</p>
-                </work>
-              </relations>
+              <note type="work_relations" target="xxx.00266" cert="high"><p><ref target="#tw25 #tw26 #tw27" xml:id="r26" type="text">These lines</ref> are similar to the following lines in the poem that would eventually be titled "To Think of Time": "The difference between sin and goodness is no apparition; / The earth is not an echo . . . . man and his life and all the things of his life are well-considered" (1855, p. 67).</p></note>
+               
+               <note type="work_relations" target="xxx.00048" cert="low"><p><ref target="#tw28" type="text" xml:id="r27">This line</ref> is similar to a line in the poem that would become "Song of Myself": "A word of reality . . . . materialism first and last imbueing" (1855, p. 28). <ref target="#tw29 #tw30" xml:id="r28" type="text">These lines</ref> also have words that appear in the following lines found in the poem: "I find I incorporate gneiss and coal and long-threaded moss and fruits and grains and esculent roots," and "In vain the plutonic rocks send their old heat against my approach" (1855, p. 34).</p></note>
+              
               <l xml:id="tw28">I am the poet of reality</l>
               <l xml:id="tw25"><subst>
                    <del rend="overstrike" seq="1">The</del>  
@@ -1840,17 +1816,13 @@ to
             
     <milestone unit="undeclared" rend="horbar-short-left"/></lg>
             <lg type="linegroup">
-              <note type="work_relations" target="" cert="">
-                <work ref="xxx.00048" cert="high">
-                  <p>This passage contains <ref target="#tw32" type="text" xml:id="r29">a line</ref> directly related to a line that appears in the poem that would be titled "Song of Myself": "Of fog in the air and beetles rolling balls of dung" (1855, p. 29). This passage also contains <ref target="#tw33 #tw34 #tw35 #tw36 #tw37 #tw38 #tw39" type="text" xml:id="r30">seven lines</ref> that are a near word-for-word draft of the lines from "Song of Myself" that begin, "I believe a leaf of grass is no less than the journey-work of the stars" (1855, p. 34).  <ref target="#tw40" type="text" xml:id="r31">Another line</ref> is a draft of the following line from the poem: "And mossy scabs of the wormfence, and heaped stones, and elder and mullen and pokeweed" (1855, p. 16). <ref target="#tw31" type="text" xml:id="r32">This line</ref> also is similar in structure and sentiment to what would become lines in sections 16 and 19 of "Song of Myself" (1891, p. 42–3).</p> 
-                </work>
-                <work ref="xxx.00526" cert="low">
-                  <p>These lines also may anticipate the following lines in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "Little or big, learned or unlearned, white or black, legal or illegal, sick or well, from the first inspiration down the windpipe to the last expiration out of it,
+              <note type="work_relations" target="xxx.00048" cert="high"><p>This passage contains <ref target="#tw32" type="text" xml:id="r29">a line</ref> directly related to a line that appears in the poem that would be titled "Song of Myself": "Of fog in the air and beetles rolling balls of dung" (1855, p. 29). This passage also contains <ref target="#tw33 #tw34 #tw35 #tw36 #tw37 #tw38 #tw39" type="text" xml:id="r30">seven lines</ref> that are a near word-for-word draft of the lines from "Song of Myself" that begin, "I believe a leaf of grass is no less than the journey-work of the stars" (1855, p. 34).  <ref target="#tw40" type="text" xml:id="r31">Another line</ref> is a draft of the following line from the poem: "And mossy scabs of the wormfence, and heaped stones, and elder and mullen and pokeweed" (1855, p. 16). <ref target="#tw31" type="text" xml:id="r32">This line</ref> also is similar in structure and sentiment to what would become lines in sections 16 and 19 of "Song of Myself" (1891, p. 42–3).</p></note> 
+              
+              <note type="work_relations" target="xxx.00526" cert="low"><p>These lines also may anticipate the following lines in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "Little or big, learned or unlearned, white or black, legal or illegal, sick or well, from the first inspiration down the windpipe to the last expiration out of it,
                     all that a male or female does that is vigorous and benevolent and clean is so much sure profit to him or her
                     in the unshakable order of the universe and through the whole scope of it forever.
-                    If the savage or felon is wise it is well . . . . if the greatest poet or savan is wise it is simply the same . . if the President or chief justice is wise it is the same . . . if the young mechanic or farmer is wise it is no more or less . . if the prostitute is wise it is no more nor less" (1855, p. x).</p>
-                </work>
-              </relations>
+                    If the savage or felon is wise it is well . . . . if the greatest poet or savan is wise it is simply the same . . if the President or chief justice is wise it is the same . . . if the young mechanic or farmer is wise it is no more or less . . if the prostitute is wise it is no more nor less" (1855, p. x).</p></note>
+              
               <l xml:id="tw31">I am <del rend="overstrike">the</del> for sinners and the<lb/>
                 unlearned</l>
             </lg>
@@ -2039,17 +2011,11 @@ to
           <ab><date when="1847">1847</date></ab>
         </div2>
         <div2 type="poetry">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00048" cert="high">
-              <p><ref target="#tw51 #tw52 #tw53 #tw54 #tw55 #tw56 #tw57" type="text" xml:id="r40">These seven pages of crossed-out lines</ref> contain thinking toward and lines from the poem that would be titled "Song of Myself," specifically the passage that begins: "To be in any form, what is that?" through "Landscapes projected masculine full-sized and golden" (1855, pp. 32–3).</p> 
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw51 #tw52 #tw53 #tw54 #tw55 #tw56 #tw57" type="text" xml:id="r40">These seven pages of crossed-out lines</ref> contain thinking toward and lines from the poem that would be titled "Song of Myself," specifically the passage that begins: "To be in any form, what is that?" through "Landscapes projected masculine full-sized and golden" (1855, pp. 32–3).</p></note> 
+          
           <lg type="linegroup">
-            <note type="work_relations" target="" cert="">
-              <work ref="xxx.00048" cert="high">
-                <p><ref target="#tw41" type="text" xml:id="r33">This line</ref> relates directly to a line in the poem that would become "Song of Myself": "And a mouse is miracle enough to stagger sextillions of infidels" (1855, p. 34). <ref target="#tw42 #tw43 #tw44" type="text" xml:id="r34">These lines</ref> relate to other lines in the poem: "The press of my foot to the earth springs a hundred affections, / They scorn the best I can do to relate them." (1855, p. 21).</p> 
-              </work>
-            </relations>
+            <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw41" type="text" xml:id="r33">This line</ref> relates directly to a line in the poem that would become "Song of Myself": "And a mouse is miracle enough to stagger sextillions of infidels" (1855, p. 34). <ref target="#tw42 #tw43 #tw44" type="text" xml:id="r34">These lines</ref> relate to other lines in the poem: "The press of my foot to the earth springs a hundred affections, / They scorn the best I can do to relate them." (1855, p. 21).</p></note> 
+            
             <head type="main-authorial" rend="underline">I am the poet of Equality.</head>
             
             <lg type="linegroup" xml:id="lg01">
@@ -2090,13 +2056,7 @@ to
           <pb facs="loc.00141.086.jpg" xml:id="leaf043v" type="verso"/>
   
           <lg type="linegroup" xml:id="tw45">
-            <note type="work_relations" target="" cert="">
-              <work ref="xxx.00048" cert="high">
-                <p><ref target="#tw45" type="text" xml:id="r35">These nine lines</ref> are a direct draft of six lines of the poem that would be titled "Song of Myself" that begin: "I dilate you with tremendous breath . . . . I buoy you up;" (1855, p. 45).</p> 
-              </work>
-              
-            </relations>
-            
+            <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw45" type="text" xml:id="r35">These nine lines</ref> are a direct draft of six lines of the poem that would be titled "Song of Myself" that begin: "I dilate you with tremendous breath . . . . I buoy you up;" (1855, p. 45).</p></note> 
             
             <del rend="overstrike">
               <l xml:id="l27">Buoyed with tremendous breath<lb/>
@@ -2145,11 +2105,8 @@ to
           
           
             <lg type="linegroup" xml:id="lg02">
-              <note type="work_relations" target="" cert="">
-                <work ref="xxx.00226" cert="low">
-                  <p><ref target="#l36 #l37" type="text">These lines</ref> are similar to the following, from the poem that would be titled "There Was a Child": "The horizon's edge, the flying seacrow, the fragrance of saltmarsh and shoremud" (1855, p. 91).</p>
-                </work>
-              </relations>
+              <note type="work_relations" target="xxx.00226" cert="low"><p><ref target="#l36 #l37" type="text">These lines</ref> are similar to the following, from the poem that would be titled "There Was a Child": "The horizon's edge, the flying seacrow, the fragrance of saltmarsh and shoremud" (1855, p. 91).</p></note>
+              
               <metamark function="transpose" place="left" target="#lg01">☞ X</metamark>
               <l xml:id="l36"><del rend="overstrike">And the odor</del> of the<lb/>
                 <del rend="overstrike">salt marsh is</del> <add rend="insertion" place="supralinear">delicious</add> <del rend="overstrike">perfume,</del><lb/>
@@ -2190,11 +2147,8 @@ to
           <pb facs="loc.00141.091.jpg" xml:id="leaf046r" type="recto"/>
   
           <lg type="linegroup" xml:id="tw46">
-            <note type="work_relations" target="" cert="">
-              <work ref="xxx.00048" cert="high">
-                <p><ref target="#tw46" type="text" xml:id="r36">These four lines</ref> are a nearly word-for-word draft of the lines "Has any one supposed it lucky to be born? / I hasten to inform him or her it is just as lucky to die, and I know it. / I pass death with the dying, and birth with the new-washed babe . . . . and am not contained between my hat and boots" from the poem that would be titled "Song of Myself" (1855, p. 17).</p> 
-              </work>
-            </relations>
+            <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw46" type="text" xml:id="r36">These four lines</ref> are a nearly word-for-word draft of the lines "Has any one supposed it lucky to be born? / I hasten to inform him or her it is just as lucky to die, and I know it. / I pass death with the dying, and birth with the new-washed babe . . . . and am not contained between my hat and boots" from the poem that would be titled "Song of Myself" (1855, p. 17).</p></note> 
+            
             <l xml:id="l39">
                 <subst>
                    <del rend="overstrike" seq="1">Do</del> 
@@ -2222,11 +2176,8 @@ to
             <pb facs="loc.00141.092.jpg" xml:id="leaf046v" type="verso"/>
 
             <lg type="linegroup">
-              <note type="work_relations" target="" cert="">
-                <work ref="xxx.00264" cert="low">
-                  <p>Some of the words in <ref target="#l43 #l44 #l45" type="text">these lines</ref> correspond to lines in the poem that would be titled "The Sleepers", including the line: "I WANDER all night in my vision, / Stepping with light feet . . . . swiftly and noiselessly stepping and stopping" (1855, p. 70).</p>
-                </work>
-              </relations>
+              <note type="work_relations" target="xxx.00264" cert="low"><p>Some of the words in <ref target="#l43 #l44 #l45" type="text">these lines</ref> correspond to lines in the poem that would be titled "The Sleepers", including the line: "I WANDER all night in my vision, / Stepping with light feet . . . . swiftly and noiselessly stepping and stopping" (1855, p. 70).</p></note>
+              
               <l>I am the poet of sin,</l>
               <l>For I do not believe in sin</l>
               <l xml:id="l43"><metamark function="paragraph" place="left">¶</metamark> In the silence <del rend="overstrike">of</del> and darkness</l>
@@ -2277,14 +2228,10 @@ to
             <pb facs="loc.00141.094.jpg" xml:id="leaf047v" type="verso"/>
   
             <lg type="linegroup">
-              <note type="work_relations" target="" cert="">
-                <work ref="xxx.00048" cert="high">
-                  <p><ref target="#tw47 #tw48 #tw49" type="text" xml:id="r37">These lines</ref> are a close draft of the lines that appear in the poem that would be titled "Song of Myself": "I am the poet of the woman the same as the man, / And I say it is as great to be a woman as to be a man" (1855, p. 26).</p> 
-                </work>
-                <work ref="xxx.00119" cert="high">
-                  <p><ref target="#tw48 #tw49" type="text" xml:id="r38">These lines</ref> are similar to the following lines from the poem that would be titled "A Song for Occupations": "The wife—and she is not one jot less than the husband, / The daughter—and she is just as good as the son, / The mother—and she is every bit as much as the father." (1855, p. 58).</p>
-                </work>
-              </relations>
+              <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw47 #tw48 #tw49" type="text" xml:id="r37">These lines</ref> are a close draft of the lines that appear in the poem that would be titled "Song of Myself": "I am the poet of the woman the same as the man, / And I say it is as great to be a woman as to be a man" (1855, p. 26).</p></note> 
+                
+                <note type="work_relations" target="xxx.00119" cert="high"><p><ref target="#tw48 #tw49" type="text" xml:id="r38">These lines</ref> are similar to the following lines from the poem that would be titled "A Song for Occupations": "The wife—and she is not one jot less than the husband, / The daughter—and she is just as good as the son, / The mother—and she is every bit as much as the father." (1855, p. 58).</p></note>
+              
               <l xml:id="tw47">I am the poet of women as well<lb/>
                 as men.
               </l>
@@ -2313,11 +2260,8 @@ to
             <pb facs="loc.00141.095.jpg" xml:id="leaf048r" type="recto"/>
   
             <lg type="linegroup" xml:id="tw50">
-              <note type="work_relations" target="" cert="">
-                <work ref="xxx.00048" cert="high">
-                  <p><ref target="#tw50" xml:id="r39" type="text">These lines</ref> are similar to the following lines in the poem that would be titled "Song of Myself": "You there, impotent, loose in the knees, open your scarfed chops till I blow grit within you, / Spread your palms and lift the flaps of your pockets, / I am not to be denied . . . . I compel . . . . I have stores plenty and to spare, / And any thing I have I bestow." (1855, p. 44).</p>
-                </work>
-              </relations>
+              <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw50" xml:id="r39" type="text">These lines</ref> are similar to the following lines in the poem that would be titled "Song of Myself": "You there, impotent, loose in the knees, open your scarfed chops till I blow grit within you, / Spread your palms and lift the flaps of your pockets, / I am not to be denied . . . . I compel . . . . I have stores plenty and to spare, / And any thing I have I bestow." (1855, p. 44).</p></note>
+              
               <head type="main">Strength</head>
               <l>Where is one abortive, mangy,<lb/>
                 cold<del rend="overstrike">?</del>
@@ -2772,11 +2716,8 @@ to
                 <pb facs="loc.00141.104.jpg" xml:id="leaf052v" type="verso"/>
   
                 <lg type="linegroup" xml:id="tw58">
-                  <note type="work_relations" target="" cert="">
-                    <work ref="xxx.00264" cert="high">
-                      <p><ref target="#tw58" xml:id="r41" type="text">This passage</ref> is similar to excluded material from the poem that would be titled "The Sleepers."  For further discussion, see Ed Folsom, "Walt Whitman's 'The Sleepers,'" <hi rend="italic">Classroom Electric</hi> (www.classroomelectric.org).</p>
-                    </work>
-                  </relations>
+                  <note type="work_relations" target="xxx.00264" cert="high"><p><ref target="#tw58" xml:id="r41" type="text">This passage</ref> is similar to excluded material from the poem that would be titled "The Sleepers."  For further discussion, see Ed Folsom, "Walt Whitman's 'The Sleepers,'" <hi rend="italic">Classroom Electric</hi> (www.classroomelectric.org).</p></note>
+                  
                   <l xml:id="l85">I am a Curse:</l>
                 <l>
                     <subst>
@@ -2849,13 +2790,10 @@ to
                 
                 
                   <lg type="linegroup" xml:id="tw60">
-                    <note type="work_relations" target="" cert=""><work ref="xxx.00048" cert="high">
-                      <p><ref target="#tw59" type="text" xml:id="r42">This line</ref> echoes the following line in the poem that would be titled "Song of Myself": "I lean and loafe at my ease . . . . observing a spear of summer grass." (1855, p. 13). <ref target="#tw60" xml:id="r43" type="text">This passage</ref> contains identifications with Christ similar to those found in the following three lines from the poem: "That I could forget the mockers and insults! / That I could forget the trickling tears and the blows of the bludgeons and hammers! / That I could look with a separate look on my own crucifixion and bloody crowning!" (1855, p. 43).</p>
-                    </work>
-                    <work ref="xxx.00264" cert="low">
-                      <p><ref type="text" target="#l91 #l92 #l93 #tw59">Several lines</ref> in this passage may relate to a line from the poem that would later be titled "The Sleepers": "A shroud I see—and I am the shroud . . . . I wrap a body and lie in the coffin" (1855, p. 72).</p>
-                    </work>
-                    </relations>
+                    <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw59" type="text" xml:id="r42">This line</ref> echoes the following line in the poem that would be titled "Song of Myself": "I lean and loafe at my ease . . . . observing a spear of summer grass." (1855, p. 13). <ref target="#tw60" xml:id="r43" type="text">This passage</ref> contains identifications with Christ similar to those found in the following three lines from the poem: "That I could forget the mockers and insults! / That I could forget the trickling tears and the blows of the bludgeons and hammers! / That I could look with a separate look on my own crucifixion and bloody crowning!" (1855, p. 43).</p></note>
+                    
+                    <note type="work_relations" target="xxx.00264" cert="low"><p><ref type="text" target="#l91 #l92 #l93 #tw59">Several lines</ref> in this passage may relate to a line from the poem that would later be titled "The Sleepers": "A shroud I see—and I am the shroud . . . . I wrap a body and lie in the coffin" (1855, p. 72).</p></note>
+                    
                     <metamark function="transpose" place="left" target="#lg03">+</metamark>
                     <span rend="bracketed" xml:id="s01" from="#s01" to="#a02"/>
                     <lg type="linegroup" xml:id="lg03">
@@ -2915,11 +2853,8 @@ to
           
   
               <lg type="linegroup">
-                <note type="work_relations" target="" cert="">
-                  <work ref="xxx.00119" cert="low">
-                    <p>The discussion of churches and books in this section is reminiscent of the end of the poem that would be titled "Song of Occupations."</p>
-                  </work>
-                </relations>
+                <note type="work_relations" target="xxx.00119" cert="low"><p>The discussion of churches and books in this section is reminiscent of the end of the poem that would be titled "Song of Occupations."</p></note>
+                
                 <l><del rend="overstrike">Nothing</del></l>
                 <l>Not all the traditions can<lb/>
                   put vitality in <del rend="overstrike">ch</del><lb/>
@@ -2949,11 +2884,8 @@ to
         <milestone unit="undeclared" rend="horbar-short-left"/>
 <!--Unclear whether the following is poetry or prose, but I have encoded it as poetry because of the indentations. It's possible WW was switching to prose here. -nhg, 5/1/15-->
           <lg type="linegroup">
-            <note type="work_relations" target="" cert="">
-              <work ref="xxx.00526" cert="low">
-                <p><ref target="#tw61" xml:id="r44" type="text">This passage</ref> has language and ideas similar to the 1855 preface to <hi rend="italic">Leaves of Grass</hi> (1855, p. vi).</p>
-              </work>
-            </relations>
+            <note type="work_relations" target="xxx.00526" cert="low"><p><ref target="#tw61" xml:id="r44" type="text">This passage</ref> has language and ideas similar to the 1855 preface to <hi rend="italic">Leaves of Grass</hi> (1855, p. vi).</p></note>
+            
             <l rend="all-left" xml:id="tw61">In other authors of the first class<lb/>
             there have been <choice><sic>celebraters</sic><corr>celebrators</corr></choice><lb/>
             of <note type="authorial" place="inline">?</note> <hi rend="circled">low life</hi> and characters<lb/>
@@ -2966,22 +2898,16 @@ to
         <pb facs="loc.00141.109.jpg" xml:id="leaf055r" type="recto"/>
   
         <div2 type="notes">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00048" cert="low">
-              <p><ref target="#tw62" xml:id="r45" type="text">This line</ref> bears a noteworthy resemblance to the following line from the poem that would be titled "Song of Myself": "I think I could turn and live awhile with animals . . . . they are so placid and self-contained" (1855, p. 34). <ref target="#tw63 #tw64" xml:id="r46" type="text">These lines</ref> may relate to the lines: "Houses and rooms are full of perfumes . . . . the shelves are crowded with perfumes, / I breathe the fragrance myself, and know it and like it, / The distillation would intoxicate me also, but I shall not let it." (1855, p. 13)</p> 
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00048" cert="low"><p><ref target="#tw62" xml:id="r45" type="text">This line</ref> bears a noteworthy resemblance to the following line from the poem that would be titled "Song of Myself": "I think I could turn and live awhile with animals . . . . they are so placid and self-contained" (1855, p. 34). <ref target="#tw63 #tw64" xml:id="r46" type="text">These lines</ref> may relate to the lines: "Houses and rooms are full of perfumes . . . . the shelves are crowded with perfumes, / I breathe the fragrance myself, and know it and like it, / The distillation would intoxicate me also, but I shall not let it." (1855, p. 13)</p></note> 
+          
           <ab xml:id="tw62">I follow (animals and birds.)</ab> 
           <ab xml:id="tw63"><hi rend="underline">Literature is full of</hi> <add rend="unmarked" place="infralinear">perfumes</add>
           </ab>
          
           <ab xml:id="tw64">(criticism on <hi rend="underline">Myself</hi>)</ab>
           <lg type="linegroup">
-            <note type="work_relations" target="" cert="">
-              <work ref="xxx.00119" cert="high">
-                <p><ref target="#tw65" xml:id="r47" type="text">This line</ref> is similar to the following line, which appeared in the poem that would be titled "A Song for Occupations" (although by the time the poem was titled that, in the 1881 edition of <hi rend="italic">Leaves of Grass</hi>, this line had been cut from it): "The snowstorm or rainstorm . . . . the tow-trowsers . . . . the lodge-hut in the woods, and the still-hunt: (1855, p. 62).</p>
-              </work>
-            </relations>
+            <note type="work_relations" target="xxx.00119" cert="high"><p><ref target="#tw65" xml:id="r47" type="text">This line</ref> is similar to the following line, which appeared in the poem that would be titled "A Song for Occupations" (although by the time the poem was titled that, in the 1881 edition of <hi rend="italic">Leaves of Grass</hi>, this line had been cut from it): "The snowstorm or rainstorm . . . . the tow-trowsers . . . . the lodge-hut in the woods, and the still-hunt: (1855, p. 62).</p></note>
+            
           <l xml:id="tw65">
               <add rend="unmarked" place="left">the</add>
               <del rend="overstrike">
@@ -2998,11 +2924,9 @@ to
         <pb facs="loc.00141.110.jpg" xml:id="leaf055v" type="verso"/>
   
         <div2 type="notes">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00111" cert="low">
-              <p>This passage anticipates Whitman's appreciation for "the open road" and seems to suggest his thinking toward "Song of the Open Road."</p> 
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00111" cert="low">
+              <p>This passage anticipates Whitman's appreciation for "the open road" and seems to suggest his thinking toward "Song of the Open Road."</p></note>
+          
           <delSpan spanTo="#d16" status="unremarkable" rend="hashmark"/>
           <ab>The highway <lb/>
           The road</ab>
@@ -3022,11 +2946,7 @@ to
         <div2 type="poetry">
           <delSpan spanTo="#d17" status="unremarkable" rend="hashmark"/>
           <lg type="linegroup" xml:id="tw66">
-            <note type="work_relations" target="" cert="">
-              <work ref="xxx.00048" cert="high">
-                <p><ref target="#tw66" xml:id="r48" type="text">These five lines</ref> appear in revised form in the poem "Song of Myself": "These are the thoughts of all men in all ages and lands, they are not original with me, / If they are not yours as much as mine they are nothing or next to nothing, / If they do not enclose everything they are next to nothing, / If they are not the riddle and the untying of the riddle they are nothing, / If they are not just as close as they are distant they are nothing." (1855, p. 24)</p> 
-              </work>
-            </relations>
+            <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw66" xml:id="r48" type="text">These five lines</ref> appear in revised form in the poem "Song of Myself": "These are the thoughts of all men in all ages and lands, they are not original with me, / If they are not yours as much as mine they are nothing or next to nothing, / If they do not enclose everything they are next to nothing, / If they are not the riddle and the untying of the riddle they are nothing, / If they are not just as close as they are distant they are nothing." (1855, p. 24)</p></note>
             
             <l xml:id="l99">These are the thoughts of all<lb/>
               men in all ages and<lb/>
@@ -3059,21 +2979,15 @@ to
         <pb facs="loc.00141.112.jpg" xml:id="leaf056v" type="verso"/>
   
         <div2 type="prose" xml:id="tw67">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00526" cert="low">
-              <p><ref target="#tw67" xml:id="r49" type="text">This passage</ref> has ideas and language similar to the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>, in which Whitman discusses "the final test of poems" (1855, p. xi).</p>
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00526" cert="low"><p><ref target="#tw67" xml:id="r49" type="text">This passage</ref> has ideas and language similar to the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>, in which Whitman discusses "the final test of poems" (1855, p. xi).</p></note>
+          
           <ab xml:id="ab04"><hi rend="underline">Test</hi> of a poem</ab>
           <ab>How far it can elevate, enlarge, <add rend="insertion" place="supralinear">purify</add> deepen, and make happy the <add rend="insertion" place="supralinear">attributes of the</add> body and soul of a man</ab>
         </div2>
         <milestone unit="undeclared" rend="horbar-full"/>
         <div2 type="prose">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00121" cert="high">
-              <p><ref target="#ab10a" xml:id="r50" type="text">This passage</ref> probably led to the following lines in the poem that would be titled "Great are the Myths": "Great is Justice;" through "They rule on the highest grounds . . . . they oversee all eras and states and administrations" (1855, p. 95). The poem went through many revisions through the different editions of <hi rend="italic">Leaves of Grass</hi>, then was permanently dropped in 1881–1882, except the two couplets that became the poem "Youth, Day, Old Age, and Night."</p>
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00121" cert="high"><p><ref target="#ab10a" xml:id="r50" type="text">This passage</ref> probably led to the following lines in the poem that would be titled "Great are the Myths": "Great is Justice;" through "They rule on the highest grounds . . . . they oversee all eras and states and administrations" (1855, p. 95). The poem went through many revisions through the different editions of <hi rend="italic">Leaves of Grass</hi>, then was permanently dropped in 1881–1882, except the two couplets that became the poem "Youth, Day, Old Age, and Night."</p></note>
+          
           <ab xml:id="ab02"><metamark function="transpose" place="inline" target="#ab02">*</metamark> the people of this state <del rend="overstrike">shal</del> instead of being ruled by the old complex laws, and the involved machinery of all governments hitherto, shall be ruled mainly by individual character and conviction.—The recognized character of the citizen shall be so pervaded by the best qualities of law and power that law and power shall be superseded from the government and transferred to the citizen</ab>
   
           <pb facs="loc.00141.113.jpg" xml:id="leaf057r" type="recto"/>
@@ -3114,11 +3028,8 @@ to
   
           <delSpan spanTo="#d19" status="unremarkable" rend="hashmark"/>
           <lg type="linegroup" xml:id="tw69">
-            <note type="work_relations" target="" cert="">
-              <work ref="xxx.00048" cert="high">
-                <p><ref target="#tw68" xml:id="r51" type="text">This line</ref> is similar to the following line in the poem that would be titled "Song of Myself": "This the common air that bathes the globe." (1855, p. 24).  <ref target="#tw68 #tw70" type="text" xml:id="r52">These lines</ref> are similar to the following lines in the poem: "This is the meal pleasantly set . . . . this is the meat and drink for natural hunger, / It is for the wicked just the same as the righteous . . . . I make appointments with all, / I will not have a single person slighted or left away, / The keptwoman and sponger and thief are hereby invited . . . . the heavy-lipped slave / is invited . . . . the venerealee is invited, / There shall be no difference between them and the rest." (1855, p. 25)</p> 
-              </work>
-            </relations>
+            <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw68" xml:id="r51" type="text">This line</ref> is similar to the following line in the poem that would be titled "Song of Myself": "This the common air that bathes the globe." (1855, p. 24).  <ref target="#tw68 #tw70" type="text" xml:id="r52">These lines</ref> are similar to the following lines in the poem: "This is the meal pleasantly set . . . . this is the meat and drink for natural hunger, / It is for the wicked just the same as the righteous . . . . I make appointments with all, / I will not have a single person slighted or left away, / The keptwoman and sponger and thief are hereby invited . . . . the heavy-lipped slave / is invited . . . . the venerealee is invited, / There shall be no difference between them and the rest." (1855, p. 25)</p></note> 
+            
             <l xml:id="tw68">This is the common air . . . .<lb/>
               it is for the heroes<lb/>
               and sages . . . . it is for<lb/>
@@ -3169,14 +3080,10 @@ to
         </div2>
         <milestone unit="undeclared" rend="horbar-full"/>
         <div2 type="prose">
-          <note type="work_relations" target="" cert="">
-            <work ref="xxx.00526" cert="low">
-              <p>The phrase "nation of nations" appearing in this passage is also used in the <date when="1855">1855</date> Preface to <hi rend="italic">Leaves of Grass</hi> (1855, p. iii).</p> 
-            </work>
-            <work ref="xxx.00052" cert="low">
-              <p><ref type="text" target="#ab15">This section</ref> seems to relate to the following lines from the poem that would be titled "I Sing the Body Electric": "For him the globe lay preparing quintillions of years without one animal or plant, / For him the revolving cycles truly and steadily rolled" (1855, p. 81).</p>
-            </work>
-          </relations>
+          <note type="work_relations" target="xxx.00526" cert="low"><p>The phrase "nation of nations" appearing in this passage is also used in the <date when="1855">1855</date> Preface to <hi rend="italic">Leaves of Grass</hi> (1855, p. iii).</p></note> 
+            
+            <note type="work_relations" target="xxx.00052" cert="low"><p><ref type="text" target="#ab15">This section</ref> seems to relate to the following lines from the poem that would be titled "I Sing the Body Electric": "For him the globe lay preparing quintillions of years without one animal or plant, / For him the revolving cycles truly and steadily rolled" (1855, p. 81).</p></note>
+          
           <ab xml:id="ab11">vast and tremendous is the scheme! It involves no less than constructing a <del rend="overstrike">state</del> nation of nations—a <del rend="overstrike">state whose integral</del> state whose grandeur and comprehensiveness of territory and people make the mightiest of the past almost insignificant—and</ab>
           <metamark function="transpose" place="bottom">(back *</metamark>
   
