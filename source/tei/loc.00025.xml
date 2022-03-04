@@ -130,11 +130,8 @@
 	<pb xml:id="leaf005r" facs="loc.00025.014.jpg" type="recto"/>
 	
 		<div2 type="section">
-			<relations>
-				<work ref="xxx.00264" cert="high">
-					<p><ref target="#nde01 #nde02" type="text" xml:id="r01">These segments</ref> are a version of the following lines that appeared in the poem that would be titled "The Sleepers": "Cache and cache again deep in the ground and sea, and where it is neither ground or sea. / Well do they do their jobs, those journeymen divine, / Only from me can they hide nothing and would not if they could; / I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p>
-				</work>
-			</relations>
+			<note type="work_relations" target="xxx.00264" cert="high"><p><ref target="#nde01 #nde02" type="text" xml:id="r01">These segments</ref> are a version of the following lines that appeared in the poem that would be titled "The Sleepers": "Cache and cache again deep in the ground and sea, and where it is neither ground or sea. / Well do they do their jobs, those journeymen divine, / Only from me can they hide nothing and would not if they could; / I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p></note>
+			
 			<delSpan rend="hashmark" spanTo="#d9"/>
 			<head type="main" rend="underline">The Poet</head>
 			<ab>
@@ -159,11 +156,8 @@
 	<pb xml:id="leaf006r" facs="loc.00025.016.jpg" type="recto"/>
 	
 	<div1 type="poem" xml:id="nde08">
-		<relations>
-			<work ref="xxx.00121" cert="high">
-				<p>The ideas and the language in <ref target="#nde08" xml:id="r06" type="text">these lines</ref> appeared, revised, in the following lines from the poem that would be titled "Great are the Myths": "Great is youth, and equally great is old age . . . . great are the day and night; / Great is wealth and great is poverty . . . . great is expression and great is silence. / Youth large lusty and loving . . . . youth full of grace and force and fascination, / Do you know that old age may come after you with equal grace and force and fascination? / Day fullblown and splendid . . . . day of the immense sun, and action and ambition and laughter, / The night follows close, with millions of suns, and sleep and restoring darkness. / Wealth with the flush hand and fine clothes and hospitality: / But then the soul's wealth—which is candor and knowledge and pride and enfolding love: / Who goes for men and women showing poverty richer than wealth?" (1855, pp. 93–4). The poem went through many revisions through the different editions of <hi rend="italic">Leaves of Grass</hi>, then was permanently dropped in 1881–1882, except the two couplets that became the poem "Youth, Day, Old Age, and Night."</p>
-			</work>
-		</relations>
+		<note type="work_relations" target="xxx.00121" cert="high"><p>The ideas and the language in <ref target="#nde08" xml:id="r06" type="text">these lines</ref> appeared, revised, in the following lines from the poem that would be titled "Great are the Myths": "Great is youth, and equally great is old age . . . . great are the day and night; / Great is wealth and great is poverty . . . . great is expression and great is silence. / Youth large lusty and loving . . . . youth full of grace and force and fascination, / Do you know that old age may come after you with equal grace and force and fascination? / Day fullblown and splendid . . . . day of the immense sun, and action and ambition and laughter, / The night follows close, with millions of suns, and sleep and restoring darkness. / Wealth with the flush hand and fine clothes and hospitality: / But then the soul's wealth—which is candor and knowledge and pride and enfolding love: / Who goes for men and women showing poverty richer than wealth?" (1855, pp. 93–4). The poem went through many revisions through the different editions of <hi rend="italic">Leaves of Grass</hi>, then was permanently dropped in 1881–1882, except the two couplets that became the poem "Youth, Day, Old Age, and Night."</p></note>
+		
 		<delSpan rend="hashmark" spanTo="#d4"/>	
 	<lg>
 		
@@ -231,11 +225,8 @@
 	<pb xml:id="leaf007r" facs="loc.00025.018.jpg" type="recto"/>
 	<div1 type="prose">
 	<div2 type="section">
-		<relations>
-			<work ref="xxx.00271" cert="high">
-				<p>Language and ideas from <ref target="#nde09 #nde10" xml:id="r07" type="text">these paragraphs</ref> appeared in the the following lines from the poem that would be titled "Faces": "This now is too lamentable a face for a man; / Some abject louse asking leave to be . . cringing for it, / Some milknosed maggot blessing what lets it wrig to its hole" (1855, p. 83).</p>
-			</work>
-		</relations>
+		<note type="work_relations" target="xxx.00271" cert="high"><p>Language and ideas from <ref target="#nde09 #nde10" xml:id="r07" type="text">these paragraphs</ref> appeared in the the following lines from the poem that would be titled "Faces": "This now is too lamentable a face for a man; / Some abject louse asking leave to be . . cringing for it, / Some milknosed maggot blessing what lets it wrig to its hole" (1855, p. 83).</p></note>
+		
 		<delSpan rend="hashmark" spanTo="#d5"/>
 
 		<p xml:id="nde09">Why what is this curious little <subst><del rend="overstrike" seq="1">thing</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">creature</add></del> <add rend="unmarked" place="supralinear" seq="4">thing</add></subst> <del rend="overstrike">you</del> <subst><del rend="overstrike" seq="1">pr</del> <add rend="unmarked" place="supralinear" seq="2">you</add></subst> <subst><del rend="overstrike" seq="1">out</del> <add rend="unmarked" place="supralinear" seq="2">hold</add></subst> before us?—<del rend="overstrike">We read in the advertisements of your new <del rend="overstrike">and</del> edition of <subst><del rend="overstrike" seq="1">our</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> race, enlarged and improved.</del> Do you call <subst><del rend="overstrike" seq="1">this</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">such as this</add></del> <add rend="unmarked" place="supralinear" seq="4">such an</add></subst> <subst><del rend="overstrike" seq="1">abject</del> <add rend="unmarked" place="infralinear" seq="2">wretched</add></subst> <subst><del rend="overstrike" seq="1">thing</del> <add rend="unmarked" place="supralinear" seq="2">creature as you have pictured here</add></subst> a man?—<subst><add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">A</del> <subst><del rend="overwrite" seq="1">m</del><add rend="overwrite" place="over" seq="2">M</add></subst>an is the President of the earth.</add> <del rend="overstrike" seq="1">Why</del></subst> <subst><del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">T</add></subst>his is no man <add rend="insertion" place="supralinear"><del rend="overstrike">Man is <unclear reason="illegible" cert="medium" resp="#kc">a</unclear> master of</del> the President of the <del rend="overstrike"><add rend="insertion" place="supralinear">whole</add></del> earth.</add>.—This is <subst><del rend="overstrike" seq="1">some</del> <add rend="insertion" place="supralinear" seq="2">the abject</add></subst> louse—<subst><del rend="overstrike" seq="1">some</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> milk-faced maggot</p>
@@ -254,17 +245,12 @@
 
 	<pb xml:id="leaf008v" facs="loc.00025.023.jpg" type="verso"/>
 <div2 type="section">
-	<relations>
-		<work ref="xxx.00266" cert="low">
-			<p><ref target="#nde11" xml:id="r08" type="text">This passage</ref> includes language and ideas similar to those that appeared in the section from the poem that would be titled "To Think of Time" beginning: "Posh and ice in the river . . . . half-frozen mud in the streets" (1855, p. 66).</p>
-		</work>
-		<work ref="xxx.00526" cert="low">
-			<p><ref target="ab06" type="text">This passage</ref> is similar to the following, from the preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "In war he is the most deadly force of the war. Who recruits him recruits horse and foot . . . he fetches parks of artillery the best that engineer ever knew" (1855, p. v).</p>
-		</work>
-		<work ref="xxx.00048" cert="low">
-			<p><ref target="ab07" type="text">This phrase</ref> is similar to the following, from the poem that would be titled "Song of Myself": "I chant a new chant of dilation or pride, / We have had ducking and deprecating about enough, / I show that size is only developement" (1855, p. 26).</p>
-		</work>
-	</relations>
+	<note type="work_relations" target="xxx.00266" cert="low"><p><ref target="#nde11" xml:id="r08" type="text">This passage</ref> includes language and ideas similar to those that appeared in the section from the poem that would be titled "To Think of Time" beginning: "Posh and ice in the river . . . . half-frozen mud in the streets" (1855, p. 66).</p></note>
+		
+		<note type="work_relations" cert="low"><p><ref target="ab06" type="text">This passage</ref> is similar to the following, from the preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "In war he is the most deadly force of the war. Who recruits him recruits horse and foot . . . he fetches parks of artillery the best that engineer ever knew" (1855, p. v).</p></note>
+		
+		<note type="work_relations" target="xxx.00048" cert="low"><p><ref target="ab07" type="text">This phrase</ref> is similar to the following, from the poem that would be titled "Song of Myself": "I chant a new chant of dilation or pride, / We have had ducking and deprecating about enough, / I show that size is only developement" (1855, p. 26).</p></note>
+	
 		<ab>No piety that macerates and flogs itself, and refuses women and laughter and a <del rend="overstrike">rich florid</del> long, strong florid life, <del rend="overstrike">is equal</del> begins to be piety in comparison with that which
 			<milestone unit="undeclared" rend="horbar-full"/></ab>
 
@@ -338,11 +324,8 @@
 
 	<pb xml:id="leaf013v" facs="loc.00025.033.jpg" type="verso"/>
 		<div2 type="section">
-			<relations>
-				<work ref="xxx.00264" cert="high">
-					<p><ref target="#nde03 #nde04" type="text" xml:id="r02">These segments</ref> are a version of the following lines that appeared in the poem that would be titled "The Sleepers": "Cache and cache again deep in the ground and sea, and where it is neither ground or sea. / Well do they do their jobs, those journeymen divine, / Only from me can they hide nothing and would not if they could; / I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p>
-				</work>
-			</relations>
+			<note type="work_relations" target="xxx.00264" cert="high"><p><ref target="#nde03 #nde04" type="text" xml:id="r02">These segments</ref> are a version of the following lines that appeared in the poem that would be titled "The Sleepers": "Cache and cache again deep in the ground and sea, and where it is neither ground or sea. / Well do they do their jobs, those journeymen divine, / Only from me can they hide nothing and would not if they could; / I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p></note>
+			
 			<delSpan rend="hashmark" spanTo="#d8"/>
 		<p xml:id="nde03"><seg xml:id="seg09">I think ten million supple-<subst><del rend="overstrike" seq="1">fingered</del> <add rend="unmarked" place="supralinear" seq="2">wristed</add></subst> gods are <subst><del rend="overstrike" seq="1">perpetually employed</del> <add rend="unmarked" place="supralinear" seq="2">always</add></subst> hiding beauty in the world—burying it every where <del rend="overstrike">in</del> every thing—and most of all in spots that men and women do not think of and never look—as Death and Poverty and Wickedness.</seg>—<seg xml:id="seg10">Cache! and Cache again! all over the earth, and in the heavens that swathe the earth, and in the waters of the sea.</seg>—<seg xml:id="seg11">They do their jobs well; those journeymen divine.</seg> <seg xml:id="seg12">Only from the Poet they can hide nothing and would not if they could.</seg>—<seg xml:id="seg13">I reckon he is Boss of those gods; and the work they do is done for him; and all they have concealed, they have concealed for his sake.—Him they attend indoors and outdoors.</seg>—<seg xml:id="seg14">They run ahead when he walks, and lift their cunning covers and signify him with pointed stretched arms.</seg></p>
 		
