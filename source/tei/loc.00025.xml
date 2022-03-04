@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.00025">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
+<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.00025">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -14,6 +17,7 @@
 					<persName xml:id="nhg">Nicole Gray</persName>
 					<persName xml:id="kmp">Kenneth M. Price</persName>
 					<persName xml:id="bb">Brett Barney</persName>
+					<persName xml:id="km">Kevin McMullen</persName>
 				</respStmt>
 				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
 				<sponsor>University of Iowa</sponsor>
@@ -59,6 +63,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<revisionDesc>
+			<change when="2022-03-03" who="#km">updated relations encoding</change>
 			<change when="2019-11-19" who="#nhg">revised date note</change>
 			<change when="2017-10-24" who="#nhg">added inline relations information</change>
 			<change when="2016-12-13" who="#nhg">corrected</change>
@@ -81,14 +86,10 @@
 		<pb xml:id="leaf002r" facs="loc.00025.003.jpg" type="recto"/>
 		 
 			<div2 type="section" xml:id="nde05">
-				<relations>
-					<work ref="xxx.00111" cert="high">
-						<p><ref target="#nde05" xml:id="r03" type="text">This section</ref> appeared, with some revisions, in the 1856 edition of <hi rend="italic">Leaves of Grass</hi>, in the poem that would be titled "Song of the Open Road": "Here is the efflux of the soul, / The efflux of the soul comes through beautiful / gates of laws, provoking questions, / These yearnings, why are they? these thoughts / in the darkness, why are they? / Why are there men and women that while they are nigh me the sun-light expands my blood? / Why when they leave me do my pennants of joy sink flat and lank? / Why are there trees I never walk under but large and melodious thoughts descend upon me? / (I think they hang there winter and summer on those trees, and always drop fruit as I pass;) / What is it I interchange so suddenly with strangers? / What with some driver as I ride on the seat by his side? / What with some fisherman, drawing his seine by the shore, as I walk by and pause? / What gives me to be free to a woman's or man's good-will? What gives them to be free to mine? / The efflux of the soul is happiness—here is happiness, / I think it pervades the air, waiting at all times, / Now it flows into us—we are rightly charged" (1856, pp. 229–30).</p>
-					</work>
-					<work ref="xxx.00264" cert="low">
-						<p>The phrase "pennants of my joy" from <ref target="#seg01" type="text">this section</ref> is similar to language used in the following lines of the poem that would be titled "The Sleepers": "I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p>
-					</work>
-				</relations>
+				<note type="work_relations" target="xxx.00111" cert="high"><p><ref target="#nde05" xml:id="r03" type="text">This section</ref> appeared, with some revisions, in the 1856 edition of <hi rend="italic">Leaves of Grass</hi>, in the poem that would be titled "Song of the Open Road": "Here is the efflux of the soul, / The efflux of the soul comes through beautiful / gates of laws, provoking questions, / These yearnings, why are they? these thoughts / in the darkness, why are they? / Why are there men and women that while they are nigh me the sun-light expands my blood? / Why when they leave me do my pennants of joy sink flat and lank? / Why are there trees I never walk under but large and melodious thoughts descend upon me? / (I think they hang there winter and summer on those trees, and always drop fruit as I pass;) / What is it I interchange so suddenly with strangers? / What with some driver as I ride on the seat by his side? / What with some fisherman, drawing his seine by the shore, as I walk by and pause? / What gives me to be free to a woman's or man's good-will? What gives them to be free to mine? / The efflux of the soul is happiness—here is happiness, / I think it pervades the air, waiting at all times, / Now it flows into us—we are rightly charged" (1856, pp. 229–30).</p></note>
+				
+				<note type="work_relations" target="xxx.00264" cert="low"><p>The phrase "pennants of my joy" from <ref target="#seg01" type="text">this section</ref> is similar to language used in the following lines of the poem that would be titled "The Sleepers": "I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p></note>
+				
 				<ab>No doubt the efflux of the soul <subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#nhg">is</unclear></del> <add rend="unmarked" place="supralinear" seq="2">comes</add></subst> through beautiful <add rend="insertion" place="supralinear">gates of</add> laws that <del rend="overstrike">we may</del> at some future period <add rend="insertion" place="supralinear">perhaps a few score millions of years, we may</add> understand better.—At present, its <add rend="insertion" place="supralinear">tide</add> is what <subst><del rend="overstrike" seq="1">we</del> <add rend="unmarked" place="supralinear" seq="2">folks</add></subst> call capricious, and cannot well be traced <add rend="unmarked" place="supralinear">* ( )</add>.—Why as I just <del rend="overstrike">catch a</del> look <add rend="insertion" place="supralinear">in the railroad car</add> at some <subst><del rend="overstrike" seq="1">workman's</del> <add rend="unmarked" place="supralinear" seq="2">half turned</add></subst> face, do I love that <subst><del rend="overstrike" seq="1">being,</del> <add rend="unmarked" place="supralinear" seq="2">woman?</add></subst> <subst><del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">T</add></subst>hough<del rend="overstrike">tless</del> <del rend="overstrike">that</del> she is neither young nor <subst><del rend="overstrike" seq="1">beautiful?</del> <add rend="unmarked" place="supralinear" seq="2">fair <subst><del rend="overstrike" seq="1">featured</del> <add rend="unmarked" place="supralinear" seq="2">complexioned<subst><del rend="overwrite" seq="1">?</del><add rend="overwrite" place="over" seq="2">,—</add></subst></add></subst></add></subst>—<subst><del rend="overstrike" seq="1">she</del> <add rend="unmarked" place="supralinear" seq="2"><gap reason="illegible" atLeast="1" unit="chars"/></add></subst> remains in my memory afterward for a year, and I calm myself to sleep at night by thinking of her.—Why <subst><del rend="overstrike" seq="1">are</del> <add rend="unmarked" place="supralinear" seq="2">be</add></subst> there men I meet, and <subst><del rend="overstrike" seq="1">many</del> <add rend="unmarked" place="supralinear" seq="2">others</add></subst> I know, that <subst><del rend="overstrike" seq="1">when</del> <add rend="unmarked" place="supralinear" seq="2">while</add></subst> they are with me, the sunlight of Paradise
 		
 		<pb xml:id="leaf002v" facs="loc.00025.004.jpg" type="verso"/>
@@ -105,11 +106,8 @@
 		
 		<pb xml:id="leaf004r" facs="loc.00025.009.jpg" type="recto"/>
 			<div2 type="section">
-				<relations>
-					<work ref="xxx.00048" cert="high">
-						<p><ref target="#nde06" xml:id="r04" type="text">This phrase</ref> appared in the poem that would be titled "Song of Myself": "Or while I swim in the bath . . . . or drink from the pump at the corner . . . . or the curtain is down at the opera . . . . or I glimpse at a woman's face in the railroad car; / Lighting on every moment of my life, / Bussing my body with soft and balsamic busses, / Noiselessly passing handfuls out of their hearts and giving them to be mine" (1855, p. 50).</p>
-					</work>
-				</relations>
+				<note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#nde06" xml:id="r04" type="text">This phrase</ref> appared in the poem that would be titled "Song of Myself": "Or while I swim in the bath . . . . or drink from the pump at the corner . . . . or the curtain is down at the opera . . . . or I glimpse at a woman's face in the railroad car; / Lighting on every moment of my life, / Bussing my body with soft and balsamic busses, / Noiselessly passing handfuls out of their hearts and giving them to be mine" (1855, p. 50).</p></note>
+				
 			<delSpan rend="hashmark" spanTo="#d1"/>
 				<p><seg xml:id="nde06">
 				<subst><add rend="insertion" place="supralinear" seq="1">While the curtain is down at the opera <add rend="insertion" place="supralinear" seq="2">while I swim in the bath</add> while I wait for my friend at the corner, while I <del rend="overstrike" seq="3"><del rend="overstrike"><gap reason="illegible" unit="word" quantity="1"/></del> swim in the bath,</del></add></subst></seg> I behold <subst><add rend="insertion" place="supralinear" seq="1">and am beheld by people</add> <del rend="overstrike" seq="2">men and women</del></subst>; I speak little or nothing; I <del rend="overstrike">offer</del> make no gifts to them; I do not <add rend="insertion" place="supralinear">so much as</add> turn my neck or pat my <subst><del rend="overstrike" seq="1">boot in their behalf</del> <add rend="insertion" place="supralinear" seq="2">instep to gain <unclear reason="illegible" resp="#nhg" cert="medium">any</unclear> <del rend="overstrike" seq="3"><unclear reason="illegible" resp="#kmp" cert="medium">thing</unclear> from them;</del> <add rend="unmarked" place="supralinear" seq="4">of their <unclear reason="illegible" cert="low" resp="#nhg">favor</unclear>;</add></add></subst> we never met <subst><del rend="overstrike" seq="1">nor</del> <add rend="unmarked" place="supralinear" seq="2">before,—never</add></subst> heard <del rend="overstrike">of or</del> shall <subst><add rend="insertion" place="supralinear" seq="1">hear</add> <del rend="overstrike" seq="2">eachs other before</del> <add rend="unmarked" place="supralinear" seq="3"><del rend="overstrike" seq="4">each's</del> names.—nor dates nor employments.—</add></subst>With all this, some god <add rend="insertion" place="supralinear">walks in</add> noiseless and resistless, <del rend="overstrike">takes</del> and takes their hearts out of their breasts, and gives them to me for ever.—Often I <subst><del rend="overstrike" seq="1">see it, and get</del> <add rend="unmarked" place="supralinear" seq="2">catch</add></subst> the <subst><del rend="overstrike" seq="1">hint</del> <add rend="unmarked" place="supralinear" seq="2">sign;</add></subst> and oftener, no doubt, it <subst><del rend="overstrike" seq="1">goes</del> <add rend="insertion" place="supralinear" seq="2">flies <subst><del rend="overstrike" seq="1">over</del> <add rend="unmarked" place="supralinear" seq="2">by</add></subst> me</add> <del rend="overstrike" seq="1">over</del></subst> as unknown as my neighbor's dreams.—</p>
@@ -118,11 +116,8 @@
 
 	<pb xml:id="leaf004v" facs="loc.00025.011.jpg" type="verso"/>
 <div2 type="section" xml:id="nde07">
-	<relations>
-		<work ref="xxx.00264" cert="high">
-			<p><ref target="#nde07" type="text" xml:id="r05">Phrases from this section</ref> are similar to language used in the following lines of the poem that would be titled "The Sleepers": "I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p>
-		</work>
-	</relations>
+	<note type="work_relations" target="xxx.00264" cert="high"><p><ref target="#nde07" type="text" xml:id="r05">Phrases from this section</ref> are similar to language used in the following lines of the poem that would be titled "The Sleepers": "I reckon I am their boss, and they make me a pet besides, / And surround me, and lead me and run ahead when I walk, / And lift their cunning covers and signify me with stretched arms, and resume the way; / Onward we move, a gay gang of blackguards with mirthshouting music and wild-flapping pennants of joy" (1855, p. 71).</p></note>
+	
 		<delSpan rend="hashmark" spanTo="#d2"/>
 		<ab>and bring her naked to his bed, that <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">they <del rend="overstrike" seq="3">together</del></add></subst> may sleep<del rend="overstrike">,</del> <subst><add rend="insertion" place="supralinear" seq="2">together</add> <del rend="overstrike" seq="1">with her—</del></subst>; and she shall come again whenever he will, and the taste shall <del rend="overstrike">always</del> be sweeter and sweeter always)</ab> 
 			<ab xml:id="ab03">President <subst><del rend="overstrike" seq="1">Lo</del> <add rend="insertion" place="supralinear" seq="2"><add place="inline" rend="unmarked">Their</add> <del rend="overstrike">Their</del> <del rend="overstrike">Rules</del> and their Pets!</add></subst> I see them lead him <del rend="overstrike">onward</del> now.—I see <del rend="overstrike">the</del> his large slow gait, his face <add rend="insertion" place="supralinear">illuminated <del rend="overstrike">and gay</del></add> like the face of a <subst><del rend="overstrike" seq="1">happy</del> <add rend="unmarked" place="supralinear" seq="2">young</add></subst> child.—<del rend="overstrike">I see him shooting the light of his soul</del></ab>
