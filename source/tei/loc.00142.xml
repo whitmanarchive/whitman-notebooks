@@ -133,11 +133,11 @@ which is the great law whence spring the <add rend="insertion" place="supralinea
     
     <delSpan rend="hashmark" spanTo="#d2"/>
 <div2 type="prose">
-          <relations>
-            <work ref="xxx.00048" cert="low">
+        
+            <note type="work_relations" target="xxx.00048" cert="low">
               <p>These notes probably represent an early phrasing of the idea expressed in the following couplet from the 1855 poem later titled "Song of Myself": "On women fit for conception I start bigger and nimbler babes, / This day I am jetting the stuff of far more arrogant republics" (1855, p. 45).</p>
-            </work>
-          </relations>
+            </note>
+          
     <delSpan type="hashmark" spanTo="#d2"/>
 <head rend="underline">Of the Poet.</head>
     <p xml:id="p01">From each word, as from a womb, spring <del rend="overstrike">twenty</del> babes that shall grow <add rend="insertion" place="supralinear">to giants</add> and beget <del rend="overstrike">a larger and more</del> surperb<add rend="unmarked" place="inline">er</add> breed<add place="inline" rend="unmarked">s</add> upon the earth.</p></div2>
@@ -170,11 +170,11 @@ which is the great law whence spring the <add rend="insertion" place="supralinea
 
 <pb xml:id="leaf007v" facs="loc.00142.014.jpg" type="verso"/>
 <div2 type="prose">   
-          <relations>
-            <work ref="xxx.00048" cert="high">
+        
+            <note type="work_relations" target="xxx.00048" cert="high">
               <p>This set of draft material is related to lines that appeared in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Song of Myself" (see 1855, p. 32).</p>
-            </work>
-          </relations>
+            </note>
+          
     <delSpan rend="hashmark" spanTo="#d3"/>
         <anchor xml:id="tr02"/><p><seg xml:id="seg01"><metamark function="transpose" target="#tr04">*</metamark>shall uncage in my breast a thousand <del rend="overstrike"><gap reason="illegible" quantity="3" unit="chars" extent="three letters"/></del> 
 <add rend="insertion" place="supralinear">
@@ -239,22 +239,22 @@ which is the great law whence spring the <add rend="insertion" place="supralinea
 <anchor xml:id="d08"/>
 
 <div2 type="prose">
-          <relations>
-            <work ref="xxx.00048" cert="low">
+         
+            <note type="work_relations" target="xxx.00048" cert="low">
               <p>This short passage is possibly related to the following line in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Song of Myself": "Oxen that rattle the yoke or halt in the shade, what is that you express in your eyes?" (1855, p. 20)</p>
-            </work>
-          </relations>
+            </note>
+          
 <p xml:id="p07">The ox is too <subst><del rend="overwrite" seq="1">d</del><add rend="overwrite" place="over" seq="2">t</add></subst>ired—he rests standing</p></div2> 
 
 <div2 type="prose">
-          <relations>
-            <work ref="xxx.00119" cert="low">
+         
+            <note type="work_relations" target="xxx.00119" cert="low">
               <p>This note is related to the following passage from the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, eventually titled "A Song for Occupations": "Have you reckoned the landscape took substance and form that it might be painted in a picture? / [. . .] Or the attraction of gravity and the great laws and harmonious combinations and the fluids of the air as subjects for the savans?" (1855, p. 60)</p>
-            </work>
-              <work ref="xxx.00121" cert="low">
+            </note>
+              <note type="work_relations" target="xxx.00121" cert="low">
                   <p>This note may also be related to a line in the sixth untitled poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Great are the Myths" and eventually excerpted as "Youth, Day, Old Age, and Night": "It cannot be varied by statutes any more than love or pride or the attraction of gravity can" (1855, p. 95).</p>
-              </work>
-          </relations>
+              </note>
+          
 <p xml:id="p08">The attraction of gravity is the law under which you make your house plumb but that's not what the law is specially made for</p></div2>
 
 <pb xml:id="leaf010v" facs="loc.00142.020.jpg" type="verso"/>
@@ -277,11 +277,10 @@ which is the great law whence spring the <add rend="insertion" place="supralinea
 <div2 type="prose"><p>delicious as the kisses of God.—</p></div2>
 
 <div2 type="prose">
-    <relations>
-        <work ref="xxx.00048" cert="high">
+        <note type="work_relations" target="xxx.00048" cert="high">
             <p>This passage likely relates to the following lines, from the poem that would be titled "Song of Myself": "I open my scuttle at night and see the far-sprinkled systems, / And all I see, multiplied as high as I can cipher, edge but the rim of the farther systems" (1855, p. 51).</p>
-        </work>
-    </relations>
+        </note>
+    
     <p xml:id="tr06">All the <del rend="overstrike"><add rend="insertion" place="supralinear">computation</add></del> vastness of Astronomy—and space—systems of suns+++ <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="about one letter"/></del> carried <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="about one letter"/></del> in to <add rend="insertion" place="supralinear">their</add> computation to the <del rend="overstrike">very bound</del> farthest that figures <del rend="overstrike">will</del> are able or that the broadest ? <add rend="unmarked" place="supralinear">mathematical</add> faculty can hold—and then multiplied in <add rend="unmarked" place="supralinear">geometrical</add> progression ten thousand million fold <metamark function="transposition" target="#tr06" rend="circled">back</metamark></p></div2>
 
 <pb xml:id="leaf013r" facs="loc.00142.025.jpg" type="recto" n="25"/>
