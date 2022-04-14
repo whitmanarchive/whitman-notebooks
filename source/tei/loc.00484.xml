@@ -80,12 +80,12 @@
 <note type="editorial" place="inline" resp="#unk">Hospital Note Book Walt Whitman</note>
 <pb xml:id="leaf001v" facs="loc.00484.002.jpg" type="verso"/>
 <div2 type="section">
-<relations>
-<work ref="xxx.00188" cert="high">
+ 
+<note type="work_relations" target="xxx.00188" cert="high">
 <p>This <ref type="text" xml:id="r01" target="#q01">prose narrative (probably describing the battle of White Oak Swamp)</ref> is the basis for the poem "A March in the Ranks Hard-Prest, and the Road Unknown," which first appeared in <hi rend="italic">Drum-Taps</hi>(<date when="1865">1865</date>). <ref type="work" xml:id="r02" target="http://www.whitmanarchive.org/works/xxx.00188"/>
 </p>
-</work>
-</relations>
+</note>
+ 
 <pb xml:id="leaf002r" facs="loc.00484.003.jpg" type="recto"/>
 <milestone unit="undeclared" rend="horbar-full"/>
 <ab>scene in the woods on the peninsula—told me by Milton Roberts, ward G (Maine)</ab>

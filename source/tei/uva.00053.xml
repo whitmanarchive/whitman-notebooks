@@ -171,11 +171,11 @@
 <pb xml:id="leaf008r" facs="uva.00053.015.jpg" type="recto"/>
 
 <div1 type="section">
-<relations>
-<work ref="xxx.00186" cert="low">
+ 
+<note type="work_relations" target="xxx.00186" cert="low">
 <p>The <ref type="text" xml:id="r01" target="#q01">letters that Whitman mentions writing for Ohio soldiers</ref> may have served as the basis for "Come Up From the Fields Father," which first appeared in <hi rend="italic">Drum-Taps</hi> (<date when="1865">1865</date>). <ref type="work" xml:id="r02" target="http://www.whitmanarchive.org/works/xxx.00186.xml"/></p>
-</work>
-</relations>
+</note>
+ 
 
 <dateline><date when="1863-05-10">Sunday May 10th—'63</date></dateline>
 <dateline><date when="1863-05-10">Sunday May 10th</date></dateline> 

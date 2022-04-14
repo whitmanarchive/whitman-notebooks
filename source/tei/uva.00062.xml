@@ -158,13 +158,13 @@ good, hearty young men</ab>
 <pb xml:id="leaf009r" facs="uva.00062.012.jpg" type="recto"/>
 
 <div1 type="poem_notes">
-<relations>
-<work ref="xxx.00175" cert="low">
+ 
+<note type="work_relations" target="xxx.00175" cert="low">
 <p>
 <ref type="text" xml:id="r01" target="#q01">These poem notes</ref> may relate to <ref type="work" xml:id="r2" target="#http://www.whitmanarchive.org/works/xxx.00175">"Beat! Beat! Drums!"</ref> which first appeared in <hi rend="italic">Drum-Taps</hi> <date when="1865">(1865)</date>.<!-- [1865: "Beat! Beat! Drums!"(<hi rend="italic">Drum-Taps</hi>). 1867: (early copies of this edition include unbound copies of <hi rend="italic">Drum-Taps</hi>). 1871: "Beat! Beat! Drums!" ("Drum-Taps" cluster).]-->
 </p>
-</work>
-</relations>
+</note>
+ 
 
 
 

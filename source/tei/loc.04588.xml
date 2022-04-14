@@ -134,9 +134,9 @@
             
             <pb xml:id="leaf004v" facs="loc_ej.00080_large.jpg" type="verso"/>
             <div1 type="section" xml:id="sm01">
-                <relations>
-                    <work ref="xxx.00511" cert="low"><p><ref target="#sm01" xml:id="r01" type="text">Part of this notebook</ref> outlines a piece of early fiction. The name of one character, "Mr. Covert," appears in Whitman's story <ref target="per.00340">"Revenge and Requital; A Tale of a Murderer Escaped,"</ref> first published in the <hi rend="italic">United States Magazine and Democratic Review</hi> in 1845. The piece would be revised and/or reprinted several times in various publications before ultimately appearing as "One Wicked Impulse!" in <hi rend="italic">Specimen Days</hi> (1882–83).</p></work>
-                </relations>
+                 
+                    <note type="work_relations" target="xxx.00511" cert="low"><p><ref target="#sm01" xml:id="r01" type="text">Part of this notebook</ref> outlines a piece of early fiction. The name of one character, "Mr. Covert," appears in Whitman's story <ref target="per.00340">"Revenge and Requital; A Tale of a Murderer Escaped,"</ref> first published in the <hi rend="italic">United States Magazine and Democratic Review</hi> in 1845. The piece would be revised and/or reprinted several times in various publications before ultimately appearing as "One Wicked Impulse!" in <hi rend="italic">Specimen Days</hi> (1882–83).</p></note>
+                 
             <ab><handShift rend="manuscript"/>Introduce Jack's friends—two or three—</ab>
             
             <milestone unit="undeclared" rend="horbar-short-center"/>
