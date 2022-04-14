@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.00483">
-   <relations>
-      <work ref="xxx.00526" cert="low">
-         <p>Some of Whitman's language about the poet and religion in this notebook is similar to the language and ideas used in the preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi>.</p>
-      </work>
-   </relations>
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -51,6 +46,10 @@
             <note type="project" target="#leaf010v">Content from leaf 10 verso was revised and used in the poem eventually titled "The Sleepers," which first
                appeared as the fourth poem in that edition. The same passage likely also relates to lines in the 1855 poem eventually titled "Song of Myself."</note>
             <note type="project" target="#leaf013r">Content from leaf 13 recto may relate to other sections of the poem eventually titled "Song of Myself."</note>
+               <note type="work_relations" target="xxx.00526" cert="low">
+                  <p>Some of Whitman's language about the poet and religion in this notebook is similar to the language and ideas used in the preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi>.</p>
+               </note>
+            
          </notesStmt>
          <sourceDesc>
             <bibl>
@@ -130,14 +129,14 @@
          
          <pb xml:id="leaf003r" facs="loc.00483.005.jpg" type="recto"/>
             <div2 type="section">
-               <relations>
-                  <work ref="xxx.00264" cert="high">
+                
+                  <note type="work_relations" target="xxx.00264" cert="high">
                      <p><ref target="#hp01" xml:id="r01" type="text">Lines from this passage</ref> were revised and used in the poem eventually titled "The Sleepers," which first appeared in <hi rend="italic">Leaves of Grass</hi> (1855), including the following lines: "Now the vast dusk bulk that is the whale's bulk . . . . it seems mine, / Warily, sportsman! though I lie so sleepy and sluggish, my tap is death" (1855, p. 74).</p>
-                  </work>
-                  <work ref="xxx.00048" cert="high">
+                  </note>
+                  <note type="work_relations" target="xxx.00048" cert="high">
                      <p><ref target="#hp01" xml:id="r02" type="text">This passage</ref> likely also relates to the following lines in the poem eventually titled "Song of Myself": "How the flukes splash! / How they contort rapid as lightning, with spasms and spouts of blood!" (1855, p. 48).</p>
-                  </work>
-               </relations>
+                  </note>
+                
          <ab><handShift new="#h1"/>The rights of property! Why what <add place="supralinear" rend="insertion"><handShift new="#h2"/>build</add><handShift new="#h1"/>
             <subst><del rend="overstrike" seq="1">foundation</del>
                <add place="supralinear" rend="unmarked" seq="2">substance</add></subst> is there <subst><del rend="overstrike" seq="1">for the</del> <add rend="unmarked" place="supralinear" seq="2">in any other</add></subst> right of property than that
@@ -285,11 +284,11 @@
             him.—</ab></div2>
          <pb xml:id="leaf013r" facs="loc.00483.025.jpg" type="recto"/>
          <div2 type="section">
-            <relations>
-               <work ref="xxx.00048" cert="low">
+             
+               <note type="work_relations" target="xxx.00048" cert="low">
                   <p>This section may relate to the following passages in the poem eventually titled "Song of Myself": "Buying drafts of Osiris and Isis and Belus and Brahma and Adonai, / In my portfolio placing Manito loose, and Allah on a leaf, and the crucifix engraved, / ... / Honestly taking them all for what they are worth, and not a cent more" (1855, p. 45) and "I do not despise you priests..." (1855, p. 48).</p>
-               </work>
-            </relations>
+               </note>
+             
             <note type="authorial" place="top left">Change all this to commendation ☟</note>
          <ab><seg xml:id="seg101">What has been called Religion <add place="supralinear" rend="insertion">that
                of Ethiopia or still backward—</add>—<add place="supralinear" rend="insertion">that of <add place="supralinear" rend="insertion">Belus
