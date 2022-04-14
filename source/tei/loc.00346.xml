@@ -12,6 +12,7 @@
 <persName xml:id="nhg">Nicole Gray</persName>
 <persName xml:id="no">Natalie O'Neal</persName>
 <persName xml:id="kmp">Kenneth M. Price</persName>
+    <persName xml:id="km">Kevin McMullen</persName>
 </respStmt>
 <sponsor>Center for Digital Research in the Humanities</sponsor>
 <sponsor>University of Iowa</sponsor>
@@ -62,6 +63,7 @@
 </handNotes>
 </profileDesc>
 <revisionDesc>
+    <change when="2022-04-14" who="#km">updated relations encoding</change>
     <change when="2017-11-15" who="#nhg">added inline relations information</change>
     <change when="2017-04-11" who="#nhg">edited source information</change>
     <change when="2016-12-13" who="#nhg">corrected</change>
@@ -82,12 +84,11 @@
     <pb xml:id="leaf001v" facs="loc_jc.01656.jpg" type="verso"/>
 <div1 type="section">
     <div2>
-        <relations>
-            <work ref="xxx.00115" cert="low">
+            <note type="work_relations" target="xxx.00115" cert="low">
                 <p><ref type="text" xml:id="r01" target="#q01">These notes</ref> relate loosely to
                     ideas expressed in the poem "A Song of Joys," first published as "Poem of Joys" in the 1860 edition of <hi rend="italic">Leaves of Grass</hi>.  See particularly the following lines (from the 1891–2 edition): "O the old manhood of me, my noblest joy of all! / My children and grand-children, my white hair and beard, / My largeness, calmness, majesty, out of the long stretch of my life" (145).</p>
-            </work>
-        </relations>
+            </note>
+        
         <pb xml:id="leaf002r" facs="loc_jc.01657.jpg" type="recto"/>
 <ab xml:id="q01">Poem incarnating the mind of an old man, whose life has been magnificently developed—the wildest and most exuberant joy—the utterance of hope and floods of 
     anticipation—faith in whatever happens—but all enfolded in Joy Joy Joy, which underlies and overtops the whole effusion</ab>
@@ -111,17 +112,16 @@ incarnate to me the</ab>
     about the style and strength of the engines.—</ab></div2>
    
     <div2>
-        <relations>
-            <work ref="xxx.00048" cert="high">
+            <note type="work_relations" target="xxx.00048" cert="high">
                 <p><ref type="text" xml:id="r02" target="#l1 #l8">See the following lines from what would become section 33 of "Song of Myself," as they appeared in the 1855 <hi rend="italic">Leaves of Grass</hi>: "What the rebel said gaily adjusting his throat to the rope-noose, / What the savage at the stump, his eye-sockets empty, his mouth spirting whoops and defiance" (p. 42).</ref> This passage also includes lines that appear in the section of the poem that begins "I am the hounded slave . . . . I wince at the bite of the dogs" (1855, p. 39).</p>
-            </work>
-            <work ref="xxx.00264" cert="low">
+            </note>
+            <note type="work_relations" target="xxx.00264" cert="low">
                 <p>This section, including the deleted segment about "What Lucifer felt," is relevant to the origins of "The Sleepers," though it does not appear to have clearly and directly contributed to it. In the untitled poem in the 1855 <hi rend="italic">Leaves of Grass</hi> that would later become "The Sleepers," Lucifer appears in the following passage: "Now Lucifer was not dead....or if he was I am his sorrowful terrible heir; / I have been wronged....I am oppressed....I hate him that oppresses me, / I will either destroy him, or he shall release me." For more about the revisions of this passage, see Ed Folsom, "Walt Whitman's 'The Sleepers,'" part of <hi rend="italic">The Classroom Electric</hi>.</p>
-            </work>
-            <work ref="xxx.00614" cert="low">
+            </note>
+            <note type="work_relations" target="xxx.00614" cert="low">
                 <p><ref type="text" xml:id="r16" target="#q16">This line</ref> features Lucifer, as does a line that appeared in "Pictures": "And this black portrait—this head, huge, frowning, sorrowful,—I <del rend="overstrike">think it</del> is Lucifer's portrait—the denied God's portrait."</p>
-            </work>
-        </relations>
+            </note>
+        
         <pb xml:id="leaf003v" facs="loc_jc.01660.jpg" type="verso"/>
     <lg xml:id="lg1" type="linegroup"><delSpan rend="hashmark" spanTo="#d2"/>
         <l xml:id="l3"><subst><del rend="overstrike" seq="1">His blood</del> <add rend="unmarked" place="supralinear" seq="2">My gore</add></subst> presently <subst><del rend="overstrike" seq="1">oozes from</del> <add rend="insertion" place="supralinear">trickles <del rend="overstrike">down</del></add> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">from a <unclear reason="illegible" resp="#nhg" cert="low">score of</unclear></add></del></subst><lb/> <del rend="overstrike">and <gap reason="illegible" quantity="7" unit="char"/></del> <del rend="overstrike"><add rend="unmarked" place="supralinear">and</add></del> thinned with <subst><del rend="overstrike" seq="1">the <lb/>plentiful sweat</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">salt</del> ooze of my skin</add></subst>,</l> 
@@ -138,28 +138,27 @@ incarnate to me the</ab>
     <anchor xml:id="d2"/></div2>
     
     <div2>
-        <relations>
-            <work ref="xxx.00052" cert="low">
-                <p><ref type="text" xml:id="r03" target="#q03">This line</ref> may be loosely related to the line in the poem that would ultimately be titled "I Sing the Body Electric": "Was it dreamed whether those who corrupted their own live bodies could conceal themselves?" (1855, p. 77).</p></work>
-                <work ref="xxx.00120" cert="high">
+            <note type="work_relations" target="xxx.00052" cert="low">
+                <p><ref type="text" xml:id="r03" target="#q03">This line</ref> may be loosely related to the line in the poem that would ultimately be titled "I Sing the Body Electric": "Was it dreamed whether those who corrupted their own live bodies could conceal themselves?" (1855, p. 77).</p></note>
+                <note type="work_relations" target="xxx.00120" cert="high">
                     <p><ref type="text" xml:id="r04" target="#q04">This segment</ref> is similar to the following, from "Poem of The Sayers of The Words of The Earth" in the 1856 edition of <hi rend="italic">Leaves of Grass</hi> (the poem was later retitled "A Song of the Rolling Earth"): "Amelioration is one of the earth's words, / The earth neither lags nor hastens" (323–324).</p>
-            </work>
-            <work ref="xxx.00048" cert="high">
+            </note>
+            <note type="work_relations" target="xxx.00048" cert="high">
                 <p><ref type="text" xml:id="r05" target="#q05">This segment</ref> relates to what would become section 44 of "Song of Myself": "For it the nebula cohered to an orb" (1855, p. 50).</p>
                 <p><ref type="text" xml:id="r06" target="#seg01 #seg02 #seg03">This segment</ref> was revised and used in what would become section 30 of "Song of Myself": "All truths wait in all things, / They neither hasten their own delivery nor resist it, / They do not need the obstetric forceps of the surgeon" (1855, p. 33).</p>
                 <p><ref type="text" xml:id="r11" target="#q11 #q11b #q11c">This segment</ref> was revised and used in what would become section 45 of "Song of Myself": "If I and you and the worlds and all beneath or upon their surfacees, and all the palpable life, were this moment reduced back into a pallid float, it would not avail in the long run, / We should surely bring up again where we now stand, / And as surely go as much farther, and then farther and farther. / A few quadrillions of eras, a few octillions of cubic leagues, do not hazard the span, or make it impatient, / They are but parts....any thing is but a part." (1855, p. 51).</p>
                 <p><ref type="text" xml:id="r23" target="#q12">This passage</ref> is reminiscent of the following line: "Seeing hearing and feeling are miracles, and each part and tag of me is a miracle" (1855, p. 29).</p>
-            </work>
-            <work ref="xxx.00243" cert="low">
+            </note>
+            <note type="work_relations" target="xxx.00243" cert="low">
                 <p><ref type="text" xml:id="r12" target="#q12">This passage</ref> is similar to the following lines in the poem "Miracles," which first appeared in the 1856 edition of <hi rend="italic">Leaves of Grass</hi> as "Poem of Perfect Miracles": "Why! who makes much of a miracle? / As to me, I know of nothing else but miracles" (1856, p.279).</p>
-            </work>
-            <work ref="xxx.00250" cert="low">
+            </note>
+            <note type="work_relations" target="xxx.00250" cert="low">
                 <p><ref type="text" xml:id="r13" target="#q12">This segment</ref> has language similar to the following lines in the poem "Who Learns My Lesson Complete?", first published untitled in the 1855 <hi rend="italic">Leaves of Grass</hi>: "Is it wonderful that I should be immortal? as every one is immortal, / I know it is wonderful....but my eyesight is equally wonderful....and how I was conceived in my mother's womb is equally wonderful" (1855, p. 92).</p>
-            </work>
-            <work ref="xxx.00526" cert="low">
+            </note>
+            <note type="work_relations" target="xxx.00526" cert="low">
                 <p><ref type="text" xml:id="r14" target="#q12">This segment</ref> features an idea similar to the Preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "What the eyesight does to the rest he does to the rest. Who knows the curious mystery of the eyesight? The other senses corroborate themselves, but this is removed from any proof but its own and foreruns the identities of the spiritual world. A single glance of it mocks all the investigations of man and all the instruments and books of the earth and all reasoning. What is marvellous? what is unlikely? what is impossible or baseless or vague? after you have once just opened the space of a peachpit and given audience to far and near and to the sunset and had all things enter with electric swiftness softly and duly without confusion or jostling or jam" (1855, p. v).</p>
-            </work>
-        </relations>
+            </note>
+        
         <pb xml:id="leaf004r" facs="loc_jc.01661.jpg" type="recto"/>
         <transpose anchored="1" target="tr01"><ab xml:id="ab01"><metamark function="transpose" target="#ab01">*</metamark> greenhorns through their noviciate; he manufactured public opinion at a distance, and so forth, and so forth.—For
         all these he duly received pay.—</ab></transpose>
@@ -271,14 +270,13 @@ incarnate to me the</ab>
        <ab><del rend="overstrike">If</del> Let us suppose <del rend="overstrike">for fo</del> that all the most rational people of the world had gone no further than children of twelve years old—or, as this seems forced, suppose the utmost advance yet made was the advance of the Camanches and kindred peoples of</ab></div2>
     
     <div2>
-        <relations>
-            <work ref="xxx.00048" cert="high">
+            <note type="work_relations" target="xxx.00048" cert="high">
                 <p>This section turned into two parts of the poem, untitled in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, that would eventually be called "Song of Myself." In it Whitman refers to the wreck of the ship the <hi rend="italic">San Francisco</hi>. These are early versions of the following lines: "I understand the large hearts of heroes, / The courage of present times and all times; / How the skipper saw the crowded and rudderless wreck of the steamship, and death chasing it up and down the storm, / How he knuckled tight and gave not back one inch, and was faithful of days and faithful of nights, / And chalked in large letters on a board, Be of good cheer, We will not desert you; / How he saved the drifting company at last, / How the lank loose-gowned women looked when boated from the side of their prepared graves, / How the silent old-faced infants, and the lifted sick, and the sharp-lipped unshaved men; / All this I swallow and it tastes good . . . . I like it well, and it becomes mine, / I am the man . . . . I suffered . . . . I was there. / The disdain and calmness of martyrs, / The mother condemned for a witch and burnt with dry wood, and her children gazing on; / The hounded slave that flags in the race and leans by the fence, blowing and covered with sweat, / The twinges that sting like needles his legs and neck, / The murderous buckshot and the bullets, / All these I feel or am. / I am the hounded slave . . . . I wince at the bite of the dogs, / Hell and despair are upon me . . . . crack and again crack the marksmen, / I clutch the rails of the fence . . . . my gore dribs thinned with the ooze of my skin, / I fall on the weeds and stones, / The riders spur their unwilling horses and haul close, / They taunt my dizzy ears . . . . they beat me violently over the head with their / whip-stocks" (1855, pp. 38–39); "What the rebel said gaily adjusting his throat to the rope-noose, / What the savage at the stump, his eye-sockets empty, his mouth spirting whoops and defiance, / What stills the traveler come to the vault at Mount Vernon, / What sobers the Brooklyn boy as he looks down the shores of the Wallabout and remembers the prison ships, / What burnt the gums of the redcoat at Saratoga when he surrendered his brigades" (1855, p. 42).</p>
-            </work>
-            <work ref="xxx.00614" cert="high">
+            </note>
+            <note type="work_relations" target="xxx.00614" cert="high">
                 <p><ref type="text" xml:id="r15" target="#l13">A line</ref> in this segment is similar to a line that appeared in "<ref target="yal.00081.html">Pictures</ref>": "This is the queen on her way to the scaffold—those are guillotines."</p>
-            </work>
-        </relations>
+            </note>
+        
         <pb xml:id="leaf010v" facs="loc_jc.01674.jpg" type="verso"/>
     <ab>The Poet</ab>
     <delSpan rend="hashmark" spanTo="#d11"/><lg xml:id="lg2">
@@ -312,15 +310,15 @@ incarnate to me the</ab>
 </div2>
     
     <div2>
-        <relations><work ref="xxx.00048" cert="high">
+        <note type="work_relations" target="xxx.00048" cert="high">
             <p><ref type="text" xml:id="r17" target="#q17">This line</ref> is similar to the following line from the poem that would ultimately be called "Song of Myself": "I show that size is only developement" (1855, p. 26).</p>
             <p><ref type="text" xml:id="r18" target="#q18">This line</ref> is similar to the following line from the poem that would ultimately be called "Song of Myself": "And nothing, not God, is greater to one than one's-self is" (1855, p. 53).</p>
             <p><ref type="text" xml:id="r19" target="#q19">This line</ref> is similar to the following lines from the poem that would ultimately be called "Song of Myself": "And I know I am solid and sound, / To me the converging objects of the universe perpetually flow, / All are written to me, and I must get what the writing means" (1855, p. 26).</p>
-        </work>
-        <work ref="xxx.00121" cert="low">
+        </note>
+        <note type="work_relations" target="xxx.00121" cert="low">
             <p>This section may also relate to the section in the sixth untitled poem in the 1855 <hi rend="italic">Leaves of Grass</hi>, later titled "Great are the Myths," and eventually excerpted as "Youth, Day, Old Age and Night," that begins: "Great are Adam and Eve . . . . I too look back and accept them;" (1855, p. 93).</p>
-        </work>
-        </relations>
+        </note>
+        
         <pb xml:id="leaf011v" facs="loc_jc.01676.jpg" type="verso"/>
         <p><seg xml:id="seg100">All around me I hear how great is Adam or Eve—</seg><seg>how <subst><del rend="overstrike" seq="1">illustrious</del> <add rend="unmarked" place="supralinear" seq="2">significant</add></subst> <del rend="overstrike">are</del> the illustrious Greeks, or later Italians and Germans, and modern <del rend="overstrike">En-</del> celebrities of England and France.—</seg><seg>Yes Christ was <subst><del rend="overstrike" seq="1">great</del> <add rend="unmarked" place="supralinear" seq="2">large</add></subst> and <del rend="overstrike">so was</del> Homer <add rend="unmarked" place="supralinear">was great;</add> and so Columbus and Washington and Fulton. </seg><seg xml:id="q17">But <add rend="insertion" place="interlinear">greatness is the other word for developement, and in my soul</add> <del rend="overstrike">to me</del> I know that I am <subst><del rend="overstrike" seq="1">great</del> <add rend="unmarked" place="supralinear" seq="2">large and strong</add></subst> as any of them, probably <subst><del rend="overstrike" seq="1">greater.—</del> <add rend="unmarked" place="supralinear" seq="2">larger.—</add></subst></seg></p>
         <p><seg xml:id="seg101">Because all that they did I feel that I too could do, and more <subst><add rend="insertion" place="supralinear" seq="2">and that multiplied;</add> <del rend="overstrike" seq="1">;</del></subst></seg> <seg><subst><del rend="overstrike" seq="1">and</del> <add rend="insertion" place="supralinear" seq="2">and <subst><del rend="overstrike" seq="1">with</del> <add rend="unmarked" place="supralinear" seq="2">after</add></subst></add></subst> none of them or their achievements</seg>
@@ -342,18 +340,16 @@ incarnate to me the</ab>
     </div2>
     <pb xml:id="leaf013r" facs="loc_jc.01679.jpg" type="recto"/>
     <div2>
-        <relations><work ref="xxx.00048" cert="high">
+        <note type="work_relations" target="xxx.00048" cert="high">
             <p>This segment includes language similar to the following lines from the untitled poem that would be called "Song of Myself": "Blacksmiths with grimed and hairy chests environ the anvil, / Each has his main-sledge, they are all out, there is a great heat in the fire. / From the cinder-strew'd threshold I follow their movements, / The lithe sheer of their waists plays even with their massive arms, / Overhand the hammers swing, overhand so slow, overhand so sure, / They do not hasten, each man hits in his place" (1855, p. 37).</p>
-        </work></relations>
+        </note>
         <head type="main-authorial"><hi rend="underline">Blacksmithing</hi></head>
     <ab xml:id="ab05">when they have a <hi rend="underline">great</hi> <hi rend="underline">heat</hi> in the fire.—</ab>
     <ab xml:id="ab06">Five or six blacksmiths swing their sledges <del rend="overstrike">in</del> <hi rend="underline">overhand</hi> <hi rend="underline">overhand</hi> <hi rend="underline">overhand</hi>—</ab></div2>
     <div2>
-        <relations>
-            <work ref="xxx.01020" cert="low">
+            <note type="work_relations" target="xxx.01020" cert="low">
                 <p><ref type="text" xml:id="r10" target="#q10">This note</ref> matches the plot of the first of four tales Whitman first published as "Some Fact-Romances" in <hi rend="italic">The Aristidean</hi> in December 1845.</p>
-            </work>
-        </relations>
+            </note>
         <ab>It would be as though some publisher should reject the best <del rend="overstrike">and</del> poems ever written in the world because he who brings them to be printed has a <del rend="overstrike">worn</del> shabby umbrella, or mud on the shank of his boot.</ab>
     
         <pb xml:id="leaf013v" facs="loc_jc.01680.jpg" type="verso"/>
