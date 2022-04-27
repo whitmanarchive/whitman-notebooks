@@ -20,7 +20,7 @@
           <persName xml:id="bb">Brett Barney</persName>
           <persName xml:id="nhg">Nicole Gray</persName>
           <persName xml:id="km">Kevin McMullen</persName>
-        </respStmt>
+        <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
         <sponsor>Center for Digital Research in the Humanities, University of
           Nebraska-Lincoln</sponsor>
         <sponsor>University of Iowa</sponsor>
@@ -70,7 +70,7 @@
         <handNote scribeRef="#eh" xml:id="h2"><persName xml:id="eh">Emory Holloway</persName></handNote>
       </handNotes>
     </profileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
       <change when="2022-03-04" who="#km">updated relations encoding</change>
       <change when="2019-08-07" who="#nhg">added inline/work relation</change>
       <change when="2017-10-12" who="#nhg">added inline LG relations</change>
@@ -1549,7 +1549,7 @@
                       <del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">S</add></subst>trength<lb/>
                 
                 and Hope</l>
-              <del rend="overstrike"><l xml:id="l203">Swiftly pass I</l></del>
+              <delSpan spanTo="#d20" rend="overstrike"/><l xml:id="l203">Swiftly pass I</l><anchor xml:id="d20"/>
               <l xml:id="l09">Where is the house of<lb/>
                   any one dying?</l>
               <l xml:id="l10">Thither I speed and <del rend="overstrike">raise</del><lb/>
@@ -1616,16 +1616,16 @@
                      <del rend="overstrike" seq="1">will</del>  
                      <add rend="unmarked" place="supralinear" seq="2">breath</add></subst>,<lb/>
                 I force him to dilate,</l>
-              <del rend="overstrike">
+              <delSpan spanTo="#d21" rend="overstrike"/>
                 <l>I will not</l> 
                 <l xml:id="l16">Doubt and fear</l>
                 <l>With Treading</l>
                 <l xml:id="l17">Baffling doubt and</l>
                 <l>I will</l>
                 <l xml:id="l18">Doubt shall not</l>
-              </del>
+              <anchor xml:id="d21"/>
               
-              <add rend="unmarked" place="right">
+              <addSpan spanTo="#a1" rend="unmarked" place="right"/>
                 <l xml:id="l19">Sleep! for I and they<lb/>
                   stand guard<lb/>
                   this night,</l>
@@ -1634,7 +1634,7 @@
                   in the morning you<lb/>
                   find <del rend="overstrike">that I told the</del>
                        what I told you is so.</l>
-              </add>
+              <anchor xml:id="a1"/>
               <metamark function="transpose" place="left" target="#s7" rend="circled">take <unclear reason="illegible" resp="#nhg" cert="low">in</unclear> X</metamark>
               <anchor xml:id="a01"/>
               <l xml:id="l21">Not doubt not fear not<lb/>
@@ -1647,16 +1647,16 @@
                      
                       <add rend="unmarked" place="supralinear">lay finger <unclear reason="deleted, illegible" resp="#nhg" cert="low">on</unclear> you <del rend="overstrike">whomsoever</del> I</add></l>
               
-                <add rend="unmarked" place="interlinear">
+                <addSpan spanTo="#a2" rend="unmarked" place="interlinear"/>
                   <l xml:id="l22"><del rend="overstrike">For I have <add rend="unmarked" place="supralinear"><gap reason="deletion, illegible" quantity="1" unit="word"/></add> said the word and</del><lb/>
                     <del rend="overstrike">And you are mine</del></l>
-                </add>
+                <anchor xml:id="a2"/>
               
               <l xml:id="l23"><add rend="unmarked" place="inline">And</add> I <del rend="overstrike"><gap reason="deleted, illegible"/></del> have him all<lb/>
                 to myself</l>
               <metamark function="transpose" target="#s7" place="left">tr up X</metamark>
               <span rend="bracketed" xml:id="s7" from="#s7" to="#s8"/>
-              <add rend="unmarked" place="interlinear" facs="a01">
+              <addSpan spanTo="#a3" rend="unmarked" place="interlinear" facs="a01"/>
                 <l xml:id="l24">Every room of 
                     <subst>
                        <del rend="overstrike" seq="1">the</del>  
@@ -1670,17 +1670,17 @@
                   I fill with armed men</l>
                 <l xml:id="l25">Lovers of me, <del rend="overstrike"><gap reason="deleted, illegible"/></del> bafflers of<lb/>
                   hell,</l>
-              </add>
+              <anchor xml:id="a3"/>
               <anchor xml:id="s8"/>
-              <del rend="overstrike">
+              <delSpan spanTo="#d22" rend="overstrike"/>
                 <l xml:id="l26">Keeping back</l>
-              </del>
-              <del rend="overstrike">
+              <anchor xml:id="d22"/>
+              <delSpan spanTo="#d23" rend="overstrike"/>
                 <l>And while</l>
-              </del>
-              <del rend="overstrike">
+              <anchor xml:id="d23"/>
+              <delSpan spanTo="#d24" rend="overstrike"/>
                 <l><unclear reason="deleted, illegible" resp="#mm" cert="medium">Th</unclear></l>
-              </del>
+              <anchor xml:id="d24"/>
             </lg>
   
             <pb facs="loc.00141.073.jpg" xml:id="leaf037r" type="recto"/>
@@ -1737,9 +1737,9 @@
                      <add rend="unmarked" place="supralinear" seq="4">ground</add>  
                   </subst>
                   <del rend="overstrike">and</del> and rocks,</l>
-              <del rend="overstrike">
+              <delSpan spanTo="#d26" rend="overstrike"/>
                 <l>I have been</l>
-              </del>
+              <anchor xml:id="d26"/>
               <metamark function="paragraph" place="left" target="#tw30">¶</metamark>
               <l xml:id="tw30">I 
                   <subst>
@@ -1805,14 +1805,14 @@ to
                 <del rend="overstrike">there</del> any<lb/>
                 
                 <del rend="overstrike">sham in the universe.</del></l>
-              <del rend="overstrike">
+              <delSpan spanTo="#d27" rend="overstrike"/>
                 <l xml:id="tw208">And the world is no joke,</l>
-              </del>
-              <del rend="overstrike">
+              <anchor xml:id="d27"/>
+              <delSpan spanTo="#d28" rend="overstrike"/>
                 <l xml:id="tw209">Nor any 
                      <del rend="overstrike">th</del> part  
                    of it a sham,</l>
-              </del>
+              <anchor xml:id="d28"/>
             
     <milestone unit="undeclared" rend="horbar-short-left"/></lg>
             <lg type="linegroup">
@@ -1828,7 +1828,7 @@ to
             </lg>
               <pb facs="loc.00141.075.jpg" xml:id="leaf038r" type="recto"/>
   <lg type="linegroup">
-              <del rend="overstrike"><l xml:id="tw210">I am</l></del>
+              <delSpan spanTo="#d29" rend="overstrike"/><l xml:id="tw210">I am</l><anchor xml:id="d29"/>
     <l xml:id="tw31a">I am the poet of little<lb/>
                 things and of babes</l>
     <l xml:id="tw32"><del rend="overstrike">I am</del> <del rend="overstrike">I</del>
@@ -1890,7 +1890,7 @@ to
                   </subst><lb/>
       grains of sand, and<lb/>
                 every egg of the wren.</l>
-              <del rend="overstrike"><l>And that</l></del>
+              <delSpan spanTo="#d30" rend="overstrike"/><l>And that</l><anchor xml:id="d30"/>
               <l xml:id="tw37">And the 
                   <subst>
                      <del rend="overstrike" seq="1"><unclear reason="deleted, illegible" resp="#awj" cert="medium">knotty</unclear></del>  
@@ -1931,7 +1931,7 @@ to
                      <add rend="unmarked" place="supralinear" seq="2">heaped</add>  
                   </subst> stones and <del rend="overstrike">some</del><lb/>
                 elder and poke-weed.</l>
-              <del rend="overstrike"><l xml:id="tw213">Is picture enough</l></del>
+              <delSpan spanTo="#d31" rend="overstrike"/><l xml:id="tw213">Is picture enough</l><anchor xml:id="d31"/>
               <metamark function="transpose" place="right" target="#l02">*</metamark>
 </lg>
           
@@ -2058,11 +2058,11 @@ to
           <lg type="linegroup" xml:id="tw45">
             <note type="work_relations" target="xxx.00048" cert="high"><p><ref target="#tw45" type="text" xml:id="r35">These nine lines</ref> are a direct draft of six lines of the poem that would be titled "Song of Myself" that begin: "I dilate you with tremendous breath . . . . I buoy you up;" (1855, p. 45).</p></note> 
             
-            <del rend="overstrike">
+            <delSpan spanTo="#d32" rend="overstrike"/>
               <l xml:id="l27">Buoyed with tremendous breath<lb/>
                 shall you be, and dilated
               </l>
-            </del>
+            <anchor xml:id="d32"/>
             <l xml:id="l28">I <del rend="overstrike"><gap reason="deletion, illegible" quantity="1" unit="char"/></del> dilate you with tremendous<lb/>
               breath,<del rend="overstrike"><unclear reason="deleted, illegible" resp="#mm" cert="medium">—</unclear></del>
               
@@ -2207,13 +2207,13 @@ to
                   <add rend="unmarked" place="supralinear" seq="2"><unclear reason="illegible, deletion" resp="#nhg" cert="low">saw</unclear> folded</add>  
                 </subst> fœtuses of twins
               </l>
-              <del rend="overstrike">
+              <delSpan spanTo="#d33" rend="overstrike"/>
                 <l>
                   And not in a single one<lb/>
                   there in every brain<lb/>
                   of the earth
                 </l>
-              </del>
+              <anchor xml:id="d33"/>
               <l><del rend="overstrike">saw truth and sympathy</del><lb/>
                 <del rend="overstrike">lay folded,</del> like <add rend="insertion" place="supralinear">the fœtus of</add> twins <add rend="unmarked" place="supralinear">in the womb,</add>
               </l>
@@ -2296,7 +2296,7 @@ to
                 
               </l>
               
-              <add rend="unmarked" place="supralinear"><l xml:id="l49">I <del rend="overstrike">will</del> am  not to be denied—I compel;</l></add>
+              <addSpan spanTo="#a4" rend="unmarked" place="supralinear"/><l xml:id="l49">I <del rend="overstrike">will</del> am  not to be denied—I compel;</l><anchor xml:id="a4"/>
               <l xml:id="l50"><metamark function="transpose" place="inline" target="#l04">*</metamark> I have stores plenty and<lb/>
                 to spare<del rend="overstrike">—</del>
                 
@@ -2421,7 +2421,7 @@ to
   
           <delSpan spanTo="#d7" status="unremarkable" rend="hashmark"/>
           <lg type="linegroup" xml:id="tw52">  
-              <del rend="overstrike">
+              <delSpan spanTo="#d34" rend="overstrike"/>
                   <l xml:id="l56">They stand on 
                       
                          <subst>
@@ -2430,7 +2430,7 @@ to
                     finger<lb/>
                     end and promontory,
                   </l>
-                </del>
+                <anchor xml:id="d34"/>
                 <l xml:id="l57">They 
                     <subst>
                        <del rend="overstrike" seq="1">have left</del>  
@@ -2504,7 +2504,7 @@ to
               <del rend="overstrike">can be read</del> in an<lb/>
                   instant.
                 </l>
-                <del rend="overstrike"><l>It shows me how</l></del>
+                <delSpan spanTo="#d35" rend="overstrike"/><l>It shows me how</l><anchor xml:id="d35"/>
             <l>It smells for me the<lb/>
                  fragrance of 
                     <subst>
@@ -2549,16 +2549,16 @@ to
                   
                  mock me
                 </l>
-                <del rend="overstrike">
+                <delSpan spanTo="#d36" rend="overstrike"/>
                   <l xml:id="l61">I am all given up by<lb/>
                     traitors,
                   </l>
-                </del>
-                <del rend="overstrike">
+                <anchor xml:id="d36"/>
+                <delSpan spanTo="d37" rend="overstrike"/>
                   <l xml:id="l62"><del rend="overstrike">An</del> I am myself the greatest<lb/>
                    traitor.
                   </l>
-                </del>
+                <anchor xml:id="d37"/>
                 <span rend="bracketed" xml:id="s9" from="#s9" to="#s10"/>
                 <l xml:id="l63">
                     <subst>
@@ -2591,7 +2591,7 @@ to
   
                 <delSpan spanTo="#d10" status="unremarkable" rend="hashmark"/>
                 <lg type="linegroup" xml:id="tw55"><l xml:id="l68">I am given up by traitors,</l>
-                <add rend="unmarked" place="supralinear"><l xml:id="l69">I talk wildly <unclear reason="illegible" resp="#awj" cert="medium">I</unclear> am surely out of my head,</l></add>
+                <addSpan spanTo="#a5" rend="unmarked" place="supralinear"/><l xml:id="l69">I talk wildly <unclear reason="illegible" resp="#awj" cert="medium">I</unclear> am surely out of my head,</l><anchor xml:id="a5"/>
                   <l xml:id="l70">I am myself the greatest<lb/>
                   traitor.
                 </l>
@@ -2613,12 +2613,12 @@ to
                     </subst><lb/>
      <del rend="overstrike">you will kill me</del>
                 </l>
-                  <del rend="overstrike"><l xml:id="l74">Pass out of me</l></del>
-                <del rend="overstrike">
+                  <delSpan spanTo="#d38" rend="overstrike"/><l xml:id="l74">Pass out of me</l><anchor xml:id="d38"/>
+                <delSpan spanTo="#d39" rend="overstrike"/>
                   <l>Pass as you will<lb/>
                     Gods! will
                   </l>
-                </del>
+                <anchor xml:id="d39"/>
                   <l xml:id="l75">headland to witness and<lb/>
                   assist against me.—
                 </l></lg>
@@ -2656,22 +2656,22 @@ to
                   
                   <add rend="unmarked" place="infralinear">more delicious than all before?</add>
                 </l>
-                <del rend="overstrike">
+                <delSpan spanTo="#d40" rend="overstrike"/>
                   <l xml:id="l79">Will you renew th<gap reason="deleted, illegible"/><lb/>
                     and
                   </l>
-                </del>
-                  <add rend="unmarked" place="supralinear">
+                <anchor xml:id="d41"/>
+                  <addSpan spanTo="#a10" rend="unmarked" place="supralinear"/>
                     <l xml:id="l80">Does it make you ache<lb/>
                       so to leave me?
                     </l>
-                  </add>
+                  <anchor xml:id="a10"/>
                    
-                    <del rend="overstrike">
+                    <delSpan spanTo="#d43" rend="overstrike"/>
                       <l>W. Even as you fade<lb/>
                         and withdraw
                       </l>
-                    </del>
+                    <anchor xml:id="d43"/>
                    
                    
                 

@@ -12,7 +12,7 @@
 <persName xml:id="nhg">Nicole Gray</persName>
 <persName xml:id="no">Natalie O'Neal</persName>
 <persName xml:id="kmp">Kenneth M. Price</persName>
-</respStmt>
+<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
 <sponsor>Center for Digital Research in the Humanities</sponsor>
 <sponsor>University of Iowa</sponsor>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -61,7 +61,7 @@
 <handNote xml:id="h1" scribeRef="#unk"><persName xml:id="unk">Unknown</persName></handNote>
 </handNotes>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
     <change when="2017-11-15" who="#nhg">added inline relations information</change>
     <change when="2017-04-11" who="#nhg">edited source information</change>
     <change when="2016-12-13" who="#nhg">corrected</change>
@@ -126,7 +126,7 @@ incarnate to me the</ab>
     <lg xml:id="lg1" type="linegroup"><delSpan rend="hashmark" spanTo="#d2"/>
         <l xml:id="l3"><subst><del rend="overstrike" seq="1">His blood</del> <add rend="unmarked" place="supralinear" seq="2">My gore</add></subst> presently <subst><del rend="overstrike" seq="1">oozes from</del> <add rend="insertion" place="supralinear">trickles <del rend="overstrike">down</del></add> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">from a <unclear reason="illegible" resp="#nhg" cert="low">score of</unclear></add></del></subst><lb/> <del rend="overstrike">and <gap reason="illegible" quantity="7" unit="char"/></del> <del rend="overstrike"><add rend="unmarked" place="supralinear">and</add></del> thinned with <subst><del rend="overstrike" seq="1">the <lb/>plentiful sweat</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">salt</del> ooze of my skin</add></subst>,</l> 
         <l xml:id="l4"><subst><del rend="overstrike" seq="1">And</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2"><unclear reason="illegible" resp="#no" cert="low">See how it</unclear></add></del> <add rend="insertion" place="supralinear" seq="4">as</add></subst> <del rend="overstrike">trickles down the black <unclear reason="illegible" resp="#no" cert="high">skin</unclear></del></l>
-        <add place="supralinear" rend="unmarked"><l xml:id="l9"><subst><add rend="unmarked" place="inline" seq="2">I</add> <del rend="overstrike" seq="1">He</del></subst> <del rend="overstrike">slowly</del> fall<del rend="overstrike">s</del> on the <add rend="insertion" place="supralinear">reddened</add> grass and stones,</l></add>
+        <addSpan spanTo="#a1" place="supralinear" rend="unmarked"/><l xml:id="l9"><subst><add rend="unmarked" place="inline" seq="2">I</add> <del rend="overstrike" seq="1">He</del></subst> <del rend="overstrike">slowly</del> fall<del rend="overstrike">s</del> on the <add rend="insertion" place="supralinear">reddened</add> grass and stones,</l><anchor xml:id="a1"/>
     <l xml:id="l5">And the hunters haul up close <lb/>with their unwilling horses,</l> 
         <l xml:id="l6"><subst><del rend="overstrike" seq="1">And</del> <add rend="unmarked" place="supralinear" seq="2">Till</add></subst> <del rend="overstrike">the</del> taunt and <subst><del rend="overstrike" seq="1">curse</del> <add rend="unmarked" place="supralinear" seq="2">oath</add></subst> <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#nhg" cert="low">sink</unclear></del> <add rend="unmarked" place="supralinear" seq="2"> swim</add></subst><lb/> <add rend="insertion" place="supralinear">away from my</add> dim and dizzy <del rend="overstrike"><add rend="insertion" place="supralinear">away from my</add></del> <del rend="overstrike">in his</del> ears</l>
     <metamark function="transpose" place="left" target="#l1 #l2" xml:id="tr02">tr *</metamark>
@@ -181,13 +181,13 @@ incarnate to me the</ab>
     <del rend="overstrike">or pollute</del> or imbibe <subst><del rend="overstrike" seq="1">bad</del> <add rend="unmarked" place="supralinear" seq="2">rotten</add></subst> stuff
     in <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">that superior nature of</add></subst> his or her's, any more 
         than one can poison or starve his body.—</ab>
-        <transpose anchored="1" target="#tr03"><del rend="overstrike"><l xml:id="l15">What minutes of damnation</l></del>
+        <transpose anchored="1" target="#tr03"><delSpan spanTo="#d23" rend="overstrike"/><l xml:id="l15">What minutes of damnation</l><anchor xml:id="d23"/>
     <l xml:id="l16">What heightless dread, <add rend="insertion" place="supralinear">falls</add> in the<lb/> click of a moment</l></transpose><anchor xml:id="d3"/>
     
         <pb xml:id="leaf005r" facs="loc_jc.01663.jpg" type="recto"/>
     <ab>story of Julia Scudder whose husband left her</ab>
     <milestone unit="undeclared" rend="horbar-full"/>
-    <add rend="unmarked" place="supralinear"><ab>Is not the faculty of sight better than the ? of the eye?—Is not the human voice more than the <unclear reason="illegible" cert="high" resp="#nhg">rings</unclear> of the windpipe?</ab></add>
+    <addSpan spanTo="#a2" rend="unmarked" place="supralinear"/><ab>Is not the faculty of sight better than the ? of the eye?—Is not the human voice more than the <unclear reason="illegible" cert="high" resp="#nhg">rings</unclear> of the windpipe?</ab><anchor xml:id="a2"/>
     <ab>No man <del rend="overstrike">and no woman will</del> means to <del rend="overstrike">stab</del> deform or sicken the body.—<subst><del rend="overstrike" seq="1">Of</del> <add rend="unmarked" place="supralinear" seq="2">For</add></subst> 
         that wonderful and beautiful vessel, we <del rend="overstrike">are pro</del> make</ab>
         
@@ -293,19 +293,19 @@ incarnate to me the</ab>
         <l xml:id="l08">All this <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> <subst><del rend="overstrike" seq="1">drinks</del> <add rend="unmarked" place="supralinear" seq="2">swallow<del rend="overstrike">s</del></add></subst> in <subst><del rend="overstrike" seq="1"> his</del> <add rend="unmarked" place="supralinear" seq="2">my</add></subst> <lb/>soul, and it becomes <subst><del rend="overstrike" seq="1">his</del> <add rend="unmarked" place="supralinear" seq="2">mine,</add></subst> <lb/>and <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> likes it well,</l>
         <l xml:id="l09"><subst><del rend="overstrike" seq="1">He is</del> <add rend="unmarked" place="supralinear" seq="2">I am</add></subst> the man; <del rend="overstrike"><gap reason="illegible" unit="chars" quantity="5"/></del> <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> suffered, <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> was <lb/>there: </l>
             <l><del rend="overstrike" seq="1"> And more:</del></l>
-        <del rend="overstrike"><add rend="unmarked" place="interlinear"><l xml:id="l10">He <unclear reason="illegible" resp="#no" cert="medium">is</unclear> the brave boy that saved them too:</l></add></del>
+        <delSpan spanTo="#d24" rend="overstrike"/><addSpan spanTo="#a5" rend="unmarked" place="interlinear"/><l xml:id="l10">He <unclear reason="illegible" resp="#no" cert="medium">is</unclear> the brave boy that saved them too:</l><anchor xml:id="a5"/><anchor xml:id="d24"/>
         <l xml:id="l11">All the beautiful disdain and <lb/>calmness of martyrs</l><anchor xml:id="d11"/>
         <pb xml:id="leaf011r" facs="loc_jc.01675.jpg" type="recto"/>
         <delSpan rend="hashmark" spanTo="#d12"/><l xml:id="l12">The old woman that was <lb/>chained and burnt with dry <lb/>wood, and her children looking on,</l>
         <l xml:id="l13">The great queens that walked <lb/>serenely to the block,</l>
         <l xml:id="l14">The <add rend="insertion" place="supralinear">hunted</add> slave <subst><del rend="overstrike" seq="1">that</del> <add rend="unmarked" place="supralinear" seq="2">who</add></subst> <del rend="overstrike">stood</del> <del rend="overstrike">could<lb/> run no longer,</del> <add rend="insertion" place="supralinear">flags in the race at last</add> and <lb/><subst><del rend="overstrike" seq="1">then stood by</del> <add rend="unmarked" place="supralinear" seq="2">leans <del rend="overstrike">leaned</del> up by</add></subst> the fence, <lb/><subst><add rend="unmarked" place="inline" seq="2">blowing</add> <del rend="overstrike" seq="1"><unclear reason="illegible" resp="#no" cert="medium">panting</unclear></del></subst> and covered with sweat,</l>
-        <del rend="overstrike"><l xml:id="l17">And his eye that <subst><del rend="overstrike" seq="1">shoot</del> <add rend="unmarked" place="infralinear" seq="2"> burns</add></subst> defiance <lb/>and <del rend="overstrike">desperation</del> hatred</l></del>
+        <delSpan spanTo="#d25" rend="overstrike"/><l xml:id="l17">And his eye that <subst><del rend="overstrike" seq="1">shoot</del> <add rend="unmarked" place="infralinear" seq="2"> burns</add></subst> defiance <lb/>and <del rend="overstrike">desperation</del> hatred</l><anchor xml:id="d25"/>
         <l xml:id="l18"><del rend="overstrike">And the buck shot,</del> <del rend="overstrike">were</del></l>
         <l xml:id="l19">And <del rend="overstrike"><unclear reason="illegible" resp="#no" cert="low">the how</unclear></del> the twinges that <lb/>sting like needles his <lb/>breast and neck</l>
         <l xml:id="l20">The murderous buck-shot <lb/><del rend="overstrike">planted like terrible</del> <add rend="unmarked" place="interlinear">and the bullets.</add></l>
         <l xml:id="l21"><subst><del rend="overstrike" seq="1">This</del> <add rend="unmarked" place="supralinear" seq="2">All</add></subst> <subst><del rend="overwrite" seq="1"><gap reason="illegible" unit="chars" quantity="3"/></del><add rend="overwrite" place="over" seq="2">this</add></subst> <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> not only <add rend="unmarked" place="supralinear">feels and</add> see<del rend="overstrike">s</del> <del rend="overstrike"><add rend="overstrike" place="supralinear">feels</add></del> <add rend="unmarked" place="supralinear"><unclear resp="#nhg" cert="low" reason="illegible">am</unclear></add> but <!-- Grier thinks there is an "am" but I'm not convinced --></l>
         <l xml:id="l22"><subst><del rend="overstrike" seq="1">He is</del> <add rend="unmarked" place="supralinear" seq="2">I am</add></subst> the hunted slave,</l>
-        <add rend="unmarked" place="interlinear"><l xml:id="l23">Damnation and despair are close upon <subst><del rend="overstrike" seq="1">him</del> <add rend="unmarked" place="supralinear" seq="2">me</add></subst></l></add>
+        <addSpan spanTo="#a3" rend="unmarked/" place="interlinear"/><l xml:id="l23">Damnation and despair are close upon <subst><del rend="overstrike" seq="1">him</del> <add rend="unmarked" place="supralinear" seq="2">me</add></subst></l><anchor xml:id="a3"/>
         <l xml:id="l24"><subst><del rend="overstrike" seq="1">He</del> <add rend="unmarked" place="inline" seq="2">I</add></subst> clutch<del rend="overstrike">es</del> the rail of <lb/>the fence.</l>
     </lg><metamark xml:id="tr09" function="transpose" place="left" target="#lg1">* (back</metamark><anchor xml:id="d12"/><!--Grier situates this section before #lg1, but there doesn't seem to be a definitive indication that that is what this mark is doing (although the lines are together in the 1855 LG). I've left this mark as a transposition mark with target #lg1, but have not designated a transposed segment of text. -nhg, 5/23/16-->
     
@@ -360,7 +360,7 @@ incarnate to me the</ab>
         <ab xml:id="q10">The creek on Long Island when the boating party were returning and capsized, and the young man saved his sweetheart and lost his sister</ab>
     <milestone unit="undeclared" rend="horbar-full"/>
     <ab><subst><del rend="overstrike" seq="1">I</del> <add rend="unmarked" place="inline" seq="2">One</add></subst> grand faculty <del rend="overstrike"><gap reason="illegible" unit="chars" quantity="3"/></del> we want,—and that is the power to pierce <subst><del rend="overstrike" seq="1">all</del> <add rend="unmarked" place="supralinear" seq="2">fine</add></subst> clothing and <add rend="insertion" place="supralinear">thick coated</add> shams, and settle for sure what the reality of the thing clothed and disguised is, and what it weighs stark naked; the power of <del rend="overstrike">eluding and</del> slipping like an eel <subst><del rend="overstrike" seq="1">from</del> <add rend="unmarked" place="supralinear" seq="2">through</add></subst> all blandishments and graspings</ab>
-    <del rend="overstrike"><metamark>* back</metamark></del>
+    <delSpan spanTo="#d26" rend="overstrike"/><metamark>* back</metamark><anchor xml:id="d26"/>
     
         <pb xml:id="leaf014r" facs="loc_jc.01681.jpg" type="recto"/>
     <ab>of convention<del rend="overstrike">.</del>; the power</ab></div2>

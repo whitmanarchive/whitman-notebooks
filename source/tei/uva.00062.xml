@@ -12,7 +12,7 @@
 <persName xml:id="bb">Brett Barney</persName>
 <persName xml:id="ec">Eric Conrad</persName>
 <persName xml:id="nhg">Nicole Gray</persName>
-</respStmt>
+<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
 <sponsor>Center for Digital Research in the Humanities</sponsor>
 <sponsor>University of Iowa</sponsor>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -59,7 +59,7 @@
 <handNote xml:id="unk" scribe="unknown"/>
 </handNotes>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
     <change when="2015-05-11" who="#nhg">updated copyright statement</change>
     <change when="2015-05-06" who="#nhg">replaced segs with lbs</change>
     <change when="2015-02-05" who="#nhg">corrected</change>
@@ -233,7 +233,7 @@ Capt. Wm Caldwell born in Scotland.
 
 <ab>some of those <add place="supralinear" rend="unmarked">men</add> with <add place="supralinear" rend="insertion">branches of</add> flowers stuck in their hats</ab>
 
-<del rend="overstrike"><ab>Walt Whitman</ab></del>
+<delSpan spanTo="#d1" rend="overstrike"/><ab>Walt Whitman</ab><anchor xml:id="d1"/>
 
 </div1>
 
