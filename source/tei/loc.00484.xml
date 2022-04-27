@@ -12,7 +12,7 @@
 <persName xml:id="bb">Brett Barney</persName>
 <persName xml:id="ec">Eric Conrad</persName>
 <persName xml:id="nhg">Nicole Gray</persName>
-</respStmt>
+<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
 <sponsor>Center for Digital Research in the Humanities</sponsor>
 <sponsor>University of Iowa</sponsor>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -60,7 +60,7 @@
 <handNote xml:id="unk" scribe="unknown"/>
 </handNotes>
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
     <change when="2015-05-11" who="#nhg">updated copyright statement</change>
     <change when="2015-05-06" who="#nhg">replaced segs with lbs</change>
     <change when="2015-01-21" who="#nhg">added schematron declaration, corrected</change>

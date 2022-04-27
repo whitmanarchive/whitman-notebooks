@@ -23,7 +23,7 @@
                     <persName xml:id="kc">Kirsten Clawson</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="bb">Brett Barney</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -85,7 +85,7 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
             <change when="2016-09-27" who="#bb">checked; corrected; added Work and date notes</change>
             <change when="2015-04-20" who="#kc">transcribed, encoded, added dating and work ID information</change>
         </revisionDesc>
