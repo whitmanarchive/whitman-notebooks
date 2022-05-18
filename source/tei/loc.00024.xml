@@ -127,16 +127,23 @@
 
 <pb facs="loc.00024.006.jpg" xml:id="leaf003v" type="verso"/>
 <!--LEAF3 VERSO-->
-	<transpose anchored="1" target="#a1"><p><metamark function="transpose" target="#tr01" place="inline">*</metamark> if he merely have all the care and <del rend="overstrike">lifting</del> hauling and <del rend="overstrike">hoisting</del> lowering and hoisting of them, and so goes on for a lifetime, and they never serve <del rend="overstrike">to</del> his sinews and blood and senses <add rend="insertion" place="supralinear">for food or for warmth</add>.—The more of these he has, the more books to keep, the more he <del rend="overstrike">must</del> stay<add rend="unmarked" place="inline">s</add> indoors, the more he demeans and wilts <del rend="overstrike">himself</del> and shins it, and deforms himself into the crooked. Will it pay?—</p>
+	<p xml:id="tr01"><metamark function="transpose" target="#tr01" place="inline">*</metamark> if he merely have all the care and <del rend="overstrike">lifting</del> hauling and <del rend="overstrike">hoisting</del> lowering and hoisting of them, and so goes on for a lifetime, and they never serve <del rend="overstrike">to</del> his sinews and blood and senses <add rend="insertion" place="supralinear">for food or for warmth</add>.—The more of these he has, the more books to keep, the more he <del rend="overstrike">must</del> stay<add rend="unmarked" place="inline">s</add> indoors, the more he demeans and wilts <del rend="overstrike">himself</del> and shins it, and deforms himself into the crooked. Will it pay?—</p>
 	
-	<p>Just as much as the <choice><orig>care-taker</orig><reg>caretaker</reg></choice> of beef and apples <subst><del rend="overstrike" seq="1">who never eats thereof</del> <add rend="unmarked" place="supralinear" seq="2">and coal</add></subst> which never warm him nor enrich</p></transpose>
+	<p xml:id="tr02">Just as much as the <choice><orig>care-taker</orig><reg>caretaker</reg></choice> of beef and apples <subst><del rend="overstrike" seq="1">who never eats thereof</del> <add rend="unmarked" place="supralinear" seq="2">and coal</add></subst> which never warm him nor enrich</p>
 	
 <pb facs="loc.00024.007.jpg" xml:id="leaf004r" type="recto"/>
 
-<ab>into the soul and is <gap reason="cut away"/> strength and life and knowledge they evoke there.—</ab>
-	<ab>I will not envy a man who possesses <del rend="overstrike"><unclear reason="illegible" resp="#mc" cert="high">a</unclear></del> side<add place="inline" rend="unmarked">s</add> of beef and barrels of apples or cubic rods of good coal <metamark target="tr01" function="transpose" place="inline">*</metamark></ab>
-<anchor xml:id="a1"/>
-
+<ab xml:id="tr03">into the soul and is <gap reason="cut away"/> strength and life and knowledge they evoke there.—</ab>
+	<ab xml:id="tr04">I will not envy a man who possesses <del rend="overstrike"><unclear reason="illegible" resp="#mc" cert="high">a</unclear></del> side<add place="inline" rend="unmarked">s</add> of beef and barrels of apples or cubic rods of good coal <metamark target="tr01" function="transpose" place="inline">*</metamark></ab>
+<listTranspose>
+	<transpose>
+		<ptr target="#tr02"/>
+		<ptr target="#tr03"/>
+		<ptr target="#tr04"/>
+		<ptr target="#tr01"/>
+	</transpose>
+</listTranspose>
+	
 
 <pb facs="loc.00024.008.jpg" xml:id="leaf004v" type="verso"/>
 

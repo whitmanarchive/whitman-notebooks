@@ -768,12 +768,12 @@
   
           <pb facs="loc.00141.045.jpg" xml:id="leaf023r" type="recto"/>
   
-          <ab>You have been told that 
+          <ab xml:id="tr02">You have been told that 
                
                 <del rend="overstrike">intellect</del> mind
                
              is greater than matter</ab>
-          <transpose anchored="1" target="#a03"><metamark function="transposition" place="left" target="#tr01">*</metamark>
+          <metamark function="transposition" place="left" target="#tr01">*</metamark>
           <ab xml:id="tr01">
           
             <subst>     
@@ -789,8 +789,14 @@
                   <add rend="unmarked" place="infralinear" seq="2">here</add> 
                  
               </subst>
-            </add> shoots the ballast of many a grand head.—<seg xml:id="tw15">My life is a miracle and my body which lives is a miracle</seg>; but of what I can nibble at the edges of the limitless and delicious wonder I know that I cannot separate <del rend="overstrike">the</del> them, and call one superior and the other inferior, any more than I can say my sight is greater than my eyes.— </ab><metamark function="transposition" place="right" target="#tr01">*</metamark></transpose>
-
+            </add> shoots the ballast of many a grand head.—<seg xml:id="tw15">My life is a miracle and my body which lives is a miracle</seg>; but of what I can nibble at the edges of the limitless and delicious wonder I know that I cannot separate <del rend="overstrike">the</del> them, and call one superior and the other inferior, any more than I can say my sight is greater than my eyes.— </ab><metamark function="transposition" place="right" target="#tr01">*</metamark>
+          <listTranspose>
+            <transpose>
+              <ptr target="#tr01"/>
+              <ptr target="#tr02"/>
+            </transpose>
+          </listTranspose>
+          
         </div2>
         <note type="archival" place="bottom" resp="#h1">43</note>
   

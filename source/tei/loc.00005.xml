@@ -153,20 +153,17 @@ let him or her set out upon the search this day, <del rend="overstrike">and neve
 </div2>
 
 <pb facs="loc.00005.002.jpg" xml:id="leaf001v" type="verso"/>
-	<metamark function="transposition" place="top left" target="#ab1">* <hi rend="circled">down</hi></metamark> 
-<div2 type="prose">
-	
+	<div2 type="prose"><metamark function="transposition" place="top left" target="#ab1">* <hi rend="circled">down</hi></metamark><ab xml:id="tr01">spór-a-des, 
+scattered islands, stars, &amp;c</ab></div2>
+ 
+<div2 type="prose" xml:id="ab8">
 
-<note type="authorial" place="top">spór-a-des, 
-scattered islands, stars, &amp;c</note>
-
-<transpose anchored="1" target="#a01"><ab>
-Novel?—Work of some sort <add rend="insertion" place="supralinear">Play?</add>—instead of sporadic characters—introduce them in large masses, on a far grander scale—armies—twenty-three full-formed perfect athletes—<subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="1" unit="word"/></del><add rend="overwrite" place="over" seq="2">orbs</add></subst>—take characters through the orbs—"spiritualism"</ab>
-	<add rend="unmarked" place="infralinear"><ab>
+<ab>Novel?—Work of some sort <add rend="insertion" place="supralinear">Play?</add>—instead of sporadic characters—introduce them in large masses, on a far grander scale—armies—twenty-three full-formed perfect athletes—<subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="1" unit="word"/></del><add rend="overwrite" place="over" seq="2">orbs</add></subst>—take characters through the orbs—"spiritualism"</ab>
+	<addSpan spanTo="#a1" rend="unmarked"/><ab>
 	nobody appears upon the stage singly—but 
 all in huge aggregates</ab>
 	<ab>nobody speaks alone—whatever is said, is said by 
-		an immense number <milestone unit="undeclared" rend="horbar-short-left"/></ab></add></transpose>
+		an immense number <milestone unit="undeclared" rend="horbar-short-left"/></ab><anchor xml:id="a1"/>
 
 <ab>
 <hi rend="underline">Shade</hi>—An <add rend="insertion" place="infralinear">twenty-five old men</add> old man with rapid gestures—eyes 
@@ -194,7 +191,7 @@ carefully finished as the dialogue</ab><anchor xml:id="s2"/>
 	
 <head type="main-authorial" rend="underline" xml:id="head02">The answerer</head>
 
-<ab>
+<ab xml:id="ab7">
 	<hi rend="underline">Plot for a Poem or other work</hi>—A manly 
 unpretensive philosopher—without any of the old insignia, such as age, books 
 <del rend="overstrike">eth</del> etc.—a fine-formed person, of 
@@ -219,7 +216,21 @@ air—another
 <del rend="overstrike">saw</del> looked at with fixed love, that thing he 
 became for the day.—</ab>
 	
-	<anchor xml:id="a01"/><ab xml:id="ab1"><metamark function="transposition" target="#ab1" place="inline">*</metamark> Bring in whole races, or castes, or generations, to express 
+	<metamark function="transposition" target="#ab1" place="inline">*</metamark>
+	
+	<listTranspose>
+		<transpose>
+			<ptr target="#ab8"/>
+			<ptr target="#head02"/>
+			<ptr target="#ab7"/>
+			<ptr target="#ab4"/>
+			<ptr target="#ab2"/>
+			<ptr target="#ab3"/>
+			<ptr target="#tr01"/>
+		</transpose>
+	</listTranspose>
+	
+	<ab> Bring in whole races, or castes, or generations, to express 
 		themselves—personify the general objects of the creation and give them voice—every thing on the most august scale—a leaf of grass, with its equal voice.—</ab>
 	<ab xml:id="ab5">☞—voice of the generations of slaves—of those who have 
 		suffered—voice of Lovers.—of Night—Day—Space—the stars—the countless ages of the Past—the countless ages of the future—
