@@ -102,15 +102,15 @@ incarnate to me the</ab>
     the legislature, and lobbied for it;—he helped men who were office seeking; he put <metamark function="transpose" xml:id="tr01">*</metamark> </ab>
     
         <pb xml:id="leaf003r" facs="loc_jc.01659.jpg" type="recto"/>
-    <ab>with merchants <subst><del rend="overstrike" seq="1">and tradesmen</del> <add rend="unmarked" place="supralinear" seq="2">and factors</add></subst> the point of honor is to 
+    <ab xml:id="tr11">with merchants <subst><del rend="overstrike" seq="1">and tradesmen</del> <add rend="unmarked" place="supralinear" seq="2">and factors</add></subst> the point of honor is to 
         pay notes punctually,—to pay off the men every Saturday night,—to <subst><del rend="overstrike" seq="1">have</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">receive</add></del> <add rend="unmarked" place="supralinear" seq="4">permit</add></subst> 
         no demands which they cannot satisfy at an appointed day.—</ab>
     <milestone unit="undeclared" rend="horbar-full"/>
-        <ab><add rend="unmarked" place="supralinear"><del rend="overstrike">We are</del> Concerned in the make of <subst><del rend="overstrike" seq="1">th</del> <add rend="unmarked" place="supralinear" seq="2">a grand</add></subst> steam ship</add>
+        <ab xml:id="tr12"><add rend="unmarked" place="supralinear"><del rend="overstrike">We are</del> Concerned in the make of <subst><del rend="overstrike" seq="1">th</del> <add rend="unmarked" place="supralinear" seq="2">a grand</add></subst> steam ship</add>
     We cannot sleep nights for thinking on the pennant halyards, <subst><del rend="overstrike" seq="1">of the steamer</del> <add rend="insertion" place="supralinear" seq="2">and the <del rend="overstrike">little</del> gaskets,</add></subst> but <del rend="overstrike">we</del> feel no speck of anxiety 
     about the style and strength of the engines.—</ab></div2>
    
-    <div2>
+    <div2 xml:id="tr10">
         <relations>
             <work ref="xxx.00048" cert="high">
                 <p><ref type="text" xml:id="r02" target="#l1 #l8">See the following lines from what would become section 33 of "Song of Myself," as they appeared in the 1855 <hi rend="italic">Leaves of Grass</hi>: "What the rebel said gaily adjusting his throat to the rope-noose, / What the savage at the stump, his eye-sockets empty, his mouth spirting whoops and defiance" (p. 42).</ref> This passage also includes lines that appear in the section of the poem that begins "I am the hounded slave . . . . I wince at the bite of the dogs" (1855, p. 39).</p>
@@ -129,12 +129,12 @@ incarnate to me the</ab>
         <addSpan spanTo="#a1" place="supralinear" rend="unmarked"/><l xml:id="l9"><subst><add rend="unmarked" place="inline" seq="2">I</add> <del rend="overstrike" seq="1">He</del></subst> <del rend="overstrike">slowly</del> fall<del rend="overstrike">s</del> on the <add rend="insertion" place="supralinear">reddened</add> grass and stones,</l><anchor xml:id="a1"/>
     <l xml:id="l5">And the hunters haul up close <lb/>with their unwilling horses,</l> 
         <l xml:id="l6"><subst><del rend="overstrike" seq="1">And</del> <add rend="unmarked" place="supralinear" seq="2">Till</add></subst> <del rend="overstrike">the</del> taunt and <subst><del rend="overstrike" seq="1">curse</del> <add rend="unmarked" place="supralinear" seq="2">oath</add></subst> <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#nhg" cert="low">sink</unclear></del> <add rend="unmarked" place="supralinear" seq="2"> swim</add></subst><lb/> <add rend="insertion" place="supralinear">away from my</add> dim and dizzy <del rend="overstrike"><add rend="insertion" place="supralinear">away from my</add></del> <del rend="overstrike">in his</del> ears</l>
-    <metamark function="transpose" place="left" target="#l1 #l2" xml:id="tr02">tr *</metamark>
+    <metamark function="transpose" place="left">tr *</metamark>
         <l xml:id="l7"><del rend="overstrike">What Lucifer <subst><del rend="overstrike" seq="1">felt,</del> <add rend="insertion" place="supralinear" seq="2">cursed when</add></subst> tumbling from<lb/> <hi rend="underline">Heaven</hi></del></l>
     <l xml:id="l8">What the rebel, <subst><del rend="overstrike" seq="1">when he</del> <add rend="unmarked" place="supralinear" seq="2">felt</add></subst> gaily<lb/> adjusting his neck to the<lb/> rope noose,</l>
-    <metamark function="transpose" place="left">*</metamark>
-        <transpose anchored="1" target="#tr02"><l xml:id="l1">What the <subst><del rend="overstrike" seq="1">red</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">brown</add></del></subst> savage, lashed to<lb/> the stump, <del rend="overstrike">but</del> <add rend="insertion" place="supralinear"><unclear reason="illegible" resp="#no" cert="low">spirting</unclear> <del rend="overstrike">launching</del></add> <del rend="overstrike">yelling still</del><lb/> <del rend="overstrike">his</del> <add rend="unmarked" place="supralinear">yells and</add> laughter <del rend="overstrike">to</del> at every foe</l>
-    <l xml:id="l2">What rage of hell <del rend="overstrike"><unclear reason="illegible" resp="#nhg" cert="low">of</unclear></del> <subst><del rend="overstrike" seq="1"> spirted</del> <add rend="unmarked" place="infralinear" seq="2">urged</add></subst></l></transpose></lg>
+    <delSpan spanTo="#d27" rend="overstrike"/><metamark function="transpose" place="left">*</metamark><anchor xml:id="d27"/>
+        <l xml:id="l1">What the <subst><del rend="overstrike" seq="1">red</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">brown</add></del></subst> savage, lashed to<lb/> the stump, <del rend="overstrike">but</del> <add rend="insertion" place="supralinear"><unclear reason="illegible" resp="#no" cert="low">spirting</unclear> <del rend="overstrike">launching</del></add> <del rend="overstrike">yelling still</del><lb/> <del rend="overstrike">his</del> <add rend="unmarked" place="supralinear">yells and</add> laughter <del rend="overstrike">to</del> at every foe</l>
+    <l xml:id="l2">What rage of hell <del rend="overstrike"><unclear reason="illegible" resp="#nhg" cert="low">of</unclear></del> <subst><del rend="overstrike" seq="1"> spirted</del> <add rend="unmarked" place="infralinear" seq="2">urged</add></subst></l></lg>
     <anchor xml:id="d2"/></div2>
     
     <div2>
@@ -160,9 +160,19 @@ incarnate to me the</ab>
                 <p><ref type="text" xml:id="r14" target="#q12">This segment</ref> features an idea similar to the Preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "What the eyesight does to the rest he does to the rest. Who knows the curious mystery of the eyesight? The other senses corroborate themselves, but this is removed from any proof but its own and foreruns the identities of the spiritual world. A single glance of it mocks all the investigations of man and all the instruments and books of the earth and all reasoning. What is marvellous? what is unlikely? what is impossible or baseless or vague? after you have once just opened the space of a peachpit and given audience to far and near and to the sunset and had all things enter with electric swiftness softly and duly without confusion or jostling or jam" (1855, p. v).</p>
             </work>
         </relations>
+        
+        
         <pb xml:id="leaf004r" facs="loc_jc.01661.jpg" type="recto"/>
-        <transpose anchored="1" target="tr01"><ab xml:id="ab01"><metamark function="transpose" target="#ab01">*</metamark> greenhorns through their noviciate; he manufactured public opinion at a distance, and so forth, and so forth.—For
-        all these he duly received pay.—</ab></transpose>
+        <metamark function="transpose" target="#ab01">*</metamark><ab xml:id="ab01"> greenhorns through their noviciate; he manufactured public opinion at a distance, and so forth, and so forth.—For
+        all these he duly received pay.—</ab>
+            <listTranspose>
+                <transpose>
+                    <ptr target="#ab01"/>
+                    <ptr target="#tr11"/>
+                    <ptr target="#tr12"/>
+                    <ptr target="#tr10"/>
+                </transpose>
+            </listTranspose>
         <milestone unit="undeclared" rend="horbar-full"/><delSpan rend="hashmark" spanTo="#d1"/>
     <l xml:id="ab30">
         <del rend="overstrike">from</del> the lips and <subst><del rend="overstrike" seq="1">fingers</del> <add rend="unmarked" place="supralinear" seq="2">hands</add></subst> <lb/>
@@ -176,14 +186,21 @@ incarnate to me the</ab>
         <anchor xml:id="d1"/>
     
         <pb xml:id="leaf004v" facs="loc_jc.01662.jpg" type="verso"/>
-    <delSpan rend="hashmark" spanTo="#d3"/><ab>But the spirits, effusing mind, character,</ab>
+    <delSpan rend="hashmark" spanTo="#d3"/><ab xml:id="tr14">But the spirits, effusing mind, character,</ab>
         <ab xml:id="q03">No man and no woman can <del rend="overstrike">with</del> <subst><del rend="overstrike" seq="1">bruise</del> <add rend="unmarked" place="supralinear" seq="2">gash</add></subst> or starve or overburden
     <del rend="overstrike">or pollute</del> or imbibe <subst><del rend="overstrike" seq="1">bad</del> <add rend="unmarked" place="supralinear" seq="2">rotten</add></subst> stuff
     in <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">that superior nature of</add></subst> his or her's, any more 
         than one can poison or starve his body.—</ab>
-        <transpose anchored="1" target="#tr03"><delSpan spanTo="#d23" rend="overstrike"/><l xml:id="l15">What minutes of damnation</l><anchor xml:id="d23"/>
-    <l xml:id="l16">What heightless dread, <add rend="insertion" place="supralinear">falls</add> in the<lb/> click of a moment</l></transpose><anchor xml:id="d3"/>
-    
+        <lg type="poem" xml:id="tr16"><l xml:id="l15"><del rend="overstrike">What minutes of damnation</del></l>
+    <l xml:id="l16">What heightless dread, <add rend="insertion" place="supralinear">falls</add> in the<lb/> click of a moment</l></lg><anchor xml:id="d3"/>
+        <listTranspose>
+            <transpose>
+                <ptr target="#tr16"/>
+                <ptr target="#tr14"/>
+                <ptr target="#q03"/>
+            </transpose>
+        </listTranspose>
+        
         <pb xml:id="leaf005r" facs="loc_jc.01663.jpg" type="recto"/>
     <ab>story of Julia Scudder whose husband left her</ab>
     <milestone unit="undeclared" rend="horbar-full"/>
@@ -234,8 +251,14 @@ incarnate to me the</ab>
     to the plenty of time and space.—Of these there is ample store,—there is no limit</ab><anchor xml:id="d6"/>
         <pb xml:id="leaf008v" facs="loc_jc.01670.jpg" type="verso"/>
         <delSpan rend="hashmark" spanTo="#d7"/><ab><seg xml:id="seg01">All truths lie <del rend="overstrike">hidde</del> waiting in all things.</seg>—<seg xml:id="seg02">They 
-            neither urge the opening of themselves nor resist it.—</seg><metamark function="transpose" xml:id="tr20"/> (The heart of man alone is the one unbalanced and restless thing in the world)</ab>
-    <transpose anchored="1" target="#tr20"><ab><seg xml:id="seg03"><del rend="overstrike">And the</del> For their birth you need not the obstetric <del rend="overwrite">or</del>forceps of the surgeon.</seg> <del rend="overstrike">Approach them with 
+            neither urge the opening of themselves nor resist it.—</seg><metamark function="transpose" xml:id="tr20"/> <seg xml:id="tr17">(The heart of man alone is the one unbalanced and restless thing in the world)</seg></ab>
+    <ab><seg xml:id="seg03"><del rend="overstrike">And the</del> For their birth you need not the obstetric <del rend="overwrite">or</del>forceps of the surgeon.</seg>
+        <listTranspose>
+            <transpose>
+                <ptr target="#seg03"/>
+                <ptr target="#tr17"/>
+            </transpose>
+        </listTranspose><del rend="overstrike">Approach them with 
     love</del> They <del rend="overstrike"><add rend="insertion" place="supralinear">perhaps</add></del> unfold to you and emit them<add rend="insertion" place="supralinear">selves,</add>
     more fragrant than roses from <subst><del rend="overstrike" seq="1">their</del> <add rend="unmarked" place="supralinear" seq="2">living</add></subst> buds, 
     <subst><del rend="overstrike" seq="1">if</del> <add rend="unmarked" place="supralinear" seq="2">whenever</add></subst> you fetch <del rend="overstrike">in yourself</del> 
@@ -243,7 +266,7 @@ incarnate to me the</ab>
         <add rend="insertion" place="supralinear">moistened with</add> summer rain.—But it must be in yourself.—It shall come<anchor xml:id="d7"/>
         
         <pb xml:id="leaf009r" facs="loc_jc.01671.jpg" type="recto"/>
-        <delSpan rend="hashmark" spanTo="#d8"/>from your soul.—It shall be love.—</ab></transpose>
+        <delSpan rend="hashmark" spanTo="#d8"/>from your soul.—It shall be love.—</ab>
         <milestone unit="undeclared" rend="horbar-full"/>
         <ab xml:id="q12">We hear of miracles.—But what is there that is not a miracle? <del rend="overstrike">What</del> <del rend="overstrike">Of</del> <subst><del rend="overwrite" seq="1">w</del><add rend="overwrite" place="over" seq="2">W</add></subst>hat <subst><del rend="overstrike" seq="1">can</del> <add rend="unmarked" place="supralinear" seq="2">may</add></subst>
       you conceive of or <subst><del rend="overstrike" seq="1">propound</del> <add rend="unmarked" place="supralinear" seq="2">name</add></subst> to me in the future, 
@@ -256,19 +279,25 @@ incarnate to me the</ab>
         <pb xml:id="leaf009v" facs="loc_jc.01672.jpg" type="verso"/>
     <delSpan rend="hashmark" spanTo="#d9"/><ab xml:id="ab04">We know that sympathy or love is the law <subst><del rend="overstrike" seq="1">of</del> <add rend="unmarked" place="supralinear" seq="2">over</add></subst> all laws, because in nothing else but love <subst><del rend="overstrike" seq="1">does</del> <add rend="unmarked" place="supralinear" seq="2">is</add></subst> the soul conscious of pure happiness, which <subst><del rend="overstrike" seq="1">is</del> <add rend="unmarked" place="supralinear" seq="2">appears to be</add></subst> the ultimate resting place <del rend="overstrike">of</del> and point of all things.—</ab>
     <milestone unit="undeclared" rend="horbar-full"/>
-    <transpose anchored="1" target="#tr06"><ab xml:id="ab21"><metamark function="transpose" place="inline" target="#ab21">*</metamark> of the whole world <del rend="overstrike">to</del> come to me.—<add rend="unmarked" place="interlinear">with silence and with swiftness.—In an instant</add> <del rend="overstrike">I ma</del> <del rend="overstrike">Then</del> make I fluid and draw to myself, <del rend="overstrike">however dense</del> <add rend="insertion" place="supralinear">keeping each to its distinct isolation, and no hubbub or <del rend="overstrike">jam or</del> confusion, or jam,</add> the whole of physical nature, though rocks are dense and hills are ponderous, and the stars are <subst><del rend="overstrike" seq="1">far</del> <add rend="unmarked" place="supralinear" seq="2">away</add></subst> off sextillions of miles.—All the years of all the beings that have ever <del rend="overstrike">life</del> lived on the earth,</ab></transpose> <metamark function="transpose" place="inline" target="#ab22" xml:id="tr07">*</metamark>
+    <ab xml:id="ab21"><metamark function="transpose" place="inline" target="#ab21">*</metamark> of the whole world <del rend="overstrike">to</del> come to me.—<add rend="unmarked" place="interlinear">with silence and with swiftness.—In an instant</add> <del rend="overstrike">I ma</del> <del rend="overstrike">Then</del> make I fluid and draw to myself, <del rend="overstrike">however dense</del> <add rend="insertion" place="supralinear">keeping each to its distinct isolation, and no hubbub or <del rend="overstrike">jam or</del> confusion, or jam,</add> the whole of physical nature, though rocks are dense and hills are ponderous, and the stars are <subst><del rend="overstrike" seq="1">far</del> <add rend="unmarked" place="supralinear" seq="2">away</add></subst> off sextillions of miles.—All the years of all the beings that have ever <del rend="overstrike">life</del> lived on the earth,</ab>
+        <listTranspose>
+            <transpose>
+                <ptr target="#ab21"/>
+                <ptr target="#ab04"/>
+            </transpose>
+        </listTranspose><metamark function="transpose" place="inline" target="#ab22" xml:id="tr07">*</metamark>
 
     <anchor xml:id="d9"/>
     
         <pb xml:id="leaf010r" facs="loc_jc.01673.jpg" type="recto"/>
     <ab>If the light of a half day dawn were arrested, and held so for a thousand years</ab>
-        <transpose anchored="1" target="tr08"><ab><del rend="overstrike">How</del></ab>
+        <ab xml:id="tr30"><del rend="overstrike">How</del>
     <milestone unit="undeclared" rend="horbar-full"/>
-    <delSpan rend="hashmark" spanTo="#d10"/><l xml:id="li25">And <del rend="overstrike">wrote</del> chalked on a <del rend="overstrike">great</del> <lb/>board, <hi rend="underline">Be of good cheer, we <lb/>will not desert you</hi>, <lb/>and held it up <del rend="overstrike">as they <lb/>to against the</del> and did it;</l><anchor xml:id="d10"/></transpose>
+    <delSpan rend="hashmark" spanTo="#d10"/><l xml:id="li25">And <del rend="overstrike">wrote</del> chalked on a <del rend="overstrike">great</del> <lb/>board, <hi rend="underline">Be of good cheer, we <lb/>will not desert you</hi>, <lb/>and held it up <del rend="overstrike">as they <lb/>to against the</del> and did it;</l><anchor xml:id="d10"/></ab>
     <milestone unit="undeclared" rend="horbar-full"/>
-    <ab>The thin swift passing clouds like lace, blown overhead during a storm are called the <hi rend="underline">flying scud</hi></ab>
+    <ab xml:id="tr31">The thin swift passing clouds like lace, blown overhead during a storm are called the <hi rend="underline">flying scud</hi></ab>
         <milestone unit="undeclared" rend="horbar-full"/>    
-       <ab><del rend="overstrike">If</del> Let us suppose <del rend="overstrike">for fo</del> that all the most rational people of the world had gone no further than children of twelve years old—or, as this seems forced, suppose the utmost advance yet made was the advance of the Camanches and kindred peoples of</ab></div2>
+       <ab xml:id="tr32"><del rend="overstrike">If</del> Let us suppose <del rend="overstrike">for fo</del> that all the most rational people of the world had gone no further than children of twelve years old—or, as this seems forced, suppose the utmost advance yet made was the advance of the Camanches and kindred peoples of</ab></div2>
     
     <div2>
         <relations>
@@ -279,8 +308,10 @@ incarnate to me the</ab>
                 <p><ref type="text" xml:id="r15" target="#l13">A line</ref> in this segment is similar to a line that appeared in "<ref target="yal.00081.html">Pictures</ref>": "This is the queen on her way to the scaffold—those are guillotines."</p>
             </work>
         </relations>
+        
+        
         <pb xml:id="leaf010v" facs="loc_jc.01674.jpg" type="verso"/>
-    <ab>The Poet</ab>
+    <ab xml:id="tr33">The Poet</ab>
     <delSpan rend="hashmark" spanTo="#d11"/><lg xml:id="lg2">
         <l xml:id="l01">All the <del rend="overstrike">greatness</del> <del rend="overstrike">and beau</del> <add rend="unmarked" place="supralinear">large hearts of heroes,</add></l>
     <l xml:id="l02">All the courage of olden time and <add rend="unmarked" place="supralinear">new</add></l> 
@@ -288,6 +319,20 @@ incarnate to me the</ab>
         <l xml:id="l04"><del rend="overstrike">did when they</del> <add rend="insertion" place="interlinear">How they waited, their craft</add> shooting <subst><del rend="overstrike" seq="1">madly</del> <add rend="unmarked" place="interlinear" seq="2">like an arrow</add></subst> up and down <del rend="overstrike">in</del> the storm.</l>
         <l xml:id="l05"><subst><del rend="overstrike" seq="1">And in that deadly sea waited five</del> <add rend="unmarked" place="supralinear" seq="2"><add rend="insertion" place="supralinear">How they</add> gripped close with Death <add rend="insertion" place="supralinear">there</add> on the sea, and gave him not one inch, but held on</add></subst> <lb/>day<del rend="overstrike">s</del> and night<del rend="overstrike">s</del> <del rend="overstrike">near the helpless <add rend="insertion" place="supralinear">fogged<!--Grier says ragged--> great</add> wreck,</del></l>
         <metamark function="transpose" place="left" target="#li25" xml:id="tr08">* <hi rend="circled">over leaf</hi></metamark>
+        <listTranspose>
+            <transpose>
+                <ptr target="#tr31"/>
+                <ptr target="#tr32"/>
+                <ptr target="#tr33"/>
+                <ptr target="#l101"/>
+                <ptr target="#l102"/>
+                <ptr target="#l103"/>
+                <ptr target="#l104"/>
+                <ptr target="#l105"/>
+                <ptr target="#tr30"/>
+            </transpose>
+        </listTranspose>
+        
     <l xml:id="l06">How the <add rend="insertion" place="supralinear">lank</add> white faced women looked <lb/><subst><del rend="overstrike" seq="1">as they</del> <add rend="unmarked" place="supralinear" seq="2">when</add></subst> ferried <del rend="overstrike">them</del> safely at last <lb/>as from <add rend="insertion" place="supralinear">the sides</add> their <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#no" cert="low">waiting</unclear></del> <add rend="unmarked" place="supralinear" seq="2">prepared</add></subst> graves</l>
     <l xml:id="l07">How the children, and the <add rend="insertion" place="supralinear">lifted</add> sick, and <lb/>the sharp-lipped, unshaved men;</l>
         <l xml:id="l08">All this <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> <subst><del rend="overstrike" seq="1">drinks</del> <add rend="unmarked" place="supralinear" seq="2">swallow<del rend="overstrike">s</del></add></subst> in <subst><del rend="overstrike" seq="1"> his</del> <add rend="unmarked" place="supralinear" seq="2">my</add></subst> <lb/>soul, and it becomes <subst><del rend="overstrike" seq="1">his</del> <add rend="unmarked" place="supralinear" seq="2">mine,</add></subst> <lb/>and <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> likes it well,</l>
@@ -337,8 +382,8 @@ incarnate to me the</ab>
     <l>What will you have of us.</l></lg>
     <milestone unit="undeclared" rend="horbar-full"/></div2>
     <div2>
-        <!--Following Grier in designating the anchor location for this transpose, some pages earlier.-->
-        <transpose anchored="1" target="#tr07"><ab xml:id="ab22"><metamark function="transpose" place="left">*</metamark> with all the science and genius, <del rend="overstrike">for implements,</del> <del rend="overstrike">were</del> were nobly occupied in <add rend="unmarked" place="supralinear">the</add> <del rend="overstrike">single</del> employment of investigating this <del rend="overstrike">one</del> single <subst><del rend="overstrike" seq="1">abstract one minute</del> <add rend="unmarked" place="supralinear" seq="2"> minute</add></subst> of my life</ab></transpose>
+        <!-- Following Grier in designating the  location for this transpose: the below chunk, ab22, is transposed many pages earlier, to the metamark xml:id=tr07 at the bottom of leaf009verso.  Our encoding, adhering to the TEI rules for transpose, cannot reflect a move of such a great distance, hopping over other intervening transpositions.-->
+        <ab xml:id="ab22"><metamark function="transpose" place="left">*</metamark> with all the science and genius, <del rend="overstrike">for implements,</del> <del rend="overstrike">were</del> were nobly occupied in <add rend="unmarked" place="supralinear">the</add> <del rend="overstrike">single</del> employment of investigating this <del rend="overstrike">one</del> single <subst><del rend="overstrike" seq="1">abstract one minute</del> <add rend="unmarked" place="supralinear" seq="2"> minute</add></subst> of my life</ab>
     </div2>
     <pb xml:id="leaf013r" facs="loc_jc.01679.jpg" type="recto"/>
     <div2>
