@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.00354">
-	<!--<relations>
-		<work ref="xxx.00001" cert="high">
+	<!-- 
+		<note type="work_relations" target="xxx.00001" cert="high">
 			<p>Scholars have noted that many of the passages in this notebook contributed to "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>. The poem was later retitled "Starting from Paumanok." See William White, <hi rend="italic">Daybooks and Notebooks</hi> (New York: New York University Press, 1978), 3:777&#8211;803.</p>
             <p></p>
-		</work>
-	</relations>-->
+		</note>
+	 -->
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -20,6 +20,8 @@
 					<persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="bb">Brett Barney</persName>
 				<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+					<persName xml:id="km">Kevin McMullen</persName>
+				</respStmt>
 				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
 				<sponsor>University of Iowa</sponsor>
 				<funder>The National Endowment for the Humanities</funder>
@@ -53,6 +55,10 @@
         <note type="project" target="#dat1">This notebook contains several dated entries, all of which suggest that it was inscribed during the fall of 1856. On the recto of leaf 3 is a quotation taken from the <hi rend="italic">New York Express,</hi> dated  "Oct. 21, 1856"; on the verso of leaf 44 is the inscription "A. Brownson [sic] Alcott Oct. 4th '56"; and the inside back cover shows the date 16th Sept. Fredson Bowers has speculated, based on the locations of the dated entries, that all of the material that contributed to Whitman's poetry was written sometime after 21 October 1856. (See Bowers, <hi rend="italic">Whitman's Manuscripts:</hi> Leaves of Grass <hi rend="italic">[1860] A Parallel Text</hi> [Chicago: The University of Chicago Press, 1955], xxxiii–li, 40–56.) It is of course possible, however, that parts of the notebook were inscribed before and/or after the dated entries. Much of the notebook is devoted to draft material for the 1860 poem eventually titled "Starting from Paumanok," and one brief passage (on the verso of leaf 25) seems clearly to have contributed to "Song at Sunset," another 1860 poem. Two passages suggest possible (though less certain) connections to poems that appeared in earlier editions of <hi rend="italic">Leaves of Grass.</hi> On the verso of the sixteenth leaf is a passage with similarities to the 1856 poem eventually titled "Miracles," and on the recto of the fifth leaf are lines that might have contributed to the first poem of the 1855 <hi rend="italic">Leaves of Grass</hi>, ultimately titled "Song of Myself." 
 <lb/><lb/>
 This is one of several notebooks that Whitman filled from both ends. That is, rather than choosing one cover as the "front" and writing all the way through to the "back," Whitman treated both covers as "fronts," with the result that about half of the pages are inscribed upside-down relative to the other pages. It is unclear which pages were inscribed first; furthermore, several of the leaves have become detached and seem to have been moved to different positions over the years by those examining the notebook. For this reason, we have chosen to base our ordering of the pages on Fredson Bowers's transcription, since it offers the earliest account of the notebook's state. It should be noted that this ordering differs significantly from the current disposition of the notebook and that both of these also differ from the ordering in the transcription of William White, <hi rend="italic">Daybooks and Notebooks</hi> (New York: New York University Press, 1978), 3:777–803. Note also that some of the page images have been rotated to make them easily readable.</note>
+				<!-- This note was commented out at the top of the file; in updating the encoding for   I have moved the note here and updated the encoding, but am leaving it commented out. KM, 4/14/22 -->
+					<!--<note type="work_relations" target="xxx.00001" cert="high">
+						<p>Scholars have noted that many of the passages in this notebook contributed to "Proto-Leaf," the first poem of the 1860&#8211;1861 edition of <hi rend="italic">Leaves of Grass</hi>. The poem was later retitled "Starting from Paumanok." See William White, <hi rend="italic">Daybooks and Notebooks</hi> (New York: New York University Press, 1978), 3:777&#8211;803.</p>
+					</note>-->
 			</notesStmt>
 			<sourceDesc>
 				<bibl>
@@ -72,6 +78,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 			</handNotes>
 		</profileDesc>
 		<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
+			<change when="2022-04-14" who="#km">updated relations encoding</change>
 			<change when="2019-12-04" who="#bb">corrected location from Harned to Feinberg Collection</change>
 			<change when="2017-11-20" who="#nhg">added inline relations information for leaf 5 recto</change>
             <change when="2016-10-18" who="#nhg">changes and corrections based on Ken's proofreading</change>
@@ -298,11 +305,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf005r" facs="20051105_0600.jpg" type="recto"/>
 	<div1>
 	<lg type="poem">
-                <relations>
-                  <work ref="xxx.00048" cert="low">
+                  <note type="work_relations" target="xxx.00048" cert="low">
                     <p>This passage is possibly related to the following line of the first poem in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Song of Myself": "It is for the illiterate . . . . it is for the judges of the supreme court . . . . it is for the federal capitol and the state capitols."</p> 
-                  </work>
-                </relations>
+                  </note>
+                
       <lg type="linegroup">
 		<l>Lo</l>
       </lg>
@@ -341,11 +347,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf007r" facs="20051105_0596.jpg" type="recto"/>
 	<delSpan spanTo="#a28" rend="hashmark"/>
 	<div1 type="prose">
-		<relations>
-			<work ref="xxx.00047" cert="high">
+		 
+			<note type="work_relations" target="xxx.00047" cert="high">
 				<p>Several words and phrases in the following lines suggest that they constitute an early draft of a passage in "Proto-Leaf," the first poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass,</hi> later retitled "Starting from Paumanok." The published lines begin "Whoever you are! to you endless announcements" and include addresses "Toward the male of The States, and toward the female of The States" as well as "Toward the President, the Congress . . . ." Several other versions of this passage are scattered throughout this notebook.</p>
-			</work>
-		</relations>
+			</note>
+		 
 	<lg type="poem">
 		<head type="main" rend="circled">Proem</head>
 		<head type="sub"><add rend="insertion" place="supralinear">Preface of</add> Endless Announcements<ref xml:id="q02" target="xxx.00047"/></head>
@@ -367,11 +373,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	</lg>
 	</div1>
     <div1 type="notes">
-		<relations>
-			<work ref="xxx.00047" cert="high">
+			<note type="work_relations" target="xxx.00047" cert="high">
 				<p>This brief note apparently shows Whitman experimenting with the opening phrase and/or title of the passage above. Like that and many other entries in this notebook, this note constitutes draft material toward "Proto-Leaf," the introductory poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi> (in later editions retitled "Starting from Paumanok"), which contains the line "Whoever you are! to you endless announcements."</p>
-			</work>
-		</relations>
+			</note>
+		
 
       <span rend="bracketed" xml:id="s3" from="#s3" to="#s4"/>
 	  <ab>Proem</ab>
@@ -429,11 +434,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 		<milestone unit="undeclared" rend="horbar-full"/>
   <div1 type="verse">		
 	<lg type="poem">
-                <relations>
-                  <work ref="xxx.00047" cert="high">
+                  <note type="work_relations" target="xxx.00047" cert="high">
                     <p>These lines contributed to the opening lines of "Proto-Leaf," the first poem in the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Starting from Paumanok."</p> 
-                  </work>
-                </relations>
+                  </note>
+                
 		<l>Savage and strong,</l>
 		<l>
 			Free, luxuriant, im<space dim="horizontal" atLeast="2" unit="chars" extent="about one word"/>,<lb/>
@@ -479,11 +483,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf009v" facs="loc_bb.00028.jpg" type="verso"/>
 
 	    <div1 type="section">
-		<relations>
-			<work ref="xxx.00047" cert="high">
+			<note type="work_relations" target="xxx.00047" cert="high">
 				<p><ref xml:id="r11" target="#q03">The phrase</ref> "Endless Announcements" in the following passage seems to be related to the following line from "Proto-Leaf," the introductory poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi> (in later editions retitled "Starting from Paumanok"): "Whoever you are! to you endless announcements."</p>
-			</work>
-		</relations>
+			</note>
+		
 		<ab>(Simply</ab>
 		<ab>Endless Announcements<ref xml:id="q03" target="xxx.00047"/></ab>
 		<ab rend="circled">nothing more<lb/><metamark function="unknown">☝</metamark></ab>
@@ -574,11 +577,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	<milestone unit="undeclared" rend="horbar-full"/>
     <div1 type="verse">
       <lg type="poem">
-		<relations>
-			<work ref="xxx.00047" cert="high">
+			<note type="work_relations" target="xxx.00047" cert="high">
 				<p>The following passage is one of several drafts in this notebook of the following line from "Proto-Leaf," the introductory poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>: "Whoever you are! to you endless announcements." The poem was later retitled "Starting from Paumanok."</p>
-			</work>
-		</relations>
+        </note>
+        
 		<addSpan spanTo="#a30" rend="unmarked" place="inline"/><l>
 			To you, <del rend="overstrike">endless</del> endless announ<add rend="unmarked" place="supralinear">cements</add></l><anchor xml:id="a30"/>
 			<l><del rend="overstrike">To</del> <del rend="overstrike">You</del> whoever you are, I<lb/>
@@ -591,12 +593,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 
 <pb xml:id="leaf011v" facs="20051105_0590.jpg" type="verso"/>
 	<div1 type="verse">
-		<relations>
-			<work ref="xxx.00047" cert="high">
+			<note type="work_relations" target="xxx.00047" cert="high">
 				<p><ref type="text" xml:id="r04" target="#q04 #q09">The phrases</ref> "To you, endless announcements!" and "Whoever you are" were used, with slight modifications, in a late passage of "Proto-Leaf," the first poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass.</hi> The poem was later retitled "Starting from Paumanok."</p>
                 <p><ref type="text" xml:id="r09" target="#q10">The later lines in this passage</ref> contributed to the opening lines of the same poem.</p>
-			</work>
-		</relations>
+			</note>
+		
 	<delSpan spanTo="#a26" rend="hashmark"/>
 	<lg type="poem">
 		<head type="main-authorial">Premonition</head>
@@ -634,11 +635,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	<milestone unit="undeclared" rend="horbar-full"/>
 	<delSpan spanTo="#a25" rend="hashmark"/>
     <div1 type="verse">
-		<relations>
-			<work ref="xxx.00047" cert="high">
+			<note type="work_relations" target="xxx.00047" cert="high">
                 <p>These lines constitute a draft of the opening passage of "Proto-Leaf," the first poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass,</hi> later retitled "Starting from Paumanok."</p>
-			</work>
-		</relations>
+			</note>
+		
 	<lg type="poem">
 		<delSpan spanTo="#d6" rend="overstrike"/><metamark function="undeclared" place="left">*</metamark><anchor xml:id="d6"/><l> Free, savage, strong,</l>
 		<l>
@@ -667,11 +667,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf013r" facs="20051105_0587.jpg" type="recto"/>
 	<div1 type="verse"><delSpan rend="hashmark" spanTo="#a263"/>
 	<lg type="poem">
-		<relations>
-			<work ref="xxx.00047" cert="high">
+			<note type="work_relations" target="xxx.00047" cert="high">
 				<p>These lines probably contributed to "Proto-Leaf," the introductory poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass.</hi> The published lines read, "Inextricable lands! the clutched together! the passionate lovers! / The side by side! the elder and younger brothers! the bony-limbed! / The great women's land! the feminine! the experienced sisters and the inexperienced sisters!"</p>
-			</work>
-		</relations>
+			</note>
+		
 		<l>O inter<subst><del rend="overwrite" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">sect</unclear></del><add rend="overwrite" place="over" seq="2">twined</add></subst> lands!</l>
 		<l>O land of <subst><del rend="overwrite" seq="1">a</del><add rend="overwrite" place="over" seq="2">the</add></subst> future!</l>
 		<l><del rend="overstrike">This</del></l>
@@ -712,11 +711,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	<delSpan spanTo="#a20" rend="hashmark"/>
      <div1 type="verse">
 	 <lg type="poem">
-		<relations>
-			<work ref="xxx.00047" cert="high">
+			<note type="work_relations" target="xxx.00047" cert="high">
 				<p>These lines contributed to the following passage of "Proto-Leaf," the introductory poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>: "Far breath'd land! Arctic braced! Mexican breezed! the diverse! the compact! [. . . ] O I cannot be discharged from you! / O Death! O for all that, I am yet of you, unseen, this hour, with irrepressible love." The poem was later retitled "Starting from Paumanok."</p>
-			</work>
-		</relations>
+			</note>
+		
 		<l><gap reason="torn away" atLeast="2" unit="chars" extent="at least one line"/></l>
 
 		<l>
@@ -752,12 +750,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 
 <pb xml:id="leaf014v" facs="20051105_0584.jpg" type="verso"/>
 			<div1 type="verse">
-				<relations>
-					<work ref="xxx.00047" cert="high">
+					<note type="work_relations" target="xxx.00047" cert="high">
 						<p><ref xml:id="r12" type="text" target="#q13">The first two groups of lines on this page</ref> contributed to the following passage of "Proto-Leaf," the first poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>: "This then is life, / Here is what has come to the surface after so many / throes and convulsions. / How curious! How real! / Underfoot the divine soil—Overhead the sun." The poem was later retitled "Starting from Paumanok."</p>
                         <p><ref type="text" xml:id="r13" target="#q14">The third group of lines</ref> seems to have contributed to a slightly later passage of the same poem: "Take my leaves, America! / Make welcome for them everywhere, for they are your own offspring"</p>
-					</work>
-				</relations>
+					</note>
+				
 	<delSpan rend="hashmark" spanTo="#d01"/>
 	<lg type="poem">
 		<l><gap reason="cut away" atLeast="1" unit="chars"/></l>
@@ -875,11 +872,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
   <div1 type="verse">
 	<delSpan spanTo="#a18" rend="hashmark"/>
 	<lg type="poem">
-				<relations>
-					<work ref="xxx.00047" cert="low">
+					<note type="work_relations" target="xxx.00047" cert="low">
 						<p>It is possible that the lines on this page contributed to a passage of the poem "Proto-Leaf," which was published in the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi> and later retitled "Starting from Paumanok." Among the parallels between the two are references to "the Louisianian," "the Georgian," "the Mississippian," and "[the] Arkansian."</p>
-					</work>
-				</relations>
+					</note>
+				
 		<l>
 			The <add rend="insertion" place="supralinear"><subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#kc">p</unclear></del> <add rend="unmarked" place="inline" seq="2">man or woman of</add></subst></add> Texa<subst><del rend="overwrite" seq="1">n</del><add rend="overwrite" place="over" seq="2">s</add></subst>, the Lousianian<lb/>
 			<add rend="unmarked" place="inline">the</add> Flori<subst><del rend="overwrite" seq="1"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del><add rend="overwrite" place="over" seq="2">dian</add></subst>, <add rend="unmarked" place="supralinear">the</add> Georgian<lb/>
@@ -924,13 +920,13 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
   <div1 type="verse">
 	<delSpan spanTo="#a17" rend="hashmark"/>
 	<lg type="poem">
-				<relations>
-					<work ref="xxx.00243" cert="low">
+				 
+					<note type="work_relations" target="xxx.00243" cert="low">
 						<p><ref type="text" xml:id="r14" target="#q15">The first passage</ref> on this page is perhaps related to "Poem of Perfect Miracles," published in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi> After much revision, the poem was eventually retitled "Miracles," though by that time the relevant line ("Or the admirable sight of the perfect old man, or the perfect old woman") had been deleted.</p>
-					</work>
-                    <work ref="xxx.00047" cert="high">
-                        <p><ref type="text" xml:id="r15" target="#q16">The second passage</ref> on this page probably represents an early draft of the following line of "Proto-Leaf," the first poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>: "And sexual organs and acts! do you concentrate in me—For I am determined to tell you with courageous clear voice, to prove you illustrious." The poem was later retitled "Starting from Paumanok."</p></work>
-				</relations>
+					</note>
+                    <note type="work_relations" target="xxx.00047" cert="high">
+                        <p><ref type="text" xml:id="r15" target="#q16">The second passage</ref> on this page probably represents an early draft of the following line of "Proto-Leaf," the first poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>: "And sexual organs and acts! do you concentrate in me—For I am determined to tell you with courageous clear voice, to prove you illustrious." The poem was later retitled "Starting from Paumanok."</p></note>
+				 
 		<l>
 			You old man and old woman;<lb/>
 			for they <subst><del rend="overstrike" seq="1">know</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="inline" seq="2">see</add></del> <add rend="unmarked" place="supralinear" seq="3">would show</add></subst> that<lb/>
@@ -954,10 +950,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf017r" facs="20051105_0579.jpg" type="recto"/>
 	<div1 type="verse">
 	<lg type="poem">
-				<relations>
-                    <work ref="xxx.00047" cert="low">
-                        <p>These lines are perhaps related to a passage in the poem "Proto-Leaf," published in the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>, which celebrates "the lands" of the U.S., including many of the states listed here, as well as "Land of Ontario, Erie, Huron, Michigan!"</p></work>
-				</relations>
+				 
+                    <note type="work_relations" target="xxx.00047" cert="low">
+                        <p>These lines are perhaps related to a passage in the poem "Proto-Leaf," published in the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>, which celebrates "the lands" of the U.S., including many of the states listed here, as well as "Land of Ontario, Erie, Huron, Michigan!"</p></note>
+				 
 	<delSpan rend="hashmark" spanTo="#d4"/>
 		<l>
 			The Tennessee-man and<lb/>
@@ -1000,10 +996,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	<delSpan spanTo="#a16" rend="hashmark"/>
 	<div1 type="verse">
 	<lg type="poem">
-				<relations>
-                    <work ref="xxx.00047" cert="high">
-                        <p><ref type="text" xml:id="r16" target="#q17">The first line of this draft</ref> is one of several versions in this notebook of a line that appeared in the 1860–1861 <hi rend="italic">Leaves of Grass</hi> poem "Proto-Leaf," later retitled "Starting from Paumanok": "Whoever you are! to you endless announcements."</p></work>
-				</relations>
+				 
+                    <note type="work_relations" target="xxx.00047" cert="high">
+                        <p><ref type="text" xml:id="r16" target="#q17">The first line of this draft</ref> is one of several versions in this notebook of a line that appeared in the 1860–1861 <hi rend="italic">Leaves of Grass</hi> poem "Proto-Leaf," later retitled "Starting from Paumanok": "Whoever you are! to you endless announcements."</p></note>
+				 
 		<l>To you endless an<ref xml:id="q17" target="xxx.00047"/></l>
 		<l>
 			To you, these, to<lb/>
@@ -1061,10 +1057,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	<delSpan spanTo="#a15" rend="hashmark"/>
   <div1 type="verse">
 	<lg type="poem">
-				<relations>
-                    <work ref="xxx.00047" cert="high">
-                        <p>This appears to be an early version of a line of the poem "Proto-Leaf" in the 1860–1861 edition of <hi rend="italic">Leaves of Grass,</hi> in which the poet says of "the S<hi rend="smallcaps">OUL</hi>," "Forever and forever—Longer than soil is brown and solid—Longer than water ebbs and flows."</p></work>
-				</relations>
+				 
+                    <note type="work_relations" target="xxx.00047" cert="high">
+                        <p>This appears to be an early version of a line of the poem "Proto-Leaf" in the 1860–1861 edition of <hi rend="italic">Leaves of Grass,</hi> in which the poet says of "the S<hi rend="smallcaps">OUL</hi>," "Forever and forever—Longer than soil is brown and solid—Longer than water ebbs and flows."</p></note>
+				 
 	<milestone unit="undeclared" rend="horbar-full"/>
 		<l>
 			As long as the earth<lb/>
@@ -1076,11 +1072,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	<milestone unit="undeclared" rend="horbar-full"/>
   <div1 type="verse">
 	<lg type="poem">
-                <relations>
-                  <work ref="xxx.00047" cert="high">
+                 
+                  <note type="work_relations" target="xxx.00047" cert="high">
                     <p>These lines contributed to the opening lines of "Proto-Leaf," the first poem in the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Starting from Paumanok."</p> 
-                  </work>
-                </relations>
+                  </note>
+                 
 		<l>Free, savage, strong</l>
 		<l>Cheerful, luxuriant, fluent, self-sufficient,</l>
 		<l>
@@ -1104,11 +1100,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	<div1 type="verse">
 	<delSpan rend="hashmark" spanTo="#d1"/>
 	<lg type="poem">
-                <relations>
-                  <work ref="xxx.00047" cert="high">
+                 
+                  <note type="work_relations" target="xxx.00047" cert="high">
                     <p>These lines contributed to the third line of "Proto-Leaf," which was first published in the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi> and later titled "Starting from Paumanok." The published line reads, "Fond of fish-shape Paumanok, where I was born."</p> 
-                  </work>
-                </relations>
+                  </note>
+                 
 		<l>Listen to me,</l>
 		<l>
 			Out from Paumanok, where<lb/>
@@ -1136,11 +1132,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 
 	<delSpan rend="hashmark" spanTo="#d2"/>
 	<lg type="poem">
-                <relations>
-                  <work ref="xxx.00047" cert="high">
+                 
+                  <note type="work_relations" target="xxx.00047" cert="high">
                     <p>These lines contributed to the opening lines of "Proto-Leaf," the first poem in the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Starting from Paumanok."</p> 
-                  </work>
-                </relations>
+                  </note>
+                 
 		<l>Free, Savage, and strong,</l>
 		<l>
 			<del rend="overstrike">Primal</del>, <subst><del rend="overstrike" seq="2"><add rend="insertion" place="supralinear" seq="1">arrogant</add></del> <add rend="unmarked" place="supralinear" seq="3">coarse</add></subst> luxuriant, <del rend="overstrike">coarse, and</del><lb/>
@@ -1164,11 +1160,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	<delSpan spanTo="#a14" rend="hashmark"/>
 	<div1 type="poetry">
 	<lg type="poem">
-                <relations>
-                  <work ref="xxx.00047" cert="high">
+                 
+                  <note type="work_relations" target="xxx.00047" cert="high">
                     <p>This draft appears to consist of several versions of lines that Whitman used in the poem "Proto-Leaf," first published in the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>: "How curious! How real! / Underfoot the divine soil—Overhead the sun." The poem was eventually retitled "Starting from Paumanok."</p> 
-                  </work>
-                </relations>
+                  </note>
+                 
 	<lg type="linegroup">
 		<l>Fille'd fill'd with <add rend="unmarked" place="supralinear">such</add> <del rend="overstrike">wonders</del></l>
 		<l>Over<add rend="unmarked" place="supralinear">-</add>head, <subst><del rend="overstrike" seq="1">how</del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> splendid <del rend="overstrike">the</del> sun!</l>
@@ -1217,11 +1213,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf023v" facs="20051105_0549.jpg" type="verso"/>
 	<div1 type="verse">
 	  <lg type="poem">
-                <relations>
-                  <work ref="xxx.00047" cert="high">
+                 
+                  <note type="work_relations" target="xxx.00047" cert="high">
                     <p><ref type="text" xml:id="r03" target="#q12">The first line of this draft, "How curious . . . real earth!"</ref> represents an early version of the lines "How curious! How real! / Underfoot the divine soil—Overhead the sun," which appeared in "Proto-Leaf," the first poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass.</hi></p> 
-                  </work>
-                </relations>
+                  </note>
+                 
         <l>
 			How curious is the brown<lb/>
 			<del rend="overstrike">wo</del> real earth!<ref xml:id="q12" target="xxx.00047"/>
@@ -1286,16 +1282,16 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 
 	<div1 type="verse">
 	<lg type="poem">	
-		<relations>
-			<work ref="xxx.00047" cert="high">
+		 
+			<note type="work_relations" target="xxx.00047" cert="high">
 				<p><ref type="text" xml:id="r05" target="#q18">The first two lines</ref> of this draft ("Forever and Thy soul! . . . water ebbs and flows") contributed to the following lines of "Proto-Leaf," the poem that introduced the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>: "The SOUL! / Forever and forever—Longer than soil is brown and solid—Longer than water ebbs and flows." The poem was later retitled "Starting from Paumanok."</p>
 				<p><ref type="text" xml:id="r08" target="#q08">The line</ref> "Life,—how curious! how real" contributed to another line that occurs earlier in the same poem: "How curious! How real!"</p>
                 <p><ref type="text" xml:id="r07" target="#q20">The final two lines of this draft,</ref> "Underfoot, the divine soil, / Overhead, the sun," were also used in "Proto-Leaf," placed immediately after "How curious! How real!"</p>
-			</work>
-			<work ref="xxx.00297" cert="high">
+			</note>
+			<note type="work_relations" target="xxx.00297" cert="high">
 				<p><ref type="text" xml:id="r06" target="#q19">The lines</ref> "Space and time . . . animals, identity, eyesight" probably led to a passage in the eighth "Chants Democratic" poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song at Sunset." The passage begins, "Illustrious every one!" and concludes, "To breathe the air, how delicious!"</p>
-			</work>
-		</relations>
+			</note>
+		 
 	<delSpan rend="hashmark" spanTo="#d3"/>
 	<head type="main"><add rend="unmarked" place="supralinear">Forever and</add> Thy soul!</head>	
 		<l><del rend="overstrike">To c<unclear reason="illegible" cert="low" resp="#kc">ons</unclear></del></l>
@@ -1341,9 +1337,9 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf026r" facs="20051105_0564.jpg" type="recto"/>
 	<delSpan spanTo="#a13" rend="hashmark"/>
 	<div1 type="verse">
-		<relations>
-			<work ref="xxx.00048" cert="low"><p>There is a distant possibility that this passage relates to the following line in the poem eventually titled "Song of Myself": "Eleves I salute you" (1855, p. 44).</p></work>
-		</relations>
+		 
+			<note type="work_relations" target="xxx.00048" cert="low"><p>There is a distant possibility that this passage relates to the following line in the poem eventually titled "Song of Myself": "Eleves I salute you" (1855, p. 44).</p></note>
+		 
 	<lg type="poem">
 		<l>
 			<gap reason="torn away" atLeast="1" unit="chars" extent="several words"/><lb/>
@@ -1371,11 +1367,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 	<milestone unit="undeclared" rend="horbar-full"/>
 	<div1 type="verse">
 	<lg type="poem">
-                <relations>
-                  <work ref="xxx.00047" cert="high">
+                 
+                  <note type="work_relations" target="xxx.00047" cert="high">
                     <p><ref type="text" xml:id="r10" target="#q11">The first line of this draft, "How real . . . upon the ground;"</ref> represents an early version of the lines "How curious! How real! / Underfoot the divine soil—Overhead the sun," which appeared in "Proto-Leaf," the first poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass.</hi></p> 
-                  </work>
-                </relations>
+                  </note>
+                 
 		<l>
 			How real is the ground!<lb/>
 			Come let us <del rend="overstrike">p</del> set<lb/>
@@ -1436,12 +1432,12 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 
 <pb xml:id="leaf028r" facs="20051105_0560.jpg" type="recto"/>
 	<div1 type="verse">
-		<relations>
-			<work ref="xxx.00047" cert="high">
+		 
+			<note type="work_relations" target="xxx.00047" cert="high">
 				<p><ref type="text" xml:id="r01" target="#q01">The first four lines of this passage, "This then is life . . . overhead the sun,"</ref> were incorporated, in edited form, into an early section of the 1860–1861 poem "Proto-Leaf," which was eventually titled "Starting from Paumanok."</p>
                 <p><ref type="text" xml:id="r02" target="#q06">The next two lines, "Surround my poems . . . for they are for you,"</ref> were used in a later section of the same poem.</p>
-			</work>
-		</relations>
+			</note>
+		 
 	<lg type="poem">
 		<lg type="linegroup">
 			<l>
@@ -1595,11 +1591,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf031v" facs="20051105_0547.jpg" type="verso"/>
 	<div1 type="verse">
       <lg type="poem">
-        <relations>
-			<work ref="xxx.00047" cert="low">
+         
+			<note type="work_relations" target="xxx.00047" cert="low">
 				<p>The lines on this page bear a faint resemblance to a passage in the poem "Proto-Leaf," published in the 1860–1861 edition of <hi rend="italic">Leaves of Grass,</hi> which reads, in part, "And I will show of male and female that either is but the equal of the other, / And I will show that there is no imperfection in male or female, or in the earth [. . .] ." The poem was later retitled "Starting from Paumanok." </p>
-			</work>
-        </relations>
+			</note>
+         
 		<head type="main-authorial">In Poem</head>
 		<l>The earth, <subst><del rend="overstrike" seq="1">that is my</del> <add rend="unmarked" place="supralinear" seq="2">model of poems</add></subst><lb/>
 			<del rend="overstrike">model</del>—<subst><del rend="overstrike" seq="1">I do not</del> <add rend="unmarked" place="supralinear" seq="2">? none need</add></subst><lb/>

@@ -13,6 +13,9 @@
                     <persName xml:id="kc">Kirsten Clawson</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
                 <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+
+                    <persName xml:id="km">Kevin McMullen</persName>
+                </respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -58,7 +61,10 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
+
+        <revisionDesc>
+          <change when="2022-04-27" who="#as">updated add and del encoding</change>
+            <change when="2021-04-14" who="#km">updated relations encoding</change>
             <change when="2019-09-03" who="#nhg">added inline relations</change>
             <change when="2017-01-12" who="#bb">correct based on Ken's proofreading</change>
             <change when="2016-10-25" who="#bb">corrected; added Work IDs and date information</change>
@@ -70,11 +76,10 @@
         <body>
             <pb xml:id="leaf001r" facs="loc_nhg.00015.jpg" type="recto"/>
             <div1 type="notes">
-	<relations>
-       <work ref="xxx.00048" cert="high">
+       <note type="work_relations" target="xxx.00048" cert="high">
            <p>These notes about the "summer duck" and the "redstart" likely contributed to the following lines in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Song of Myself.": "My tread scares the wood-drake and wood-duck on my distant and day-long ramble, / They rise together, they slowly circle around. / . . . / And acknowledge the red yellow and white playing within me, / And consider the green and violet and the tufted crown intentional" (1855, p. 20) and "Does the daylight astonish? or the early redstart twittering through the woods?" (1855, p. 25).</p>
-	   </work>
-    </relations>
+	   </note>
+    
             <ab rend="hanging indent" xml:id="ab01">
                 "Summer Duck" or "Wood Duck" <add rend="insertion" place="supralinear">"wood drake"</add> very gay, including in its colors white,<lb/> red, yellow, green, blue, &amp;c crowns violet—length 20 inches<lb/>—common in the United States—often by <del rend="overstrike">creeks</del> streams and<lb/> ponds—rises and slowly circuits—selects hollow<lb/> trees to breed in—keep in parties—generally move in pairs <add rend="unmarked" place="supralinear">at least</add></ab>
 
@@ -118,19 +123,17 @@
             <p>In Euripides, love and compassion—scientific refinement,—something like skepticism.—This writer was a hearer of Socrates.—</p>
             </div1>
             <div1 type="notes">
-                <relations>
-                    <work ref="xxx.00048" cert="low">
+                    <note type="work_relations" target="xxx.00048" cert="low">
                         <p>These notes may relate to the following lines in the poem eventually titled "Song of Myself": "At he-festivals with blackguard jibes and ironical license and bull-dances and drinking and laughter" (1855, p. 36) and "Dancing yet through the streets in a phallic procession . . . . rapt and austere in the woods, a gymnosophist" (1855, p. 48).</p>
-                    </work>
-                </relations>
+                    </note>
+                
             <ab xml:id="ab111"><hi rend="underline">Phallic festivals</hi>.—wild mirthful processions in honor of the god Dionysus <add rend="unmarked" place="supralinear">(Bacchus)</add>—in Athens, and other parts of Greece—unbounded license—mocking jibes and irony—epithets and biting insults</ab>
             </div1>
             <div1 type="verse">
-                <relations>
-                    <work ref="xxx.00048" cert="low">
+                    <note type="work_relations" target="xxx.00048" cert="low">
                         <p>There is a slight chance that these lines may relate to the following line in the poem ultimately titled "Song of Myself": "I take my place among you as much as among any" (1855, p. 48).</p>
-                    </work>
-                </relations>
+                    </note>
+                
             <lg type="poem">
                 <head type="main">To the Poor—</head>
                 <l xml:id="l100">I have my place among you</l>
@@ -173,13 +176,11 @@
             <delSpan rend="hashmark" spanTo="#d01"/>
             <div1 type="verse">
             <lg type="poem">
-
-	<relations>
-       <work ref="xxx.00048" cert="high">
+       <note type="work_relations" target="xxx.00048" cert="high">
 		<p>Several of the lines in this draft were reworked and included in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Song of Myself."
 The first line became "I step up to say that what we do is right and what we affirm is right . . . . and some is only the ore of right." The line "I have not appeared . . . " became "I moisten the roots of all that has grown." The line "Do you suppose the celestial laws . . ." became "Did you guess the celestial laws are yet to be worked over and rectified?" The fragmentary line at the end became "What blurt is it about virtue and about vice?" (p. 28).</p>
-	   </work>
-    </relations>
+	   </note>
+    
 
             <lg type="linegroup">
                 <l xml:id="l01">I have appeared among you to say that <subst><del rend="overstrike" seq="1">all</del> <add rend="unmarked" place="supralinear" seq="2">what</add></subst> you do is<lb/> right, and <del rend="overstrike">that</del> what you affirm is right;</l>

@@ -86,34 +86,34 @@
 
 <pb xml:id="leaf002v" facs="nyp.00129.004.jpg" type="verso"/>
       <div1 type="prose">
-        <relations>
-          <work ref="xxx.00048" cert="high">
+         
+          <note type="work_relations" target="xxx.00048" cert="high">
             <p>A passage from this note, "The Elementary Laws do not get excited and run and bawl to vindicate themselves" echoes the phrasing and the idea of the following lines of the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later called "Song of Myself": "I do not trouble my spirit to vindicate itself or be understood, / I see that the elementary laws never apologize" (1855, p. 26).
             </p>
-          </work>
+          </note>
 
-          <work ref="xxx.00119" cert="low">
+          <note type="work_relations" target="xxx.00119" cert="low">
             <p>The phrase "the attraction of gravity" appeared in the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "A Song for Occupations": "Or the attraction of gravity and the great laws and harmonious combinations and the fluids of the air as subjects for the savans?" (1855, p. 60)
             </p>
-          </work>
+          </note>
 
-          <work ref="xxx.00121" cert="low">
+          <note type="work_relations" target="xxx.00121" cert="low">
             <p>The phrase "the attraction of gravity" appeared in the final (twelfth) poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later titled "Great Are the Myths": "Justice [. . .] cannot be varied by statutes any more than love or pride or the attraction of gravity can" (1855, p. 95). The poem went through many revisions through the different editions of <hi rend="italic">Leaves of Grass</hi>, then was permanently dropped in 1881–1882, except the two couplets that became the poem "Youth, Day, Old Age, and Night."</p>
-          </work>
+          </note>
 
-        </relations>
+         
         <delSpan rend="hashmark" spanTo="#d1"/>
         <p><seg xml:id="seg02">The Elementary Laws do not get excited and run and bawl to vindicate themselves.</seg>—<seg xml:id="seg03"><subst><del rend="overstrike" seq="1">Priests and</del> <add rend="unmarked" place="supralinear" seq="2">The</add></subst> doctors might all deny the attraction of gravity, and that sublime <del rend="overstrike">law</del> power would never complain.—Be <subst><del rend="overstrike" seq="1">thou</del> <add rend="unmarked" place="supralinear" seq="2">you</add></subst> like the grand powers.—</seg></p>
       </div1>
         <anchor xml:id="d1"/>
         <milestone unit="undeclared" rend="horbar-full"/>
       <div1 type="prose">
-    <relations>    
-    <work ref="xxx.00048" cert="high">
+         
+    <note type="work_relations" target="xxx.00048" cert="high">
       <p>A phrase from this note, "Sure as the most certain sure," was used in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later called "Song of Myself": "Sure as the most certain sure . . . . plumb in the uprights, well entretied, braced in the beams" (1855, p. 14). 
       </p>
-    </work>
-    </relations>
+    </note>
+     
         <p>Exist.—<del rend="overstrike">The Soul is larger than the</del> Do not trouble yourself to <subst><del rend="overstrike" seq="1">set</del> <add rend="unmarked" place="supralinear" seq="6">soothe</add> <del rend="overstrike" seq="5"><add rend="unmarked" place="supralinear" seq="4">satisfy</add></del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">soothe</add></del></subst> sputterers and <del rend="overstrike">babb</del> infidels <add rend="unmarked" place="supralinear">?</add>.— (Manure <subst><del rend="overstrike" seq="1">thy soul,</del> <add rend="unmarked" place="supralinear" seq="2">the fields of the heart,</add></subst> for it brings great crops.—) <seg xml:id="seg04"><del rend="overstrike">As</del> <subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">S</add></subst>ure as the
 <pb xml:id="leaf003r" facs="nyp.00129.005.jpg" type="recto"/>
 most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<del rend="overstrike">you</del> the effects <subst><del rend="overstrike" seq="1">come when</del> <add rend="unmarked" place="supralinear" seq="2">appear after</add></subst> the causes <subst><del rend="overstrike" seq="1">appear.</del> <add rend="unmarked" place="supralinear" seq="2">are born.</add></subst></seg></p>
@@ -135,12 +135,12 @@ most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<d
         <milestone unit="undeclared" rend="horbar-full"/>
         
       <div1 type="prose">
-        <relations>
-          <work ref="xxx.00048" cert="low">
+         
+          <note type="work_relations" target="xxx.00048" cert="low">
             <p>In the following passage Whitman refers to the wreck of the ship the <hi rend="italic">San Francisco,</hi> a topic which he describes in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later called "Song of Myself." The relevant passage of the poem begins, "I understand the large hearts..." (1855, p. 38).
             </p>
-          </work>
-        </relations>
+          </note>
+         
         <p>Greater than <del rend="overstrike">b</del> wires of iron or treaties, or even strong mutual interests is <del rend="overstrike">the</del> <choice><sic>Smpathy</sic><corr>Sympathy</corr></choice>.—<seg xml:id="seg01">When Creighton <add rend="insertion" place="supralinear"> </add> <subst><del rend="overwrite" seq="1"><unclear reason="illegible" cert="medium" resp="#kc">re</unclear></del><add rend="overwrite" place="over" seq="2">ho</add></subst>ve <del rend="overstrike">too</del> to for many days and nights and rescued the wrecked thousand on the <subst><del rend="overwrite" seq="1">s</del><add rend="overwrite" place="over" seq="2">S</add></subst>an Francisco</seg></p>
       </div1>
 
@@ -169,12 +169,12 @@ most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<d
 <pb xml:id="leaf006r" facs="nyp.00129.011.jpg" type="recto"/>
       <delSpan rend="hashmark" spanTo="#d3"/>
       <div1 type="prose">
-        <relations>
-          <work ref="xxx.00048" cert="high">
+         
+          <note type="work_relations" target="xxx.00048" cert="high">
             <p>A phrase from this note, "Out of the first Nothing," was used in revised form in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later called "Song of Myself": "Afar down I see the huge first Nothing, the vapor from the nostrils of death" (1855, p. 50). What is apparently a later version of this passage appears elsewhere in this notebook in poetic lines.
             </p>
-          </work>
-        </relations>
+          </note>
+         
         <p xml:id="p02">Love is the cause of causes.—<del rend="overstrike">W</del> Out of the first Nothing <subst><del rend="overstrike" seq="1">and</del> <add rend="unmarked" place="supralinear" seq="2">—out of</add></subst> the <add rend="insertion" place="supralinear">black</add> fog<del rend="overstrike">s</del> <del rend="overstrike">of</del> <subst><del rend="overstrike" seq="1">primeval</del> <add rend="unmarked" place="supralinear" seq="2">of the nostrils</add></subst><del rend="overstrike">Or original</del> <subst><del rend="overstrike" seq="1">Vacuity,</del> <add rend="unmarked" place="supralinear" seq="2">of Death</add></subst> <subst><del rend="overstrike" seq="1">which</del> <add rend="unmarked" place="supralinear" seq="2">that</add></subst> <subst><del rend="overstrike" seq="1">vast and sluggish</del> <add rend="insertion" place="supralinear" seq="2">hung ebbless and floodless</add></subst> in the spread of space—it asked <add rend="insertion" place="supralinear">of God</add> with undeniable will, something to satisfy <subst><add rend="insertion" place="supralinear" seq="2">itself</add> <del rend="overstrike" seq="1">its</del></subst> <subst><del rend="overstrike" seq="1">itself.—</del> <del rend="overstrike" seq="3"><add rend="unmarked" place="supralinear" seq="2">immortal longings.—</add></del></subst> <del rend="overstrike" seq="1">From its</del> By it then Chaos was staid with.— 
 
 <subst>
@@ -190,11 +190,11 @@ most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<d
       </div1>
         <milestone unit="undeclared" rend="horbar-full"/>
       <div1 type="prose">
-        <relations>
-          <work ref="xxx.00259" cert="high">
+         
+          <note type="work_relations" target="xxx.00259" cert="high">
             <p>This segment is similar to a line in a notebook that also contains draft lines of a poem unpublished in Whitman's lifetime, titled "Pictures": "And there, singular, on ocean waves, downward, buoyant, swift, over the waters, an occupied coffin floating." The first several lines of the notebook (not including this line) were revised and published as "My Picture-Gallery" in <hi rend="italic">The American</hi> in October 1880. The poem was later published in <hi rend="italic">Leaves of Grass</hi> as part of the "Autumn Rivulets" cluster (1881, p. 310).</p>
-          </work>
-        </relations>
+          </note>
+         
         <p>A coffin swimming buoyantly on the swift flowing current of the river</p>
       </div1>
 <pb xml:id="leaf007r" facs="nyp.00129.013.jpg" type="recto"/>
@@ -210,12 +210,12 @@ most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<d
 <pb xml:id="leaf007v" facs="nyp.00129.014.jpg" type="verso"/>
       <delSpan rend="hashmark" spanTo="#d4"/>
       <div1 type="verse">
-        <relations>
-          <work ref="xxx.00048" cert="high">
+         
+          <note type="work_relations" target="xxx.00048" cert="high">
             <p>A passage from these lines, "Out of the vast, first Nothing / The ebbless and floodless vapor from the nostrils of Death," was used in revised form in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later called "Song of Myself": "Afar down I see the huge first Nothing, the vapor from the nostrils of death" (1855, p. 50). What is apparently an earlier prose version of this passage appears elsewhere in this notebook.
             </p>
-          </work>
-        </relations>
+          </note>
+         
         <lg type="poem">
         <l xml:id="l100">Love is the cause of causes,</l>
         <l xml:id="l01">Out of the vast, first Nothing</l>
@@ -233,14 +233,14 @@ most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<d
       
 <pb xml:id="leaf008r" facs="nyp.00129.015.jpg" type="recto"/>
       <div1 type="prose">
-        <relations>
-          <work ref="xxx.00048" cert="high">
+         
+          <note type="work_relations" target="xxx.00048" cert="high">
             <p>The phrase "Dilation or Pride" is used in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, later called "Song of Myself": "I chant a new chant of dilation or pride" (1855, p. 26).</p>
-          </work>
-          <work ref="xxx.00114" cert="high">
+          </note>
+          <note type="work_relations" target="xxx.00114" cert="high">
             <p>The distinction in this passage between "Love" and "Dilation or Pride" is also articulated in "Chants Democratic" (No. 4) in the 1860–1861 <hi rend="italic">Leaves of Grass</hi>, later called "Our Old Feuillage": "Encircling all, vast-darting up and wide, the American Soul, with equal hemispheres, one Love, one Dilation or Pride."</p>
-          </work>
-        </relations>
+          </note>
+         
         <p xml:id="p03">There are two <del rend="overstrike">attributes</del> <note type="authorial" place="supralinear">?</note> of the soul, and both are illimitable, and they are its north latitude and its south latitude.—One of these is Love.—The other is Dilation or Pride There is nothing so in-conceivable haughty as the <space dim="horizontal" atLeast="10" unit="chars" extent="about 10 letters"/> </p>
         <p>The style of the most magnificent heroes or rulers is</p>
       </div1>
@@ -295,14 +295,14 @@ most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<d
 
 <pb xml:id="leaf011v" facs="nyp.00129.022.jpg" type="verso"/>
       <div1 type="section">
-        <relations>
-          <work ref="xxx.00526" cert="low">
+         
+          <note type="work_relations" target="xxx.00526" cert="low">
             <p>Emory Holloway has posited a connection between this notebook entry and the following passage from the Preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "The land and sea, the animals fishes and birds, the sky of heaven and the orbs, the forests mountains and rivers, are not small themes . . . but folks expect of the poet to indicate more than the beauty and dignity which always attach to dumb real objects . . . . they expect him to indicate the path between reality and their souls" (1855, p. v).</p>
-          </work>
-          <work ref="xxx.00048" cert="low">
+          </note>
+          <note type="work_relations" target="xxx.00048" cert="low">
             <p>A phrase from this section matches the following line from the poem that would be titled "Song of Myself": "You shall no longer take things at second or third hand . . . . nor look through the eyes of the dead . . . . nor feed on the spectres in books" (1855, p. 14).</p>
-          </work>
-        </relations>
+          </note>
+         
         <p>pork and pound cake <del rend="overstrike">and things</del> and <subst><del rend="overstrike" seq="1">things</del> <add rend="insertion" place="supralinear" seq="2">products that can be</add></subst> <unclear reason="illegible" cert="medium" resp="#kc">stewed</unclear> or <add rend="insertion" place="supralinear"><unclear reason="illegible" cert="medium" resp="#kc">worn</unclear></add> put in the bank.—<seg xml:id="seg05">All <del rend="overstrike">expr</del> that makes clear this relation, and <del rend="overstrike">tracks</del> defines the road <del rend="overstrike">between</del> between <subst><del rend="overstrike" seq="1">any thing</del> <add rend="unmarked" place="supralinear" seq="2">conceivable objects</add></subst> and the human spirit, <add rend="insertion" place="supralinear">and explains what those objects mean,</add> is poetry, coarse or fine.</seg>—<seg xml:id="seg06">Even if <add rend="insertion" place="supralinear">the explanation</add> be <subst><del rend="overstrike" seq="1">done at second and third hand, <add rend="unmarked" place="supralinear">removes</add> and</del> <add rend="unmarked" place="supralinear" seq="2">two or three removes off, <del rend="overstrike" seq="4">or</del> as most are, or</add></subst> distantly suggested,</seg> <subst><del rend="overstrike" seq="1">we are thankful;</del> <add rend="unmarked" place="supralinear" seq="2">folks take them and relish them well;</add></subst> for we are greedy of this sort of <subst><del rend="overstrike" seq="1">feeding</del> <add rend="unmarked" place="supralinear" seq="2">diet</add></subst>, and <del rend="overstrike">exceedingly voracious,</del> never get <subst><del rend="overstrike" seq="1">weary</del> <add rend="unmarked" place="supralinear" seq="2">tired</add></subst> of stuffing <metamark function="transpose">*</metamark></p>
       </div1>
 
@@ -338,12 +338,12 @@ very rare envelope, promising great things, <del rend="overstrike">when</del> an
         <p>where the Congress meets is the sacred <note type="authorial" place="supralinear">?</note> place.—If they adjourn from there <space dim="horizontal" atLeast="8" unit="chars" extent="about two words"/> to some log house or shed of hemlock boards</p>
       </div1>
       <div1 type="prose">
-        <relations>
-          <work ref="xxx.00111" cert="high">
+         
+          <note type="work_relations" target="xxx.00111" cert="high">
             <p>Some phrasings and the central idea behind this passage appear in the poem titled "Poem of the Road" in the 1856 <hi rend="italic">Leaves of Grass</hi> and eventually titled "Song of the Open Road": "Only the kernel of every object nourishes; / Where is he who tears off the husks for you and me? / Where is he that undoes stratagems and envelopes for you and me?"
             </p>
-          </work>
-        </relations>
+          </note>
+         
 
         <p><subst><del rend="overstrike" seq="1">Ever</del> <add rend="insertion" place="supralinear" seq="2">The <del rend="overstrike">heart</del> <add rend="insertion" place="supralinear">kernel</add> of every object</add></subst> thing <del rend="overstrike">that</del> can be seen or <add rend="insertion" place="supralinear">felt or</add> thought of has its relation to the soul, and is significant of something there.—<del rend="overstrike">This is the</del> He who can <subst><del rend="overstrike" seq="1">put</del> <add rend="unmarked" place="supralinear" seq="2">tear off</add></subst> all husks and skins <del rend="overstrike">aside and</del> and <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">peel</unclear> the</del> <add rend="unmarked" place="supralinear" seq="2">pierce <del rend="overstrike">or</del></add></subst>  <add rend="insertion" place="supralinear">straight through every</add>stratagem<del rend="overstrike">s</del> of concealment, <del rend="overstrike">and goes to the actual</del> <metamark function="transposition">*</metamark></p>
       </div1>
