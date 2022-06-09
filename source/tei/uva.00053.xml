@@ -12,7 +12,7 @@
 <persName xml:id="bb">Brett Barney</persName>
 <persName xml:id="ec">Eric Conrad</persName>
     <persName xml:id="nhg">Nicole Gray</persName>
-</respStmt>
+<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
 <sponsor>Center for Digital Research in the Humanities</sponsor>
 <sponsor>University of Iowa</sponsor>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -57,7 +57,7 @@
 </bibl>
 </sourceDesc>
 </fileDesc>
-<revisionDesc>
+<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
     <change when="2015-05-11" who="#nhg">updated copyright statement</change>
     <change when="2015-05-06" who="#nhg">replaced segs with lbs</change>
     <change when="2015-01-21" who="#nhg">added schematron declaration, corrected</change>
@@ -279,7 +279,7 @@
 <pb xml:id="leaf016r" facs="uva.00053.031.jpg" type="recto"/>
 
 <div2 type="sub-section">
-<add place="supralinear" rend="unmarked"><ab>ward E</ab></add>
+<addSpan spanTo="#a1" place="supralinear" rend="unmarked"/><ab>ward E</ab><anchor xml:id="a1"/>
 <ab>Erskine B. Branch</ab> <ab><unclear reason="illegible" resp="#ec" cert="medium">Kinery</unclear> 6th Army corps</ab> <ab>co D. 77th New York.</ab>
 <milestone unit="undeclared" rend="horbar-short-left"/>
 <ab><del rend="overstrike">19th</del> 19 yrs. old 10th May '63</ab>

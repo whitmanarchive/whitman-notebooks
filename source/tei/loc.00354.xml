@@ -19,6 +19,7 @@
 					<persName xml:id="kc">Kirsten Clawson</persName>
 					<persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="bb">Brett Barney</persName>
+				<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
 					<persName xml:id="km">Kevin McMullen</persName>
 				</respStmt>
 				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
@@ -76,7 +77,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 				<handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
 			</handNotes>
 		</profileDesc>
-		<revisionDesc>
+		<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
 			<change when="2022-04-14" who="#km">updated relations encoding</change>
 			<change when="2019-12-04" who="#bb">corrected location from Harned to Feinberg Collection</change>
 			<change when="2017-11-20" who="#nhg">added inline relations information for leaf 5 recto</change>
@@ -578,10 +579,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
       <lg type="poem">
 			<note type="work_relations" target="xxx.00047" cert="high">
 				<p>The following passage is one of several drafts in this notebook of the following line from "Proto-Leaf," the introductory poem of the 1860–1861 edition of <hi rend="italic">Leaves of Grass</hi>: "Whoever you are! to you endless announcements." The poem was later retitled "Starting from Paumanok."</p>
-			</note>
-		
-		<add rend="unmarked" place="inline"><l>
-			To you, <del rend="overstrike">endless</del> endless announ<add rend="unmarked" place="supralinear">cements</add></l></add>
+        </note>
+        
+		<addSpan spanTo="#a30" rend="unmarked" place="inline"/><l>
+			To you, <del rend="overstrike">endless</del> endless announ<add rend="unmarked" place="supralinear">cements</add></l><anchor xml:id="a30"/>
 			<l><del rend="overstrike">To</del> <del rend="overstrike">You</del> whoever you are, I<lb/>
 			kiss you with lips of<lb/>
 			<del rend="overstrike"><add rend="insertion" place="supralinear" seq="1">real</add></del> love <add rend="insertion" place="supralinear">personal</add>
@@ -639,7 +640,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 			</note>
 		
 	<lg type="poem">
-		<del rend="overstrike"><metamark function="undeclared" place="left">*</metamark></del><l> Free, savage, strong,</l>
+		<delSpan spanTo="#d6" rend="overstrike"/><metamark function="undeclared" place="left">*</metamark><anchor xml:id="d6"/><l> Free, savage, strong,</l>
 		<l>
 			Cheerful, luxuriant, fluent,<lb/>
 			self-<subst><del rend="overstrike" seq="1">sufficient</del> <add rend="unmarked" place="supralinear" seq="2">composed—</add></subst> fond of<lb/>
@@ -673,7 +674,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 		<l>O inter<subst><del rend="overwrite" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">sect</unclear></del><add rend="overwrite" place="over" seq="2">twined</add></subst> lands!</l>
 		<l>O land of <subst><del rend="overwrite" seq="1">a</del><add rend="overwrite" place="over" seq="2">the</add></subst> future!</l>
 		<l><del rend="overstrike">This</del></l>
-		<del rend="overstrike"><l>Ahold of hands</l></del>
+		<delSpan spanTo="#d7" rend="overstrike"/><l>Ahold of hands</l><anchor xml:id="d7"/>
 		<l><del rend="overstrike" seq="1">These</del> <del rend="overstrike">I</del> <subst><del rend="overstrike" seq="1">interhanded</del> <add rend="unmarked" place="supralinear" seq="2" xml:id="a23">Washington's land</add> <add rend="unmarked" place="supralinear" seq="3" xml:id="a24">copious land</add></subst></l>
 
 <alt target="#a23 #a24"/>
@@ -764,9 +765,9 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 			after</del> so many throes<lb/>
 			and convulsions.—<ref xml:id="q07" target="xxx.00047"/>
 		</l>
-		<add rend="unmarked" place="interlinear">
+		<addSpan spanTo="#a31" rend="unmarked" place="interlinear"/>
         <l>	
-         </l></add>
+         </l><anchor xml:id="a31"/>
 			
 </lg>
 
@@ -821,13 +822,13 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 			prairies as welcome as<lb/> 
 			ever
 		</l>
-		<del rend="overstrike">
+		<delSpan spanTo="#d8" rend="overstrike"/>
           <l>
 			The <subst><del rend="overstrike" seq="1">banks of the</del> <add rend="unmarked" place="supralinear" seq="2">long <del rend="overstrike">sail</del> voyage</add></subst> the<lb/>
 			<del rend="overstrike">Missouri</del> up the<lb/>
 			<del rend="overstrike">Mississipp</del>
 		  </l>
-        </del>
+        <anchor xml:id="d8"/>
        </lg>
 	   <lg type="linegroup">
 		<l><handShift new="#h2"/>Shine upon them, sun, for they</l>
@@ -897,11 +898,11 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 			<del rend="overstrike">O</del> The <add rend="unmarked" place="supralinear">man of</add> Ohio<del rend="overstrike">an</del> <add rend="unmarked" place="supralinear">and woman of Ohio</add> as <subst><del rend="overstrike" seq="1">close</del> <add rend="unmarked" place="supralinear" seq="2">real</add></subst><lb/>
 			to me as ever
 		</l>
-		<add rend="unmarked" place="interlinear">
+		<addSpan spanTo="#a32" rend="unmarked" place="interlinear"/>
           <l>
 			The Kentuckian <del rend="overstrike" seq="2">my</del> for me and I for him as much as ever
           </l>
-        </add> 
+        <anchor xml:id="a32"/> 
         <l>Wisconsin, Iowa<lb/>
 			Michigan, Illinois,<lb/>
 			Indiana, Missouri,<lb/>
@@ -975,7 +976,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 		<anchor xml:id="d4"/>
 	    <milestone unit="undeclared" rend="horbar-full"/>
 		
-		<del rend="overstrike"><l>Huron, Erie Mic</l></del>
+		<delSpan spanTo="#d10" rend="overstrike"/><l>Huron, Erie Mic</l><anchor xml:id="d10"/>
 		<l>
 			Ontario, Erie, Huron,<lb/>
 			Michigan, Superior,<lb/>
@@ -1182,8 +1183,8 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 		<l>Overhead, the sun!</l>
 	</lg>
 	<lg type="linegroup">
-		<del rend="overstrike"><l>How curious</l></del>
-		<del rend="overstrike"><l>How curious I myself!</l></del>
+		<delSpan spanTo="#d11" rend="overstrike"/><l>How curious</l><anchor xml:id="d11"/>
+		<delSpan spanTo="#d12" rend="overstrike"/><l>How curious I myself!</l><anchor xml:id="d12"/>
 		<l>Me,</l>
 	</lg>
 	</lg>
@@ -1381,7 +1382,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 			How perfect and beautiful<lb/>
 			are the animals!
 		</l>
-		<del rend="overstrike"><l>How vas</l></del>
+		<delSpan spanTo="#d13" rend="overstrike"/><l>How vas</l><anchor xml:id="d13"/>
 		<l>
 			How much room, and<lb/>
 			splendor! How inevitable<lb/>
@@ -1521,7 +1522,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf029v" facs="20051105_0557.jpg" type="verso"/>
 	<div1 type="verse">
 	<lg type="poem">
-		<del rend="overstrike"><l>You</l></del>
+		<delSpan spanTo="d14" rend="overstrike"/><l>You</l><anchor xml:id="d14"/>
 		<l>Personality!</l>
 		<l>
 			Your Personality! You<lb/>
@@ -1646,7 +1647,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 		   observe it
 		</l>
 		
-		<del rend="overstrike"><l>For great ideas!</l></del>
+		<delSpan spanTo="#d15" rend="overstrike"/><l>For great ideas!</l><anchor xml:id="d15"/>
 		
 		<l>The life that is not<lb/>
 		   underlaid by great<lb/>
@@ -1707,14 +1708,14 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf035v" facs="20051105_0529.jpg" type="verso"/>
 
 	<div1 type="verse">
-	    <add rend="unmarked" place="supralinear"><l>? For your own sake</l></add>
+	    <addSpan spanTo="#a33" rend="unmarked" place="supralinear"/><l>? For your own sake</l><anchor xml:id="a33"/>
 	    <l>To stand fast by me!</l>
 		<l>To stand unshaken, <del rend="overstrike">and</del><lb/>
 			tenacious, <del rend="overstrike">—to</del></l>
 		
-		<del rend="overstrike"><l>To believe in me—no<lb/>
+		<delSpan spanTo="#d16" rend="overstrike"/><l>To believe in me—no<lb/>
 			matter
-		</l></del>
+		</l><anchor xml:id="d16"/>
 		<milestone unit="undeclared" rend="horbar-short-left"/>
 	</div1>
 

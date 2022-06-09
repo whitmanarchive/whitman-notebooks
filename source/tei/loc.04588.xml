@@ -12,7 +12,7 @@
                     <persName xml:id="no">Natalie O'Neal</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="kmp">Kenneth M. Price</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -63,7 +63,7 @@
                 <handNote xml:id="unk"><persName key="Unknown">Unknown</persName></handNote>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
             <change when="2017-04-13" who="#nhg">updated editorial note and date in light of discovery of Jack Engle</change>
             <change when="2016-07-25" who="#nhg">updated editorial note to match EAD, added work ID note</change>
             <change when="2015-05-11" who="#nhg">updated copyright statement</change>
@@ -105,7 +105,7 @@
             <ab>? make the pickpocket the husband of a worthy woman who has been inveigled into marriage with him.—</ab></div1>
             
             <pb xml:id="leaf003r" facs="loc_ej.00077_large.jpg" type="recto"/><div1 type="section">
-            <add rend="pasteon" source="#ref1" xml:id="add1">
+            <addSpan spanTo="#a2" rend="pasteon" source="#ref1" xml:id="add1"/>
                 <q who="unknown" type="printed">
                     <floatingText rend="flat">
                         <body>
@@ -113,9 +113,9 @@
                         </body>
                     </floatingText>
                 </q>
-            </add>
+            <anchor xml:id="a2"/>
             <note type="authorial" place="right" target="#add1">X</note>
-            <add rend="pasteon" source="#ref1" xml:id="add2">
+            <addSpan spanTo="#a3" rend="pasteon" source="#ref1" xml:id="add2"/>
                 <q who="unknown" type="printed">
                     <floatingText rend="flat">
                         <body>
@@ -125,7 +125,7 @@
                         </body>
                     </floatingText>
                 </q>
-            </add>
+            <anchor xml:id="a3"/>
             <note type="authorial" place="bottom" target="#add2">Tribune March 12 1852</note></div1>
             
             <pb xml:id="leaf003v" facs="loc_ej.00078_large.jpg" type="verso"/>
@@ -146,10 +146,17 @@
             <pb xml:id="leaf005r" facs="loc_ej.00081_large.jpg" type="recto"/>
             
             <pb xml:id="leaf005v" facs="loc_ej.00082_large.jpg" type="verso"/>
-            <ab>Martha, is the ward of Covert, inheriting property, so situated as to require the services of a limb-of-the-law.—(Her <subst><del rend="overstrike" seq="1">mother,</del> <add rend="unmarked" place="supralinear" seq="2">aunt,</add></subst> the Old Quaker lady)</ab><anchor xml:id="a1"/>
-            <ab> Jack, on going to Covert's house, <add rend="insertion" place="supralinear">one evening</add> recognizes the <del rend="overstrike">like</del> portrait of the Old Lady—it affects him to tears</ab>
-            <transpose anchored="1" target="#a1"><metamark function="transpose" place="left" target="#ab1"/><ab>is dead—and Martha lives in Covert's house, in the situation of half servant—</ab></transpose>
-            
+            <ab>Martha, is the ward of Covert, inheriting property, so situated as to require the services of a limb-of-the-law.—<seg xml:id="tr02">(Her <subst><del rend="overstrike" seq="1">mother,</del> <add rend="unmarked" place="supralinear" seq="2">aunt,</add></subst> the Old Quaker lady)</seg></ab>
+            <ab xml:id="tr01"> Jack, on going to Covert's house, <add rend="insertion" place="supralinear">one evening</add> recognizes the <del rend="overstrike">like</del> portrait of the Old Lady—it affects him to tears</ab>                
+                <listTranspose>
+                    <transpose>
+                        <ptr target="#tr01"/>
+                        <ptr target="#tr02"/>
+                    </transpose>
+                </listTranspose>
+            <metamark function="transpose" place="left" target="#ab1"/><ab>is dead—and Martha lives in Covert's house, in the situation of half servant—</ab>
+
+                
             <pb xml:id="leaf006r" facs="loc_ej.00083_large.jpg" type="recto"/>
             <ab>Make Wigglesworth</ab>
             <ab>Some remarks about the villainy of lawyers—tell the story of Covert's <add rend="insertion" place="supralinear">father's</add> swindling, about the house in Johnson st—damn him</ab>

@@ -12,6 +12,8 @@
                     <persName xml:id="bb">Brett Barney</persName>
                     <persName xml:id="kc">Kirsten Clawson</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+
                     <persName xml:id="km">Kevin McMullen</persName>
                 </respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
@@ -59,7 +61,9 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
+
         <revisionDesc>
+          <change when="2022-04-27" who="#as">updated add and del encoding</change>
             <change when="2021-04-14" who="#km">updated relations encoding</change>
             <change when="2019-09-03" who="#nhg">added inline relations</change>
             <change when="2017-01-12" who="#bb">correct based on Ken's proofreading</change>

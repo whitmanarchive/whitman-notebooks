@@ -14,7 +14,7 @@
           <persName xml:id="bb">Brett Barney</persName>
           <persName xml:id="kc">Kirsten Clawson</persName>
           <persName xml:id="nhg">Nicole Gray</persName>
-        </respStmt>
+        <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
         <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
         <sponsor>University of Iowa</sponsor>
         <funder>The National Endowment for the Humanities</funder>
@@ -60,7 +60,7 @@
         </bibl>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
+    <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
       <change when="2017-11-21" who="#nhg">added inline relations information</change>
       <change who="#bb" when="2016-11-15">corrected values of @xml:id on pb elements</change>
       <change who="#bb" when="2016-07-18">incorporated Ken's proofreading corrections</change>
@@ -152,8 +152,15 @@ most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<d
 <pb xml:id="leaf005r" facs="nyp.00129.009.jpg" type="recto"/>
       <div1 type="prose">
         <head type="main"><hi rend="underline">Pride of Birth</hi>.—</head>
-        <p>There is nothing in <metamark function="transpose" place="supralinear" rend="insertion" xml:id="tr01">*</metamark> <add rend="unmarked" place="supralinear">nothing</add> royal blood, or <subst><del rend="overwrite" seq="1">in</del><add rend="overwrite" place="over" seq="2">the</add></subst> <subst><del rend="overstrike" seq="1">succession</del> <add rend="unmarked" place="supralinear" seq="2">inheritance</add></subst> through a direct line of the <add rend="insertion" place="supralinear">name of the</add> most <add rend="insertion" place="supralinear"><subst><del rend="overwrite" seq="1">re<gap reason="illegible" atLeast="4" unit="chars" extent="about four letters"/></del><add rend="overwrite" place="over" seq="2">historical</add></subst></add> heroes, or <del rend="overstrike">in any</del> <add rend="insertion" place="supralinear"><metamark function="transpose" place="supralinear" rend="insertion, bracketed" target="#tr02">tr *</metamark></add> 
-<metamark function="group">(</metamark><transpose anchored="1" target="#tr01" xml:id="tr02">the eminency of any office of President or Governor or Mayor,</transpose><metamark function="group">)</metamark> <del rend="overstrike">that begins to</del> <del rend="overstrike">but</del> <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/></del> that should make us carry our heads so high, <subst><del rend="overwrite" seq="1">as</del> <add rend="overwrite" place="over" seq="2">and</add></subst> so fill us with <subst><del rend="overstrike" seq="1">more than imperial pride,</del> <add rend="unmarked" place="supralinear" seq="2">bulging pride <del rend="overstrike" seq="3">than ever spread itself in capitols, or courts,</del></add></subst> as the consciousness that we are <del rend="overstrike">hum</del> human souls.—<subst><del rend="overwrite" seq="1">H</del><add rend="overwrite" place="over" seq="2">O</add></subst>ffice, however <subst><del rend="overstrike" seq="1">high</del> <add rend="unmarked" place="supralinear" seq="2">exalted</add></subst>, and wealth, however capacious, <subst><del rend="overstrike" seq="2"><add rend="insertion" place="supralinear" seq="1">may but</add></del> <add rend="unmarked" place="supralinear" seq="2">often</add></subst> show <del rend="overstrike">many</del> a mean and starved nature
+        <p>There is nothing in <metamark function="transpose" place="supralinear" rend="insertion" xml:id="tr01">*</metamark> <seg xml:id="tr03"><add rend="unmarked" place="supralinear">nothing</add> royal blood, or <subst><del rend="overwrite" seq="1">in</del><add rend="overwrite" place="over" seq="2">the</add></subst> <subst><del rend="overstrike" seq="1">succession</del> <add rend="unmarked" place="supralinear" seq="2">inheritance</add></subst> through a direct line of the <add rend="insertion" place="supralinear">name of the</add> most <add rend="insertion" place="supralinear"><subst><del rend="overwrite" seq="1">re<gap reason="illegible" atLeast="4" unit="chars" extent="about four letters"/></del><add rend="overwrite" place="over" seq="2">historical</add></subst></add> heroes, or <del rend="overstrike">in any</del></seg> <add rend="insertion" place="supralinear"><metamark function="transpose" place="supralinear" rend="insertion, bracketed" target="#tr02">tr *</metamark></add> 
+<metamark function="group">(</metamark><seg xml:id="tr02">the eminency of any office of President or Governor or Mayor,</seg>
+          <listTranspose>
+            <transpose>
+              <ptr target="#tr02"/>
+              <ptr target="#tr03"/>
+            </transpose>
+          </listTranspose>
+          <metamark function="group">)</metamark> <del rend="overstrike">that begins to</del> <del rend="overstrike">but</del> <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/></del> that should make us carry our heads so high, <subst><del rend="overwrite" seq="1">as</del> <add rend="overwrite" place="over" seq="2">and</add></subst> so fill us with <subst><del rend="overstrike" seq="1">more than imperial pride,</del> <add rend="unmarked" place="supralinear" seq="2">bulging pride <del rend="overstrike" seq="3">than ever spread itself in capitols, or courts,</del></add></subst> as the consciousness that we are <del rend="overstrike">hum</del> human souls.—<subst><del rend="overwrite" seq="1">H</del><add rend="overwrite" place="over" seq="2">O</add></subst>ffice, however <subst><del rend="overstrike" seq="1">high</del> <add rend="unmarked" place="supralinear" seq="2">exalted</add></subst>, and wealth, however capacious, <subst><del rend="overstrike" seq="2"><add rend="insertion" place="supralinear" seq="1">may but</add></del> <add rend="unmarked" place="supralinear" seq="2">often</add></subst> show <del rend="overstrike">many</del> a mean and starved nature
 <pb xml:id="leaf005v" facs="nyp.00129.010.jpg" type="verso"/>
 <del rend="overstrike">for their <unclear reason="illegible" resp="#bb" cert="low">domos</unclear>; as the</del></p>
         <p>The best of such distinction<add rend="unmarked" place="inline">s</add> abstractly amount<del rend="overstrike">s</del> to little.— Toiled for, suffered for, lived for, as they are by the <del rend="overstrike">vast</del> majority of men, their <add rend="insertion" place="supralinear">only real</add> charm is that they <del rend="overstrike">but faintly</del> symbolize <add rend="insertion" place="supralinear">afar off</add> the unspeakable haughtiness and nob<subst><del rend="overwrite" seq="1">ility</del><add rend="overwrite" place="over" seq="2">leness</add></subst> which<del rend="overstrike">,</del> <del rend="overstrike">are grace</del> the <subst><del rend="overstrike" seq="1">soul</del> <add rend="unmarked" place="supralinear" seq="2">personality</add></subst> of <del rend="overstrike">every</del> man carries well, if he <subst><del rend="overstrike" seq="1">but</del> <add rend="unmarked" place="supralinear" seq="2">once</add></subst> take the hint of his <add rend="insertion" place="supralinear">own</add> <del rend="overstrike">inalienable</del> birthright.</p>
@@ -258,7 +265,7 @@ most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<d
 
 <pb xml:id="leaf009v" facs="nyp.00129.018.jpg" type="verso"/>
       <div1 type="prose">
-        <metamark function="transpose" target="#p01">*</metamark> <transpose anchored="0" xml:id="p01"><p>This Poetry, or aliment of the soul, we must have.—It is clamored for with the most irresistible longing.—Accordingly it is everywhere and <del rend="overstrike">upon</del> each <del rend="overstrike">objec</del> and all that our senses can</p></transpose>
+        <metamark function="transpose" target="#p01">*</metamark><p xml:id="p01">This Poetry, or aliment of the soul, we must have.—It is clamored for with the most irresistible longing.—Accordingly it is everywhere and <del rend="overstrike">upon</del> each <del rend="overstrike">objec</del> and all that our senses can</p>
         <p>Children and simple people often <del rend="overstrike">touch the <gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/> tune</del> make speeches that illustrate <del rend="overstrike">this relation with</del> some of these relations, better</p>
       </div1>
       
@@ -305,7 +312,13 @@ most certain sure—<del rend="overstrike">as</del> reliable as Immortality—<d
       </div1>
       <div1 type="prose">
         <head type="authorial">Friends.—</head>
-        <p><metamark function="transpose" xml:id="tr03">*</metamark>I discover that among people whose company is pleasant to me, I almost invariably grow fonder and fonder of those <del rend="overstrike">who without any</del> who <subst><del rend="overstrike" seq="1">evidently</del> <add rend="unmarked" place="supralinear" seq="2">constantly</add></subst> like me <add rend="insertion" place="supralinear">and are not afraid to show it <del rend="overstrike" seq="2">steadily,</del> who</add> and <del rend="overstrike">are</del> good natured, <del rend="overstrike">and</del> have no notably offensive ways,.<del rend="overstrike">, and don't blow hot and cold</del> <metamark function="group" target="#tr04">(</metamark><transpose anchored="0" xml:id="tr04">They may be <subst><del rend="overstrike" seq="1">plain</del> <add rend="unmarked" place="supralinear" seq="2">ugly</add></subst> in the face; simple or slack in mind; and of common <del rend="overstrike">po</del> employment.—</transpose><metamark function="group" target="#tr04">)</metamark> <metamark function="transpose" target="#tr04">* tr</metamark><!-- HERE WHITMAN HAS INDICATED A TRANSPOSITION, BY USING A ASTERISK.  HOWEVER I DO NOT KNOW WHICH OTHER ASTERISK HE IS REFERRING TO.  THERE ARE SEVERAL IN THIS NOTEBOOK. --> </p>
+        <p><metamark function="transpose" target="#tr04">*</metamark><seg xml:id="tr05">I discover that among people whose company is pleasant to me, I almost invariably grow fonder and fonder of those <del rend="overstrike">who without any</del> who <subst><del rend="overstrike" seq="1">evidently</del> <add rend="unmarked" place="supralinear" seq="2">constantly</add></subst> like me <add rend="insertion" place="supralinear">and are not afraid to show it <del rend="overstrike" seq="2">steadily,</del> who</add> and <del rend="overstrike">are</del> good natured, <del rend="overstrike">and</del> have no notably offensive ways,.<del rend="overstrike">, and don't blow hot and cold</del></seg> <metamark function="group" target="#tr04">(</metamark><seg xml:id="tr04">They may be <subst><del rend="overstrike" seq="1">plain</del> <add rend="unmarked" place="supralinear" seq="2">ugly</add></subst> in the face; simple or slack in mind; and of common <del rend="overstrike">po</del> employment.—</seg>
+          <listTranspose>
+            <transpose>
+              <ptr target="#tr04"/>
+              <ptr target="#tr05"/>
+            </transpose>
+          </listTranspose><metamark function="group" target="#tr04">)</metamark> <metamark function="transpose" target="#tr04">* tr</metamark></p>
       </div1>
 
 <pb xml:id="leaf012v" facs="nyp.00129.024.jpg" type="verso"/>

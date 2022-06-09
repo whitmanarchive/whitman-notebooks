@@ -13,7 +13,7 @@
                <persName xml:id="nhg">Nicole Gray</persName>
                <persName xml:id="kmp">Kenneth M. Price</persName>
                <persName xml:id="bb">Brett Barney</persName>
-            </respStmt>
+            <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of
                Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -68,7 +68,7 @@
             <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
          </handNotes>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
          <change when="2019-12-04" who="#bb">revised wording of date and work notes; corrected some pointers</change>
          <change when="2017-11-20" who="#nhg">added inline relations information</change>
          <change when="2017-04-11" who="#nhg">edited source information</change>

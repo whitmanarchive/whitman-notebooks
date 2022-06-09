@@ -14,7 +14,7 @@
                <persName xml:id="jyc">Jonathan Y. Cheng</persName>
                <persName xml:id="nhg">Nicole Gray</persName>
                <persName xml:id="kmp">Kenneth M. Price</persName>
-            </respStmt>
+            <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of
                Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -69,8 +69,8 @@
                <imprint><pubPlace>New York</pubPlace>
                  <publisher>New York University Press</publisher>
                  <date when="1984">1984</date>
-                 <biblScope type="vol">6</biblScope>
-                 <biblScope type="page">2147</biblScope>
+                 <biblScope unit="vol">6</biblScope>
+                 <biblScope unit="page">2147</biblScope>
                </imprint></monogr>
            </biblStruct>
          </sourceDesc>
@@ -82,7 +82,7 @@
             <handNote xml:id="unk">unknown archivist or scholar, possibly Emory Holloway</handNote>
          </handNotes>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
         <change who="#nhg" when="2019-10-02">added work relation</change>
         <change who="#nhg" when="2019-08-07">added inline relations</change>
         <change who="#nhg" when="2019-06-13">added biblStruct and supplied word "contempt"</change>
@@ -532,7 +532,7 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
        </div2>
        <div2 type="verse">
          <milestone unit="undeclared" rend="horbar-full"/>
-         <lg><add rend="unmarked" place="supralinear"><l>Why should I do much</l></add>
+         <lg><addSpan spanTo="#a1" rend="unmarked" place="supralinear"/><l>Why should I do much</l><anchor xml:id="a1"/>
          <l>The capitol, the president,<lb/> the laws,</l>
          <l>I <unclear reason="illegible" resp="#bb" cert="medium">dem</unclear></l>
        </lg>
@@ -593,7 +593,7 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
 
        <div2 type="verse">
          <lg>
-         <del rend="overstrike"><l>If the</l></del>
+         <delSpan spanTo="#d1" rend="overstrike"/><l>If the</l><anchor xml:id="d1"/>
          <l>Do you think I have written<lb/> all this for my own<lb/> good?</l>
          <l>Well perhaps I have . . . .<lb/>but <del rend="overstrike">it is</del> not in the<lb/> your <del rend="overstrike">you think,</del> imagine,</l>
          </lg>
@@ -733,7 +733,7 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <div2 type="verse">
          <lg type="poem">
            <l>For him all sentiments</l>
-           <del rend="overstrike"><l>For him</l></del>
+           <delSpan spanTo="#d2" rend="overstrike"/><l>For him</l><anchor xml:id="d2"/>
            <l>In his appointed day<lb/> he becomes a<lb/> God</l>
            <l>In his appointed time<lb/> he reaches his<lb/> ecstacy</l>
            <l>He is the one loved</l>
@@ -1161,9 +1161,9 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
             
              <note type="work_relations" target="xxx.00526" cert="high">
                <p>These notes probably relate to the preface of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> where Whitman also used the word "blatherers" (1855, p. iv) and the line: "The most affluent man is he that confronts all the shows he sees by equivalents out of the stronger wealth of himself" (1855, p. vii).</p>
-             </note>
-            
-         <add rend="unmarked" place="top"><ab xml:id="ab17">blatherers</ab></add>
+           </note>
+
+         <addSpan spanTo="#a2" rend="unmarked" place="top"/><ab xml:id="ab17">blatherers</ab><anchor xml:id="a2"/>
          <ab xml:id="ab60">The <subst><del rend="overstrike" seq="1">wealth<subst><del rend="overwrite" seq="1">iest</del><add rend="unmarked" place="over" seq="2">y</add></subst></del> <add rend="unmarked" place="supralinear" seq="2">affluent</add></subst> man is he who <subst><del rend="overstrike" seq="1">answers all the</del> <add rend="insertion" place="supralinear" seq="2">confronts</add></subst> <subst><del rend="overstrike" seq="1">wealth</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="supralinear" seq="2">whatever</add></del> <add rend="unmarked" place="supralinear" seq="3">the grandest</add> <add rend="unmarked" place="infralinear" seq="3">show</add></subst> sees <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del> by <del rend="overstrike">its</del> an equivalent <add rend="unmarked" place="supralinear">or more than equivalent</add> <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">in</unclear></del> <add rend="unmarked" place="infralinear" seq="2">from</add></subst> the <subst><del rend="overstrike" seq="1">depths</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="infralinear" seq="2">bottomless</add></del> <add rend="unmarked" place="infralinear" seq="3">grander <del rend="overstrike">riches</del></add> <add rend="unmarked" place="infralinear" seq="4">wealth</add></subst> of himself.—</ab>
          </div2>
          <div2 type="prose">
