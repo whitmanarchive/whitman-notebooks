@@ -47,10 +47,10 @@ class TeiToEs
     "en"
   end
 
-  def languages
-    # TODO verify that none of these are multiple languages
-    [ "en" ]
-  end
+  # def languages
+  #   # TODO verify that none of these are multiple languages
+  #   [ "en" ]
+  # end
 
   def person
     []
@@ -64,7 +64,7 @@ class TeiToEs
     get_text(@xpaths["source"])
   end
 
-  def subcategory
+  def category2
     "notebooks"
   end
 
