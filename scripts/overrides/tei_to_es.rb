@@ -40,7 +40,7 @@ class TeiToEs
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
   def category
-    "manuscripts"
+    "In Whitman's Hand"
   end
 
   def language
@@ -66,7 +66,7 @@ class TeiToEs
   end
 
   def category2
-    "notebooks"
+    "In Whitman's Hand / Notebooks"
   end
 
   def uri
@@ -105,6 +105,10 @@ class TeiToEs
     if ids && ids.length > 0
       ids.each_with_index do |id, idx|
         name = names[idx]
+        if !name
+          puts "#{self.get_id} has bad work ids"
+          puts "work id #{id} is missing a name"
+        end
         citations << {
           "id" => id,
           "title" => name,
