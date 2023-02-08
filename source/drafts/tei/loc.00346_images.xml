@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI><teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main" rend="bracketed">Poem incarnating the mind</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<persName xml:id="nhg">Nicole Gray</persName>
+<persName xml:id="no">Natalie O'Neal</persName>
+    <persName xml:id="kmp">Kenneth M. Price</persName>
+</respStmt>
+<sponsor>Center for Digital Research in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>loc.00346</idno>
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>P.O. Box 884100</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>kprice@unlnotes.unl.edu</addrLine>
+<addrLine>Ed-Folsom@uiowa.edu</addrLine>
+<addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+    <p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>  
+    <p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
+    <p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p> 
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="project" target="#dat1">Edward Grier writes that the date is before 1855.<!--check Miller--> On the cover of this notebook is a note in an unknown hand that reads: "Note Book Walt Whitman E85."<!--confirm this is not Holloway's hand-->  Lines from this notebook were used in "Miracles," the Preface to the 1855 <hi rend="italic">Leaves of Grass</hi>, and "A Song of the Rolling Earth," which appeared in the 1856 <hi rend="italic">Leaves of Grass</hi>.</note> 
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>Notebook LC #85</title>
+<date xml:id="dat1" cert="medium" notBefore="1830" notAfter="1855">Before 1855</date>
+<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842–1937, Library of Congress, Washington, D.C.</orgName>
+<note type="project">Transcribed from digital images of the original item.</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<handNotes>
+<handNote xml:id="unk" scribe="unknown"/>
+</handNotes>
+</profileDesc>
+<revisionDesc>
+    <change when="2015-08-24" who="#nhg">checked, corrected</change>
+    <change when="2015-01-20" who="#nhg">added rend to title</change>
+<change when="2014-12-02" who="#no">transcribed, encoded</change>
+<change when="2014-07-10" who="#nhg">transcribed, encoded</change>
+</revisionDesc>
+</teiHeader><pb  xml:id="leaf001r" facs="loc_jc.01655.jpg" type="recto"/><pb  xml:id="leaf001v" facs="loc_jc.01656.jpg" type="verso"/><pb  xml:id="leaf002r" facs="loc_jc.01657.jpg" type="recto"/><pb  xml:id="leaf002v" facs="loc_jc.01658.jpg" type="verso"/><pb  xml:id="leaf003r" facs="loc_jc.01659.jpg" type="recto"/><pb  xml:id="leaf003v" facs="loc_jc.01660.jpg" type="verso"/><pb  xml:id="leaf004r" facs="loc_jc.01661.jpg" type="recto"/><pb  xml:id="leaf004v" facs="loc_jc.01662.jpg" type="verso"/><pb  xml:id="leaf005r" facs="loc_jc.01663.jpg" type="recto"/><pb  xml:id="leaf005v" facs="loc_jc.01664.jpg" type="verso"/><pb  xml:id="leaf006r" facs="loc_jc.01665.jpg" type="recto"/><pb  xml:id="leaf006v" facs="loc_jc.01666.jpg" type="verso"/><pb  xml:id="leaf007r" facs="loc_jc.01667.jpg" type="recto"/><pb  xml:id="leaf007v" facs="loc_jc.01668.jpg" type="verso"/><pb  xml:id="leaf008r" facs="loc_jc.01669.jpg" type="recto"/><pb  xml:id="leaf008v" facs="loc_jc.01670.jpg" type="verso"/><pb  xml:id="leaf009r" facs="loc_jc.01671.jpg" type="recto"/><pb  xml:id="leaf009v" facs="loc_jc.01672.jpg" type="verso"/><pb  xml:id="leaf010r" facs="loc_jc.01673.jpg" type="recto"/><pb  xml:id="leaf010v" facs="loc_jc.01674.jpg" type="verso"/><pb  xml:id="leaf011r" facs="loc_jc.01675.jpg" type="recto"/><pb  xml:id="leaf011v" facs="loc_jc.01676.jpg" type="verso"/><pb  xml:id="leaf012r" facs="loc_jc.01677.jpg" type="recto"/><pb  xml:id="leaf012v" facs="loc_jc.01678.jpg" type="verso"/><pb  xml:id="leaf013r" facs="loc_jc.01679.jpg" type="recto"/><pb  xml:id="leaf013v" facs="loc_jc.01680.jpg" type="verso"/><pb  xml:id="leaf014r" facs="loc_jc.01681.jpg" type="recto"/><pb  xml:id="leaf014v" facs="loc_jc.01682.jpg" type="verso"/></TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">I know a rich capitalist</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <author>Walt Whitman</author>
+        <editor>Kenneth M. Price</editor>
+        <editor>Ed Folsom</editor>
+        <respStmt>
+          <resp>Transcription and encoding</resp>
+          <persName xml:id="jm">Joshua Matthews</persName>
+          <persName xml:id="bb">Brett Barney</persName>
+          <persName xml:id="kc">Kirsten Clawson</persName>
+          <persName xml:id="nhg">Nicole Gray</persName>
+        </respStmt>
+        <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+        <sponsor>University of Iowa</sponsor>
+        <funder>The National Endowment for the Humanities</funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2014</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>nyp.00129</idno>
+        <distributor>The Walt Whitman Archive</distributor>
+        <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+        <availability>
+          <p>Copyright © 2012 by Ed Folsom and Kenneth M. Price, all rights
+            reserved. Items in the Archive may be shared in accordance with the Fair Use
+            provisions of U.S. copyright law. Redistribution or republication on other
+            terms, in any medium, requires express written consent from the editors and
+            advance notification of the publisher, Center for Digital Research in the
+            Humanities. Permission to reproduce the graphic images in this archive has
+            been granted by the owners of the originals for this publication only.</p>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="project" target="#dat1">Transcribed from our own digital image of original manuscript.</note>             
+      </notesStmt>
+      <sourceDesc>
+        <bibl>
+          <author>Walt Whitman</author>
+          <title>I know a rich capitalist</title>                  
+          <idno type="callno"/>
+          <orgName xml:id="nyp">The Henry W. and Albert A. Berg Collection of English and American Literature, New York Public Library</orgName>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="" who="#bb"/>
+      <change when="2016-04-21" who="#nhg">added work relations information from previous transcription</change>
+      <change when="2015-02-05" who="#kc">converted from P4 to P5, checked</change>
+      <change when="2006-11-08" who="#bb">Converted document and page IDs from placeholders; converted illegal dels to delSpan/anchor combinations; validated</change>
+      <change when="2006-02-08" who="#jm">transcribed and encoded</change>
+    </revisionDesc>
+</teiHeader><pb xml:id="leaf001r" facs="nyp.00129.001.jpg" type="recto"/><pb xml:id="leaf001v" facs="nyp_nhg.00001.jpg" type="verso"/><pb xml:id="leaf002r" facs="nyp.00129.003.jpg" type="recto"/><pb xml:id="leaf002v" facs="nyp.00129.004.jpg" type="verso"/><pb xml:id="leaf004r" facs="nyp.00129.005.jpg" type="recto"/><pb xml:id="leaf004v" facs="nyp.00129.006.jpg" type="verso"/><pb xml:id="leaf005r" facs="nyp.00129.007.jpg" type="recto"/><pb xml:id="leaf005v" facs="nyp.00129.008.jpg" type="verso"/><pb xml:id="leaf006r" facs="nyp.00129.009.jpg" type="recto"/><pb xml:id="leaf006v" facs="nyp.00129.010.jpg" type="verso"/><pb xml:id="leaf007r" facs="nyp.00129.011.jpg" type="recto"/><pb xml:id="leaf007v" facs="nyp.00129.012.jpg" type="verso"/><pb xml:id="leaf008r" facs="nyp.00129.013.jpg" type="recto"/><pb xml:id="leaf008v" facs="nyp.00129.014.jpg" type="verso"/><pb xml:id="leaf009r" facs="nyp.00129.015.jpg" type="recto"/><pb xml:id="leaf009v" facs="nyp.00129.016.jpg" type="verso"/><pb xml:id="leaf010r" facs="nyp.00129.017.jpg" type="recto"/><pb xml:id="leaf010v" facs="nyp.00129.018.jpg" type="verso"/><pb xml:id="leaf011r" facs="nyp.00129.019.jpg" type="recto"/><pb xml:id="leaf011v" facs="nyp.00129.020.jpg" type="verso"/><pb xml:id="leaf012r" facs="nyp.00129.021.jpg" type="recto"/><pb xml:id="leaf012v" facs="nyp.00129.022.jpg" type="verso"/><pb xml:id="leaf013r" facs="nyp.00129.023.jpg" type="recto"/><pb xml:id="leaf013v" facs="nyp.00129.024.jpg" type="verso"/><pb xml:id="leaf014r" facs="nyp.00129.025.jpg" type="recto"/><pb xml:id="leaf014v" facs="nyp.00129.026.jpg" type="verso"/><pb xml:id="leaf015r" facs="nyp.00129.002.jpg" type="recto"/></TEI>

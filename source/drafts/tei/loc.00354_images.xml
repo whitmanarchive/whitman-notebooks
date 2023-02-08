@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="m" type="main">16th Sept</title>
+				<title level="m" type="sub">a machine readable transcription</title>
+				<author>Walt Whitman</author>
+				<editor>Kenneth M. Price</editor>
+				<editor>Ed Folsom</editor>
+				<respStmt>
+					<resp>Transcription and encoding</resp>
+                    <persName xml:id="bb">Brett Barney</persName>
+					<persName xml:id="jm">Joshua Matthews</persName>
+					<persName xml:id="kc">Kirsten Clawson</persName>
+					<persName xml:id="nhg">Nicole Gray</persName>
+				</respStmt>
+				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+				<sponsor>University of Iowa</sponsor>
+				<funder>The National Endowment for the Humanities</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2016</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<idno>loc.00354</idno>
+				<distributor>The Walt Whitman Archive</distributor>
+				<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+				<availability>
+					<p>Copyright © 2016 by Ed Folsom and Kenneth M. Price, all rights
+						reserved. Items in the Archive may be shared in accordance with the Fair Use
+						provisions of U.S. copyright law. Redistribution or republication on other
+						terms, in any medium, requires express written consent from the editors and
+						advance notification of the publisher, Center for Digital Research in the
+						Humanities. Permission to reproduce the graphic images in this archive has
+						been granted by the owners of the originals for this publication only.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Walt Whitman</author>
+					<title>16th Sept</title>                  
+					<idno type="callno"/>
+					<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman: A Register of His Papers in the Library of Congress, 1842–1937</orgName>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2016-10-19" who="#bb">corrected page order to agree with transcription</change>
+			<change when="2016-03-29" who="#nhg">created</change>
+		</revisionDesc>
+	</teiHeader>
+
+<pb xml:id="leaf001r" facs="20051105_0607.jpg" type="recto"/>
+<pb xml:id="leaf001v" facs="20051105_0606.jpg" type="verso"/>
+<pb xml:id="leaf002r" facs="20051105_0605.jpg" type="recto"/>
+<pb xml:id="leaf002v" facs="20051105_0604.jpg" type="verso"/>
+<pb xml:id="leaf003r" facs="20051105_0603.jpg" type="recto"/>
+<pb xml:id="leaf003v" facs="20051105_0602.jpg" type="verso"/>
+<pb xml:id="leaf004r" facs="20051105_0601.jpg" type="recto"/>
+<pb xml:id="leaf004v" facs="loc_bb.00030_large.jpg" type="verso"/>
+<pb xml:id="leaf005r" facs="20051105_0600.jpg" type="recto"/>
+<pb xml:id="leaf005v" facs="20051105_0599.jpg" type="verso"/>
+<pb xml:id="leaf006r" facs="20051105_0598.jpg" type="recto"/>
+<pb xml:id="leaf006v" facs="20051105_0597.jpg" type="verso"/>
+<pb xml:id="leaf007r" facs="20051105_0596.jpg" type="recto"/>
+<pb xml:id="leaf007v" facs="loc_bb.00029.jpg" type="verso"/>
+<pb xml:id="leaf008r" facs="20051105_0595.jpg" type="recto"/>
+<pb xml:id="leaf008v" facs="20051105_0594.jpg" type="verso"/>
+<pb xml:id="leaf009r" facs="20051105_0593.jpg" type="recto"/>
+<pb xml:id="leaf009v" facs="loc_bb.00028.jpg" type="verso"/>
+<pb xml:id="leaf010r" facs="loc_bb.00027.jpg" type="recto"/>
+<pb xml:id="leaf010v" facs="20051105_0592.jpg" type="verso"/>
+<pb xml:id="leaf011r" facs="20051105_0591.jpg" type="recto"/>
+<pb xml:id="leaf011v" facs="20051105_0590.jpg" type="verso"/>
+<pb xml:id="leaf012r" facs="20051105_0589.jpg" type="recto"/>
+<pb xml:id="leaf012v" facs="20051105_0588.jpg" type="verso"/>
+<pb xml:id="leaf013r" facs="20051105_0587.jpg" type="recto"/>
+<pb xml:id="leaf013v" facs="20051105_0586.jpg" type="verso"/>
+<pb xml:id="leaf014r" facs="20051105_0585.jpg" type="recto"/>
+<pb xml:id="leaf014v" facs="20051105_0584.jpg" type="verso"/>
+<pb xml:id="leaf015r" facs="20051105_0583.jpg" type="recto"/>
+<pb xml:id="leaf015v" facs="20051105_0582.jpg" type="verso"/>
+<pb xml:id="leaf016r" facs="20051105_0581.jpg" type="recto"/>
+<pb xml:id="leaf016v" facs="20051105_0580.jpg" type="verso"/>
+<pb xml:id="leaf017r" facs="20051105_0579.jpg" type="recto"/>
+<pb xml:id="leaf017v" facs="20051105_0578.jpg" type="verso"/>
+<pb xml:id="leaf018r" facs="20051105_0577.jpg" type="recto"/>
+<pb xml:id="leaf018v" facs="loc_bb.00031_large.jpg" type="verso"/>
+<pb xml:id="leaf019r" facs="20051105_0553.jpg" type="recto"/>
+<pb xml:id="leaf019v" facs="20051105_0554.jpg" type="verso"/>
+<pb xml:id="leaf020r" facs="20051105_0576.jpg" type="recto"/>
+<pb xml:id="leaf020v" facs="20051105_0575.jpg" type="verso"/>
+<pb xml:id="leaf021r" facs="20051105_0569.jpg" type="recto"/>
+<pb xml:id="leaf021v" facs="20051105_0570.jpg" type="verso"/>
+<pb xml:id="leaf022r" facs="20051105_0567.jpg" type="recto"/>
+<pb xml:id="leaf022v" facs="20051105_0568.jpg" type="verso"/>
+<pb xml:id="leaf023r" facs="20051105_0550.jpg" type="recto"/>
+<pb xml:id="leaf023v" facs="20051105_0549.jpg" type="verso"/>
+<pb xml:id="leaf024r" facs="20051105_0566.jpg" type="recto"/>
+<pb xml:id="leaf024v" facs="20051105_0565.jpg" type="verso"/>
+<pb xml:id="leaf025r" facs="20051105_0574.jpg" type="recto"/>
+<pb xml:id="leaf025v" facs="20051105_0573.jpg" type="verso"/>
+<pb xml:id="leaf026r" facs="20051105_0564.jpg" type="recto"/>
+<pb xml:id="leaf026v" facs="20051105_0563.jpg" type="verso"/>
+<pb xml:id="leaf027r" facs="20051105_0562.jpg" type="recto"/>
+<pb xml:id="leaf027v" facs="20051105_0561.jpg" type="verso"/>
+<pb xml:id="leaf028r" facs="20051105_0560.jpg" type="recto"/>
+<pb xml:id="leaf028v" facs="20051105_0558.jpg" type="verso"/>
+<pb xml:id="leaf029r" facs="20051105_0559.jpg" type="recto"/>
+<pb xml:id="leaf029v" facs="20051105_0557.jpg" type="verso"/>
+<pb xml:id="leaf030r" facs="20051105_0556.jpg" type="recto"/>
+<pb xml:id="leaf030v" facs="20051105_0555.jpg" type="verso"/>
+<pb xml:id="leaf031r" facs="20051105_0548.jpg" type="recto"/>
+<pb xml:id="leaf031v" facs="20051105_0547.jpg" type="verso"/>
+<pb xml:id="leaf032r" facs="20051105_0546.jpg" type="recto"/>
+<pb xml:id="leaf032v" facs="20051105_0545.jpg" type="verso"/>
+<pb xml:id="leaf033r" facs="20051105_0544.jpg" type="recto"/>
+<pb xml:id="leaf033v" facs="20051105_0543.jpg" type="verso"/>
+<pb xml:id="leaf034r" facs="20051105_0551.jpg" type="recto"/>
+<pb xml:id="leaf034v" facs="20051105_0552.jpg" type="verso"/>
+<pb xml:id="leaf035r" facs="20051105_0530.jpg" type="recto"/>
+<pb xml:id="leaf035v" facs="20051105_0529.jpg" type="verso"/>
+<pb xml:id="leaf036r" facs="20051105_0542.jpg" type="recto"/>
+<pb xml:id="leaf036v" facs="20051105_0541.jpg" type="verso"/>
+<pb xml:id="leaf037r" facs="20051105_0528.jpg" type="recto"/>
+<pb xml:id="leaf037v" facs="20051105_0527.jpg" type="verso"/>
+<pb xml:id="leaf038r" facs="20051105_0540.jpg" type="recto"/>
+<pb xml:id="leaf038v" facs="20051105_0539.jpg" type="verso"/>
+<pb xml:id="leaf039r" facs="20051105_0538.jpg" type="recto"/>
+<pb xml:id="leaf039v" facs="20051105_0537.jpg" type="verso"/>
+<pb xml:id="leaf040r" facs="loc_bb.00026.jpg" type="recto"/>
+<pb xml:id="leaf040v" facs="20051105_0536.jpg" type="verso"/>
+<pb xml:id="leaf041r" facs="20051105_0535.jpg" type="recto"/>
+<pb xml:id="leaf041v" facs="20051105_0534.jpg" type="verso"/>
+<pb xml:id="leaf042r" facs="20051105_0532.jpg" type="recto"/>
+<pb xml:id="leaf042v" facs="20051105_0531.jpg" type="verso"/>
+<pb xml:id="leaf043r" facs="20051105_0526.jpg" type="recto"/>
+<pb xml:id="leaf043v" facs="20051105_0525.jpg" type="verso"/>
+<pb xml:id="leaf044r" facs="20051105_0524.jpg" type="recto"/>
+<pb xml:id="leaf044v" facs="20051105_0523.jpg" type="verso"/>
+<pb xml:id="leaf045r" facs="20051105_0522.jpg" type="recto"/>
+<pb xml:id="leaf045v" facs="20051105_0521.jpg" type="verso"/>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI><teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main" rend="bracketed">The regular old followers</title>
+<title level="m" type="sub">a machine readable transcription</title>
+
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+	<persName xml:id="ec">Eric Conrad</persName>
+	<persName xml:id="nhg">Nicole Gray</persName>
+	<persName xml:id="kmp">Kenneth Price</persName>
+</respStmt>
+	<sponsor>Center for Digital Research in the Humanities, University of
+		Nebraska-Lincoln</sponsor>
+<sponsor>University of Iowa</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt><editionStmt>
+<edition><date>2004</date></edition>
+</editionStmt><publicationStmt>
+<idno>loc.00024</idno>
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P. O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<availability>
+	<p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>  
+	<p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
+	<p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p> 
+</availability>
+</publicationStmt>
+<notesStmt>
+	<note type="project" target="#dat1">Whitman likely wrote the building specifications on what is presented here as the last page of this notebook first, and then flipped it over and wrote notes from the other direction. References to the <hi rend="italic">San Francisco</hi> can be dated to sometime after January 1854. The cover of the notebook is labeled "Note Book Walt Whitman" in a hand that is not Whitman's.</note>                        	
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>Notebook LC #83</title>
+	<date cert="medium" notBefore="1853" notAfter="1855" xml:id="dat1">Between 1853 and 1855</date>
+	<idno type="callno">MSS45443</idno> 
+	<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842–1937, Library of Congress, Washington, D.C.</orgName>
+	<note type="project">Transcribed from digital images of the original item.</note>
+</bibl>
+	
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+	<change when="2015-04-28" who="#nhg">created file</change>
+	
+</revisionDesc>
+</teiHeader><pb facs="loc.00024.001.jpg" xml:id="leaf001r" type="recto"/><pb facs="loc.00024.002.jpg" xml:id="leaf001v" type="verso"/><pb facs="loc.00024.003.jpg" xml:id="leaf002r" type="recto"/><pb facs="loc.00024.004.jpg" xml:id="leaf002v" type="verso"/><pb facs="loc.00024.005.jpg" xml:id="leaf003r" type="recto"/><pb facs="loc.00024.006.jpg" xml:id="leaf003v" type="verso"/><pb facs="loc.00024.007.jpg" xml:id="leaf004r" type="recto"/><pb facs="loc.00024.008.jpg" xml:id="leaf004v" type="verso"/><pb facs="loc.00024.009.jpg" xml:id="leaf005r" type="recto"/><pb facs="loc.00024.010.jpg" xml:id="leaf005v" type="verso"/><pb facs="loc.00024.011.jpg" xml:id="leaf006v" type="verso"/><pb facs="loc.00024.012.jpg" xml:id="leaf007r" type="recto"/><pb facs="loc.00024.013.jpg" xml:id="leaf006r" type="recto"/><pb facs="loc.00024.014.jpg" xml:id="leaf007v" type="verso"/><pb facs="loc.00024.015.jpg" xml:id="leaf008r" type="recto"/><pb facs="loc.00024.016.jpg" xml:id="leaf008v" type="verso"/><pb facs="loc.00024.018.jpg" xml:id="leaf010r" type="recto"/><pb facs="loc.00024.017.jpg" xml:id="leaf010v" type="verso"/><pb facs="loc.00024.020.jpg" xml:id="leaf011r" type="recto"/><pb facs="loc.00024.019.jpg" xml:id="leaf011v" type="verso"/><pb facs="loc.00024.022.jpg" xml:id="leaf012r" type="recto"/><pb facs="loc.00024.021.jpg" xml:id="leaf012v" type="verso"/></TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main" rend="bracketed">Summer Duck</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <author>Walt Whitman</author>
+        <editor>Kenneth M. Price</editor>
+        <editor>Ed Folsom</editor>
+        <respStmt>
+          <resp>Transcription and encoding</resp>
+                    <persName xml:id="bb">Brett Barney</persName>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+        </respStmt>
+        <sponsor>Center for Digital Research in the Humanities, University of
+          Nebraska-Lincoln</sponsor>
+        <sponsor>University of Iowa</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <idno>loc.00158</idno>
+        <distributor>The Walt Whitman Archive</distributor>
+        <address>
+          <addrLine>Center for Digital Research in the Humanities</addrLine>
+          <addrLine>319 Love Library</addrLine>
+          <addrLine>University of Nebraska-Lincoln</addrLine>
+          <addrLine>P.O. Box 884100</addrLine>
+          <addrLine>Lincoln, NE 68588-4100</addrLine>
+        </address>
+        <availability>
+          <p>Copyright &#169; 2016 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in
+            the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright
+            law. Redistribution or republication on other terms, in any medium, requires express
+            written consent from the editors and advance notification of the publisher, Center for
+            Digital Research in the Humanities. Permission to reproduce the graphic images in this
+            archive has been granted by the owners of the originals for this publication only.</p>
+        </availability>
+      </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Wood drake</title>
+                    <date cert="medium" notBefore="1852" notAfter="1854" xml:id="dat1">Between 1852 and 1855</date>
+                    <idno type="callno">MSS18630</idno>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839&#8211;1919, Library of Congress, Washington, D.C.</orgName>
+                </bibl>
+            </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2016-10-25" who="#bb">created file</change>
+    </revisionDesc>
+  </teiHeader>
+  <pb facs="loc_nhg.00015.jpg" type="recto" xml:id="leaf001r"/>
+  <pb facs="loc_nhg.00016.jpg" type="verso" xml:id="leaf001v"/>
+  <pb facs="loc_nhg.00017.jpg" type="recto" xml:id="leaf002r"/>
+  <pb facs="loc_nhg.00018.jpg" type="verso" xml:id="leaf002v"/>
+</TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.05589">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.05589">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -14,7 +14,7 @@
                <persName xml:id="jyc">Jonathan Y. Cheng</persName>
                <persName xml:id="nhg">Nicole Gray</persName>
                <persName xml:id="kmp">Kenneth M. Price</persName>
-            <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+            </respStmt>
             <sponsor>Center for Digital Research in the Humanities, University of
                Nebraska-Lincoln</sponsor>
             <sponsor>University of Iowa</sponsor>
@@ -26,7 +26,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            
+            <idno>loc.05589</idno>
             <distributor>The Walt Whitman Archive</distributor>
             <address>
                <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -40,7 +40,7 @@
                <p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
                <p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p> 
             </availability>
-         <idno>loc.05589</idno></publicationStmt>
+         </publicationStmt>
       <notesStmt>
         <note type="project" target="#dat1">As Floyd Stovall has noted, the few datable references in this notebook (e.g., the fighting at Sebastopol during the Crimean War) are to events from about 1853 to late 1854, shortly before the first publication of <hi rend="italic">Leaves of Grass</hi>. See Floyd Stovall, "Dating Whitman's Early Notebooks," <hi rend="italic">Studies in Bibliography</hi> 24 (1971), 197–204. See also Edward Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:138–155. Whitman's notes about Egypt and mention of "Dr. Abbott" in the notebook probably also date to around 1854: Stovall writes that at this time "Whitman made frequent visits to the Egyptian Museum, which was established by Dr. Henry Abbott in New York" (202). Whitman discussed Abbott's museum at some length in the article "One of the Lessons Bordering Broadway: The Egyptian Museum," published in <hi rend="italic">Life Illustrated</hi> on December 8, 1855. 
           <lb/><lb/>This notebook contains much draft material for Whitman's early poems, although this fact has not often been recognized by scholars. Both Stovall and Grier point out that most of the connections to printed works are to poems and prose published in the 1855 edition of <hi rend="italic">Leaves of Grass</hi> but that the notebook also contains material clearly related to things that were first printed in the second (1856) and third (1860–1861) editions.
@@ -69,8 +69,8 @@
                <imprint><pubPlace>New York</pubPlace>
                  <publisher>New York University Press</publisher>
                  <date when="1984">1984</date>
-                 <biblScope unit="vol">6</biblScope>
-                 <biblScope unit="page">2147</biblScope>
+                 <biblScope type="vol">6</biblScope>
+                 <biblScope type="page">2147</biblScope>
                </imprint></monogr>
            </biblStruct>
          </sourceDesc>
@@ -82,7 +82,7 @@
             <handNote xml:id="unk">unknown archivist or scholar, possibly Emory Holloway</handNote>
          </handNotes>
       </profileDesc>
-      <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
+      <revisionDesc>
         <change who="#nhg" when="2019-10-02">added work relation</change>
         <change who="#nhg" when="2019-08-07">added inline relations</change>
         <change who="#nhg" when="2019-06-13">added biblStruct and supplied word "contempt"</change>
@@ -107,11 +107,11 @@
 
          <pb xml:id="leaf001v" facs="loc_ej.00663_large.jpg" type="verso"/>
 <div2 type="prose">
-   
-    <note type="work_relations" target="xxx.01167" cert="high">
+  <relations>
+    <work ref="xxx.01167" cert="high">
       <p>The notes describing "the first after Osiris" were likely derived from information about the Egyptian ruler Sesostris, which Whitman used to write his article "One of the Lessons Bordering Broadway: The Egyptian Museum," published in <hi rend="italic">Life Illustrated</hi> on December 8, 1855. Dr. (Henry) Abbott and Dr. (Richard) Lepsius are also mentioned in that article.</p>
-    </note>
-   
+    </work>
+  </relations>
          <ab>
 <handShift new="#h1"/>
 <gap reason="illegible" atLeast="7" unit="chars" extent="at least two words"/>women 
@@ -157,12 +157,12 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
        </div2>
          <pb xml:id="leaf003v" facs="loc_ej.01024_large.jpg" type="verso"/>
        <div2 type="prose">
-          
-           <note type="work_relations" target="xxx.00052" cert="high">
+         <relations>
+           <work ref="xxx.00052" cert="high">
              <p>The start of this page is a continuation of a clipped-away passage that relates to the following lines, which appeared in the first (1855) version of the poem later titled "I Sing the Body Electric": "The march of firemen in their own costumes—the play of the masculine muscle through cleansetting trowsers and waistbands, / The slow return from the fire . . . . the pause when the bell strikes suddenly again—the listening on the alert / The natural perfect and varied attitudes . . . . the bent head, the curved neck, the
                counting" (1855, p. 78).</p>
-           </note>
-          
+           </work>
+         </relations>
          <ab xml:id="ab100">be sure <add place="supralinear" rend="insertion">of the district</add> where the trouble
             is—they wait thus perfectly still and in splendid postures—</ab>
           <milestone unit="undeclared" rend="horbar-long-center"/>
@@ -189,21 +189,21 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
        </div2>
          <pb xml:id="leaf005r" facs="loc_ej.01027_large.jpg" type="recto"/>
        <div2 type="prose">
-           
-            <note type="work_relations" target="xxx.00048" cert="high">
+          <relations>
+            <work ref="xxx.00048" cert="high">
               <p>This paragraph is possibly related to a three-line passage on the same theme in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, eventually titled "Song of Myself." The second of those lines reads, "And I say it as as great to be a woman as to be a man" (1855, p. 26).</p>
-            </note>
-           
+            </work>
+          </relations>
          <p xml:id="p01">I have been asked, Which is the greater, the man or the woman?—Yes, I tell you,
             with the same answer that I tell whether Time is greater than space—<add place="supralinear" rend="unmarked">and</add> wh<gap reason="torn away" atLeast="2" unit="chars" extent="at least two words"/></p>
        </div2>
          <pb xml:id="leaf005v" facs="loc_ej.01028_large.jpg" type="verso"/>
        <div2 type="prose">
-           
-            <note type="work_relations" target="xxx.00048" cert="high">
+          <relations>
+            <work ref="xxx.00048" cert="high">
               <p>This paragraph seems likely to have informed the passage in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, eventually titled "Song of Myself," in which the speaking persona says, "I do not snivel [. . .] That life is a suck and a sell [. . .] ." (1855, p. 25).</p>
-            </note>
-           
+            </work>
+          </relations>
          <p xml:id="p02">The life of man on earth is the chef d'ouvre of all things.— What then! is it a
             suck?—Has God <del rend="overstrike">tried</del> conceived a joke, and tried it on,
             and is it a small one?</p>
@@ -215,11 +215,11 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
          <delSpan rend="hashmark" spanTo="#w01"/>
 
          <lg type="poem">
- 
-            <note type="work_relations" target="xxx.00113" cert="high">
+<relations>
+            <work ref="xxx.00113" cert="high">
               <p>These draft lines were incorporated, in revised form, into the seventh poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song of the Answerer."</p>
-            </note>
- 
+            </work>
+</relations>
          <head type="main">Of the poet</head>
             <l xml:id="l01">He walks with perfect<lb/> ease among a congress<lb/> of kings,</l>
             <l xml:id="l02">And one king <subst><del rend="overstrike" seq="1">saith</del> <add place="supralinear" rend="unmarked" seq="2">says</add></subst><lb/> to another, Here is<lb/>
@@ -241,20 +241,20 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
          </div2>
          <div2 type="verse">
          <lg type="poem">
- 
-            <note type="work_relations" target="xxx.00113" cert="high">
+<relations>
+            <work ref="xxx.00113" cert="high">
               <p>This line contributed to the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song of Myself."</p>
-            </note>
- 
+            </work>
+</relations>
             <l xml:id="l08">O laugh when my eyes settle<lb/> the land</l>
          </lg>
 
          <lg type="poem">
- 
-            <note type="work_relations" target="xxx.00114" cert="low">
+<relations>
+            <work ref="xxx.00114" cert="low">
               <p>The imagery and phrasing of these lines bears some resemblance to a passage in the fourth "Chants Democratic" poem of the 1860 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "Our Old Feuillage," in which Whitman writes of "White drift spooning ahead [. . .] ."</p>
-            </note>
- 
+            </work>
+</relations>
             <l>T</l>
             <l>The <add place="supralinear" rend="unmarked">bluey</add> spoon-drift, like <lb/>
               a white race-horse of <lb/> brine, speeds before me</l>
@@ -264,10 +264,10 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
          <pb xml:id="leaf007r" facs="loc_ej.01031_large.jpg" type="recto"/>
 
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00048" cert="low"><p>This section bears some resemblance to other manuscripts related to lines about greed in the poem eventually titled "Song of Myself." See, for instance, the lines: "By God! I will accept nothing which all cannot have their counterpart of on the same terms" (1855, p. 29) and "To feed the greed of the belly the brains liberally spooning" (1855, p. 47).</p></note>
-             <note type="work_relations" target="xxx.00526" cert="low"><p>This section also bears some topical resemblance to a line about greed in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "and all their stifling deceits and underhanded dodgings, or infinitessimals of parlors, or shameless stuffing while others starve . ." (1855, p. x).</p></note>
-            
+           <relations>
+             <work ref="xxx.00048" cert="low"><p>This section bears some resemblance to other manuscripts related to lines about greed in the poem eventually titled "Song of Myself." See, for instance, the lines: "By God! I will accept nothing which all cannot have their counterpart of on the same terms" (1855, p. 29) and "To feed the greed of the belly the brains liberally spooning" (1855, p. 47).</p></work>
+             <work ref="xxx.00526" cert="low"><p>This section also bears some topical resemblance to a line about greed in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "and all their stifling deceits and underhanded dodgings, or infinitessimals of parlors, or shameless stuffing while others starve . ." (1855, p. x).</p></work>
+           </relations>
            <ab xml:id="ab30"><del rend="overstrike">such</del> such a thing as ownership here
             any how.—<del rend="overstrike">The Chief B<gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/> <gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/><add rend="insertion" place="supralinear"><subst><del rend="overstrike" seq="1">was</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="inline" seq="2">is</add></del></subst></add> the <unclear reason="illegible" resp="#bb" cert="medium">primal democrat</unclear> <gap reason="illegible" atLeast="4" unit="chars" extent="at least four letters"/> <gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del>
                <subst><del rend="overstrike" seq="1">of his </del><add place="supralinear" rend="unmarked" seq="1">one of the</add></subst> laws <add rend="insertion" place="supralinear"><gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/></add> that <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></del> from the moment 
@@ -275,11 +275,11 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
          </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
 <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00119" cert="high">
+<relations>
+  <work ref="xxx.00119" cert="high">
    <p>A later version of this passage was incorporated into the poem eventually titled "A Song for Occupations," when Whitman revised it for publication in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi></p>
-  </note>
- 
+  </work>
+</relations>
 
          <ab>stonecutter's tools<lb/> tooth-chisel—jib for the thumb</ab>
 </div2>
@@ -291,10 +291,10 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
 
          <pb xml:id="leaf008r" facs="loc_ej.01033_large.jpg" type="recto"/>
 <div2 type="prose">
-   
-    <note type="work_relations" target="xxx.00048" cert="low"><p>The measurement in this passage may relate to the following line in the poem later titled "Song of Myself": "Speeding amid the seven satellites and the broad ring and the diameter of eighty
-      thousand miles" (1855, p. 37).</p></note>
-   
+  <relations>
+    <work ref="xxx.00048" cert="low"><p>The measurement in this passage may relate to the following line in the poem later titled "Song of Myself": "Speeding amid the seven satellites and the broad ring and the diameter of eighty
+      thousand miles" (1855, p. 37).</p></work>
+  </relations>
   <p><seg xml:id="seg10">It is a terrible sign of the human soul that it will not own any limit, even the
             widest.—The moment we knew the diameter of the earth to be eight thousand miles,
             it became no great thing to us.—</seg><seg xml:id="seg11">With all the appalling grandeur of astronomy, if
@@ -321,16 +321,16 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
          <pb xml:id="leaf009r" facs="loc_ej.01035_large.jpg" type="recto"/>
 
 <div2 type="prose">
-   
-    <note type="work_relations" target="xxx.00120" cert="high">
+  <relations>
+    <work ref="xxx.00120" cert="high">
       <p>Floyd Stovall has posited a connection between this passage and the 1856 poem "Poem of the Sayers of the Words of the Earth" (later titled "A Song of the Rolling Earth"), an argument that is strengthened by Whitman's "overleaf" notation, which ties it to the passage on the following page. There, the phrasing more clearly echoes the printed poem.</p>
-    </note>
-    <note type="work_relations" target="xxx.00052" cert="low">
+    </work>
+    <work ref="xxx.00052" cert="low">
       <p>This passage also bears some similarity to the following line in the poem eventually titled "I Sing the Body Electric": "As I see my soul reflected in nature . . . . as I see through a mist one with inexpress-
         ible completeness and beauty . . . . see the bent head and arms folded over the
         breast . . . . the female I see" (1855, p. 80).</p>
-    </note>
-   
+    </work>
+  </relations>
          <p xml:id="p10"><metamark rend="circled" function="transposition">☞ over leaf</metamark>
 <subst>
 <del rend="overstrike" seq="1">The <gap reason="illegible" atLeast="3" unit="chars" extent="at least three letters"/> Nature is an ethereal mirror deep deep and floating</del>
@@ -355,13 +355,13 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf009v" facs="loc_ej.01036_large.jpg" type="verso"/>
 
 <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00271" cert="low"><p>The phrase "face of the mother of many children" appears twice in the sixth poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> That poem was eventually titled "Faces."</p></note>
-  <note type="work_relations" target="xxx.00052" cert="low"><p>Edward Grier, in <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), has posited a connection between this passage and the following lines in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric": "The female contains all qualities and tempers them . . . . she is in her place . . . . she moves with perfect balance, / She is all things duly veiled . . . . she is both passive and active . . . . she is to conceive daughters as well as sons and sons as well as daughters." See Grier, 1:141.</p>
-</note>
-  <note type="work_relations" target="xxx.00120" cert="high"><p>Floyd Stovall has noted the connection between this passage and lines in the 1856 poem "Poem of the Sayers of the Words of the Earth" (later titled "A Song of the Rolling Earth"), in which the Earth is personified as a "beautiful sister" who holds "in her hand what has the character of a mirror." See Stovall, "Dating Whitman's Early Notebooks," <hi rend="italic">Studies in Bibliography</hi> 24 (1971), 202.</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00271" cert="low"><p>The phrase "face of the mother of many children" appears twice in the sixth poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> That poem was eventually titled "Faces."</p></work>
+  <work ref="xxx.00052" cert="low"><p>Edward Grier, in <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), has posited a connection between this passage and the following lines in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric": "The female contains all qualities and tempers them . . . . she is in her place . . . . she moves with perfect balance, / She is all things duly veiled . . . . she is both passive and active . . . . she is to conceive daughters as well as sons and sons as well as daughters." See Grier, 1:141.</p>
+</work>
+  <work ref="xxx.00120" cert="high"><p>Floyd Stovall has noted the connection between this passage and lines in the 1856 poem "Poem of the Sayers of the Words of the Earth" (later titled "A Song of the Rolling Earth"), in which the Earth is personified as a "beautiful sister" who holds "in her hand what has the character of a mirror." See Stovall, "Dating Whitman's Early Notebooks," <hi rend="italic">Studies in Bibliography</hi> 24 (1971), 202.</p>
+</work>
+</relations>
          <p xml:id="p03">There is a <add place="supralinear" rend="unmarked">fullsized</add> woman of calm and
             voluptuous beauty. . . . <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del> the <del rend="overstrike">unspeak<gap reason="illegible" quantity="2" unit="chars" extent="two letters"/></del> unspeakable charm of the face of the mother of
             many children is the charm of her face . . . . she is clean and sweet and simple with immortal
@@ -386,11 +386,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
 
          <pb xml:id="leaf010v" facs="loc_ej.01038_large.jpg" type="verso"/>
 <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00111" cert="high">
+<relations>
+  <work ref="xxx.00111" cert="high">
     <p>This paragraph probably developed into the following lines of "Poem of the Road" in the 1856 edition of <hi rend="italic">Leaves of Grass,</hi> (eventually titled "Song of the Open Road"): "The efflux of the soul is happiness—here is happiness, / I think it pervades the air, waiting at all times, / Now it flows into us—we are rightly charged."</p>
-  </note>
- 
+  </work>
+</relations>
          <p>In the respect of happiness or <choice><sic>extasy</sic><corr>ecstasy</corr></choice>, the beautiful gas <del rend="overstrike">is</del> pervades the air continually, and we only need to be rightly tuned and conditioned, in order that it may catch to us <note type="authorial" place="supralinear">?</note> <note type="authorial" place="supralinear">?</note><seg rend="circled">(like gunpowder catches to fire)</seg> and <subst><del rend="overstrike" seq="1">pass</del> <add place="supralinear" rend="insertion" seq="2">flow</add></subst> into us like one river into another.</p>
 </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
@@ -412,11 +412,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <milestone unit="undeclared" rend="horbar-short-left"/>
          <delSpan rend="hashmark" spanTo="#w02"/>
 <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00226" cert="high">
+<relations>
+  <work ref="xxx.00226" cert="high">
     <p>A revised version of this passage appeared in 1855 as a part of tenth poem of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "There Was a Child Went Forth."</p>
-  </note>
- 
+  </work>
+</relations>
          <ab xml:id="ab01">The village on the highland, seen from afar at sunset—the sun sh<subst><del rend="overwrite" seq="1"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del><add rend="overwrite" place="over" seq="2">ining</add></subst> on the <add rend="insertion" place="supralinear">red</add> white <add place="supralinear" rend="insertion"><del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></del> or brown</add> gables <add place="inline" rend="insertion">red, white or brown</add></ab>
 </div2>
 <div2 type="prose">
@@ -425,11 +425,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
 </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
 <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00226" cert="high">
+<relations>
+  <work ref="xxx.00226" cert="high">
     <p>This passage was used in the tenth poem of <hi rend="italic">Leaves of Grass,</hi> later titled "There Was a Child Went Forth."</p>
-  </note>
- 
+  </work>
+</relations>
          <ab xml:id="ab02">the schooner sleepily dropping down the tide the <del rend="overstrike">little</del> small astern towed by the<lb/> rope,</ab><anchor xml:id="w02"/>
 </div2>
          <pb xml:id="leaf011v" facs="loc_ej.01040_large.jpg" type="verso"/>
@@ -438,21 +438,21 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
 </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
 <div2>
-   
-    <note type="work_relations" target="xxx.00048" cert="low">
+  <relations>
+    <work ref="xxx.00048" cert="low">
       <p>This description bears a distant similarity to mentions of a deckhand and a fireman in the song later titled "Song of Myself."</p>
-    </note>
-   
+    </work>
+  </relations>
          <ab xml:id="ab40">The deckhand of the steamboat in his red shirt.</ab>
 </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
 <div2 type="prose">
 
- 
-  <note type="work_relations" target="xxx.00112" cert="high">
+<relations>
+  <work ref="xxx.00112" cert="high">
     <p>The image in this passage is probably the basis for the following line in the 1856 poem that was eventually titled "Crossing Brooklyn Ferry": "On the river the shadowy group, the big steam-tug closely flanked on each side by the barges—the hay-boat, the belated lighter [. . .]".</p>
-  </note>
- 
+  </work>
+</relations>
 
          <ab>The hayboat and barge—<del rend="overstrike">flee</del> the two boat <del rend="overstrike">with</del> bring her bevy of barges down the river</ab>
          <milestone unit="undeclared" rend="horbar-short-left"/>
@@ -468,31 +468,31 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
 </div2>
          <milestone unit="undeclared" rend="horbar-full"/>
 <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00048" cert="low">
+<relations>
+  <work ref="xxx.00048" cert="low">
     <p>This passage is possibly related to the following couplet of the opening poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> later titled "Song of Myself": "Logic and sermons never convince, / The damp of the night drives deeper into my soul" (1855, p. 33).</p>
-  </note>
- 
+  </work>
+</relations>
          <p xml:id="p04">The test of the goodness or truth of any thing is the soul itself—whatever does good to the soul, soothes, refreshes, cheers, inspirits, consoles, &amp;c.—that is so, easy enough—But doctrines, sermons, logic ? ?</p>
 </div2>
          <pb xml:id="leaf012v" facs="loc_ej.01042_large.jpg" type="verso"/>
 
          <div2 type="verse">
- 
-  <note type="work_relations" target="xxx.00119" cert="high">
+<relations>
+  <work ref="xxx.00119" cert="high">
     <p>The first lines of this draft are probably related to these lines in the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "A Song for Occupations": "If you meet some stranger in the street and love him or her, do I not often meet strangers in the street and love them?" (1855, p. 58) and "I do not thank you for liking me as I am, and liking the touch of me . . . . I know that
       it is good for you to do so." (1855, p. 57).</p>
-  </note>
-  <note type="work_relations" target="xxx.00052" cert="low">
+  </work>
+  <work ref="xxx.00052" cert="low">
     <p>Edward Grier has speculated that these lines are related to a stanza in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric." That passage begins, "I have perceived that to be with those I like is enough" and goes on to say that "I do not ask any more delight" than "To pass among them . . to touch any one . . . . to rest my arm ever so lightly round his or her neck for a moment" (1855, p. 79). See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
-  </note>
-  <note type="work_relations" target="xxx.00111" cert="low">
+  </work>
+  <work ref="xxx.00111" cert="low">
     <p>Edward Grier sees these lines as connected to a section of the poem first published in the 1856 edition of <hi rend="italic">Leaves of Grass</hi> and eventually titled "Song of the Open Road." Although it doesn't use any of the same phrasing, the passage in the published poem expresses a similar idea, especially in these lines: "Why are there men and women that while they are nigh me the sun-light expands my blood? / [. . .] What is it I interchange so suddenly with strangers?" See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
-  </note>
-  <note type="work_relations" target="xxx.00112" cert="low">
+  </work>
+  <work ref="xxx.00112" cert="low">
     <p>Edward Grier has noted a possible connection between these lines and the poem first published in the 1856 edition of <hi rend="italic">Leaves of Grass</hi> and eventually titled "Crossing Brooklyn Ferry." See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
-  </note>
- 
+  </work>
+</relations>
            <lg>
              <l>Do you know what I well know</l>
              <l xml:id="l09">Do you <space extent="about ten letters" dim="horizontal"/> it is to<lb/> be loved as you pass in<lb/> the street?</l>
@@ -504,11 +504,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <milestone unit="undeclared" rend="horbar-full"/>
 
        <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00526" cert="low">
+<relations>
+  <work ref="xxx.00526" cert="low">
     <p>As Edward Grier has pointed out, the idea in this passage "is central in the 1855 Preface [. . .]." See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
-  </note>
- 
+  </work>
+</relations>
          <ab><del rend="overstrike">Th</del> not— —must be the poets I would have The poets I would have must be a power in the state, and an engrossing power in the state.</ab>
        </div2>
 
@@ -517,14 +517,14 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf013v" facs="loc_ej.01044_large.jpg" type="verso"/>
 
        <div2 type="verse">
- 
-  <note type="work_relations" target="xxx.00526" cert="low">
+<relations>
+  <work ref="xxx.00526" cert="low">
     <p>Edward Grier has noted the possible relationship between these lines and the 1855 Preface, where Whitman mentions "drivers of horses" in a series of images that evince "a residence of the poetic in outdoor people." See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
-  </note>
-  <note type="work_relations" target="xxx.00048" cert="low">
+  </work>
+  <work ref="xxx.00048" cert="low">
     <p>Edward Grier has noted that the phrase "drivers of horses," which appears twice in these lines, indicates a possible connection between these lines and the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was later titled "Song of Myself." In that poem, "drivers of horses" are named as one of various sorts of manual laborers about whom the narrator says, "I can eat and sleep with them week in and week out." See Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:144.</p>
-  </note>
- 
+  </work>
+</relations>
        <lg>
          <l xml:id="l11">If you have sons <subst><del rend="overstrike" seq="1">habit</del> <add place="supralinear" rend="unmarked" seq="2">custom</add></subst> them<lb/> to be drivers of horses</l>
          <l xml:id="l12">I knew six brothers drivers<lb/> of horses</l>
@@ -532,18 +532,18 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
        </div2>
        <div2 type="verse">
          <milestone unit="undeclared" rend="horbar-full"/>
-         <lg><addSpan spanTo="#a1" rend="unmarked" place="supralinear"/><l>Why should I do much</l><anchor xml:id="a1"/>
+         <lg><add rend="unmarked" place="supralinear"><l>Why should I do much</l></add>
          <l>The capitol, the president,<lb/> the laws,</l>
          <l>I <unclear reason="illegible" resp="#bb" cert="medium">dem</unclear></l>
        </lg>
        </div2>
          <delSpan rend="hashmark" spanTo="#w03"/>
        <div2 type="verse">
- 
-  <note type="work_relations" target="xxx.00048" cert="high">
+<relations>
+  <work ref="xxx.00048" cert="high">
     <p>Whitman used these lines, in slightly altered form, in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was later titled "Song of Myself."</p>
-  </note>
- 
+  </work>
+</relations>
        <lg>
          <l xml:id="l13">There was never any more incep<add rend="unmarked" place="inline">tion</add><lb/> than there is now</l>
          <l xml:id="l14">Nor any more youth or age</l>
@@ -556,9 +556,9 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf014r" facs="loc_ej.01045_large.jpg" type="recto"/>
 
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00048" cert="low"><p>This passage may relate distantly to the following, from the poem eventually titled "Song of Myself": "To walk up my stoop is unaccountable . . . . I pause to consider if it really be, / That I eat and drink is spectacle enough for the great authors and schools, / A morning-glory at my window satisfies me more than the metaphysics of books" (1855, p. 30).</p></note>
-            
+           <relations>
+             <work ref="xxx.00048" cert="low"><p>This passage may relate distantly to the following, from the poem eventually titled "Song of Myself": "To walk up my stoop is unaccountable . . . . I pause to consider if it really be, / That I eat and drink is spectacle enough for the great authors and schools, / A morning-glory at my window satisfies me more than the metaphysics of books" (1855, p. 30).</p></work>
+           </relations>
          <p><seg xml:id="seg20">The few who write the books and preach the sermons and <note type="authorial" place="supralinear">?</note>keep<note type="authorial" place="supralinear">?</note> the schools—<del rend="overstrike">I do not think ther</del> are they so much more than those who do not teach or preach, or write</seg> <seg xml:id="seg21"><del rend="overstrike">All</del> <subst><del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">T</add></subst>his we call literature and science is not so very much—there is enough of unaccountable importance and beauty in every step we tread and every thought of <gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></seg></p>
          <milestone unit="undeclared" rend="horbar-full"/>         
            <ab xml:id="ab50">Literature to these gentlemen is a parlor in which no person is to be welcomed unless he come attired in dress coat and observing the approved decorums with the fashionable</ab></div2>
@@ -593,18 +593,18 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
 
        <div2 type="verse">
          <lg>
-         <delSpan spanTo="#d1" rend="overstrike"/><l>If the</l><anchor xml:id="d1"/>
+         <del rend="overstrike"><l>If the</l></del>
          <l>Do you think I have written<lb/> all this for my own<lb/> good?</l>
          <l>Well perhaps I have . . . .<lb/>but <del rend="overstrike">it is</del> not in the<lb/> your <del rend="overstrike">you think,</del> imagine,</l>
          </lg>
        </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
        <div2 type="verse">
- 
-  <note type="work_relations" target="xxx.00450" cert="high">
+<relations>
+  <work ref="xxx.00450" cert="high">
     <p>Whitman used the lines beginning "If the general" and "If you are happy" in the untitled third poem of the "Debris" cluster in the 1860 edition of <hi rend="italic">Leaves of Grass.</hi> This poem, with the last line omitted, was retitled "Leaflets" in the 1867 edition, after which it was dropped altogether.</p>
-  </note>
- 
+  </work>
+</relations>
          <lg type="poem">
          <l>No one can realize anything<lb/> unless he has it in him . . . .<lb/> or has been it</l>
          <l>It must <add rend="insertion" place="supralinear">certainly</add> tally with what is<lb/> in him . . . . otherwise it is<lb/> all blank to him.</l>
@@ -623,11 +623,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
        </div2>
             <pb xml:id="leaf016v" facs="loc_ej.01050_large.jpg" type="verso"/>
        <div2 type="verse">
-          
-           <note type="work_relations" target="xxx.00526" cert="high">
+         <relations>
+           <work ref="xxx.00526" cert="high">
              <p>This section bears some similarity to to the following sentences in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "The churches built under their umbrage shall be the churches of men and women. Through the divinity of themselves shall the kosmos and the new breed of poets be interpreters of men and women and of all events and things" (1855, p. xi).</p>
-           </note>
-          
+           </work>
+         </relations>
          <lg type="poem">
          <l>I write not <del rend="overstrike">the</del> hymns</l>
             <l>I see <subst><del rend="overstrike" seq="1">th<gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">the</add></subst> <unclear reason="illegible" resp="#bb" cert="low">building</unclear> <unclear reason="illegible" resp="#bb" cert="low"><add rend="unmarked" place="supralinear">of</add></unclear> churches to<lb/> <add rend="unmarked" place="interlinear">God . . . .</add></l>
@@ -699,10 +699,10 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
            <ab>flawless truth and put it in the windows of your <unclear reason="illegible" resp="#bb" cert="medium">brains</unclear></ab>
          </div2>
          <div2 type="verse">
- 
-  <note type="work_relations" target="xxx.00052" cert="high"><p> These lines contributed to the passage beginning "A slave at auction!" in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> This poem was eventually titled "I Sing the Body Electric."</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00052" cert="high"><p> These lines contributed to the passage beginning "A slave at auction!" in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> This poem was eventually titled "I Sing the Body Electric."</p>
+</work>
+</relations>
          <lg type="poem">
             <head type="main" rend="underline" xml:id="head01">A Man at auction</head>
             <l xml:id="l17">How much for the man</l>
@@ -717,10 +717,10 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
 
             <pb xml:id="leaf019r" facs="loc_ej.01055_large.jpg" type="recto"/>
          <div2 type="verse">
- 
-  <note type="work_relations" target="xxx.00052" cert="high"><p> These lines contributed to the passage beginning "A woman at auction," in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> This poem was eventually titled "I Sing the Body Electric."</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00052" cert="high"><p> These lines contributed to the passage beginning "A woman at auction," in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> This poem was eventually titled "I Sing the Body Electric."</p>
+</work>
+</relations>
          <lg type="poem">
            <head type="main" rend="underline" xml:id="head02">A woman at Auction</head>
            <l xml:id="l23">How much for the<lb/> woman?</l>
@@ -733,7 +733,7 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <div2 type="verse">
          <lg type="poem">
            <l>For him all sentiments</l>
-           <delSpan spanTo="#d2" rend="overstrike"/><l>For him</l><anchor xml:id="d2"/>
+           <del rend="overstrike"><l>For him</l></del>
            <l>In his appointed day<lb/> he becomes a<lb/> God</l>
            <l>In his appointed time<lb/> he reaches his<lb/> ecstacy</l>
            <l>He is the one loved</l>
@@ -744,11 +744,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf020r" facs="loc_ej.01057_large.jpg" type="recto"/>
 
          <div2 type="poem_notes">
-            
-             <note type="work_relations" target="xxx.00264" cert="low">
+           <relations>
+             <work ref="xxx.00264" cert="low">
                <p>This section may relate to the following line in the poem that would later be titled "The Sleepers": "The Asiatic and African are hand in hand . . . . the European and American are hand in hand" (1855, p. 76).</p>
-             </note>
-            
+             </work>
+           </relations>
          <ab rend="circled">verse in each</ab>
          <ab xml:id="ab03">pictures illustrating<lb/>
            <list>
@@ -767,10 +767,10 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf020v" facs="loc_ej.01058_large.jpg" type="verso"/>
 
          <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00120" cert="high"><p>These lines probably contributed to the poem eventually titled "A Song of the Rolling Earth," which was first published in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi></p>
-</note>
- 
+<relations>
+  <work ref="xxx.00120" cert="high"><p>These lines probably contributed to the poem eventually titled "A Song of the Rolling Earth," which was first published in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi></p>
+</work>
+</relations>
          <ab><hi rend="circled">fiercely</hi> <add rend="unmarked" place="supralinear">and with screaming energy</add></ab>
          <ab>This great earth that rolls in the air, and the sun and moon, and men and women—do you think nothing more is to be made of than storekeeping and books and produce and drygoods and something to pay taxes on?
          </ab>
@@ -779,10 +779,10 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf021r" facs="loc_ej.01059_large.jpg" type="recto"/>
 
          <div2>
- 
-  <note type="work_relations" target="xxx.00110" cert="high"><p>Whitman used this line in the 1856 "Poem of Salutation," which was eventually titled "Salut au Monde!"</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00110" cert="high"><p>Whitman used this line in the 1856 "Poem of Salutation," which was eventually titled "Salut au Monde!"</p>
+</work>
+</relations>
          <ab><add rend="insertion" place="supralinear">Who are the</add> Three old men going slowly with their arms about each others' necks</ab> 
          <ab>Who are</ab>
          </div2>
@@ -790,10 +790,10 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf021v" facs="loc_ej.01060_large.jpg" type="verso"/>
 
          <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00120" cert="high"><p>These lines probably contributed to the poem eventually titled "A Song of the Rolling Earth," which was first published in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi></p>
-</note>
- 
+<relations>
+  <work ref="xxx.00120" cert="high"><p>These lines probably contributed to the poem eventually titled "A Song of the Rolling Earth," which was first published in the 1856 edition of <hi rend="italic">Leaves of Grass.</hi></p>
+</work>
+</relations>
          <ab>This great round globe with its rolling circles—and time—and perpetual motions—and all the moving animals—men and women—the sea and soil—the plants—the curious emananations</ab>
          </div2>
 
@@ -806,12 +806,12 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf022r" facs="loc_ej.01061_large.jpg" type="recto"/>
 
          <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00110" cert="low"><p>This jotting is probably related to the line in the 1856 "Poem of Salutation" (eventually titled "Salut au Monde!") that reads, "I myself make the only growth by which I can be appreciated."</p>
-</note>
-  <note type="work_relations" target="xxx.00526" cert="low"><p>This passage may also be related to the following sentences from the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "In the need of poems philosophy politics mechanism science behaviour, the craft of art, an appropriate native grand-opera, shipcraft, or any craft, he is greatest forever and forever who contributes the greatest original practical example.
-    The cleanest expression is that which finds no sphere worthy of itself and makes one" (1855, p. vii)</p></note>
- 
+<relations>
+  <work ref="xxx.00110" cert="low"><p>This jotting is probably related to the line in the 1856 "Poem of Salutation" (eventually titled "Salut au Monde!") that reads, "I myself make the only growth by which I can be appreciated."</p>
+</work>
+  <work ref="xxx.00526" cert="low"><p>This passage may also be related to the following sentences from the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "In the need of poems philosophy politics mechanism science behaviour, the craft of art, an appropriate native grand-opera, shipcraft, or any craft, he is greatest forever and forever who contributes the greatest original practical example.
+    The cleanest expression is that which finds no sphere worthy of itself and makes one" (1855, p. vii)</p></work>
+</relations>
          <ab xml:id="ab41"><add rend="unmarked" place="supralinear">Always</add> <subst><del rend="overstrike" seq="1">A truly</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="supralinear" seq="2">the</add></del> <add rend="unmarked" place="supralinear" seq="3">any</add></subst> great and original persons, teacher, inventor, <del rend="overstrike">poet or</del> artist or poet, must himself make the taste and by which <add rend="insertion" place="supralinear">only</add> he will be appreciated or even received.</ab>
          </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
@@ -826,10 +826,10 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
 
          <pb xml:id="leaf022v" facs="loc_ej.01062_large.jpg" type="verso"/>
          <div2 type="verse">
- 
-  <note type="work_relations" target="xxx.00052" cert="high"><p>These lines contributed to the description, in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> of the "Bridegroom-night of love." This poem was eventually titled "I Sing the Body Electric."</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00052" cert="high"><p>These lines contributed to the description, in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> of the "Bridegroom-night of love." This poem was eventually titled "I Sing the Body Electric."</p>
+</work>
+</relations>
          <lg>
            <note type="authorial" place="top" rend="circled">Poem</note>
            <head type="main" rend="underline" xml:id="head03">Bridalnight.</head>
@@ -842,21 +842,21 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf023r" facs="loc_ej.01063_large.jpg" type="recto"/>
 
          <div2 type="poem_notes">
- 
-  <note type="work_relations" target="xxx.00052" cert="high"><p>These notes contributed to the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric."</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00052" cert="high"><p>These notes contributed to the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric."</p>
+</work>
+</relations>
          <ab xml:id="ab04"><del rend="overstrike">Body</del> Loveflesh<lb/> swelling and<lb/> deliciously <subst><del rend="overstrike" seq="1">throbbing</del> <add rend="unmarked" place="supralinear" seq="2">aching</add></subst></ab> 
          <ab xml:id="ab05">whiteblood of love</ab>
          </div2>
          <milestone unit="undeclared" rend="horbar-full"/>
          <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00526" cert="high"><p>These lines are probably related to the following passage in the preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "Here comes one among the wellbeloved stonecutters and plans with decision and science and sees the solid and beautiful forms of the future where there are now no solid forms."</p>
-</note>
-  <note type="work_relations" target="xxx.00120" cert="low"><p>These lines are perhaps related to a passage in the 1856 poem "Poem of The Sayers of The Words of The Earth," which exhorts the "sayers of the earth" to "Work on, age after age" for "When the materials are all prepared, the architects shall appear." This poem was eventually titled "A Song of the Rolling Earth."</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00526" cert="high"><p>These lines are probably related to the following passage in the preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "Here comes one among the wellbeloved stonecutters and plans with decision and science and sees the solid and beautiful forms of the future where there are now no solid forms."</p>
+</work>
+  <work ref="xxx.00120" cert="low"><p>These lines are perhaps related to a passage in the 1856 poem "Poem of The Sayers of The Words of The Earth," which exhorts the "sayers of the earth" to "Work on, age after age" for "When the materials are all prepared, the architects shall appear." This poem was eventually titled "A Song of the Rolling Earth."</p>
+</work>
+</relations>
          <head type="authorial">in dream</head>
          <ab xml:id="ab06">The architect that comes<lb/> among the stonecutters<lb/> and the heaps of<lb/> cut stone</ab>
          <ab>poem describes how the<lb/> workmen, possessed with<lb/> an indescribable faith,<lb/> go on age after age in<lb/> their work—and at last<lb/> came architects and<lb/> used each in its place<lb/> the stones they<lb/> had cut</ab>
@@ -865,29 +865,29 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf023v" facs="loc_ej.01064_large.jpg" type="verso"/>
 
          <div2 type="poem_notes">
- 
-  <note type="work_relations" target="xxx.00111" cert="high"><p>This note is probably connected to the development of the 1856 "Poem of the Road," which was eventually titled "Song of the Open Road."</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00111" cert="high"><p>This note is probably connected to the development of the 1856 "Poem of the Road," which was eventually titled "Song of the Open Road."</p>
+</work>
+</relations>
          <ab>poem of a road</ab>
          </div2>
          <milestone unit="undeclared" rend="horbar-full"/>
          <delSpan rend="hashmark" spanTo="#w05"/>
          <div2>
- 
-  <note type="work_relations" target="xxx.00119" cert="high"><p>Images from these notes were used in several widely separated lines of the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "A Song for Occupations."</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00119" cert="high"><p>Images from these notes were used in several widely separated lines of the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "A Song for Occupations."</p>
+</work>
+</relations>
            <ab><seg xml:id="seg01">The snowstorm or rainstorm bunkroom stringteam the counterfeit detector the directory <add rend="unmarked" place="interlinear">the census returns, the Presidents m<unclear reason="illegible" resp="#kmp" cert="medium">en</unclear> and the <unclear reason="illegible" resp="#bb" cert="low">Governors</unclear></add> <delSpan rend="hashmark" spanTo="#w07"/><add rend="unmarked" place="opposite">message and the<del rend="overstrike">mayor</del> message of the mayor and the message of the Chief of Police</add></seg>
          <anchor xml:id="w07"/>
          
           <seg xml:id="seg02">the blows of the fightingmen—the uppercut and onetwo<unclear reason="illegible" resp="#no" cert="medium">three</unclear></seg></ab>
          </div2>
          <div2 type="verse">
- 
-  <note type="work_relations" target="xxx.00048" cert="high"><p>Whitman used a version of this line in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was later titled "Song of Myself."</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00048" cert="high"><p>Whitman used a version of this line in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was later titled "Song of Myself."</p>
+</work>
+</relations>
          <l xml:id="l29">The bugle calls in the ballroom—the <subst><del rend="overstrike" seq="1">dancers</del> <add rend="unmarked" place="supralinear" seq="2">gentlemen</add></subst> <subst><del rend="overstrike" seq="1">lead out</del> <add rend="unmarked" place="supralinear" seq="2">go for</add></subst> their partners—the playing begins—the dancers bow to each other.</l>
          </div2>
          <anchor xml:id="w05"/>
@@ -896,29 +896,29 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
 
          <pb xml:id="leaf024r" facs="loc_ej.01065_large.jpg" type="recto"/>
          <div2 type="prose">
- 
-  <note type="work_relations" target="xxx.00052" cert="low"><p>The note here about the "swimming—bath" is possibly connected to the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric," where the phrase "The swimmer naked in the swimming bath" appears.</p>
-</note>
- 
+<relations>
+  <work ref="xxx.00052" cert="low"><p>The note here about the "swimming—bath" is possibly connected to the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> eventually titled "I Sing the Body Electric," where the phrase "The swimmer naked in the swimming bath" appears.</p>
+</work>
+</relations>
          <ab xml:id="ab07">The swimming-bath<lb/>
          the <unclear reason="illegible" resp="#nhg" cert="low">stinggall</unclear></ab>
          </div2>
          <delSpan rend="hashmark" spanTo="#w06"/>
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00119" cert="high"><p>The description here of dishes on a table probably contributed to the image, in the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> of "the dishes of breakfast, dinner, supper." The poem was eventually titled "A Song for Occupations."</p>
-</note>
-            
+           <relations>
+             <work ref="xxx.00119" cert="high"><p>The description here of dishes on a table probably contributed to the image, in the second poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> of "the dishes of breakfast, dinner, supper." The poem was eventually titled "A Song for Occupations."</p>
+</work>
+           </relations>
          <ab xml:id="ab08">The dishes on the daily table—<del rend="overstrike">the coffee</del> the roast meat—the oysters—the coffee and cornbread and rye and wheatbread,</ab>
          </div2>
          <anchor xml:id="w06"/>
          <milestone unit="undeclared" rend="horbar-full"/>
          <div2 type="verse">
-            
-             <note type="work_relations" target="xxx.00526" cert="low">
+           <relations>
+             <work ref="xxx.00526" cert="low">
                <p>These lines are perhaps related to the penultimate paragraph of the preface to the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> in which Whitman claims that literature and other cultural institutions and practices will inevitably be judged according to "American standards." In making such determinations, one must ask questions such as "Are its disposals without ignominious distinctions?" (1855, p. xii). It may also relate to the following segment in the preface: "when those in all parts of these states who could easier realize the true American character but do not yet—" (1855, p. viii).</p>
-             </note>
-            
+             </work>
+           </relations>
          <lg type="poem">
            <l>The questions are such as these</l>
            <l xml:id="l31">Has his life shown the true<lb/> American character?</l>
@@ -948,11 +948,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <milestone unit="undeclared" rend="horbar-full"/>
 
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00052" cert="high">
+           <relations>
+             <work ref="xxx.00052" cert="high">
                <p>The notes here regarding male beauty contributed to the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was ultimately titled "I Sing the Body Electric."</p>
-             </note>
-            
+             </work>
+           </relations>
          <delSpan rend="hashmark" spanTo="#w08"/>
          <ab xml:id="ab10">The expression of a <subst><del rend="overstrike" seq="1">well</del><add place="supralinear" rend="unmarked" seq="2">perfect</add></subst>made man appears not only in his face—but in his limbs—The motion of his hands <add rend="unmarked" place="supralinear">and arms</add> and all his joints—his walk—the carriage of his neck—and the flex of his waist and hips</ab>
            <ab xml:id="ab11"><seg xml:id="seg03">Dress does not hide him. The
@@ -972,18 +972,18 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
          <div2 type="poem_notes">
-            
-             <note type="work_relations" target="xxx.00052" cert="low"><p>This note is possibly related to a three-line description in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi> of "The wrestle of wrestlers." This poem was later titled "I Sing the Body Electric."</p>
-             </note>
-            
+           <relations>
+             <work ref="xxx.00052" cert="low"><p>This note is possibly related to a three-line description in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi> of "The wrestle of wrestlers." This poem was later titled "I Sing the Body Electric."</p>
+             </work>
+           </relations>
          <ab xml:id="ab12">Poem of the Wrestlers</ab>
          </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
          <delSpan rend="hashmark" spanTo="#w09"/>
          <div2 type="verse">
-            
-             <note type="work_relations" target="xxx.00048" cert="high"><p>This line was used in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song of Myself."</p></note>
-            
+           <relations>
+             <work ref="xxx.00048" cert="high"><p>This line was used in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song of Myself."</p></work>
+           </relations>
          <l xml:id="l35">My respiration and inspiration<lb/>. . . . the beating of my heart . . . .<lb/>the passing of blood and air<lb/> through my lungs.</l>
          </div2>
          <anchor xml:id="w09"/>
@@ -1027,19 +1027,19 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf027v" facs="loc_ej.01072_large.jpg" type="verso"/>
 
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00264" cert="low">
+           <relations>
+             <work ref="xxx.00264" cert="low">
                <p>This line may relate to the following, from the poem that would be titled "The Sleepers": "The fugitive returns unharmed . . . . the immigrant is back beyond months and years; / The poor Irishman lives in the simple house of his childhood, with the wellknown neighbors and faces" (1855, p. 75).</p>
-             </note>
-            
+             </work>
+           </relations>
          <ab xml:id="ab13">The poor despised—Irish girls <add rend="insertion" place="supralinear">and boys</add> immigrants just over</ab>
          </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00048" cert="high"><p>The claim here to be "the poet of the shallow and flat and despised" is probably related to a passage in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> in which the narrator channels "many long dumb voices," including those of "the trivial and flat and foolish and despised" (1855, p. 29). The last line may also relate to the following: "And know that they who have eyes are divine, and the blind and lame are equally
-               divine" (1855, p. 44).</p></note>
-            
+           <relations>
+             <work ref="xxx.00048" cert="high"><p>The claim here to be "the poet of the shallow and flat and despised" is probably related to a passage in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> in which the narrator channels "many long dumb voices," including those of "the trivial and flat and foolish and despised" (1855, p. 29). The last line may also relate to the following: "And know that they who have eyes are divine, and the blind and lame are equally
+               divine" (1855, p. 44).</p></work>
+           </relations>
          <ab>A fierce protective sweep around shielding them</ab>
          <ab xml:id="ab14">I am the poet of the shallow and flat and desp<unclear reason="illegible" resp="#no" cert="low">ised</unclear></ab>
          <milestone unit="undeclared" rend="horbar-short-left"/>
@@ -1048,11 +1048,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
          <div2 type="verse">
-            
-             <note type="work_relations" target="xxx.00048" cert="high">
+           <relations>
+             <work ref="xxx.00048" cert="high">
                <p>Whitman incorporated this line into the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> The poem was later titled "Song of Myself."</p>
-             </note>
-            
+             </work>
+           </relations>
            <delSpan rend="hashmark" spanTo="#w10"/>
            <l xml:id="l36">The woodman that takes his axe and jug with him shall take me with him all day,</l>
            <anchor xml:id="w10"/>
@@ -1061,20 +1061,20 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf028r" facs="loc_ej.01073_large.jpg" type="recto"/>
 
          <div2 type="poem_notes">
-            
-             <note type="work_relations" target="xxx.00116" cert="low">
+           <relations>
+             <work ref="xxx.00116" cert="low">
                <p>This note is possibly connected to the 1856 "Broad-Axe Poem," in which the poet asks, "What do you think endures?" The poem was later titled "Song of the Broad-Axe."</p>
-             </note>
-            
+             </work>
+           </relations>
            <ab>Poem What endures</ab>
          </div2>
          <delSpan rend="hashmark" spanTo="#w11"/>
          <div2 type="verse">
-            
-             <note type="work_relations" target="xxx.00048" cert="high">
+           <relations>
+             <work ref="xxx.00048" cert="high">
                <p>These lines are probably related to the following line from the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "I have no mockings and arguments . . . . I witness and wait." The poem was eventually titled "Song of Myself."</p>
-             </note>
-            
+             </work>
+           </relations>
          <note type="authorial" place="supralinear">modify</note>
            <lg>
              <l xml:id="l37">I have no mockings ? <add rend="unmarked" place="supralinear">and laughter<note type="authorial" place="supralinear">?</note></add></l>
@@ -1083,20 +1083,20 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00052" cert="high">
+           <relations>
+             <work ref="xxx.00052" cert="high">
                <p>This note probably represents the genesis of two passages in the fifth poem of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, in which the auctions of first a male and then a female slave are described. The poem was later titled "I Sing the Body Electric."</p>
-             </note>
-            
+             </work>
+           </relations>
            <ab xml:id="ab15">man and woman at auction</ab>
          </div2>
          <milestone unit="undeclared" rend="horbar-short-left"/>
          <div2 type="verse">
-            
-             <note type="work_relations" target="xxx.00121" cert="low">
+           <relations>
+             <work ref="xxx.00121" cert="low">
                <p>This section may relate to the following lines in the sixth untitled poem in the 1855 <hi rend="italic">Leaves of Grass</hi>, later titled "Great are the Myths," then excerpted as "Youth, Day, Old Age, and Night": "GREAT are the myths . . . . I too delight in them, / Great are Adam and Eve . . . . I too look back and accept them;" (1855, p. 93).</p>
-             </note>
-            
+             </work>
+           </relations>
            <lg>
              <l>Here is</l>
              <l xml:id="l110">I see—Adam and Eve again</l>
@@ -1114,11 +1114,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf028v" facs="loc_ej.01074_large.jpg" type="verso"/>
 
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00526" cert="low">
+           <relations>
+             <work ref="xxx.00526" cert="low">
                <p>This section may relate to some of the language in the preface to the 1855 edition of <hi rend="italic">Leaves of Grass</hi> (p. iv).</p>
-             </note>
-            
+             </work>
+           </relations>
            <ab><del rend="overstrike">all that</del></ab>
            <ab xml:id="ab16">he does not lose by comparison with the orange tree or magnolia or with <del rend="overstrike">the</del> fields that nourish the sugarplant or the cottonplant . . . . <subst><del rend="overstrike" seq="1">all that</del> <add rend="unmarked" place="supralinear" seq="2">what</add></subst> strengthens or <add rend="unmarked" place="supralinear" xml:id="w1">clothes</add> <seg xml:id="w2">adorns</seg><alt target="#w1 #w2" weights="0.5 0.5"/> or is luscious can be had <add rend="insertion" place="supralinear">through <add rend="unmarked" place="supralinear">subtle</add> counterparts</add> from him—from him <del rend="overstrike"><add rend="unmarked" place="supralinear">the<gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></add></del> magnolia<del rend="overstrike">s</del> and orange<del rend="overstrike">s</del> and sugarplant and cottonplant and all fruits and flowers and all the sorts and productions of the earth.—</ab>
          </div2>
@@ -1137,11 +1137,11 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
             <pb xml:id="leaf029v" facs="loc_ej.01076_large.jpg" type="verso"/>
 
          <div2 type="verse">
-            
-             <note type="work_relations" target="xxx.00048" cert="high">
+           <relations>
+             <work ref="xxx.00048" cert="high">
                <p>These lines were used in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi> The poem was eventually titled "Song of Myself."</p>
-             </note>
-            
+             </work>
+           </relations>
              <l xml:id="l39">I am an old artillerist</l>
              <l xml:id="l40">I tell of some</l>
          </div2>
@@ -1158,20 +1158,20 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <pb xml:id="leaf030v" facs="loc_ej.01078_large.jpg" type="verso"/>
 
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00526" cert="high">
+           <relations>
+             <work ref="xxx.00526" cert="high">
                <p>These notes probably relate to the preface of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> where Whitman also used the word "blatherers" (1855, p. iv) and the line: "The most affluent man is he that confronts all the shows he sees by equivalents out of the stronger wealth of himself" (1855, p. vii).</p>
-           </note>
-
-         <addSpan spanTo="#a2" rend="unmarked" place="top"/><ab xml:id="ab17">blatherers</ab><anchor xml:id="a2"/>
+             </work>
+           </relations>
+         <add rend="unmarked" place="top"><ab xml:id="ab17">blatherers</ab></add>
          <ab xml:id="ab60">The <subst><del rend="overstrike" seq="1">wealth<subst><del rend="overwrite" seq="1">iest</del><add rend="unmarked" place="over" seq="2">y</add></subst></del> <add rend="unmarked" place="supralinear" seq="2">affluent</add></subst> man is he who <subst><del rend="overstrike" seq="1">answers all the</del> <add rend="insertion" place="supralinear" seq="2">confronts</add></subst> <subst><del rend="overstrike" seq="1">wealth</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="supralinear" seq="2">whatever</add></del> <add rend="unmarked" place="supralinear" seq="3">the grandest</add> <add rend="unmarked" place="infralinear" seq="3">show</add></subst> sees <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/></del> by <del rend="overstrike">its</del> an equivalent <add rend="unmarked" place="supralinear">or more than equivalent</add> <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">in</unclear></del> <add rend="unmarked" place="infralinear" seq="2">from</add></subst> the <subst><del rend="overstrike" seq="1">depths</del> <del rend="overstrike" seq="2"><add rend="unmarked" place="infralinear" seq="2">bottomless</add></del> <add rend="unmarked" place="infralinear" seq="3">grander <del rend="overstrike">riches</del></add> <add rend="unmarked" place="infralinear" seq="4">wealth</add></subst> of himself.—</ab>
          </div2>
          <div2 type="prose">
-            
-             <note type="work_relations" target="xxx.00526" cert="high">
+           <relations>
+             <work ref="xxx.00526" cert="high">
                <p>Whitman incorporated this material into the preface of the 1855 edition of <hi rend="italic">Leaves of Grass.</hi></p>
-             </note>
-            
+             </work>
+           </relations>
          <ab xml:id="ab18">Insouciance<lb/>
          een soo se áwnz</ab>
 

@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.05935">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.05935">
+    <!--<relations>
+        <work ref="xxx.00610" cert="high">
+            <p>Scholars have noted a close relationship between this notebook and numerous passages from "The Eighteenth Presidency!" found in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2119&#8211;2135</p>
+        </work>
+        <work ref="xxx." cert="low">
+            <p>Scholars have noted a relationship between this notebook and passages from "Slavery&#8212;the Slaveholders&#8212;" found in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2171&#8211;2190</p>
+        </work>
+        <work ref="xxx." cert="high">
+            <p>Scholars have noted a close relationship between this notebook and numerous passages from "As of the Orator" found in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2192&#8211;2198</p>
+        </work>
+    </relations>-->
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -12,7 +23,7 @@
                     <persName xml:id="kc">Kirsten Clawson</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="bb">Brett Barney</persName>
-                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+                </respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -23,7 +34,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                
+                <idno>loc.05935</idno>
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -41,22 +52,11 @@
                         Humanities. Permission to reproduce the graphic images in this archive has
                         been granted by the owners of the originals for this publication only.</p>
                 </availability>
-            <idno>loc.05935</idno></publicationStmt>
+            </publicationStmt>
             <notesStmt>
                 <note type="project" target="#dat1">Scholars have offered a variety of opinions regarding the date of this notebook's composition. Andrew C. Higgins notes that the latest biographical information is for 1848 and judges this to be "the earliest of the major pre-<hi rend="italic">Leaves of Grass</hi> notebooks," probably used by Whitman "over a period of several years, beginning in the late 1840s." Higgins sees the racialized language and "the immature style of the poetry" as further support for an early date. Emory Holloway, in concluding that Whitman wrote the entries in "the period before 1855," focuses on a reference to the Fugitive Slave Act of 1850. However, as the controversy surrounding the return of fugitive slaves was current for many years before and after 1854, this reference alone does not provide definitive evidence for a particular date. Edward F. Grier believes "the winter of 1855–1856" to be the most likely date for the notebook, though "some of the contents baffle any theory of WW's development." See Higgins, "Wage Slavery and the Composition of <hi rend="italic">Leaves of Grass</hi>: The 'Talbot Wilson' Notebook," <hi rend="italic">Walt Whitman Quarterly Review</hi> 20:2 (Fall 2002), 53–77; Holloway 86; and Grier 209.<lb/><lb/>
  Ed Folsom has noted that this notebook contains Whitman's "earliest draft" of the "mash'd fireman" passage of "Song of Myself," which would suggest that at least some of the notebook dates to about 1854. See Folsom, "Erasing Race: The Lost Black Presence in Whitman's Manuscripts," in <hi rend="italic">Whitman Noir: Black America and the Good Gray Poet</hi> (Iowa City: University of Iowa Press, 2014), 3–31.
-                    <lb/><lb/>The original notebook is one of several that were lost during World War II, and its current whereabouts are unknown. </note>
-                <!-- 
-        <note type="work_relations" target="xxx.00610" cert="high">
-            <p>Scholars have noted a close relationship between this notebook and numerous passages from "The Eighteenth Presidency!" found in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2119&#8211;2135</p>
-        </note>
-        <note type="work_relations" target="xxx." cert="low">
-            <p>Scholars have noted a relationship between this notebook and passages from "Slavery&#8212;the Slaveholders&#8212;" found in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2171&#8211;2190</p>
-        </note>
-        <note type="work_relations" target="xxx." cert="high">
-            <p>Scholars have noted a close relationship between this notebook and numerous passages from "As of the Orator" found in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2192&#8211;2198</p>
-        </note>
-     -->   <!-- These relations were previously at the top of the file; I have updated the encoding and move them here, but left them commented out. KM, 4/14/22 -->
+<lb/><lb/>The original notebook is one of several that were lost during World War II, and its current whereabouts are unknown. </note>   
             </notesStmt>
             <sourceDesc>
 <!--
@@ -85,7 +85,7 @@
                 </bibl>
             </sourceDesc>
         </fileDesc>
-        <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
+        <revisionDesc>
             <change when="2016-09-27" who="#bb">checked; corrected; added Work and date notes</change>
             <change when="2015-04-20" who="#kc">transcribed, encoded, added dating and work ID information</change>
         </revisionDesc>
@@ -173,11 +173,11 @@
             <p>The oppression of my heart is not fitful and has no pangs; but a torpor like that of some stagnant pool.</p>
             </div1>
           <div1 type="verse">
-               
-                  <note type="work_relations" target="xxx.00048" cert="low">
+              <relations>
+                  <work ref="xxx.00048" cert="low">
                       <p>A line in this section is similar to the following line in the poem eventually titled "Song of Myself": "I hear the sound of the human voice . . . . a sound I love," (1855, p. 31).</p>
-                  </note>
-               
+                  </work>
+              </relations>
             <lg type="poem">
             <lg type="section">
                 <head type="authorial">2</head>
@@ -239,21 +239,21 @@
 <!--<pb facs="loc_bb.00034.jpg" type="verso"/>-->
 
           <div1 type="prose">
-                <!-- 
-                    <note type="work_relations" target="xxx." cert="high">
+                <!--<relations>
+                    <work ref="xxx." cert="high">
                         <p><ref type="text" xml:id="r01" target="#q01">The following statement,</ref> "Give us turblance...our land" is similarly found in "As of the Orator," Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2197</p>
-                    </note>
-                    <note type="work_relations" target="xxx." cert="low">
+                    </work>
+                    <work ref="xxx." cert="low">
                         <p><ref type="text" xml:id="r02" target="#q02">The following reflections</ref> on "tea and writing paper" are loosely paralleled in "Slavery&#8212;the Slaveholders&#8212;" [18] and "As of the Orator." For texts of both parallels, see Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2171&#8211;98.</p>
-                    </note>
-                    <note type="work_relations" target="xxx." cert="low"/>
-                    <note type="work_relations" target="xxx." cert="high">
+                    </work>
+                    <work ref="xxx." cert="low"/>
+                    <work ref="xxx." cert="high">
                         <p><ref type="text" xml:id="r03" target="#q03">The following statement,</ref> "Nations sink by stages, first one, and then another," is also found in "As of the Orator," located in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2197.</p>
-                    </note>
-                    <note type="work_relations" target="xxx." cert="high">
+                    </work>
+                    <work ref="xxx." cert="high">
                         <p><ref type="text" xml:id="r04" target="#q04">The following statement,</ref> "I come not here to flatter" is similar to one found in "As of the Orator," located in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2198.</p>
-                    </note>
-                 -->
+                    </work>
+                </relations>-->
               
           <ab><del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="at least two letters"/>dling</del>persons <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>grades <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>onal <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>.—Why <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> <unclear reason="illegible" cert="low" resp="#bb">manners</unclear> <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>a <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/>ity to <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> from an <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> who <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> and <gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/> soil.</ab>
           </div1>
@@ -271,13 +271,13 @@
           </div1>
 <!--<pb facs="loc_bb.00036.jpg" type="verso"/>-->            
           <div1 type="prose">
-              <!-- 
-                  <note type="work_relations" target="xxx." cert="low">
+              <!--<relations>
+                  <work ref="xxx." cert="low">
                       <p><ref type="text" xml:id="r05" target="#q05">The ideas regarding runaway slaves</ref> can similarly be found in "Slavery&#8212;the Slaveholders&#8212;" [16], "The Eighteenth Presidency!" [pg.2132] and "As of the Orator" [pg. 2195&#8211;6] in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6</p>
-                  </note>
-                  <note type="work_relations" target="xxx.00610" cert="low"/>
-                  <note type="work_relations" target="xxx." cert="low"/>
-               -->
+                  </work>
+                  <work ref="xxx.00610" cert="low"/>
+                  <work ref="xxx." cert="low"/>
+              </relations>-->
               
             <delSpan rend="hashmark" spanTo="#d01"/>
             <p>Why confine the matter to that part of <del rend="overstrike">the</del> it involved in the Scriptures?—</p>
@@ -303,17 +303,17 @@
           </div1>
 <!--<pb facs="loc_bb.00038.jpg" type="verso"/>-->            
           <div1 type="prose">
-<!--               
-                  <note type="work_relations" target="xxx.00610" cert="low">
+<!--              <relations>
+                  <work ref="xxx.00610" cert="low">
                       <p><ref type="text" xml:id="r06" target="#q06">The ideas referring to America</ref> as "strong, and supple, and full of growth," etc., are mirrored in "The Eighteenth Presidency!" [pg.2125] and quoted in "As of the Orator" [pg.2198] from Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6</p>
-                  </note>
-                  <note type="work_relations" target="xxx." cert="high">
+                  </work>
+                  <work ref="xxx." cert="high">
                       <p><ref type="text" xml:id="r07" target="#q07">The passage reading</ref> "These things I do not expect to see less of...large souled men, men not" is similar to a passage found in "As of the Orator," Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2198</p>
-                  </note>
-                  <note type="work_relations" target="xxx." cert="low">
+                  </work>
+                  <work ref="xxx." cert="low">
                       <p>A variation of the sentence, "What are all these business prospects...men not" can be found in "Slavery&#8212;the Slaveholders&#2812;" [20], Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2190</p>
-                  </note>
-               -->
+                  </work>
+              </relations>-->
               
               <p>I know that <del rend="overstrike">timidest</del> America is strong, and supple, and full of growth.—I know we are on good terms with the world, and on extra good terms with ourselves.—<add rend="insertion" place="supralinear">Treaties we make with Europe; steamships paddle <add rend="insertion" place="supralinear">the sea</add></add><!--<ref xml:id="q06" target="xxx.00610"/>--> Gold comes from California, and trade is brisk, and the jobbers are busy nailing up goods, and sending them off to customers, and the railroads <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="medium">go</unclear></del> <add rend="unmarked" place="supralinear" seq="2">run</add></subst> loaded, and all goes <del rend="overstrike">gay and</del> thriftily.—These things I do not expect to see <del rend="overstrike">grow</del> less <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="2" unit="chars" extent="about three letters"/></del> <add rend="insertion" place="supralinear" seq="2">of</add></subst> <del rend="overstrike">n<gap reason="illegible" atLeast="3" unit="chars" extent="about five letters"/></del> but more, <del rend="overstrike">for</del> and if any one <choice><sic>suppoes</sic> <corr>supposes</corr></choice> I am at all alarmed about the prospects of business <add rend="insertion" place="supralinear">on this continent</add> he misunderstands me, for I am not—<del rend="overstrike">son</del> no I see its way clear for a hundred years.—But with all <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#bb" cert="low">this</unclear></del> <add rend="insertion" place="supralinear" seq="2">such</add></subst> decking ourselves <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">in</add></subst> the robes of safety and gain, there <add rend="insertion" place="supralinear">at the gate</add> sits Mordecai the Jew and we know that <add rend="insertion" place="supralinear">terrible sign that</add> either <del rend="overstrike"><gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> we <del rend="overstrike">r<gap reason="illegible" atLeast="2" unit="chars" extent="about two letters"/>t h<gap reason="illegible" atLeast="1" unit="chars" extent="one or two letters"/></del> are to have his life, or he is to hang the best part of us on the gallows high.—</p>
             
@@ -321,21 +321,21 @@
           </div1>
 <!--<pb facs="loc_bb.00039.jpg" type="recto"/>-->            
           <div1 type="prose">
-              <!-- 
-                  <note type="work_relations" target="xxx." cert="high">
+              <!--<relations>
+                  <work ref="xxx." cert="high">
                       <p><ref type="text" xml:id="r08" target="#q08">The passage reading,</ref> "Our country seems...as a corpse" is mirrored in "As of the Orator" in Edward Grier, <hi rend="italic">Notebooks and Unpublished prose Manuscripts</hi> (New York: New York University Press, 1984), 6:2198</p> 
-                  </note>
-               -->
+                  </work>
+              </relations>-->
               
             <p><subst><del rend="overstrike" seq="1">If this</del> <add rend="insertion" place="supralinear" seq="2">Are these <add rend="insertion" place="supralinear">two or three</add> drops <del rend="overstrike">be</del> any <del rend="overstrike">prophecy of </del></add></subst> sample <subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#bb">held</unclear> any prophecy of the requirements of the g<gap reason="illegible" atLeast="1" unit="chars" extent="about two letters"/></del> <add rend="unmarked" place="supralinear" seq="2">of the storm </add></subst> that is cooking for us? If I thought it was, <unclear reason="illegible" cert="medium" resp="#bb">men</unclear> of <add rend="insertion" place="infralinear">these would be no days of dalliance or of ease <del rend="overstrike">and</del> or talk.—They would be days <del rend="overstrike">of</del> for all <unclear reason="illegible" cert="low" resp="#bb">live</unclear> all Americans to get on their killing clothes</add> I should <add rend="insertion" place="supralinear">advise</add> all living Americans to get on their killing clothes, for there would be a little butchering to be done</p>
           </div1>
 <milestone unit="undeclared" rend="horbar-full"/>  
           <div1 type="prose">
- 
-<note type="work_relations" target="xxx.00048" cert="high">
+<relations>
+<work ref="xxx.00048" cert="high">
 <p>This passage appears to be an early draft version of a passage in the first poem of the <date when="1855">1855</date> edition of <hi rend="italic">Leaves of Grass</hi>, in which the poetic persona declares, "I am the mashed fireman with breastbone broken" and describes his rescue by "comrades" with "white and beautiful" faces (1855, p. 39). The poem was later titled "Song of Myself."</p>
-</note>
- 
+</work>
+</relations>
             <p xml:id="p01"><del rend="overstrike">I was years ago present at</del> Years ago I formed <add rend="unmarked" place="supralinear">one</add> of a great crowd <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="3" unit="chars" extent="about three letters"/></del> <add rend="unmarked" place="supralinear" seq="2">that rapidly</add></subst> gathered where a building had fallen in and buried a man alive.—Down somewhere in those ruins the poor fellow <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="3" unit="chars" extent="about three letters"/></del> <add rend="unmarked" place="supralinear" seq="2">lurked,</add></subst> deprived of his liberty, <del rend="overstrike">and either in</del> <del rend="overstrike">in danger</del> perhaps dead or in danger of death.—How every body worked! how the shovels flew!—And all for black Caesar—for <del rend="overstrike">black</del> the buried man wasn't any body else.—</p>
           </div1> 
 <div1 type="prose">

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main" rend="bracketed">Autobiographical Data</title>
+        <title level="m" type="sub">a machine readable transcription</title>
+        <author>Walt Whitman</author>
+        <editor>Kenneth M. Price</editor>
+        <editor>Ed Folsom</editor>
+        <respStmt>
+          <resp>Transcription and encoding</resp>
+          <persName xml:id="bb">Brett Barney</persName>
+        </respStmt>
+        <sponsor>Center for Digital Research in the Humanities, University of
+          Nebraska-Lincoln</sponsor>
+        <sponsor>University of Iowa</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>National Historical Publications and Records Commission</funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+                <idno>loc.05935</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">Scholars have offered a variety of opinions regarding the date of this notebook's composition. Andrew C. Higgins notes that the latest biographical information is for 1848 and judges this to be "the earliest of the major pre-<hi rend="italic">Leaves of Grass</hi> notebooks," probably used by Whitman "over a period of several years, beginning in the late 1840s." Higgins sees the racialized language and "the immature style of the poetry" as further support for an early date. Emory Holloway, in concluding that Whitman wrote the entries in "the period before 1855," focuses on a reference to the Fugitive Slave Act of 1850. However, as the controversy surrounding the return of fugitive slaves was current for many years before and after 1854, this reference alone does not provide definitive evidence for a particular date. Edward F. Grier believes "the winter of 1855&#8211;1856" to be the most likely date for the notebook, though "some of the contents baffle any theory of WW's development." See Higgins, "Wage Slavery and the Composition of <hi rend="italic">Leaves of Grass</hi>: The 'Talbot Wilson' Notebook," <hi rend="italic">Walt Whitman Quarterly Review</hi> 20:2 (Fall 2002), 53&#8211;77; Holloway 86; and Grier 209.<lb/><lb/>
+ Ed Folsom has noted that this notebook contains Whitman's "earliest draft" of the "mash'd fireman" passage of "Song of Myself," which would suggest that at least some of the notebook dates to about 1854. See Folsom, "Erasing Race: The Lost Black Presence in Whitman's Manuscripts," in <hi rend="italic">Whitman Noir: Black America and the Good Gray Poet</hi> (Iowa City: University of Iowa Press, 2014), 3&#8211;31.
+<lb/><lb/>The original notebook is one of several that were lost during World War II, and its current whereabouts are unknown. </note>   
+            </notesStmt>
+            <sourceDesc>       
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Notebook LC #87</title>
+                    <date cert="medium" notBefore="1848" notAfter="1856" xml:id="dat1">Between 1848 and 1856</date>
+                    <idno type="callno">MSS45443</idno>
+                    <orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    <revisionDesc>
+      <change when="2016-10-17" who="#bb">created file</change>
+    </revisionDesc>
+  </teiHeader>
+
+  <pb facs="loc_bb.00032.jpg" type="verso" xml:id="leaf001v"/>
+  <pb facs="loc_bb.00033.jpg" type="recto" xml:id="leaf002r"/>
+  <pb facs="loc_bb.00034.jpg" type="verso" xml:id="leaf002v"/>
+  <pb facs="loc_bb.00035.jpg" type="recto" xml:id="leaf003r"/>
+  <pb facs="loc_bb.00036.jpg" type="verso" xml:id="leaf003v"/>
+  <pb facs="loc_bb.00037.jpg" type="recto" xml:id="leaf004r"/>
+  <pb facs="loc_bb.00038.jpg" type="verso" xml:id="leaf004v"/>
+  <pb facs="loc_bb.00039.jpg" type="recto" xml:id="leaf005r"/>
+  <pb facs="loc_bb.00040.jpg" type="verso" xml:id="leaf005v"/>
+  <pb facs="loc_bb.00041.jpg" type="recto" xml:id="leaf006r"/>
+  <pb facs="loc_bb.00042.jpg" type="verso" xml:id="leaf006v"/>
+  <pb facs="loc_bb.00043.jpg" type="recto" xml:id="leaf007r"/>
+  <pb facs="loc_bb.00044.jpg" type="verso" xml:id="leaf007v"/>
+  <pb facs="loc_bb.00045.jpg" type="recto" xml:id="leaf008r"/>
+  <pb facs="loc_bb.00046.jpg" type="verso" xml:id="leaf008v"/>
+  <pb facs="loc_bb.00047.jpg" type="recto" xml:id="leaf009r"/>
+  <pb facs="loc_bb.00048.jpg" type="verso" xml:id="leaf009v"/>
+  <pb facs="loc_bb.00049.jpg" type="recto" xml:id="leaf010r"/>
+  <pb facs="loc_bb.00050.jpg" type="verso" xml:id="leaf010v"/>
+  <pb facs="loc_bb.00051.jpg" type="recto" xml:id="leaf011r"/>
+</TEI>

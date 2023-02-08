@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="m" type="main">women</title>
+				<title level="m" type="sub">a machine readable transcription</title>
+				<author>Walt Whitman</author>
+				<editor>Kenneth M. Price</editor>
+				<editor>Ed Folsom</editor>
+				<respStmt>
+					<resp>Creation</resp>
+					<persName xml:id="bb">Brett Barney</persName>
+				</respStmt>
+				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+				<sponsor>University of Iowa</sponsor>
+				<funder>The National Endowment for the Humanities</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2016</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<idno>loc.05589_images</idno>
+				<distributor>The Walt Whitman Archive</distributor>
+				<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+				<availability>
+					<p>Copyright © 2016 by Ed Folsom and Kenneth M. Price, all rights
+						reserved. Items in the Archive may be shared in accordance with the Fair Use
+						provisions of U.S. copyright law. Redistribution or republication on other
+						terms, in any medium, requires express written consent from the editors and
+						advance notification of the publisher, Center for Digital Research in the
+						Humanities. Permission to reproduce the graphic images in this archive has
+						been granted by the owners of the originals for this publication only.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+               <author>Walt Whitman</author>
+               <title>Notebook LC #84</title>
+               <date xml:id="dat1" cert="medium" notBefore="1850" notAfter="1860">Between about 1854 and 1860</date>
+               <idno type="callno"/>
+               <orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
+               <note type="project">Transcribed from digital images of photocopies of the original
+                  manuscript.</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2016-08-09" who="#bb">created</change>
+		</revisionDesc>
+	</teiHeader>
+<pb xml:id="leaf001r" facs="loc_ej.00632_large.jpg" type="recto"/>
+<pb xml:id="leaf001v" facs="loc_ej.00663_large.jpg" type="verso"/>
+<pb xml:id="leaf002r" facs="loc_ej.01021_large.jpg" type="recto"/>
+<pb xml:id="leaf002v" facs="loc_ej.01022_large.jpg" type="verso"/>
+<pb xml:id="leaf003r" facs="loc_ej.01023_large.jpg" type="recto"/>
+<pb xml:id="leaf003v" facs="loc_ej.01024_large.jpg" type="verso"/>
+<pb xml:id="leaf004r" facs="loc_ej.01025_large.jpg" type="recto"/>
+<pb xml:id="leaf004v" facs="loc_ej.01026_large.jpg" type="verso"/>
+<pb xml:id="leaf005r" facs="loc_ej.01027_large.jpg" type="recto"/>
+<pb xml:id="leaf005v" facs="loc_ej.01028_large.jpg" type="verso"/>
+<pb xml:id="leaf006r" facs="loc_ej.01029_large.jpg" type="recto"/>
+<pb xml:id="leaf006v" facs="loc_ej.01030_large.jpg" type="verso"/>
+<pb xml:id="leaf007r" facs="loc_ej.01031_large.jpg" type="recto"/>
+<pb xml:id="leaf007v" facs="loc_ej.01032_large.jpg" type="verso"/>
+<pb xml:id="leaf008r" facs="loc_ej.01033_large.jpg" type="recto"/>
+<pb xml:id="leaf008v" facs="loc_ej.01034_large.jpg" type="verso"/>
+<pb xml:id="leaf009r" facs="loc_ej.01035_large.jpg" type="recto"/>
+<pb xml:id="leaf009v" facs="loc_ej.01036_large.jpg" type="verso"/>
+<pb xml:id="leaf010r" facs="loc_ej.01037_large.jpg" type="recto"/>
+<pb xml:id="leaf010v" facs="loc_ej.01038_large.jpg" type="verso"/>
+<pb xml:id="leaf011r" facs="loc_ej.01039_large.jpg" type="recto"/>
+<pb xml:id="leaf011v" facs="loc_ej.01040_large.jpg" type="verso"/>
+<pb xml:id="leaf012r" facs="loc_ej.01041_large.jpg" type="recto"/>
+<pb xml:id="leaf012v" facs="loc_ej.01042_large.jpg" type="verso"/>
+<pb xml:id="leaf013r" facs="loc_ej.01043_large.jpg" type="recto"/>
+<pb xml:id="leaf013v" facs="loc_ej.01044_large.jpg" type="verso"/>
+<pb xml:id="leaf014r" facs="loc_ej.01045_large.jpg" type="recto"/>
+<pb xml:id="leaf014v" facs="loc_ej.01046_large.jpg" type="verso"/>
+<pb xml:id="leaf015r" facs="loc_ej.01047_large.jpg" type="recto"/>
+<pb xml:id="leaf015v" facs="loc_ej.01048_large.jpg" type="verso"/>
+<pb xml:id="leaf016r" facs="loc_ej.01049_large.jpg" type="recto"/>
+<pb xml:id="leaf016v" facs="loc_ej.01050_large.jpg" type="verso"/>
+<pb xml:id="leaf017r" facs="loc_ej.01051_large.jpg" type="recto"/>
+<pb xml:id="leaf017v" facs="loc_ej.01052_large.jpg" type="verso"/>
+<pb xml:id="leaf018r" facs="loc_ej.01053_large.jpg" type="recto"/>
+<pb xml:id="leaf018v" facs="loc_ej.01054_large.jpg" type="verso"/>
+<pb xml:id="leaf019r" facs="loc_ej.01055_large.jpg" type="recto"/>
+<pb xml:id="leaf019v" facs="loc_ej.01056_large.jpg" type="verso"/>
+<pb xml:id="leaf020r" facs="loc_ej.01057_large.jpg" type="recto"/>
+<pb xml:id="leaf020v" facs="loc_ej.01058_large.jpg" type="recto"/>
+<pb xml:id="leaf021r" facs="loc_ej.01059_large.jpg" type="verso"/>
+<pb xml:id="leaf021v" facs="loc_ej.01060_large.jpg" type="verso"/>
+<pb xml:id="leaf022r" facs="loc_ej.01061_large.jpg" type="recto"/>
+<pb xml:id="leaf022v" facs="loc_ej.01062_large.jpg" type="verso"/>
+<pb xml:id="leaf023r" facs="loc_ej.01063_large.jpg" type="recto"/>
+<pb xml:id="leaf023v" facs="loc_ej.01064_large.jpg" type="verso"/>
+<pb xml:id="leaf024r" facs="loc_ej.01065_large.jpg" type="recto"/>
+<pb xml:id="leaf024v" facs="loc_ej.01066_large.jpg" type="verso"/>
+<pb xml:id="leaf025r" facs="loc_ej.01067_large.jpg" type="recto"/>
+<pb xml:id="leaf025v" facs="loc_ej.01068_large.jpg" type="verso"/>
+<pb xml:id="leaf026r" facs="loc_ej.01069_large.jpg" type="recto"/>
+<pb xml:id="leaf026v" facs="loc_ej.01070_large.jpg" type="verso"/>
+<pb xml:id="leaf027r" facs="loc_ej.01071_large.jpg" type="recto"/>
+<pb xml:id="leaf027v" facs="loc_ej.01072_large.jpg" type="verso"/>
+<pb xml:id="leaf028r" facs="loc_ej.01073_large.jpg" type="recto"/>
+<pb xml:id="leaf028v" facs="loc_ej.01074_large.jpg" type="verso"/>
+<pb xml:id="leaf029r" facs="loc_ej.01075_large.jpg" type="recto"/>
+<pb xml:id="leaf029v" facs="loc_ej.01076_large.jpg" type="verso"/>
+<pb xml:id="leaf030r" facs="loc_ej.01077_large.jpg" type="recto"/>
+<pb xml:id="leaf030v" facs="loc_ej.01078_large.jpg" type="verso"/>
+<pb xml:id="leaf031r" facs="loc_ej.01079_large.jpg" type="recto"/>
+</TEI>

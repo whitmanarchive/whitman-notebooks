@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?> <?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00348">
+
+<relations>
+<work ref="xxx.01169" cert="high">
+<p>This notebook contains a draft of the unpublished poem known as "The Two Vaults."</p>
+</work>
+</relations>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main" rend="bracketed">Behold the company</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<persName xml:id="ah">Amy Hezel</persName>
+	<persName xml:id="nhg">Nicole Gray</persName>
+</respStmt>
+	<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt><editionStmt>
+<edition><date>2004</date></edition>
+</editionStmt><publicationStmt>
+<idno>loc.00348</idno>
+<distributor>The Walt Whitman Archive</distributor>
+	<address>
+		<addrLine>Center for Digital Research in the Humanities</addrLine>
+		<addrLine>319 Love Library</addrLine>
+		<addrLine>University of Nebraska-Lincoln</addrLine>
+		<addrLine>P.O. Box 884100</addrLine>
+		<addrLine>Lincoln, NE 68588-4100</addrLine>
+	</address>
+<availability>
+	<p>The text of the original item is in the public domain. The text encoding and editorial notes were created and/or prepared by the <hi rend="italic">Walt Whitman Archive</hi> and are licensed under a <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0). Any reuse of the material should credit the <hi rend="italic">Walt Whitman Archive</hi>.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+	<note type="project" target="dat1">This notebook includes a draft of lines written about Pfaff's, a popular mid-nineteenth century Bohemian spot. The lines were edited and published posthumously as "The Two Vaults." This notebook also contains notes about the Jamaica Presbyterian bicentennial which were used by Whitman in the article "<ref target="../../periodical/journalism/tei/per.00243.html">Important Ecclesiastical Gathering at Jamaica, L.I.</ref>," published in the <hi rend="italic">Brooklyn City News</hi> in January 1862.</note>                   	
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+	<title>New York City notebook</title>
+<date cert="medium" notBefore="1857" notAfter="1862" xml:id="dat1">1857&#8211;1862</date>
+<idno type="callno"></idno> 
+	<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName> 
+<note type="project">Transcribed from digital images of the original.</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+	<change when="2019-08-20" who="#nhg">edited header, converted to P5</change>
+<change when="2004-11-01" who="#ah">transcribed, encoded</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text type="manuscript">
+<body>
+
+<pb facs="loc.00348.001.jpg" xml:id="leaf001r" type="recto"/>
+
+<div1 type="poem_notes">
+
+<lg type="poem">
+
+<head type="main-derived">Subject&#8212;Poem</head>
+
+<note type="authorial" place="right" rend="circled"><gap reason="illegible"/></note>
+
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<l>The vault at Pfaffs where the<lb/>
+ drinkers and loaughers well<lb/>
+ to eat and drink and<lb/>
+ carouse</l>
+
+<l>While <add rend="insertion" place="supralinear">on</add> the walk immediately<lb/>
+ overwhelmed, poss<del rend="overstrike"><gap reason="illegible"/> all</del><lb/>
+ the  myriad fest of<lb/>
+ Broadway</l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<l>As the dead in their<lb/>
+ graves, are underfoot<add rend="insertion" place="supralinear">hidden</add></l>
+
+<l>And the living pass over<lb/>
+ them, recking most of them,</l>
+
+<l>Laugh on laughers! <add rend="unmarked" place="infralinear">Drink on drinkers!</add></l>
+
+<l> <add rend="insertion" place="supralinear">Bawdy the jest!</add>Toss the theme from one<lb/>
+ to another!</l>
+
+<l> <del rend="overstrike"><gap reason="deletion, illegible"/></del>Beam up&#8212;Brighten up<lb/>
+ bright eyes of beauty<lb/>
+ young men!</l>
+
+<l>Eat what you, having<lb/>
+ ordered, <del rend="overstrike"><gap reason="deletion, illegible"/></del> are pleased<lb/>
+ to see placed before<lb/>
+ you&#8212;after the <del rend="overstrike">for</del><lb/>
+ work of the day now,<lb/>
+ with appetite, eat,</l>
+
+<l>Drink wine&#8212;drink beer&#8212;<lb/>
+ raise your voice<lb/>
+ <subst><del rend="overstrike" seq="1">Welcome</del> <add rend="unmarked" place="supralinear" seq="2">Behold!</add></subst>  your friend, as<lb/>
+ he arrives<del rend="overstrike">,</del>&#8212;Welcome<lb/>
+ him, when, from the<lb/>
+ upper step, he looks<lb/>
+ down upon you<lb/>
+ with a cheerful look</l>
+
+<l><del rend="overstrike">Behold the company</del></l>
+
+<l>Overhead <subst><del rend="overstrike" seq="1">passes</del> <add rend="unmarked" place="supralinear" seq="2">rolls</add> </subst>Broadway<lb/>
+ &#8212;<del rend="overstrike">over the</del> <gap reason="illegible"/><lb/>
+ rushing Broadway</l>
+
+<l>The lamps are lit&#8212;the<lb/>
+ <gap reason="illegible"/> blaze&#8212;the<add rend="unmarked" place="infralinear">fabrics <del rend="overstrike">and vividly </del>seen <gap reason="illegible"/></add></l>
+
+<l>The plate glass <del rend="overstrike">in the</del><lb/>
+ windows <del rend="overstrike">are in the</del><lb/>
+ <del rend="overstrike">shows up the ast and</del><lb/>
+ <del rend="overstrike">future of the <gap reason="deletion, illegible"/></del></l>
+
+<l>The strong lights from<lb/>
+ above pass over<lb/>
+ upon them and all<lb/>
+ are shed <gap reason="illegible"/></l>
+
+<l> The thick <gap reason="illegible"/> <del rend="overstrike">with</del><lb/>
+ well-dressed&#8212;the<lb/>
+ <del rend="overstrike"><gap reason="deletion, illegible"/></del> continual <gap reason="illegible"/><lb/>
+ as if this would <gap reason="illegible"/><gap reason="illegible"/></l>
+
+<note type="authorial" place="marginbot">998</note>
+<note type="authorial" place="marginbot">999</note>
+<note type="authorial" place="marginbot">1000</note>
+
+
+<pb facs="loc.00348.002.jpg" xml:id="leaf002r" type="recto"/>
+
+<l>The curious appearance<lb/>
+ of the faces&#8212;the glimpses<lb/>
+ first caught of the<lb/>
+ eyes and expressions,<lb/>
+ as they flit along,</l>
+
+<l>(<subst><del rend="overstrike" seq="1">O</del> <add rend="unmarked" place="supralinear" seq="2">You</add> </subst> phantoms! <del rend="overstrike">how</del> oft I<lb/>
+ <del rend="overstrike">stop</del> pause, yearning,<lb/>
+ to arrest some one<lb/>
+ of you!</l>
+
+<l>Oft I doubt <subst><del rend="overstrike" seq="1">whether</del> <add rend="unmarked" place="supralinear" seq="2">how reality</add></subst><lb/>
+ you <del rend="overstrike"><add rend="unmarked" place="supralinear">your reality</add></del> are real, <subst><del rend="overstrike" seq="1">and</del> <add rend="unmarked" place="supralinear" seq="2">&#8212;I</add></subst><lb/>
+ <del rend="overstrike">not</del> suspect all is<lb/>
+ but a pageant.)</l>
+
+<l>The</l>
+
+</lg>
+
+<ab>The light beam in the 
+first vault&#8212;but 
+the other is entirely 
+dark</ab>
+<milestone unit="undeclared" rend="horbar"/>
+<ab>In the first</ab>
+<milestone unit="undeclared" rend="horbar"/>
+<ab>Get at Library 
+Schiller's complete Works</ab>
+<milestone unit="undeclared" rend="horbar"/>
+<ab>English with new translations 
+<gap reason="illegible"/> Dr. C. T. Hempel</ab>
+<milestone unit="undeclared" rend="horbar"/>
+<ab>New York City during the 
+Revolution, 4to; 195 pages 
+published <subst><del rend="overstrike" seq="1">by</del> <add rend="unmarked" place="supralinear" seq="2">for</add></subst> the Mercantile Library 
+Association</ab>
+<milestone unit="undeclared" rend="horbar"/>
+
+<ab>Anne E. Green or 
+in Care of Dan'l Hathaway 
+Columbus 
+Franklin Co. Ohio</ab>
+<milestone unit="undeclared" rend="horbar"/>
+<ab>drawers factory 
+Grand street, near Attorney</ab>
+<milestone unit="undeclared" rend="horbar"/>
+
+<note type="authorial" place="bottom">1001</note>
+<note type="authorial" place="bottom">1002</note>
+<note type="authorial" place="bottom">1003</note>
+
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UVA::IATH//DTD whitman.dtd (Whitman Archive)//EN" "whitman.dtd" [
+                                          
+		
+<!ENTITY xxx.00117 SYSTEM "xxx.00117.xml" NDATA xml>
+
+<!ENTITY loc.00382.001 SYSTEM "loc.00382.001.jpg" NDATA jpeg>
+<!ENTITY loc.00382.002 SYSTEM "loc.00382.002.jpg" NDATA jpeg>
+<!ENTITY loc.00382.003 SYSTEM "loc.00382.003.jpg" NDATA jpeg>
+<!ENTITY loc.00382.004 SYSTEM "loc.00382.004.jpg" NDATA jpeg>
+<!ENTITY loc.00382.005 SYSTEM "loc.00382.005.jpg" NDATA jpeg>
+<!ENTITY loc.00382.006 SYSTEM "loc.00382.006.jpg" NDATA jpeg>
+<!ENTITY loc.00382.007 SYSTEM "loc.00382.007.jpg" NDATA jpeg>
+<!ENTITY loc.00382.008 SYSTEM "loc.00382.008.jpg" NDATA jpeg>
+<!ENTITY loc.00382.009 SYSTEM "loc.00382.009.jpg" NDATA jpeg>
+<!ENTITY loc.00382.010 SYSTEM "loc.00382.010.jpg" NDATA jpeg>
+<!ENTITY loc.00382.011 SYSTEM "loc.00382.011.jpg" NDATA jpeg>
+<!ENTITY loc.00382.012 SYSTEM "loc.00382.012.jpg" NDATA jpeg>
+<!ENTITY loc.00382.013 SYSTEM "loc.00382.013.jpg" NDATA jpeg>
+<!ENTITY loc.00382.014 SYSTEM "loc.00382.014.jpg" NDATA jpeg>
+<!ENTITY loc.00382.015 SYSTEM "loc.00382.015.jpg" NDATA jpeg>
+<!ENTITY loc.00382.016 SYSTEM "loc.00382.016.jpg" NDATA jpeg>
+<!ENTITY loc.00382.017 SYSTEM "loc.00382.017.jpg" NDATA jpeg>
+<!ENTITY loc.00382.018 SYSTEM "loc.00382.018.jpg" NDATA jpeg>
+<!ENTITY loc.00382.019 SYSTEM "loc.00382.019.jpg" NDATA jpeg>
+<!ENTITY loc.00382.020 SYSTEM "loc.00382.020.jpg" NDATA jpeg>
+<!ENTITY loc.00382.021 SYSTEM "loc.00382.021.jpg" NDATA jpeg>
+<!ENTITY loc.00382.022 SYSTEM "loc.00382.022.jpg" NDATA jpeg>
+<!ENTITY loc.00382.023 SYSTEM "loc.00382.023.jpg" NDATA jpeg>
+<!ENTITY loc.00382.024 SYSTEM "loc.00382.024.jpg" NDATA jpeg>
+<!ENTITY loc.00382.025 SYSTEM "loc.00382.025.jpg" NDATA jpeg>
+<!ENTITY loc.00382.026 SYSTEM "loc.00382.026.jpg" NDATA jpeg>
+<!ENTITY loc.00382.027 SYSTEM "loc.00382.027.jpg" NDATA jpeg>
+<!ENTITY loc.00382.028 SYSTEM "loc.00382.028.jpg" NDATA jpeg>
+<!ENTITY loc.00382.029 SYSTEM "loc.00382.029.jpg" NDATA jpeg>
+<!ENTITY loc.00382.030 SYSTEM "loc.00382.030.jpg" NDATA jpeg>
+<!ENTITY loc.00382.031 SYSTEM "loc.00382.031.jpg" NDATA jpeg>
+<!ENTITY loc.00382.032 SYSTEM "loc.00382.032.jpg" NDATA jpeg>
+<!ENTITY loc.00382.033 SYSTEM "loc.00382.033.jpg" NDATA jpeg>
+<!ENTITY loc.00382.034 SYSTEM "loc.00382.034.jpg" NDATA jpeg>
+<!ENTITY loc.00382.035 SYSTEM "loc.00382.035.jpg" NDATA jpeg>
+<!ENTITY loc.00382.036 SYSTEM "loc.00382.036.jpg" NDATA jpeg>
+<!ENTITY loc.00382.037 SYSTEM "loc.00382.037.jpg" NDATA jpeg>
+
+]>
+<!-- After consulting the Whitman CD-ROM it seems that there are several pieces that correspond to this notebook, including the following: Leaves of Grass (xxx.0001), Leaves of Grass 1871-72, Cluster 3 (xxx.00444), Song of the Exposition (xxx.00117), Centennial Songs (xxx.00492), and the 
+"American Institute Poem", which deos not have a work i.d. -->	
+
+<TEI.2 id="loc.00382" type="doc">
+
+<relations>
+<work entity="xxx.00117" cert="high">
+<p> </p>
+</work>
+</relations>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main">
+After all, not to create only
+</title>
+
+<title level="m" type="sub">a machine readable transcription</title>
+
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<name>The Walt Whitman Archive Staff</name>
+</respStmt>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt><editionStmt>
+<edition><date>2004</date></edition>
+</editionStmt><publicationStmt>
+
+<idno>loc.00382</idno>
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>The Institute for Advanced Technology in the Humanities</addrLine>
+<addrLine>Alderman Library</addrLine>
+<addrLine>University of Virginia</addrLine>
+<addrLine>P.O. Box 400115</addrLine>
+<addrLine>Charlottesville, VA 22904-4115</addrLine>
+<addrLine>whitman@jefferson.village.virginia.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2004 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, The Institute for Advanced Technology in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+
+<note type="project" target="dat1"></note>     
+    <note type="project"><!--This information has been moved over from loc.00337-->
+        pb corresp=loc.00337.004 id=leaf01v type=verso was not transcribed because it was a reshoot of the previous image.  
+        pb corresp=loc.00337.002 id=leaf01v type=recto was not transcribed becauese it was a reshoot of the previous image.  
+        pb corresp=loc.00337.011 id=leaf07v type=verso is a piece of printed letterhead from the Department of Justice.
+        pb corresp=loc.00337.013 id=leaf08v type=verso is a piece of printed letterhead from the Department of Justice.
+    </note>   
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>
+After All, Not To Create Only
+</title>
+<date certainty="****" value="/" id="dat1"><!-- DATING INFO WILL BE INSERTED BY PROJECT EDITORS --></date>
+<idno type="callno">
+</idno> 
+<orgName>
+The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839-1919, Library of Congress, Washington, DC.
+</orgName> <!--NOTE: loc.00337, supposedly a duplicate transcription, listed Harned as the collection. Confirm before publication-->
+<note type="project">Transcribed from our own digital image of original manuscript.</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<handList>
+<hand scribe="Farrah Lehman" id="fbl"/>
+</handList>
+</profileDesc>
+
+<revisionDesc>
+    <change>
+        <date>2004-06-26</date>
+        <respStmt>
+            <name>Amy Hezel</name>
+        </respStmt>
+        <item>Encoded loc.00337</item>
+    </change>
+    <change>
+        <date>2004-06-26</date>
+        <respStmt>
+            <name>Amy Hezel</name>
+        </respStmt>
+        <item>Transcribed loc.00337</item>
+    </change>
+<change>
+<date>2006-04-26</date>
+<respStmt>
+<name>Farrah Lehman</name>
+</respStmt>
+<item>Encoded</item>
+</change>
+<change>
+<date>2006-04-26</date>
+<respStmt>
+<name>Farrah Lehman</name>
+</respStmt>
+<item>Transcribed</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text type="manuscript">
+<body>
+
+
+<pb corresp="loc.00382.001" id="leaf01r" type="recto"/>
+
+<div1 type="poem notes">
+<ab type="title">
+<hi rend="underline">After all, not to <add type="pasteon">create only</add></hi>
+<note type="authorial" place="interlinear">? and destroy</note></ab>
+
+<pb corresp="loc.00382.002" id="leaf01r2" type="recto"/><!--Same image as page 1 above, but the DTD needs a unique id here.-->
+<note type="project">Note the skin prints above "not" and above the gap between "after" and "all."</note>
+
+<pb corresp="loc.00382.003" id="leaf01v" type="verso"/>
+<note type="authorial" place="inline">But to bring what was found hither afar</note>
+
+<pb corresp="loc.00382.004" id="leaf01v2" type="verso"/><!--Same image as page 2. See note for leaf01r2.-->
+<note type="project">Image 4 is the same page as image 3 above.</note>
+
+<lg1 type="poem">
+<pb corresp="loc.00382.005" id="leaf02r" type="recto"/>
+<head type="main-authorial" rend="underline">After all, not to create only</head>
+<note type="authorial" place="margintop" rend="right">2</note>
+<lg2 type="section"><head type="main-authorial">1</head>
+<l><seg>After all, not to create only, nor</seg><seg>found only</seg></l>
+<addSpan type="pasteon" place="over" to="a1"/>
+<l><seg>But to bring, perhaps from afar,</seg><seg>what is already founded,</seg></l>
+<l><seg>To give it our own identity, <app><rdg varSeq="1"><del type="overstrike">popular</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear"><gap reason="deletion, illegible"/></add></del></rdg><rdg varSeq="3"><del type="overstrike">popular</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear"><gap reason="deletion, illegible"/></add></del></rdg><rdg varSeq="4"><del type="overstrike">popular</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear"><gap reason="deletion, illegible"/></add></del>
+</rdg></app></seg>
+<seg><add type="unmarked" place="interlinear">average, limitless</add></seg></l>
+<addSpan type="pasteon" place="over" to="a2"/>
+<l><seg>To <app><rdg varSeq="1"><del type="overstrike">charge</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">fill</add></rdg></app> the gross, the palpable <del type="overstrike"><gap reason="deletion, illegible"/> bulk</del></seg>
+<seg>bulk, with the <del type="overstrike">chaotic,</del> religious, <add type="insertion" place="supralinear">electric,</add> unseen,</seg></l>
+<del type="overstrike"><l><seg>To advance to <del type="overstrike"><add type="insertion">limitless</add></del> uses, beauty, power, before</seg><seg>unknowns</seg></l></del>
+<anchor id="a2"/>
+<l><seg>Not to repel &#38; destroy <app><rdg varSeq="1"><del type="overstrike">only but</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">so much as</add></del></rdg><rdg varSeq="3"><add type="unmarked" place="infralinear">so much as</add></rdg></app></seg>
+<seg>accept and fuse</seg></l>
+<del type="overstrike"><add type="unmarked" place="interlinear"><l><seg>To charge the gross, the palpable <add type="insertion" place="supralinear">religious</add> bulk with the electric,</seg><seg>the religious, full of the unseen,</seg></l></add></del>
+<l><seg>To obey as well as command&#8212;to</seg><seg>follow, more than to lead,</seg></l>
+<l>These also are the lessons of our <add type="insertion" place="supralinear">New</add> World:</l>
+<anchor id="a1"/>
+<add type="pasteon" place="over">
+<l><seg>While how little is really the New,</seg><seg>after all&#8212;how much is the</seg><seg>Old, Old World?</seg></l>
+</add>
+<note type="authorial" place="interlinear">#</note>
+<add type="unmarked" place="interlinear"><space dim="vertical" extent="1 line"/></add>
+<note type="authorial" place="interlinear" rend="bracketed">blank line</note>
+<add type="pasteon" place="over">
+<note type="authorial" place="interlinear">#</note>
+<l><seg>Long, long, long has the grass</seg><seg>been growing</seg></l>
+<l><seg>Long and long has the rain</seg><seg>been falling</seg></l>
+<l><seg>Long has the globe been rolling</seg><seg>round</seg></l>
+<note type="authorial" place="interlinear"># #</note>
+</add>
+</lg2>
+<add type="unmarked" place="interlinear"><space dim="vertical" extent="1 line"/></add>
+<addSpan type="pasteon" place="over" to="a3"/>
+<lg2 type="linegroup"><head type="main-authorial">2</head>
+<l><seg>Come, Muse, migrate from</seg><seg>Greece &#38; Ionia</seg></l>
+<l><seg>Cross out, <app><rdg varSeq="1"><del type="overstrike">&#38; settle</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">please <del type="overstrike">forward these</del></add></rdg></app> those <app><rdg varSeq="1"><del type="overstrike"><gap reason="deletion, illegible"/></del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">immensely</add></rdg></app></seg>
+<seg>overpaid accounts,</seg></l>
+<anchor id="a3"/>
+
+<pb corresp="loc.00382.006" id="leaf03r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">3</note>
+<del type="overstrike"><l>Jaffa gate, <gap reason="deletion, illegible"/> parish</l></del>
+<l><seg>That matter of Troy, &#38; Achilles'</seg><seg>wrath, and Eneas', Odysseus'</seg><seg>wanderings;</seg></l>
+<l><seg><del type="overstrike"><add type="insertion" place="supralinear">order a</add></del> Placard <hi rend="underline">"Removed"</hi> and <hi rend="underline">"To Let"</hi>,</seg>
+<addSpan type="pasteon" place="over" to="a26"/>
+<seg>on the rocks of your snowy</seg><seg>Parnassus,</seg></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">The</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">Repeat the</add></rdg></app> same at Jerusalem&#8212;place</seg><seg><app><rdg varSeq="1"><del type="overstrike">it</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">the notice</add></rdg></app> high on the Jaff<app><rdg varSeq="1"><del type="overstrike">es</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">a</add></rdg></app> gate,</seg>
+<seg><del type="overstrike">on Omar's mosque,</del> and</seg><seg>on Mount Moriah;</seg></l>
+<l><seg>The same on the walls of your</seg><seg>Gothic European Cathedrals,</seg><seg>&#38; German, French, &#38; <orig reg="Spanish">Span-</orig></seg><seg>ish castles;</seg></l>
+<l><seg>For know <del type="overstrike">O Muse,</del> <app><rdg varSeq="1"><del type="overstrike">a fresh</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">a wide</add></rdg></app> <orig reg="untried">un-</orig></seg><seg>tried domain&#8212;a better, <app><rdg varSeq="1"><del type="overstrike">wider</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">fresher</add></rdg></app></seg><seg>busier sphere demands you.</seg></l>
+<anchor id="a26"/>
+</lg2>
+<lg2 type="section"><head type="main-authorial">3</head>
+<add type="pasteon" place="over">
+<l><app><rdg varSeq="1"><del type="overstrike">Obedient</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">Responsive</add></rdg></app> to our summons,</l>
+<l><seg>Or rather <app><rdg varSeq="1"><del type="overstrike">with</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">to</add></rdg></app> her long-mass'd</seg><seg>inclination,</seg></l>
+<l><seg>Join'd with an irresistable,</seg><seg>natural gravitation.</seg></l>
+</add>
+
+<pb corresp="loc.00382.007" id="leaf04r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">4</note>
+<note type="project">Underlying page is an upside-down Department of Justice letterhead.</note>
+<addSpan type="pasteon" place="over" to="a4"/>
+<l><seg>She comes! This famous Female</seg><seg>&#8212;as was indeed to be expected;</seg></l>
+<l><seg>For who, so ever-youthful <app><rdg varSeq="1"><del type="overstrike">smart</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">cute</add></rdg></app></seg>
+<seg>and handsome, <del type="overstrike"><add type="insertion" place="infralinear">experienced,</add></del> would <app><rdg varSeq="1"><del type="overstrike">feel</del></rdg><rdg varSeq="2"><add type="unmarked" place="infralinear">wish to</add></rdg></app></seg>
+<del type="overstrike"><seg>stay in <app><rdg varSeq="1"><del type="overstrike">Asia's</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="inline">Europe's</add></del></rdg></app></seg></del>
+<seg><app><rdg varSeq="1"><del type="overstrike">en<gap reason="deletion, illegible"/>,</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="infralinear"><gap reason="deletion, illegible"/>,</add></del></rdg><rdg varSeq="3"><add type="unmarked" place="infralinear">stay in mansions <del type="overstrike"><gap reason="deletion, illegible"/></del><add type="unmarked" place="infralinear">such as those</add></add></rdg></app> <del type="overstrike">played out</del> <del type="overstrike"><add type="unmarked" place="supralinear">of</add></del> <add type="insertion" place="supralinear"><app><rdg varSeq="1"><del type="overstrike">shackly</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">fogy</add></del></rdg></app> <del type="overstrike">man.</del></add></seg></l>
+<l><seg>When offered gracious quarters with all</seg><seg>the modern improvements,</seg></l>
+<l><seg>With all the fun that's going&#8212;</seg><seg>&#38; all the best society?)</seg></l>
+<anchor id="a4"/>
+
+<pb corresp="loc.00382.008" id="leaf05r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">5</note>
+<note type="authorial" place="margintop">#</note>
+<add type="unmarked" place="supralinear"><space dim="vertical" extent="1 line"/></add>
+<l><seg>She comes! I hear the rustling</seg><seg>of her gown!</seg></l>
+<l><seg>I scent the odor of her breath's</seg><seg><app><rdg varSeq="1"><del type="overstrike">eternal</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">delicious</add></rdg></app> sweetness!</seg></l>
+<l><seg>I <del type="overstrike">I</del> mark her step divine&#8212;I</seg><seg>feel her <add type="insertion" place="supralinear">curious</add> eyes <del type="overstrike">electric</del></seg>
+<seg><del type="overstrike">flashing, curiously</del><add type="unmarked" place="supralinear">&#8209;turning,</add> rolling,</seg></l>
+<l>Upon this very scene.</l>
+</lg2>
+<note type="authorial" place="margintop">#</note>
+<add type="unmarked" place="supralinear"><space dim="vertical" extent="1 line"/></add>
+<lg2 type="linegroup"><head type="main-authorial">3</head>
+<addSpan type="pasteon" place="over" to="a5"/>
+<l><seg>The Deathless Dame of Dames!</seg><seg>&#8212;can I believe then,</seg></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">Those</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">Her</add></del></rdg><rdg varSeq="3"><add type="unmarked" place="supralinear">Those</add></rdg></app> <add type="insertion" place="supralinear">ancient</add> temples <del type="overstrike">fair and</del></seg>
+<anchor id="a5"/>
+<seg>classic, and castles <add type="insertion" place="supralinear">strong &#38;</add> <orig reg="Feudalistic">Feu-</orig></seg><seg>dalistic, could none of</seg><seg>them restrain <app>
+<rdg varSeq="1"><del type="overstrike">her?</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">you</add></del></rdg>
+<rdg varSeq="3"><del type="overstrike"><add type="unmarked" place="supralinear">thee</add></del></rdg>
+<rdg varSeq="4"><del type="overstrike"><add type="unmarked" place="inline">thee</add></del></rdg>
+<rdg varSeq="5"><add type="unmarked" place="supralinear">her?</add></rdg></app></seg></l>
+<l><seg>Nor shades of Dante in Italy,</seg>
+<addSpan type="pasteon" place="over" to="a6"/>
+<seg>nor all those <add type="insertion" place="supralinear">myriad poems,</add> memories, haunts</seg><seg><add type="unmarked" place="inline">old</add> associations, effectually <add type="insertion" place="supralinear">magnetize and</add> hold on</seg><seg>to her? But that she's left them all,</seg></l>
+<l><app><rdg varSeq="1"><del type="overstrike">But</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">And</add></rdg></app> that she's here&#8212;and <hi rend="underline">here</hi>.</l>
+<anchor id="a6"/>
+<note type="project">Beneath the lower pasteon, the line continues:
+<l>Or Shakespeare in England,</l><l>effectually magnetize <gap reason="illegible"/></l>
+</note>
+<!--Above text was encoded as a note because the bottom pasteon required several app structures.-->
+
+<pb corresp="loc.00382.009" id="leaf06r" type="recto"/>
+<addSpan type="pasteon" place="over" to="a7"/>
+<note type="authorial" place="margintop" rend="right">6</note>
+<note type="authorial" place="margintop">#</note>
+<add type="unmarked" place="supralinear"><space dim="vertical" extent="1 line"/></add>
+<l>Yes&#8212;if you will allow me to say so,</l>
+<l>I, my friends, if you do not, can plainly see Her,</l>
+<l><seg>The <add type="insertion" place="supralinear">same</add> undying Soul of <app><rdg varSeq="1"><del type="overstrike">heroism's</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">Earth's</add></rdg></app></seg>
+<seg>activity's beauty's Expression,</seg></l>
+<anchor id="a7"/>
+<l><seg>(<app><rdg varSeq="1"><del type="overstrike">Through many</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">Out from her</add></rdg></app> evolutions hither come&#8212;<orig reg="submerged">sub-</orig></seg>
+<seg>merged the strata of her <app><rdg varSeq="1"><del type="overstrike">older</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">former</add></rdg></app>themes,</seg>
+<seg><add type="unmarked" place="inline">y<gap reason="illegible"/></add> hidden &#38; covered by to-day's&#8212;foundation</seg><seg>of to-day's:)</seg></l>
+<addSpan type="pasteon" place="over" to="a8"/>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">Silent hence for the</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">Ended, deceased, through time the</add></rdg></app> voice by Castaly's <del type="overstrike"><add type="unmarked" place="supralinear" rend="bracketed">fountains,</add></del></seg><seg>fountain,</seg></l>
+<l><seg>Silent <add type="insertion" place="supralinear">through time</add> the broken-lipp'd Sphynx in</seg><seg><orig reg="Egypt">Egyppt</orig>&#8212;silent the <add type="insertion" place="supralinear">many</add> <del type="overstrike">eloquent,</del> century-</seg><seg>baffling tombs,</seg></l>
+<l><seg><del type="overstrike">Silent and</del> closed <add type="insertion" place="supralinear">for</add> the <add type="insertion" place="supralinear">sage</add> epics of Asia's Europe's</seg><seg>helmeted warriors,</seg></l>
+<!--Re: "Asia's Europe's" Because neither has been erased, and "Europe's" doesn't look like an add, I'm not sure whether this is supposed to have an <app> structure.-->
+<l><seg><del type="overstrike">Forever closed</del> Calliope's call <add type="insertion" place="supralinear">forever closed,</add>&#8212;Clio, <orig reg="Melpomene">Mel-</orig></seg><seg>pomene, Thalia, henceforth dead;</seg></l>
+<anchor id="a8"/>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">Closed</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">Sealed</add></rdg></app> the stately rhythms of Una</seg><seg>and Oriana&#8212;<add type="insertion" place="supralinear">&#8212;ended</add> the quest of</seg><seg>the Holy Graal<add type="unmarked" place="inline">;</add> <del type="overstrike">forever <app><rdg varSeq="1"><del type="overstrike">closed,</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">closed,</add></del></rdg></app></del></seg></l>
+<l><seg>Jerusalem <del type="overstrike"><add type="insertion" place="supralinear">naught but</add></del> a handful of ashes</seg><seg>blown by the wind&#8212;extinct;</seg></l>
+<l><seg><del type="overstrike">Passed <add type="insertion" place="supralinear">&#38; gone</add></del> <app><rdg varSeq="1"><del type="overwrite">t</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">T</add></rdg></app> Crusaders' <app><rdg varSeq="1"><del type="overstrike"><gap reason="deletion, illegible"/> a</del></rdg><rdg varSeq="2"><del type="erasure"><add type="insertion" place="supralinear"><gap reason="deletion, illegible"/></add></del></rdg></app> troops</seg>
+<seg>of <app><rdg varSeq="1"><del type="overstrike">phantom</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">shadows</add></rdg></app> horsemen <app><rdg varSeq="1"><del type="overstrike">gone</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">over</add></del></rdg><rdg varSeq="3"><add type="insertion" place="supralinear">gone</add></rdg></app>,</seg><seg>with <app><rdg varSeq="1"><del type="overstrike">the</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">the</add></rdg></app> midnight;</seg></l>
+<l><seg>Amadis, Tancred, <del type="overstrike">utterly</del> <app><rdg varSeq="1"><del type="overstrike">gone and</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">utterly</add></rdg></app> dead</seg>
+<seg>&#8212;Charlemagne, Roland, Oliver,</seg><seg>gone</seg></l>
+<l><seg><del type="overstrike">Paladin,</del> Palmerin, Ogre, departed&#8212;</seg><seg>vanished in the spires &#38; turrets</seg><seg>that Usk reflected,</seg></l>
+<l><seg>Arthur vanished with all his</seg><seg>knights&#8212;Merlin &#38; Lancelot</seg><seg>and Galahad&#8212;all <del type="overstrike">utterly</del></seg><seg>gone&#8212;dissolved <add type="insertion" place="supralinear">utterly</add> like an</seg><seg>exhalation;</seg></l> 
+
+<pb corresp="loc.00382.010" id="leaf07r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">7</note>
+<note type="project">Lines beneath the pasteon are highly revised, some readable through verso.</note>
+<addSpan type="pasteon" place="over" to="a9"/>
+<l><seg>Pass'd! pass'd! forever pass'd!</seg>
+<seg><add type="insertion" place="supralinear">for us</add> that Phantom World!</seg></l>
+<l><seg>Embroider'd, dazzling World! with</seg><seg>all its gorgeous legends,</seg><seg>myths,</seg></l>
+<l><seg>Its kings &#38; barons proud&#8212;its</seg><seg>priests, and warlike knights,</seg><seg>and courtly dames;</seg></l>
+<delSpan type="hashmark" to="d1"/>
+<l><seg>Pass'd to its charnel vault&#8212;<del type="overstrike">that</del></seg><seg>crown'd, <del type="overstrike">and</del> armor'd <del type="overstrike"><add type="insertion" place="supralinear">coffin'd</add></del> World!&#8212;</seg><seg>scutcheon'd with Shakespeare's</seg><seg>purple page,</seg></l>
+<l><seg>And Tennyson's high-borne, sweet-sad</seg><seg>rhyme.<add type="unmarked" place="inline">)</add></seg></l>
+<anchor id="a9"/><anchor id="d1"/>
+<l><seg>Pass'd to its charnel vault&#8212;laid</seg><seg><app><rdg varSeq="1"><del type="overstrike">coffin'd,</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">on the shelf</add></rdg></app> with <app>
+<rdg varSeq="1"><del type="overstrike">all</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="insertion" place="supralinear"><unclear reason="deletion, illegible" cert="95%" resp="fbl">royal</unclear></add></del></rdg>
+<rdg varSeq="3"><del type="overstrike"><add type="unmarked" place="supralinear">war</add></del></rdg>
+<rdg varSeq="4"><del type="overstrike"><add type="unmarked" place="supralinear">royal</add></del></rdg></app>
+crown<add type="unmarked" place="supralinear">&#8212;coffin'd &#38;</add></seg><seg><del type="overstrike">warlike</del> armor on,</seg></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">Scutcheon'd</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">Blazon'd</add></rdg></app> with Shakespeare's</seg><seg>purple page, and <add type="insertion" place="supralinear">dirged by</add> Tennyson's</seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">high-borne, sad</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">sweet&#8209;sad</add></rdg></app></seg><seg>rhyme.</seg></l>
+
+<pb corresp="loc.00382.011" id="leaf07v" type="verso"/>
+<note type="project">Department of Justice letterhead.</note>
+
+<pb corresp="loc.00382.012" id="leaf08r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">6&#189;</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">8</add></rdg></app>
+</note>
+
+<addSpan type="pasteon" place="over" to="a10"/>
+<note type="authorial" place="supralinear">#</note>
+<add type="unmarked" place="supralinear"><space dim="vertical" extent="1 line"/></add>
+<l><seg>And yet I say I see, my</seg><seg>friends, if you do not,</seg><seg>the Animus of <add type="insertion" place="supralinear">all</add> that world.</seg></l>
+<l><seg>Escap'd, bequeath'd, vital, fugacious</seg><seg>as ever, leaving those dead <orig reg="remains">re-</orig></seg><seg>mains and now <app><rdg varSeq="1"><del type="overstrike">app</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="inline">arrived</add></del></rdg></app></seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">under</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">approving</add></rdg></app> this very roof;</seg></l>
+<anchor id="a10"/>
+<l><seg>And I can <del type="overstrike"><add type="insertion" place="supralinear"><gap reason="deletion, illegible"/></add></del> hear what may-be you do not</seg>
+<seg>&#8212;a terrible esthetical commotion <add type="insertion" place="marginright">sentimental,</add></seg></l>
+<milestone unit="glued"/>
+<l><seg>With <add type="insertion" place="supralinear">howling, des&#8209;</add>perate gulp of "flower"</seg><seg>and "bower,"</seg></l>
+<l><seg>With "sonnet to Matilda's <orig reg="Eyebrow">Eye-</orig></seg><seg>Brow" <app><rdg varSeq="1"><del type="overstrike">utterly</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">quite, quite</add></rdg></app> frantic,</seg></l>
+<l><seg>With <add type="insertion" place="supralinear">fervid&#8209;</add>gushing reading circles</seg><seg>turned to ice or stone,</seg></l>
+<l><seg>With many a squeak, (in</seg><seg><app><rdg varSeq="1"><del type="overstrike">rhyme</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">metre choice</add></rdg></app>,) from Boston</seg><seg>New York, and Philadelphia,</seg><seg>London,</seg></l>
+<l><seg>As she the illustrious Emigr&#233;,</seg>
+<addSpan type="pasteon" place="over" to="a11"/>
+<seg>(having indeed, in her day, although</seg><seg>the same, changed, journey'd, <orig reg="considerable">con-</orig></seg><seg>siderable,)</seg></l>
+<anchor id="a11"/>
+
+<pb corresp="loc.00382.013" id="leaf08v" type="verso"/>
+<note type="project">Department of Justice letterhead.</note>
+
+<pb corresp="loc.00382.014" id="leaf09r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overwrite">7</del></rdg>
+<rdg varSeq="2"><add type="overwrite" place="over">9</add></rdg></app>
+</note>
+
+<delSpan type="hashmark" to="d2"/>
+<l><seg>She, the undying Soul of human</seg><seg>heroism's, <app><rdg varSeq="1"><del type="overstrike">action's,</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">activity's,</add></rdg></app> beauty's</seg><seg>Expression, not to say</seg><seg>fitness of things, fusing all</seg><seg>ages.</seg></l>
+<anchor id="d2"/>
+
+<l><seg><app>
+<rdg varSeq="1"><del type="overstrike">Making directly for</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">Entering</add></del></rdg>
+<rdg varSeq="3"><add type="insertion" place="supralinear">Making directly for</add></rdg></app>
+this <orig reg="rendezvous">ren-</orig></seg><seg>dezvous&#8212;vigorously clearing</seg><seg>a path for herself&#8212;striding</seg><seg>through the confusion,</seg></l>
+<l><seg>By <app>
+<rdg varSeq="1"><del type="overstrike">rattle</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear"><gap reason="deletion, illegible"/></add></del></rdg>
+<rdg varSeq="3"><add type="insertion" place="supralinear">thud</add></rdg></app>
+of machinery and</seg><seg>shrill steam-whistle <orig reg="undismayed">un-</orig></seg><seg>dismay'd,</seg></l>
+<l><seg>Bluff'd not a bit by <orig reg="drainpipe">drain-</orig></seg><seg>pipe, gasometers, artificial</seg><seg>fertilizers,</seg></l>
+<l><seg>Smiling and pleased, with</seg><seg>palpable intent to stay,</seg></l>
+<l><seg><add type="insertion" place="supralinear">I say</add> she's here, install'd amid</seg><seg>the <add type="insertion" place="supralinear">latest</add> kitchen ware.</seg></l>
+</lg2>
+<note type="authorial" place="marginbot">#</note>
+<add type="unmarked" place="infralinear"><space dim="vertical" extent="1 line"/></add>
+
+<pb corresp="loc.00382.015" id="leaf10r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">8</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">10</add></rdg></app>
+</note>
+<lg2 type="section"><head type="main-authorial">4</head>
+<l>But hold&#8212;don't I forget my <app><rdg varSeq="1">manners<del type="overstrike"><!--Deletion is actually a result of page being cut away.-->?</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">manners?</add></rdg></app></l>
+<l><seg>To introduce the Stranger, (what</seg><seg>else indeed have I come for?)</seg></l>
+<note type="project">The words "To thee Columbia" are an addition to the text that has been covered up (deleted) by the pasteon.</note>
+<addSpan type="pasteon" place="over" to="a12"/>
+<l><seg>In Liberty's name, welcome, <orig reg="Immortal">Im-</orig></seg><seg>mortal!&#8212;clasp hands,</seg></l>
+<l><seg>And ever henceforth Sisters dear</seg><seg>be both.</seg></l>
+<note type="authorial" place="interlinear">#</note>
+<add type="unmarked" place="interlinear"><space dim="vertical" extent="1 line"/></add>
+<l><seg>Fear not, O Muse! truly new</seg><seg>ways &#38; days,</seg></l>
+<l><seg>I candidly confess, <add type="insertion">receive, salute, <del type="overstrike"><add type="insertion" place="supralinear"><gap reason="deletion, illegible"/></add></del> salute you;</add> a queer, queer</seg>
+<addSpan type="pasteon" place="over" to="a13"/>
+<seg>race, of novel fashion;)</seg></l>
+<anchor id="a12"/><anchor id="a13"/>
+<note type="project">The deleted text that follows is part of the pasted-over verse. The first segment is illegible, as it is partially covered by the pasteon.</note>
+<delSpan type="hashmark" to="d3"/>
+<l><seg><gap reason="deletion, illegible"/></seg>
+<seg><add type="unmarked" place="supralinear">new</add> days, new arts, <del type="overstrike"><add type="insertion" place="supralinear"><gap reason="deletion, illegible"/></add></del> salute you,</seg><seg>absorb you;</seg></l>
+<anchor id="d3"/>
+<l><seg>And yet <del type="overstrike"><add type="insertion" place="supralinear"><gap reason="deletion, illegible"/></add></del> the same old race&#8212;the</seg><seg>same old human race,</seg></l>
+<l><seg>Faces &#8212; hearts the same&#8212;feelings</seg><seg>the same&#8212;yearnings the same,</seg></l>
+<l><seg>The same old love&#8212;beauty &#38;</seg><seg>use the same.</seg></l>
+<note type="authorial" place="marginbot">#</note>
+<add type="unmarked" place="infralinear"><space dim="vertical" extent="1 line"/></add>
+
+<pb corresp="loc.00382.016" id="leaf10v" type="verso"/>
+<note type="authorial" place="inline">
+<delSpan type="hashmark" to="d4"/>
+<l>Taking what thou hast</l>
+<l><app><rdg varSeq="1"><del type="overstrike"><add type="unmarked" place="supralinear">As the</add></del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">With the</add></rdg></app> materials <app><rdg varSeq="1"><del type="overstrike">of</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">of</add></rdg></app> <unclear reason="illegible" cert="50%" resp="fbl">thy</unclear> <app>
+<rdg varSeq="1"><del type="overstrike">endless</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">long</add></del></rdg>
+<rdg varSeq="3"><add type="unmarked" place="supralinear"><del type="overstrike">thy extant</del> generations,</add></rdg></app></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike"><add type="unmarked" place="supralinear">As the</add></del></rdg><rdg varSeq="2"><add type="unmarked" place="inline"><add type="unmarked" place="supralinear">On</add> The</add></rdg></app> foundations <del type="overstrike"><add type="unmarked" place="supralinear">patiently</add></del> wrought <del type="overstrike">by</del></seg>
+<seg>through centuries by thee</seg></l>
+<anchor id="d4"/>
+</note>
+
+<pb corresp="loc.00382.017" id="leaf11r" type="recto"/>
+<addSpan type="pasteon" place="over" to="a14"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">9</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">11</add></rdg></app>
+</note>
+</lg2>
+<note type="authorial" place="margintop">#</note>
+<add type="unmarked" place="margintop"><space dim="vertical" extent="1 line"/></add>
+<lg2 type="section"><head type="main-authorial">5</head>
+<l><seg>We do not blame Thee, Elder World!</seg><seg>&#8212;nor separate ourselves from <add type="insertion" place="interlinear">thee;</add></seg></l>
+<l><seg>(<app><rdg varSeq="1"><del type="overstrike">Does</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">Would</add></rdg></app> the <app><rdg varSeq="1"><del type="overstrike">Daughter</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear"><del type="overstrike">the</del> Son</add></rdg></app> separate <app><rdg varSeq="1"><del type="overstrike">her</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">him</add></rdg></app>self</seg><seg>from the Father?)</seg></l>
+<del type="overstrike"><l>Ourselves sprung out from thee&#8212;looking</l></del>
+<l><seg>Looking back gently on thee<add type="unmarked" place="inline">&#8212;seeing</add></seg>
+<seg><del type="overstrike">Seeing</del> thee to thy duties, <orig reg="grandeurs">grand-</orig></seg>
+<addSpan type="pasteon" place="over" to="a15"/>
+<seg>eurs, through past ages</seg><seg>bending, building,</seg></l>
+<anchor id="a15"/>
+<l><app><rdg varSeq="1"><del type="overwrite">H</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">W</add></rdg></app>e build to ours to-day.</l>
+<anchor id="a14"/>
+<note type="authorial" place="interlinear">#</note>
+<add type="unmarked" place="interlinear"><space dim="vertical" extent="1 line"/></add>
+<l>Mightier than Egypt's tombs,</l>
+<l><seg>Fairer than Grecia's, Roma's,</seg><seg>classic temples,</seg></l>
+<l><seg>Prouder than Milan's statued,</seg><seg>spired cathedral</seg></l>
+<l><seg>More picturesque than kings'</seg>
+<addSpan type="pasteon" place="over" to="a16"/>
+<seg>or barons' castles,</seg></l>
+<l><seg>We plan, even now, to raise,</seg><seg>beyond them all,</seg></l>
+<l><seg>Thy church &#38; castle, sacred</seg>
+<seg><add type="insertion" place="supralinear">sovreign</add> Industry,&#8212;no tomb,</seg></l>
+<l><seg>A site, for life, for practical</seg><seg>Invention.</seg></l>
+<anchor id="a16"/>
+<note type="authorial" place="marginbot">#</note>
+<add type="unmarked" place="infralinear"><space dim="vertical" extent="1 line"/></add>
+
+<pb corresp="loc.00382.018" id="leaf12r" type="recto"/>
+<addSpan type="pasteon" place="over" to="a17"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">10</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">12</add></rdg></app>
+</note>
+<note type="authorial" place="margintop">#</note>
+<add type="unmarked" place="margintop"><space dim="vertical" extent="1 line"/></add>
+<l>As in a waking vision,</l>
+<l><seg>E'en <app><rdg varSeq="1"><del type="overstrike">as</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">while</add></rdg></app> I chant I see it</seg><seg>rising&#8212;I scan &#38; prophecy,</seg><seg>outside and in,</seg></l>
+<l>Its manifold ensemble.</l>
+<anchor id="a17"/>
+</lg2>
+<lg2 type="section"><head type="main-authorial">6</head>
+<l>Around a Palace,</l>
+<l><seg>Loftier, fairer, ampler than any</seg><seg>yet,</seg></l>
+<l><seg>Earth's modern wonder, History's</seg><seg><del type="overstrike">old</del> Seven outstripping</seg></l>
+<l><seg>High rising tier on tier, <app><rdg varSeq="1"><del type="overstrike">its</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">with</add></rdg></app> glass</seg><seg>&#38; iron fa&#0327;ades,</seg></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">Enhued with</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">Gladdening the</add></rdg></app> <add type="unmarked" place="supralinear">
+<app><rdg varSeq="1">sun</rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear"><gap reason="deletion, illegible"/></add></del></rdg><rdg varSeq="3"><add type="unmarked" place="supralinear">sun and sky&#8212;</add></rdg></app></add>
+<add type="unmarked" place="supralinear">
+<app><rdg varSeq="1"><del type="overstrike">embued</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">enhued</add></rdg></app>
+</add>
+<add type="unmarked" place="inline">with</add> brilliant hues,</seg>
+<seg><del type="overstrike">gladdening the sun &#38; sky,</del></seg></l>
+<l><seg>Bronze, lilac, robin's-egg, purple</seg><seg>&#38; crimson,</seg></l>
+<l><seg>Over whose golden roof shall</seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">wave,</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">flaunt,</add></rdg></app> beneath thy banner</seg><seg>Freedom,</seg></l>
+<l><seg>The banners of the States, the flags</seg><seg> of <app><rdg varSeq="1"><del type="overstrike">all</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">every</add></rdg></app> land,</seg></l>
+<l><seg>A brood of lofty, fair, but</seg><seg>lesser palaces shall cluster,</seg></l>
+
+<pb corresp="loc.00382.019" id="leaf13r" type="recto"/>
+<add type="pasteon" place="over">
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">11</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">13</add></rdg></app>
+</note>
+<note type="authorial" place="supralinear">#</note>
+<add type="unmarked" place="supralinear"><space dim="vertical" extent="1 line"/></add>
+<l>Somewhere within the walls of all,</l>
+<l><seg>Shall all that forwards perfect,</seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">popular</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">general</add></del></rdg></app> human life be started,</seg></l>
+</add>
+
+<l><seg>Tried, taught, advanced, compared</seg><seg>visibly exhibited.</seg></l>
+<note type="authorial" place="interlinear">#</note>
+<add type="unmarked" place="interlinear"><space dim="vertical" extent="1 line"/></add>
+<l><seg>Here shall we trace in flowing</seg><seg>operation,</seg></l>
+<l><seg>In every source<app><rdg varSeq="1"><del type="overstrike">, in infinite</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">of practical</add></rdg></app> busy</seg><seg>movement,</seg></l>
+<l>The rills of civilization.</l>
+<note type="authorial" place="interlinear">#</note>
+<add type="unmarked" place="interlinear"><space dim="vertical" extent="1 line"/></add>
+<l><seg>Materials here, before the eye</seg><seg>shall change their shape, <app><rdg varSeq="1"><del type="overstrike">like</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">as if by</add></rdg></app> magic,</seg></l>
+<l><seg>The cotton shall be picked</seg><seg>almost in the very field,</seg></l>
+<l><seg>Shall be dried, cleaned, baled,</seg><seg>ginned, <app><rdg varSeq="1"><del type="overstrike">thre</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">spun</add></rdg></app> into thread</seg><seg>&#38; cloth, before your eyes;</seg></l>
+
+<pb corresp="loc.00382.020" id="leaf14r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">12</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">14</add></rdg></app>
+</note>
+
+<l><seg>You shall see hands at</seg><seg>work at the old <orig reg="processes">pro-</orig></seg><seg>cesses, and all the new ones</seg><seg>of the world;</seg></l>
+<l><seg>You shall see the various</seg><seg>grains, and how flour is</seg><seg>made, &#38; <add type="insertion" place="supralinear">then</add> bread <app><rdg varSeq="1"><del type="overstrike"><gap reason="deletion, illegible"/> it,</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">baked</add></rdg></app></seg><seg><app><rdg varSeq="1"><del type="overstrike">and ba</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">by</add></rdg></app> the bakers;</seg></l>
+
+<l><seg>You shall see the crude ores</seg><seg>of California and Nevada,</seg><seg>passing on &#38; on till they</seg><seg>become bullion;</seg></l>
+<l><seg>You shall watch how the</seg><seg>printer sets type, and,</seg><seg>learn what a composing-</seg><seg>stick is;</seg></l>
+<l><seg>You shall mark, in wonder, the</seg><seg>Hoe press whirling its <orig reg="cylinders">cyl-</orig></seg><seg>inders, shedding the printed</seg><seg>leaves, like <add type="insertion" place="supralinear">great</add> snow-flakes,</seg><seg>steady &#38; fast;</seg></l>
+<l><seg>The photograph, carpet, <app><rdg varSeq="1"><del type="overstrike">thread,</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">match,</add></rdg></app></seg><seg>pin, nail, shall be visibly</seg><seg>created before you.</seg></l>
+<note type="authorial" place="infralinear">#</note>
+<add type="unmarked" place="infralinear"><space dim="vertical" extent="1 line"/></add>
+
+<pb corresp="loc.00382.021" id="leaf15r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">13</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">15</add></rdg></app>
+</note>
+<note type="authorial" place="supralinear">#</note>
+<add type="unmarked" place="supralinear"><space dim="vertical" extent="1 line"/></add>
+<l><seg>In large calm halls, a stately</seg><seg>Museum shall teach you</seg><seg>the infinite <add type="insertion" place="supralinear">solemn</add> lessons of minerals</seg></l>
+<l><seg><add type="insertion" place="supralinear">In <app><rdg varSeq="1"><del type="overstrike">A</del></rdg><rdg varSeq="2"><add type="edit">a</add></rdg></app>nother<add type="unmarked" place="inline">,</add> <del type="overstrike">Museum</del> <add type="insertion">woods, plants,</add> <app><rdg varSeq="1"><del type="edit" rend="underline">v</del></rdg><rdg varSeq="2"><add type="edit">V</add></rdg></app>egetables, shall</add></seg><seg>be illustrated&#8212;<app><rdg varSeq="1"><del type="overwrite">i</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">I</add></rdg></app>n another,</seg>
+<seg>Animals, animal life &#38; <sic corr="development">developement</sic>.</seg></l>
+
+<note type="authorial" place="interlinear">#</note>
+<add type="unmarked" place="interlinear"><space dim="vertical" extent="1 line"/></add>
+<l><seg>One stately house shall be the</seg><seg>Music House;</seg></l>
+<l><seg>Others for other Arts&#8212;the</seg><seg><app><rdg varSeq="1"><del type="overstrike">S</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">Sciences</add></rdg></app> shall all be</seg><seg>there&#8212;Learning in every branch,</seg></l>
+<l><seg>None shall be slighted&#8212;none</seg><seg>but shall here be honored,</seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">practised,</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">exemplified, <add type="unmarked" place="infralinear">and practised.</add></add></rdg></app>
+<note type="authorial" place="infralinear">#</note>
+<add type="unmarked" place="infralinear"><space dim="vertical" extent="1 line"/></add></seg></l>
+
+
+<pb corresp="loc.00382.022" id="leaf16r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">14</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">16</add></rdg></app>
+</note>
+<note type="authorial" place="supralinear">#</note>
+<add type="unmarked" place="supralinear"><space dim="vertical" extent="1 line"/></add>
+</lg2>
+<lg2 type="section">
+<head type="main-authorial">
+<app><rdg varSeq="1"><del type="overstrike">6</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">7</add></rdg></app>
+</head>
+<l><seg>This, this, &#38; these, America, shall</seg><seg>be <hi rend="underline">your</hi> pyramid and obelisk,</seg></l>
+<l><seg><hi rend="underline">Your</hi> Alexandrian Pharos, 
+<delSpan type="overstrike" to="d5"/>
+<orig reg="Babylonian">Bab-</orig></seg><seg>ylonian
+<anchor id="d5"/>
+gardens <del type="overstrike">,</del> <add type="unmarked" place="inline">of Babylon,</add></seg></l>
+<l><hi rend="underline">Your</hi> temple at Olympia.</l>
+<note type="authorial" place="interlinear">#</note>
+<add type="unmarked" place="interlinear"><space dim="vertical" extent="1 line"/></add>
+<l><seg>The male &#38; female <app><rdg varSeq="1"><del type="overstrike">world</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">many</add></rdg></app></seg><seg><del type="overstrike">that</del> labor<app><rdg varSeq="1"><del type="overstrike">s</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">ing</add></rdg></app> not.</seg></l>
+<l><seg>Shall ever here confront the</seg><seg>laboring <app><rdg varSeq="1"><del type="overstrike">world</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">many</add></rdg></app>,</seg></l>
+<l><seg>With precious benefit to both<app><rdg varSeq="1"><del type="overstrike">,</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">&#8212;</add></rdg></app></seg><seg>&#8212;Glory to all.</seg></l>
+<l>To thee America, <app><rdg varSeq="1"><del type="overstrike">to</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">and</add></rdg></app> thee, Eternal Muse.</l>
+<note type="authorial" place="infralinear">#</note>
+<add type="unmarked" place="infralinear"><space dim="vertical" extent="1 line"/></add>
+
+<pb corresp="loc.00382.023" id="leaf17r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">9</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="inline">15</add></del></rdg>
+<rdg varSeq="3"><add type="unmarked" place="inline">16&#189;</add></rdg></app>
+</note>
+
+<note type="authorial" place="supralinear">#</note>
+<add type="unmarked" place="supralinear"><space dim="vertical" extent="1 line"/></add>
+
+<l><seg>And here shall ye inhabit,</seg><seg>Powerful Matron!</seg></l>
+<l><seg>In your vast state, vaster</seg><seg>than all the old,</seg></l>
+<l><seg>Echoed through long, long <orig reg="centuries">cen-</orig></seg><seg>turies to come,</seg></l>
+<l><seg>To sound of different stronger</seg><seg>songs, with prouder themes,</seg></l>
+<l><seg>Practical, peaceful, current life&#8212;</seg><seg>the common people's life,</seg><seg>&#8212;the People themselves,</seg></l>
+<l><seg>Lifted to you, illumined, bathed</seg><seg>with peace<app><rdg varSeq="1"><del type="overstrike">,</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">&#8212;</add></rdg></app>elate, secure</seg><seg>in peace.</seg></l>
+
+<note type="authorial" place="infralinear">#</note>
+<add type="unmarked" place="infralinear"><space dim="vertical" extent="1 line"/></add>
+
+</lg2>
+<lg2 type="section"><head type="main-authorial">
+<app><rdg varSeq="1"><del type="overstrike">5</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="inline">7</add></del></rdg>
+<rdg varSeq="3"><add type="unmarked" place="inline">8</add></rdg></app>
+</head>
+
+<l><seg>Away with <app><rdg varSeq="1"><del type="overstrike">song</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">themes</add></rdg></app> of war! away</seg><seg>with war itself!</seg></l>
+<l><seg>Hence from my shuddering</seg>
+<seg>sight, <add type="insertion" place="supralinear"><app><rdg varSeq="1"><del type="overstrike">and</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">to</add></rdg></app> never more return,</add> that show of <orig reg="blackened">black-</orig></seg><seg>en'd, mutilated corpses!</seg></l>
+
+<pb corresp="loc.00382.024" id="leaf18r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">16</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">17</add></rdg></app>
+</note>
+
+<l><seg>That hell unpent, and raid of</seg><seg>blood&#8212;fit for wild tigers,</seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">and</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">or</add></del></rdg><rdg varSeq="3"><add type="unmarked" place="supralinear">or</add></rdg></app> <add type="unmarked" place="supralinear">for</add> lop-tongued wolves&#8212;</seg>
+<seg>not <del type="overstrike">for</del> reasoning men!</seg></l>
+
+<l><seg>And in its stead speed <orig reg="Industry's">In-</orig></seg><seg>dustry's <del type="overstrike">fair</del> campaigns!</seg></l>
+<l><seg>With thy undaunted armies,</seg><seg>Engineering!</seg></l>
+<l><seg>T<app><rdg varSeq="1"><del type="overwrite"><gap reason="deletion, illegible"/></del></rdg><rdg varSeq="2"><add type="overwrite" place="over">h</add></rdg></app>y <app><rdg varSeq="1"><del type="overstrike">banners</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">pennants</add></rdg></app>, Labor, loosen'd</seg>
+<seg>to the breeze!</seg></l>
+<l>Thy <del type="overstrike"><add type="insertion" place="supralinear">joyous</add></del> bugles <app><rdg varSeq="1"><del type="overstrike">blaring</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">sounding</add></rdg></app> <add type="insertion" place="supralinear">joyous,</add> <app><rdg varSeq="1"><del type="overstrike">high</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">loud</add></rdg></app> &#38; clear.</l>
+
+<note type="authorial" place="interlinear">#</note>
+<add type="unmarked" place="interlinear"><space dim="vertical" extent="1 line"/></add>
+
+<l>Away with old romance!</l>
+<l><seg>Away with <add type="insertion" place="supralinear">novels,</add> plots, <del type="overstrike"><add type="insertion" place="supralinear">intrigues,</add></del> &#38; plays of</seg><seg>foreign courts!</seg></l>
+<l><seg>Away with <del type="overstrike">tepid</del> love-verses,</seg>
+<seg>sugared in rhyme<app><rdg varSeq="1"><del type="overstrike">,</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">&#8212;</add></rdg></app>the</seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">amours</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear"><del type="overstrike">morbid</del> intrigues</add></rdg></app> of lords &#38; ladies,</seg></l>
+<l><seg>Fitted for only banquets of the night,</seg><seg>where dancers to soft music</seg><seg>slide,</seg></l>
+
+
+<pb corresp="loc.00382.025" id="leaf19r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">17</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">18</add></rdg></app>
+</note>
+
+<l><seg>The unhealthy pleasures, <orig reg="extravagant">extrava-</orig></seg><seg>gant dissipations of the few,</seg></l>
+<l><seg>With perfumes, heat &#38; wine,</seg><seg>beneath the dazzling chandeliers.</seg></l>
+
+<note type="authorial" place="infralinear">#</note>
+<add type="unmarked" place="infralinear"><space dim="vertical" extent="1 line"/></add>
+
+</lg2>
+<lg2 type="section"><head type="main-authorial">
+<app><rdg varSeq="1"><del type="overstrike">6</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="inline">8</add></del></rdg>
+<rdg varSeq="3"><add type="unmarked" place="inline">9</add></rdg></app>
+</head>
+
+<l>To you, ye reverent, sane Sisters,</l>
+<l><seg>To this resplendent day&#8212;the</seg><seg>present scene,</seg></l>
+<l><seg>These eyes and ears that like</seg><seg>some broad parterre bloom</seg><seg>up around, before me,</seg></l>
+<l><seg>I raise a voice for far <orig reg="superber">su-</orig></seg><seg>perber themes for poets</seg><seg>and for Art,</seg></l>
+<l>To exult the present &#38; the real,</l>
+<l><seg>To teach <del type="overstrike">a</del> <app><rdg varSeq="1"><del type="overstrike">each,</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">the common</add></rdg></app> man the glory</seg>
+<seg>of daily <app><rdg varSeq="1"><del type="overstrike">life</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">walk</add></rdg></app> &#38; trade,</seg></l>
+<l><seg>To sing <add type="insertion" place="supralinear">in songs,</add> how exercise &#38; chemical</seg><seg>life are never to be baffled,</seg></l>
+<l><seg>Boldly to thee America, to-day! &#38;</seg><seg>thee Immortal Muse!</seg></l>
+
+<pb corresp="loc.00382.026" id="leaf20r" type="recto"/>
+<note type="authorial" place="margintop" rend="right">
+<app><rdg varSeq="1"><del type="overstrike">10</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="inline">19</add></rdg></app>
+</note>
+
+<delSpan type="hashmark" to="d6"/>
+<l><seg>I raise <app><rdg varSeq="1"><del type="overstrike">the</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">a</add></rdg></app> voice for <app><rdg varSeq="1"><del type="overstrike">greater</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">a</add></del></rdg><rdg varSeq="3"><add type="unmarked" place="supralinear">far</add></rdg></app></seg>
+<seg><del type="overstrike">Art,</del> superber themes for</seg><seg>poets, <add type="unmarked" place="inline">and for art,</add></seg></l>
+
+<l><add type="insertion" place="supralinear">To <app><rdg varSeq="1"><del type="overstrike"><gap reason="deletion, illegible"/></del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">exult</add></rdg></app> <del type="overstrike">Modern</del> <add type="insertion" place="supralinear">the present</add> and <add type="insertion" place="supralinear">the</add> <del type="overstrike">close &#38;</del> real,</add></l>
+<l><seg>To sing <add type="insertion" place="supralinear">in songs</add> how exercise &#38; chemical</seg><seg>life are never to be baffled</seg></l>
+<l><seg>Boldly to thee America! and thee</seg><seg>immortal Muse!</seg></l>
+<anchor id="d6"/>
+<note type="authorial" place="interlinear">con here</note>
+<l><seg>To practical <app><rdg varSeq="1"><del type="overstrike">Labor&#8212;</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">manual work&#8212;</add></rdg></app>to plough,</seg>
+<seg>to hoe, to dig,</seg></l>
+<l><seg>To plant &#38; tend the tree, the berry, vegetables,</seg><seg>flowers.</seg></l>
+
+<addSpan type="pasteon" place="over" to="a18"/>
+<l><seg>For every man to see to it that he <add type="insertion" place="supralinear">really</add> do</seg><seg>something&#8212;for every woman too&#8212;</seg></l>
+<l><seg>To use the hammer and the</seg><seg>saw, rip or cross-cut,</seg></l>
+<l><seg>To have a turn for carpentering,</seg><seg>plastering, painting,</seg></l>
+<l>To work <del type="overstrike">at his work</del> as <app><rdg varSeq="1"><del type="overstrike">carpenter,</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">mason,</add></del></rdg><rdg varSeq="3"><add type="unmarked" place="inline">tailor,</add></rdg></app> <add type="unmarked" place="infralinear">printer, weaver</add></l>
+<l><seg>To invent <del type="overstrike">a little, something</del></seg>
+<seg>a little, something ingenious</seg></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">to</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">To</add></rdg></app> aid <del type="overstrike">in the</del> <app><rdg varSeq="1"><del type="overstrike">washing, cooking</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">housekeeping,</add></del></rdg></app></seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">Even</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">The</add></del></rdg></app> <add type="unmarked" place="supralinear">washing, cooking, cleaning</add></seg>
+<seg><add type="unmarked" place="interlinear">&#8212;and hold it no disgrace</add>
+<app><rdg varSeq="1"><del type="overstrike">to work at any of them</del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="supralinear"><del type="overstrike">even</del> to take a <add type="insertion" place="supralinear">hand</add> at them <del type="overstrike">themselves</del> <add type="insertion" place="supralinear">themselves</add></add></rdg></app>,</seg></l>
+<anchor id="a18"/>
+
+<pb corresp="loc.00382.027" id="leaf21r" type="recto"/>
+<addSpan type="pasteon" place="over" to="a19"/>
+<note type="authorial" place="margintop">20</note>
+<del type="overstrike"><l>These, these</l></del>
+<l><seg><app><rdg varSeq="1"><del type="overstrike"><add type="insertion" place="marginleft">I say</add></del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">I say I</add></rdg></app> bring thee Muse, <add type="insertion" place="supralinear">to-day &#38; here</add>&#8212;<app><rdg varSeq="1"><del type="overstrike">and <gap reason="deletion, illegible"/></del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">for themes,</add></rdg></app></seg><seg><del type="overstrike">America,</del></seg></l>
+
+<l><seg>These <add type="insertion" place="supralinear">trades &#38;</add> duties close to all&#8212;the old</seg><seg>old <add type="insertion" place="supralinear">general</add> burdens, joys,</seg></l>
+
+<l><seg>Toil, toil, &#38; sweat, endless,</seg><seg>without cessation,</seg></l>
+<milestone unit="glued"/>
+<l><seg>The family, <add type="insertion" place="supralinear">parentage, childhood,</add> husband &#38; wife,</seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">children</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="inline">parents&#38;children,</add></del></rdg></app></seg></l>
+
+<l><seg>The <app><rdg varSeq="1"><del type="overstrike">family</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">house</add></rdg></app> comforts the house</seg>
+<seg>itself and all its belongings,</seg></l>
+<l><seg>Food and <del type="overstrike">all</del> its preservations&#8212;</seg><seg>chemistry applied to it;</seg></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">All that makes, and only mak</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">Whatever helps, nay forms</add></rdg></app></seg>
+<seg>That <del type="overstrike">pride &#38; flower &#38;</del></seg>
+<seg><del type="overstrike">pride and</del> tuft and</seg><seg>universe, a strong, complete,</seg><seg>sweet blooded Man <del type="overstrike">or</del></seg>
+<seg><del type="overstrike">woman,</del></seg></l>
+<add type="unmarked" place="infralinear">
+<l><seg><app><rdg varSeq="1"><del type="overwrite"><gap reason="deletion, illegible"/></del></rdg><rdg varSeq="2"><add type="overwrite" place="over">&#182;</add></rdg></app> And <app><rdg varSeq="1"><del type="overstrike">all that, and</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">shaping</add></rdg></app> his</seg><seg>life, his soul</seg></l>
+</add>
+<anchor id="a19"/>
+
+<pb corresp="loc.00382.028" id="leaf22r" type="recto"/>
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">11&#274;</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">21</add></rdg></app>
+</note>
+
+<l><seg>With <app><rdg varSeq="1"><del type="overstrike">all its</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">latest</add></rdg></app> <app><rdg varSeq="1"><del type="overstrike">manifold</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear"><gap reason="illegible"/></add></rdg></app> <app><rdg varSeq="1"><del type="overstrike">farms,</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">machinery,</add></del></rdg>
+<rdg varSeq="3"><del type="overstrike"><add type="insertion" place="supralinear">works</add></del></rdg>
+<rdg varSeq="4"><add type="unmarked" place="supralinear">works</add></rdg></app></seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">trades, <del type="overstrike"><add type="insertion" place="supralinear">and</add></del> occupations,</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">materials,</add></rdg></app> machinery,</seg></l>
+
+<del type="overstrike"><l><seg>Science to-day and here in grandeur</seg><seg>and reality,</seg></l></del>
+
+<l><seg>Steam power, the <app><rdg varSeq="1"><del type="overstrike">printing press</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">great Express lines</add></rdg></app>,</seg>
+<seg>coal, iron, gas, petroleum,</seg></l>
+
+<l><seg><app><rdg varSeq="1"><del type="overstrike">The</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">These</add></rdg></app> victories <app><rdg varSeq="1"><del type="overstrike">great,</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">of <del type="overstrike">the</del><add type="unmarked" place="supralinear">our</add> time,</add></rdg></app> the Atlantic's</seg>
+<seg>delicate cable,</seg></l>
+
+<l><seg>The Pacific Railroad, the Suez</seg><seg>canal, the Mont Cenis</seg><seg>tunnel;</seg></l>
+
+<l><seg>Science, <app><rdg varSeq="1"><del type="overstrike">to-day</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">advanced</add></rdg></app>, in grandeur</seg><seg>and reality, analysing<del type="overstrike">,</del> <add type="unmarked" place="supralinear">all,</add> <del type="overstrike">r<gap reason="illegible"/>ing</del> <del type="overstrike"><add type="insertion" place="marginright">all</add></del></seg></l>
+
+<l><seg><app><rdg varSeq="1"><del type="overstrike">The</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="insertion" place="supralinear">Our</add></del></rdg><rdg varSeq="3"><add type="unmarked" place="supralinear">The</add></rdg></app> world <app><rdg varSeq="1"><del type="overstrike">of to-day,</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">of</add></del></rdg><rdg varSeq="3"><add type="unmarked" place="supralinear">around us,</add></rdg></app> spanned</seg>
+<seg>by its <app><rdg varSeq="1"><del type="overstrike">railroads</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">iron rails</add></rdg></app>, with</seg>
+<addSpan type="pasteon" place="over" to="a20"/>
+<seg><app><rdg varSeq="1"><del type="overstrike">many a</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">lines of</add></rdg></app> steamships <add type="unmarked" place="supralinear">threading every sea</add></seg>
+<seg><del type="overstrike">threading its broad seas,</del></seg></l>
+
+<l><seg><app><rdg varSeq="1"><del type="overstrike">The</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="insertion" place="supralinear">This</add></del></rdg><rdg varSeq="3"><add type="unmarked" place="supralinear">Our own</add></rdg></app> vast Rondure&#8212;the</seg><seg>modern Globe I bring.</seg></l>
+<anchor id="a20"/>
+
+<pb corresp="loc.00382.029" id="leaf23r" type="recto"/>
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">11&#189;</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">22</add></rdg></app>
+</note>
+
+<l><seg>And thou, high-towering One&#8212;</seg><seg>America!</seg></l>
+<l><seg>Thy swarm of offspring</seg><seg>towering high&#8212;yet higher</seg><seg>thee above all towering,</seg></l>
+<l><seg>With Freedom on thy left, and</seg><seg>at thy right hand, Law,</seg></l>
+<l><seg>Thou Union, holding all&#8212;fusing,</seg><seg>absorbing <add type="insertion" place="supralinear">tolerating</add> all!</seg></l>
+<l>Thou, ever thee, I bring.</l>
+<l>Thou&#8212;also thou, a world!</l>
+<l><seg>With all thy wide geographies,</seg><seg>manifold, different, distant,</seg></l>
+<l><seg>Rounded by thee in One, in</seg><seg>common liberties and laws,</seg></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">One</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">&#8212;one common <add type="insertion" place="supralinear">orbic</add></add></rdg></app> language, <del type="overstrike">orbic common</del></seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">one and m</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">common destiny</add></del></rdg></app></seg></l>
+<l>One indivisible destiny &#38; Union!</l>
+
+<pb corresp="loc.00382.030" id="leaf24r" type="recto"/>
+
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">12</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">23</add></rdg></app>
+</note>
+
+<milestone unit="empty" rend="horbar-short-center"/>
+
+<l><seg>And by the spells which ye</seg><seg>vouchsafe,</seg></l>
+<l><seg>To those your ministers in</seg><seg>earnest,</seg></l>
+<l><seg>I <app><rdg varSeq="1"><del type="overstrike">would</del></rdg>
+<rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">now</add></del></rdg>
+<rdg varSeq="3"><add type="insertion" place="supralinear">here</add></rdg></app>
+personify &#38; call</seg><seg>these themes, <app><rdg varSeq="1"><del type="overstrike"><unclear reason="deletion, illegible" cert="60%" resp="fbl">here before</unclear></del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="inline">before</add></del></rdg></app></seg>
+<seg><del type="overstrike">you <gap reason="deletion, illegible"/></del></seg></l>
+<l>Making them <app><rdg varSeq="1"><del type="overstrike">move &#38;</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">vital</add></rdg></app>.</l>
+
+<milestone unit="empty" rend="horbar-short-center"/>
+
+<l><seg>Behold, America! (and thou,</seg><seg>immortal Guest and sister!)</seg></l>
+<l><seg>For thee <del type="overstrike">and here</del> come trooping</seg><seg>up thy waters &#38; thy lands;</seg></l>
+<l><seg><add type="insertion" place="marginleft">Behold!</add> Thy fields and farms &#38; far-off</seg><seg>woods &#38; mountains,</seg></l>
+<l><seg>As in procession<app><rdg varSeq="1"><del type="overstrike">, pass before</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">moving,</add></del></rdg><rdg varSeq="3"><add type="insertion" place="supralinear">coming</add></rdg></app></seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">thee</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="inline">here</add></del></rdg><rdg varSeq="3"><del type="overstrike"><add type="unmarked" place="inline">pass before thee.</add></del></rdg></app></seg></l>
+
+<milestone unit="empty" rend="horbar-short-center"/>
+
+<l>Behold! The sea itself!</l>
+
+<pb corresp="loc.00382.031" id="leaf25r" type="recto"/>
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">13</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">24</add></rdg></app>
+</note>
+
+<addSpan type="pasteon" place="over" to="a21"/>
+<l><seg>And on its limitless, <add type="insertion" place="supralinear">myriad&#8209;</add>heaving</seg><seg>breast, the <del type="overstrike"><add type="insertion" place="supralinear">myriad</add></del> ships;</seg></l>
+<l><seg>See! where their white sails,</seg><seg>bellying in the wind, fleck</seg><seg><app><rdg varSeq="1"><del type="overstrike">all</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">oer</add></rdg></app> the green &#38; blue!</seg></l>
+<l><seg>See! the <add type="insertion" place="supralinear">black</add> steamers, <add type="insertion" place="supralinear">coming &#38; going,</add> steaming in</seg><seg>and out of port!</seg></l>
+<l>See, 
+<app><rdg varSeq="1"><del type="overstrike">the long</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="unmarked" place="supralinear">following them,</add></del></rdg><rdg varSeq="3"><add type="insertion" place="supralinear">the long undulating</add></rdg></app> pennants of smoke!</l>
+<anchor id="a21"/>
+<milestone unit="empty" rend="horbar-short-center"/>
+<l><seg>Behold, on one side, in Oregon,</seg><seg>far in the north &#38; west,</seg></l>
+<l><seg>And on the other side, in</seg><seg>Maine, far in the north</seg><seg>&#38; east, thy cheerful</seg><seg>axemen,</seg></l>
+<l>Wielding their axes!</l>
+
+<pb corresp="loc.00382.032" id="leaf26r" type="recto"/>
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">14</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">25</add></rdg></app>
+</note>
+
+<add type="pasteon" place="over">
+<milestone unit="empty" rend="horbar-short-center"/>
+<l><seg>Behold! the pilots at their</seg><seg>wheels&#8212;the oarsmen;</seg></l>
+<l><seg>Behold the ash&#8212;how it writhes</seg><seg>under those muscular arms</seg></l>
+<milestone unit="empty" rend="horbar-short-center"/>
+<l><seg><del type="overstrike"><add type="unmarked" place="supralinear">And</add></del> There by the farm are, &#38; there by the </seg><seg> anvil,</seg></l>
+<l><seg>Behold thy sturdy blacksmiths swinging</seg><seg>their sledges;</seg></l>
+<del type="overstrike"><l>Mark&#8212;<app><rdg varSeq="1"><del type="overstrike">there is</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">what</add></rdg></app> a great heat <add type="insertion" place="supralinear">there is</add> in the fire <add type="insertion" place="supralinear">to-day</add></l></del>
+</add>
+
+<l><seg>Overhand so steady&#8212;overhand they turn</seg><seg>&#38;full, with joyous clank</seg></l>
+<milestone unit="empty" rend="horbar-short-center"/>
+<l>Like a tumult of laughter.</l>
+
+<pb corresp="loc.00382.033" id="leaf27r" type="recto"/>
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">15</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">26</add></rdg></app>
+</note>
+
+<milestone unit="empty" rend="horbar-short-center"/>
+<l><seg>Behold, O thrifty one, dilate</seg><seg>with pride, (for <app><rdg varSeq="1"><del type="overstrike">still</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">yet</add></rdg></app> the</seg><seg>long procession moves,)</seg></l>
+<l><seg>Behold thy numberless <app><rdg varSeq="1"><del type="overstrike">movers</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">boatmen</add></rdg></app>,</seg>
+<seg><app><rdg varSeq="1"><del type="overstrike">of thy mines!</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">coasters, sailors!</add></rdg></app></seg></l>
+<l><seg>The <app><rdg varSeq="1"><del type="overstrike">endless armies</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">ceasless regiments</add></rdg></app> of thy young</seg><seg>and old mechanics!</seg></l>
+
+<add type="pasteon" place="over">
+<l><seg>Mark the spirit of invention</seg><seg>everywhere&#8212;thy rapid patents!</seg></l>
+<l><seg>Thy continual workshops,</seg><seg>foundries, risen or rising!</seg></l>
+<l><seg>See! from their <del type="overstrike">tall</del>chimneys,</seg><seg>how <del type="overstrike">high</del> the <add type="insertion" place="supralinear">tall</add> flame-fires</seg><seg>stream!</seg></l>
+<milestone unit="empty" rend="horbar-short-center"/>
+</add>
+
+<l><seg>Mark thy interminable farms,</seg><seg>north &#38; south,</seg></l>
+<l><seg>Thy wealthy Daughter-States, <orig reg="Eastward">East-</orig></seg><seg>ward and Westward,</seg></l>
+<l><seg>The varied products of Ohio,</seg><seg>Texas, California and the rest.</seg></l>
+
+<pb corresp="loc.00382.034" id="leaf28r" type="recto"/>
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">15&#189;</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">27</add></rdg></app>
+</note>
+
+<l><seg><del type="overstrike"><add type="unmarked" place="supralinear">Mark! mark</add></del> Thy <add type="insertion"><app><rdg varSeq="1"><del type="overwrite">en</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">li</add></rdg></app>mitless</add> fields and crops
+<add type="insertion" place="supralinear">
+<note type="authorial" place="supralinear">&#182;</note>
+thy <del type="overstrike">cotton,</del></add>
+grass, wheat, <del type="overstrike"><add type="insertion" place="supralinear">cotton,</add></del></seg>
+<seg><add type="unmarked" place="supralinear">sugar,</add> corn, hemp, fruit,&#8212;<del type="overstrike">Thy lumber,</del></seg></l>
+<del type="overstrike"><l><seg>Thy lumber, beef, pork,&#8212;the metals in</seg><seg>thy many mines,</seg></l></del>
+<l><seg>Thy barns all filled, thy endless</seg><seg>freight <del type="overstrike">all</del> trains, thy <app><rdg varSeq="1"><del type="overstrike">countless</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">bulging</add></rdg></app></seg><seg>store-houses,</seg></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">Thy</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">The</add></rdg></app> grapes that ripen on</seg><seg><app><rdg varSeq="1"><del type="overstrike">thy</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">thy</add></rdg></app> vines&#8212;thy apples in</seg><seg>thy orchards.</seg></l>
+
+<l><seg>Thy <app><rdg varSeq="1"><del type="overstrike">inexhaustable</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">unmeasurable</add></rdg></app> lumber, beef, <add type="insertion" place="supralinear">potatoes,</add> pork&#8212;</seg>
+<seg><add type="insertion" place="supralinear">thy coal&#8212;thy gold and silver</add> &#8212;the inexhaustable <app><rdg varSeq="1"><del type="overstrike">metals</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">metals</add></rdg></app> in</seg>
+<seg>thy mines.</seg></l>
+
+<pb corresp="loc.00382.035" id="leaf29r" type="recto"/>
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">16</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">28</add></rdg></app>
+</note>
+
+<milestone unit="empty" rend="horbar-short-center"/>
+
+<l>All thine! <del type="overstrike"><add type="insertion" place="supralinear"><gap reason="deletion, illegible"/> here,</add></del> <del type="overstrike">the glory thine!</del></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">To thee, thou</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">O sacred</add></rdg></app> Union, <app><rdg varSeq="1"><del type="overstrike">all!&#8212;the</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">every</add></rdg></app></seg>
+<seg>farm<del type="overstrike">s</del>, shop<del type="overstrike">s</del>, boat<del type="overstrike">s!</del></seg></l>
+<add type="unmarked" place="interlinear"><l>Thy barns all filled, thy factories, gold &#38; silver mines,</l></add>
+<l><seg>City &#38; state&#8212;north, south,</seg><seg>item and aggregate<app><rdg varSeq="1"><del type="overstrike">!</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">,</add></rdg></app></seg></l>
+<l>We dedicate <app><rdg varSeq="1"><del type="overstrike">all</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">the whole</add></rdg></app> to thee!</l>
+
+<milestone unit="empty" rend="horbar-short-center"/>
+<l>Protectress <add type="insertion" place="supralinear">absolute</add> <app><rdg varSeq="1"><del type="overstrike">sole</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">thou</add></rdg></app>! Bulwark of all!</l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">Well</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">For well</add></rdg></app> <app><rdg varSeq="1"><del type="overstrike">I</del></rdg><rdg varSeq="2"><del type="overstrike"><add type="insertion" place="supralinear"><gap reason="deletion, illegible"/></add></del></rdg><rdg varSeq="3"><add type="unmarked" place="supralinear">we</add></rdg></app> know that while thou</seg>
+<seg>freely givest each &#38; all, <add type="unmarked" place="inline">(</add><orig reg="generous">gen-</orig></seg>
+<seg>erous as God,<add type="unmarked" place="inline">)</add></seg></l>
+<l><seg>Without thee neither all nor</seg><seg>each, nor land, home,</seg></l>
+<l><seg>Ship, <app><rdg varSeq="1"><del type="overstrike">nor wealth</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">nor mine</add></rdg></app>, nor large or</seg>
+<seg>small nor any here <add type="insertion" place="supralinear">this <del type="overstrike">to-</del>day</add> secure,</seg></l>
+<l>Nor <add type="insertion" place="supralinear">aught nor</add> <app><rdg varSeq="1"><del type="overstrike">nor anywhere</del></rdg><rdg varSeq="2"><add type="insertion" place="supralinear">any day, secure,</add></rdg></app></l>
+<milestone unit="empty" rend="horbar-short-center"/>
+<add type="pasteon" place="over">
+<l><seg>And thou, thy Emblem <add type="insertion" place="supralinear">waving</add> over all! <orig reg="delicate">del-</orig></seg>
+<seg>icate beauty! <add type="unmarked" place="inline">a word to thee!</add></seg></l>
+<l><seg>Not always hast thou been as here</seg><seg><app><rdg varSeq="1"><del type="overstrike"><gap reason="cut away"/></del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">comfortably</add></rdg></app> ensovreigned!</seg></l>
+</add>
+<l>go un<gap reason="illegible"/></l>
+
+<pb corresp="loc.00382.036" id="leaf30r" type="recto"/>
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">17</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">29</add></rdg></app>
+</note>
+
+<addSpan type="pasteon" place="over" to="a22"/>
+<l><seg>In other scenes than these have</seg>
+<seg><app><rdg varSeq="1"><del type="pasteover">
+<supplied reason="deletion, illegible" source="****"><!--The source needs to be filled in; the following text was supplied by Amanda Gailey.-->
+I watched thee <del type="overstrike"><gap reason="deletion, illegible"/></del>
+</supplied>
+</del></rdg>
+<addSpan type="pasteon" place="over" to="a23"/>
+<rdg varSeq="2">
+I <del type="overstrike">watched</del> <add type="unmarked" place="supralinear">observed</add> thee, flag!
+</rdg></app></seg></l>
+<anchor id="a22"/>
+<l><seg>Not always hast thou been, as</seg><seg>here, so trim &#38; whole, and</seg><seg>freshly blooming,in folds of</seg><seg>stainless silk;</seg></l>
+<l><seg>But I have seen thee, bunting,</seg><seg>to tatters torn, <del type="overstrike">sp</del> upon thy</seg>
+<seg><del type="overstrike">thy</del> splinter'd stuff,</seg></l>
+<anchor id="a23"/>
+
+<add type="pasteon" place="over">
+<l><seg>Or clutch'd to some young</seg><seg>color-bearer's breast, with</seg><seg>desperate <app><rdg varSeq="1"><del type="overstrike">clutch</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">hands</add></rdg></app>,</seg></l>
+</add>
+
+<addSpan type="pasteon" place="over" to="a24"/>
+<l><seg>Savagely struggled for, for life</seg><seg>or death&#8212;fought over long,</seg>
+<seg>in suffocating <app><rdg varSeq="1"><del type="overstrike">dusk,</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">dust,</add></rdg></app></seg></l>
+<l><seg><app><rdg varSeq="1"><del type="overstrike">With</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">'Mid</add></rdg></app> cannons thunder-crash</seg><seg>and many a curse &#38; yell</seg><seg>&#38; groan, and rifle-volleys</seg><seg>cracking sharp</seg></l>
+<add type="unmarked" place="interlinear">
+<l>And masses as black demons surging&#8212;and lives <add type="unmarked" place="infralinear">as nothing risked,</add></l>
+</add>
+<l><seg>For thy mere remnant, grimed</seg><seg>with smoke, &#38; sopped,</seg><seg>wringing wet in blood;</seg></l>
+<anchor id="a24"/>
+
+<addSpan type="pasteon" place="over" to="a25"/>
+<l><seg>For sake of thee, my beauty&#8212;and</seg><seg>that <app><rdg varSeq="1"><del type="overstrike">that</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">thou</add></rdg></app> mights't dally</seg>
+<seg><add type="insertion" place="supralinear"><app><rdg varSeq="1"><del type="overstrike">secure</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">secure</add></rdg></app> as now</add> at ease up there,</seg></l>
+<l><seg>Many <add type="insertion">a</add> good man have I seen</seg>
+<seg>go under</seg></l>
+<anchor id="a25"/>
+
+<pb corresp="loc.00382.037" id="leaf31r" type="recto"/>
+<note type="authorial" place="margintop">
+<app><rdg varSeq="1"><del type="overstrike">18</del></rdg><rdg varSeq="2"><add type="unmarked" place="inline">30</add></rdg></app>
+</note>
+
+<milestone unit="empty" rend="horbar-short-center"/>
+
+<l><seg>Now here and these, &#38; hence, <add type="insertion" place="supralinear">in peace,</add> all thine!</seg><seg>O flag!</seg></l>
+<l><seg>And here &#38; hence for thee, O Muse,</seg><seg>&#38; thou for them<del type="overstrike">!</del></seg></l>
+<l><seg>And here &#38; hence <add type="insertion" place="supralinear">in peace</add> O Union, all the</seg>
+<seg>work &#38; workmen thine!</seg></l>
+<!--The upper right corner of the page is actually cut away, such that the page numbers and some of the text of the above linegroup is written on a pasted-on base sheet. Because of the diagonal cut, a <milestone> or <add> doesn't seem to work here.-->
+
+<milestone unit="glued"/>
+
+<l><seg>The poets, women, <add type="insertion" place="supralinear">sailors,</add> soldiers,</seg><seg>farmers, <add type="insertion" place="supralinear">miners,</add> students thine!</seg></l>
+<l><seg>None separate from thee&#8212;<orig reg="henceforth">hence-</orig></seg><seg>forth compact, <app><rdg varSeq="1"><del type="overwrite">o</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">O</add></rdg></app>ne only,</seg><seg>we and thou!</seg></l>
+
+<l><seg>(For the blood of the children</seg>
+<milestone unit="glued"/>
+<seg>&#8212;what is it anyhow, but strictly</seg><seg>the blood maternal?</seg></l>
+<l><seg>And what <add type="insertion" place="supralinear">are all</add> <del type="overstrike">our</del> works but <app><rdg varSeq="1"><del type="overstrike">the</del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">the <del type="overstrike">r</del></add></rdg></app></seg>
+<seg>road to faith and death?)</seg></l>
+
+<l><seg>While we rehearse to-day our <orig reg="measureless">mea-</orig></seg><seg>sureless products, weath,</seg><seg>it is for thee, dear Mother!</seg></l>
+<l><seg>We own it all &#38; several to-day</seg><seg>indissoluble in the<app><rdg varSeq="1"><del type="overwrite">se</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">e</add></rdg></app>;</seg></l>
+<l><seg>Thank not our voice, our chant,</seg><seg>merely for products gross,</seg><seg>or lucre&#8212;it is for thee,</seg><seg>the Soul, electric, spiritual!</seg></l>
+<l><seg>Our farms, inventions, crops, we own in</seg><seg>thee! cities &#38; states in thee!</seg></l>
+<l>Our freedom all in thee! our very lives in thee!</l>
+
+</lg2>
+</lg1>
+</div1>
+</body>
+</text>
+</TEI.2>

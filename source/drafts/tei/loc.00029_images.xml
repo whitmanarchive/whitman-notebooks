@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI><teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="m" type="main">Physique</title>
+				<title level="m" type="sub">a machine readable transcription</title>
+				<author>Walt Whitman</author>
+				<editor>Kenneth M. Price</editor>
+				<editor>Ed Folsom</editor>
+				<respStmt>
+					<resp>Transcription and encoding</resp>
+					<persName xml:id="jm">Joshua Matthews</persName>
+					<persName xml:id="kc">Kirsten Clawson</persName>
+					<persName xml:id="ah">Amy Hezel</persName>
+				</respStmt>
+				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+				<sponsor>University of Iowa</sponsor>
+				<funder>The National Endowment for the Humanities</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2014</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<idno>loc.00029</idno>
+				<distributor>The Walt Whitman Archive</distributor>
+				<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+				<availability>
+					<p>Copyright © 2012 by Ed Folsom and Kenneth M. Price, all rights
+						reserved. Items in the Archive may be shared in accordance with the Fair Use
+						provisions of U.S. copyright law. Redistribution or republication on other
+						terms, in any medium, requires express written consent from the editors and
+						advance notification of the publisher, Center for Digital Research in the
+						Humanities. Permission to reproduce the graphic images in this archive has
+						been granted by the owners of the originals for this publication only.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<note type="project" target="#dat1">A number of surfaces within this notebook have dated the manuscript between the years 1860 and 1861</note>
+			</notesStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Walt Whitman</author>
+					<title>"Notebook, 1860-1861"</title>  
+					<date cert="high" notBefore="1860" notAfter="1861" xml:id="dat1">Between 1860 and 1861</date>
+					<idno type="callno"/>
+					<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842–1937, Library of Congress, Washington, D.C.</orgName>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2014-05-04" who="#kc">added work ID, date information, etc.</change>
+			<change when="2015-02-23" who="#kc">converted from P4 to P5, checked</change>
+			<change when="2005-10-31" who="#jm">transcribed and encoded</change>
+			<change when="2004-09-08" who="#jm">transcribed and encoded</change>
+		</revisionDesc>
+	</teiHeader><pb xml:id="leaf001r" facs="loc.00029.001.jpg" type="recto"/><pb xml:id="leaf001v" facs="loc.00029.002.jpg" type="verso"/><pb xml:id="leaf002r" facs="loc.00029.003.jpg" type="recto"/><pb xml:id="leaf002v" facs="loc.00029.004.jpg" type="verso"/><pb xml:id="leaf003r" facs="loc.00029.005.jpg" type="recto"/><pb xml:id="leaf003v" facs="loc.00029.006.jpg" type="verso"/><pb xml:id="leaf004r" facs="loc.00029.007.jpg" type="recto"/><pb xml:id="leaf004v" facs="loc.00029.008.jpg" type="verso"/><pb xml:id="leaf005r" facs="loc.00029.009.jpg" type="recto"/><pb xml:id="leaf005v" facs="loc.00029.010.jpg" type="verso"/><pb xml:id="leaf006r" facs="loc.00029.011.jpg" type="recto"/><pb xml:id="leaf006v" facs="loc.00029.012.jpg" type="verso"/><pb xml:id="leaf007r" facs="loc.00029.013.jpg" type="recto"/><pb xml:id="leaf007v" facs="loc.00029.014.jpg" type="verso"/><pb xml:id="leaf008r" facs="loc.00029.015.jpg" type="recto"/><pb xml:id="leaf008v" facs="loc.00029.016.jpg" type="verso"/><pb xml:id="leaf009r" facs="loc.00029.017.jpg" type="recto"/><pb xml:id="leaf009v" facs="loc.00029.018.jpg" type="verso"/><pb xml:id="leaf010r" facs="loc.00029.019.jpg" type="recto"/><pb xml:id="leaf010v" facs="loc.00029.020.jpg" type="verso"/><pb xml:id="leaf011r" facs="loc.00029.021.jpg" type="recto"/><pb xml:id="leaf011v" facs="loc.00029.022.jpg" type="verso"/><pb xml:id="leaf012r" facs="loc.00029.023.jpg" type="recto"/><pb xml:id="leaf012v" facs="loc.00029.024.jpg" type="verso"/><pb xml:id="leaf013r" facs="loc.00029.025.jpg" type="recto"/><pb xml:id="leaf013v" facs="loc.00029.026.jpg" type="verso"/><pb xml:id="leaf014r" facs="loc.00029.027.jpg" type="recto"/><pb xml:id="leaf014v" facs="loc.00029.028.jpg" type="verso"/><pb xml:id="leaf015r" facs="loc.00029.029.jpg" type="recto"/><pb xml:id="leaf015v" facs="loc.00029.030.jpg" type="verso"/><pb xml:id="leaf016r" facs="loc.00029.031.jpg" type="recto"/><pb xml:id="leaf016v" facs="loc.00029.032.jpg" type="verso"/><pb xml:id="leaf017r" facs="loc.00029.033.jpg" type="recto"/><pb xml:id="leaf017v" facs="loc.00029.034.jpg" type="verso"/><pb xml:id="leaf018r" facs="loc.00029.035.jpg" type="recto"/><pb xml:id="leaf018v" facs="loc.00029.036.jpg" type="verso"/><pb xml:id="leaf019r" facs="loc.00029.037.jpg" type="recto"/><pb xml:id="leaf019v" facs="loc.00029.038.jpg" type="verso"/><pb xml:id="leaf020r" facs="loc.00029.039.jpg" type="recto"/><pb xml:id="leaf020v" facs="loc.00029.040.jpg" type="verso"/><pb xml:id="leaf021r" facs="loc.00029.041.jpg" type="recto"/><pb xml:id="leaf021v" facs="loc.00029.042.jpg" type="verso"/><pb xml:id="leaf022r" facs="loc.00029.043.jpg" type="recto"/><pb xml:id="leaf022v" facs="loc.00029.044.jpg" type="verso"/><pb xml:id="leaf023r" facs="loc.00029.045.jpg" type="recto"/><pb xml:id="leaf023v" facs="loc.00029.046.jpg" type="verso"/><pb xml:id="leaf024r" facs="loc.00029.047.jpg" type="recto"/><pb xml:id="leaf024v" facs="loc.00029.048.jpg" type="verso"/><pb xml:id="leaf025r" facs="loc.00029.049.jpg" type="recto"/><pb xml:id="leaf025v" facs="loc.00029.050.jpg" type="verso"/><pb xml:id="leaf026r" facs="loc.00029.051.jpg" type="recto"/><pb xml:id="leaf026v" facs="loc.00029.052.jpg" type="verso"/><pb xml:id="leaf027r" facs="loc.00029.053.jpg" type="recto"/><pb xml:id="leaf027v" facs="loc.00029.054.jpg" type="verso"/><pb xml:id="leaf028r" facs="loc.00029.055.jpg" type="recto"/><pb xml:id="leaf028v" facs="loc.00029.056.jpg" type="recto"/><pb xml:id="leaf029r" facs="loc.00029.057.jpg" type="recto"/><pb xml:id="leaf029v" facs="loc.00029.058.jpg" type="verso"/><pb xml:id="leaf030r" facs="loc.00029.059.jpg" type="recto"/><pb xml:id="leaf030v" facs="loc.00029.060.jpg" type="verso"/><pb xml:id="leaf031r" facs="loc.00029.061.jpg" type="recto"/><pb xml:id="leaf031v" facs="loc.00029.062.jpg" type="verso"/><pb xml:id="leaf032r" facs="loc.00029.063.jpg" type="recto"/><pb xml:id="leaf032v" facs="loc.00029.064.jpg" type="verso"/><pb xml:id="leaf033r" facs="loc.00029.065.jpg" type="recto"/><pb xml:id="leaf033v" facs="loc.00029.066.jpg" type="verso"/><pb xml:id="leaf034r" facs="loc.00029.067.jpg" type="recto"/><pb xml:id="leaf034v" facs="loc.00029.068.jpg" type="verso"/><pb xml:id="leaf035r" facs="loc.00029.069.jpg" type="recto"/><pb xml:id="leaf035v" facs="loc.00029.070.jpg" type="verso"/><pb xml:id="leaf036r" type="recto"/><pb xml:id="leaf036v" facs="loc.00029.071.jpg" type="verso"/><pb xml:id="leaf037r" facs="loc.00029.072.jpg" type="recto"/><pb xml:id="leaf037v" facs="loc.00029.073.jpg" type="verso"/><pb xml:id="leaf038r" facs="loc.00029.074.jpg" type="recto"/><pb xml:id="leaf038v" facs="loc.00029.075.jpg" type="verso"/><pb xml:id="leaf039r" facs="loc.00029.076.jpg" type="recto"/><pb xml:id="leaf039v" facs="loc.00029.077.jpg" type="verso"/><pb xml:id="leaf040r" facs="loc.00029.078.jpg" type="recto"/><pb xml:id="leaf040v" facs="loc.00029.079.jpg" type="verso"/><pb xml:id="leaf041r" facs="loc.00029.080.jpg" type="recto"/><pb xml:id="leaf041v" facs="loc.00029.082.jpg" type="verso"/><pb xml:id="leaf042r" facs="loc.00029.083.jpg" type="recto"/><pb xml:id="leaf042v" facs="loc.00029.084.jpg" type="verso"/><pb xml:id="leaf043r" facs="loc.00029.085.jpg" type="recto"/><pb xml:id="leaf043v" facs="loc.00029.086.jpg" type="verso"/><pb xml:id="leaf044r" facs="loc.00029.087.jpg" type="recto"/><pb xml:id="leaf044v" facs="loc.00029.088.jpg" type="verso"/><pb xml:id="leaf045r" facs="loc.00029.089.jpg" type="recto"/><pb xml:id="leaf045v" facs="loc.00029.090.jpg" type="verso"/><pb xml:id="leaf046r" facs="loc.00029.091.jpg" type="recto"/><pb xml:id="leaf046v" facs="loc.00029.092.jpg" type="verso"/><pb xml:id="leaf047r" facs="loc.00029.093.jpg" type="recto"/><pb xml:id="leaf047v" facs="leaf.00029.094.jpg" type="verso"/><pb xml:id="leaf048r" facs="loc.00029.095.jpg" type="recto"/><pb xml:id="leaf048v" facs="loc.00029.096.jpg" type="verso"/><pb xml:id="leaf049r" facs="loc.00029.097.jpg" type="recto"/><pb xml:id="leaf049v" facs="loc.00029.098.jpg" type="verso"/><pb xml:id="leaf050r" facs="loc.00029.099.jpg" type="recto"/><pb xml:id="leaf050v" facs="loc.00029.100.jpg" type="verso"/><pb xml:id="leaf051r" facs="loc.00029.101.jpg" type="recto"/><pb xml:id="leaf051v" facs="loc.00029.102.jpg" type="verso"/><pb xml:id="leaf052r" facs="loc.00029.103.jpg" type="recto"/><pb xml:id="leaf052v" facs="loc.00029.104.jpg" type="verso"/><pb xml:id="leaf053r" facs="loc.00029.105.jpg" type="recto"/><pb xml:id="leaf053v" facs="loc.00029.106.jpg" type="verso"/><pb xml:id="leaf054r" facs="loc.00029.107.jpg" type="recto"/><pb xml:id="leaf054v" facs="loc.00029.108.jpg" type="verso"/><pb xml:id="leaf055r" facs="loc.00029.109.jpg" type="recto"/><pb xml:id="leaf055v" facs="loc.00029.110.jpg" type="verso"/><pb xml:id="leaf056r" facs="loc.00029.111.jpg" type="recto"/><pb xml:id="leaf056v" facs="loc.00029.112.jpg" type="verso"/><pb xml:id="leaf057r" facs="loc.00029.113.jpg" type="recto"/><pb xml:id="leaf057v" facs="loc.00029.114.jpg" type="verso"/><pb xml:id="leaf058r" facs="loc.00029.115.jpg" type="recto"/><pb xml:id="leaf058v" facs="loc.00029.116.jpg" type="verso"/><pb xml:id="leaf059r" facs="loc.00029.117.jpg" type="recto"/><pb xml:id="leaf059v" facs="loc.00029.118.jpg" type="verso"/></TEI>

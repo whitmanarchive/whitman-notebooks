@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.00346">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00346">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -12,8 +12,6 @@
 <persName xml:id="nhg">Nicole Gray</persName>
 <persName xml:id="no">Natalie O'Neal</persName>
 <persName xml:id="kmp">Kenneth M. Price</persName>
-<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
-    <persName xml:id="km">Kevin McMullen</persName>
 </respStmt>
 <sponsor>Center for Digital Research in the Humanities</sponsor>
 <sponsor>University of Iowa</sponsor>
@@ -26,7 +24,7 @@
 </edition>
 </editionStmt>
 <publicationStmt>
-
+<idno>loc.00346</idno>
 <distributor>The Walt Whitman Archive</distributor>
 <address>
 <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -43,7 +41,7 @@
     <p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
     <p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p> 
 </availability>
-<idno>loc.00346</idno></publicationStmt>
+</publicationStmt>
 <notesStmt>
     <note type="project" target="#dat1">Edward Grier dates this notebook before 1855, based on the pronoun revisions from third person to first person and the notebook's similarity to Whitman's early "<ref target="http://www.whitmanarchive.org/manuscripts/notebooks/transcriptions/loc.00141.html">Talbot Wilson</ref>" notebook (<hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> [New York: New York University Press, 1984], 1:102). Grier notes that a portion of this notebook (beginning "How spied the captain and sailors") describes the wreck of the ship <hi rend="italic">San Francisco</hi> in January 1854 (1:108 n33). A note on one of the last pages of the notebook matches the plot of the first of four tales Whitman published as "Some Fact-Romances" in <hi rend="italic">The Aristidean</hi> in 1845, so segments of the notebook may have been written as early as the 1840s. Lines from the notebook were used in "Song of Myself," a version of which was published in the 1855 <hi rend="italic">Leaves of Grass</hi>, and "A Song of the Rolling Earth," which appeared in the 1856 <hi rend="italic">Leaves of Grass</hi>. Language and ideas from the notebook also appear to have contributed to other poems and prose, including "Miracles;" the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>; "The Sleepers," which first appeared as the fourth poem in the 1855 <hi rend="italic">Leaves</hi>; and "A Song of Joys," which appeared as "Poem of Joys" in the 1860 edition. On the cover of the notebook is a note in an unknown hand that reads: "Note Book Walt Whitman E85."<!--Is this Holloway's hand?--><lb/><lb/> The notebook has been disassembled. Our transcription is based on the numbering that appears at the bottom of each leaf.  Whitman made a series of marks linking continuous text on separate pages, however, and our text does not attempt to follow his order of inscription. For a reading version of the notebook that rearranges the ordering in an attempt to capture Whitman's intended textual flow, see Grier, 1:102–112.
     </note> 
@@ -63,9 +61,7 @@
 <handNote xml:id="h1" scribeRef="#unk"><persName xml:id="unk">Unknown</persName></handNote>
 </handNotes>
 </profileDesc>
-
-<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
-    <change when="2022-04-14" who="#km">updated relations encoding</change>
+<revisionDesc>
     <change when="2017-11-15" who="#nhg">added inline relations information</change>
     <change when="2017-04-11" who="#nhg">edited source information</change>
     <change when="2016-12-13" who="#nhg">corrected</change>
@@ -86,11 +82,12 @@
     <pb xml:id="leaf001v" facs="loc_jc.01656.jpg" type="verso"/>
 <div1 type="section">
     <div2>
-            <note type="work_relations" target="xxx.00115" cert="low">
+        <relations>
+            <work ref="xxx.00115" cert="low">
                 <p><ref type="text" xml:id="r01" target="#q01">These notes</ref> relate loosely to
                     ideas expressed in the poem "A Song of Joys," first published as "Poem of Joys" in the 1860 edition of <hi rend="italic">Leaves of Grass</hi>.  See particularly the following lines (from the 1891–2 edition): "O the old manhood of me, my noblest joy of all! / My children and grand-children, my white hair and beard, / My largeness, calmness, majesty, out of the long stretch of my life" (145).</p>
-            </note>
-        
+            </work>
+        </relations>
         <pb xml:id="leaf002r" facs="loc_jc.01657.jpg" type="recto"/>
 <ab xml:id="q01">Poem incarnating the mind of an old man, whose life has been magnificently developed—the wildest and most exuberant joy—the utterance of hope and floods of 
     anticipation—faith in whatever happens—but all enfolded in Joy Joy Joy, which underlies and overtops the whole effusion</ab>
@@ -105,74 +102,67 @@ incarnate to me the</ab>
     the legislature, and lobbied for it;—he helped men who were office seeking; he put <metamark function="transpose" xml:id="tr01">*</metamark> </ab>
     
         <pb xml:id="leaf003r" facs="loc_jc.01659.jpg" type="recto"/>
-    <ab xml:id="tr11">with merchants <subst><del rend="overstrike" seq="1">and tradesmen</del> <add rend="unmarked" place="supralinear" seq="2">and factors</add></subst> the point of honor is to 
+    <ab>with merchants <subst><del rend="overstrike" seq="1">and tradesmen</del> <add rend="unmarked" place="supralinear" seq="2">and factors</add></subst> the point of honor is to 
         pay notes punctually,—to pay off the men every Saturday night,—to <subst><del rend="overstrike" seq="1">have</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">receive</add></del> <add rend="unmarked" place="supralinear" seq="4">permit</add></subst> 
         no demands which they cannot satisfy at an appointed day.—</ab>
     <milestone unit="undeclared" rend="horbar-full"/>
-        <ab xml:id="tr12"><add rend="unmarked" place="supralinear"><del rend="overstrike">We are</del> Concerned in the make of <subst><del rend="overstrike" seq="1">th</del> <add rend="unmarked" place="supralinear" seq="2">a grand</add></subst> steam ship</add>
+        <ab><add rend="unmarked" place="supralinear"><del rend="overstrike">We are</del> Concerned in the make of <subst><del rend="overstrike" seq="1">th</del> <add rend="unmarked" place="supralinear" seq="2">a grand</add></subst> steam ship</add>
     We cannot sleep nights for thinking on the pennant halyards, <subst><del rend="overstrike" seq="1">of the steamer</del> <add rend="insertion" place="supralinear" seq="2">and the <del rend="overstrike">little</del> gaskets,</add></subst> but <del rend="overstrike">we</del> feel no speck of anxiety 
     about the style and strength of the engines.—</ab></div2>
- 
-    <div2 xml:id="tr10">
-
-            <note type="work_relations" target="xxx.00048" cert="high">
+   
+    <div2>
+        <relations>
+            <work ref="xxx.00048" cert="high">
                 <p><ref type="text" xml:id="r02" target="#l1 #l8">See the following lines from what would become section 33 of "Song of Myself," as they appeared in the 1855 <hi rend="italic">Leaves of Grass</hi>: "What the rebel said gaily adjusting his throat to the rope-noose, / What the savage at the stump, his eye-sockets empty, his mouth spirting whoops and defiance" (p. 42).</ref> This passage also includes lines that appear in the section of the poem that begins "I am the hounded slave . . . . I wince at the bite of the dogs" (1855, p. 39).</p>
-            </note>
-            <note type="work_relations" target="xxx.00264" cert="low">
+            </work>
+            <work ref="xxx.00264" cert="low">
                 <p>This section, including the deleted segment about "What Lucifer felt," is relevant to the origins of "The Sleepers," though it does not appear to have clearly and directly contributed to it. In the untitled poem in the 1855 <hi rend="italic">Leaves of Grass</hi> that would later become "The Sleepers," Lucifer appears in the following passage: "Now Lucifer was not dead....or if he was I am his sorrowful terrible heir; / I have been wronged....I am oppressed....I hate him that oppresses me, / I will either destroy him, or he shall release me." For more about the revisions of this passage, see Ed Folsom, "Walt Whitman's 'The Sleepers,'" part of <hi rend="italic">The Classroom Electric</hi>.</p>
-            </note>
-            <note type="work_relations" target="xxx.00614" cert="low">
+            </work>
+            <work ref="xxx.00614" cert="low">
                 <p><ref type="text" xml:id="r16" target="#q16">This line</ref> features Lucifer, as does a line that appeared in "Pictures": "And this black portrait—this head, huge, frowning, sorrowful,—I <del rend="overstrike">think it</del> is Lucifer's portrait—the denied God's portrait."</p>
-            </note>
-        
+            </work>
+        </relations>
         <pb xml:id="leaf003v" facs="loc_jc.01660.jpg" type="verso"/>
     <lg xml:id="lg1" type="linegroup"><delSpan rend="hashmark" spanTo="#d2"/>
         <l xml:id="l3"><subst><del rend="overstrike" seq="1">His blood</del> <add rend="unmarked" place="supralinear" seq="2">My gore</add></subst> presently <subst><del rend="overstrike" seq="1">oozes from</del> <add rend="insertion" place="supralinear">trickles <del rend="overstrike">down</del></add> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">from a <unclear reason="illegible" resp="#nhg" cert="low">score of</unclear></add></del></subst><lb/> <del rend="overstrike">and <gap reason="illegible" quantity="7" unit="char"/></del> <del rend="overstrike"><add rend="unmarked" place="supralinear">and</add></del> thinned with <subst><del rend="overstrike" seq="1">the <lb/>plentiful sweat</del> <add rend="unmarked" place="supralinear" seq="2"><del rend="overstrike">salt</del> ooze of my skin</add></subst>,</l> 
         <l xml:id="l4"><subst><del rend="overstrike" seq="1">And</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2"><unclear reason="illegible" resp="#no" cert="low">See how it</unclear></add></del> <add rend="insertion" place="supralinear" seq="4">as</add></subst> <del rend="overstrike">trickles down the black <unclear reason="illegible" resp="#no" cert="high">skin</unclear></del></l>
-        <addSpan spanTo="#a1" place="supralinear" rend="unmarked"/><l xml:id="l9"><subst><add rend="unmarked" place="inline" seq="2">I</add> <del rend="overstrike" seq="1">He</del></subst> <del rend="overstrike">slowly</del> fall<del rend="overstrike">s</del> on the <add rend="insertion" place="supralinear">reddened</add> grass and stones,</l><anchor xml:id="a1"/>
+        <add place="supralinear" rend="unmarked"><l xml:id="l9"><subst><add rend="unmarked" place="inline" seq="2">I</add> <del rend="overstrike" seq="1">He</del></subst> <del rend="overstrike">slowly</del> fall<del rend="overstrike">s</del> on the <add rend="insertion" place="supralinear">reddened</add> grass and stones,</l></add>
     <l xml:id="l5">And the hunters haul up close <lb/>with their unwilling horses,</l> 
         <l xml:id="l6"><subst><del rend="overstrike" seq="1">And</del> <add rend="unmarked" place="supralinear" seq="2">Till</add></subst> <del rend="overstrike">the</del> taunt and <subst><del rend="overstrike" seq="1">curse</del> <add rend="unmarked" place="supralinear" seq="2">oath</add></subst> <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#nhg" cert="low">sink</unclear></del> <add rend="unmarked" place="supralinear" seq="2"> swim</add></subst><lb/> <add rend="insertion" place="supralinear">away from my</add> dim and dizzy <del rend="overstrike"><add rend="insertion" place="supralinear">away from my</add></del> <del rend="overstrike">in his</del> ears</l>
-    <metamark function="transpose" place="left">tr *</metamark>
+    <metamark function="transpose" place="left" target="#l1 #l2" xml:id="tr02">tr *</metamark>
         <l xml:id="l7"><del rend="overstrike">What Lucifer <subst><del rend="overstrike" seq="1">felt,</del> <add rend="insertion" place="supralinear" seq="2">cursed when</add></subst> tumbling from<lb/> <hi rend="underline">Heaven</hi></del></l>
     <l xml:id="l8">What the rebel, <subst><del rend="overstrike" seq="1">when he</del> <add rend="unmarked" place="supralinear" seq="2">felt</add></subst> gaily<lb/> adjusting his neck to the<lb/> rope noose,</l>
-    <delSpan spanTo="#d27" rend="overstrike"/><metamark function="transpose" place="left">*</metamark><anchor xml:id="d27"/>
-        <l xml:id="l1">What the <subst><del rend="overstrike" seq="1">red</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">brown</add></del></subst> savage, lashed to<lb/> the stump, <del rend="overstrike">but</del> <add rend="insertion" place="supralinear"><unclear reason="illegible" resp="#no" cert="low">spirting</unclear> <del rend="overstrike">launching</del></add> <del rend="overstrike">yelling still</del><lb/> <del rend="overstrike">his</del> <add rend="unmarked" place="supralinear">yells and</add> laughter <del rend="overstrike">to</del> at every foe</l>
-    <l xml:id="l2">What rage of hell <del rend="overstrike"><unclear reason="illegible" resp="#nhg" cert="low">of</unclear></del> <subst><del rend="overstrike" seq="1"> spirted</del> <add rend="unmarked" place="infralinear" seq="2">urged</add></subst></l></lg>
+    <metamark function="transpose" place="left">*</metamark>
+        <transpose anchored="1" target="#tr02"><l xml:id="l1">What the <subst><del rend="overstrike" seq="1">red</del> <del rend="overstrike" seq="3"><add rend="insertion" place="supralinear" seq="2">brown</add></del></subst> savage, lashed to<lb/> the stump, <del rend="overstrike">but</del> <add rend="insertion" place="supralinear"><unclear reason="illegible" resp="#no" cert="low">spirting</unclear> <del rend="overstrike">launching</del></add> <del rend="overstrike">yelling still</del><lb/> <del rend="overstrike">his</del> <add rend="unmarked" place="supralinear">yells and</add> laughter <del rend="overstrike">to</del> at every foe</l>
+    <l xml:id="l2">What rage of hell <del rend="overstrike"><unclear reason="illegible" resp="#nhg" cert="low">of</unclear></del> <subst><del rend="overstrike" seq="1"> spirted</del> <add rend="unmarked" place="infralinear" seq="2">urged</add></subst></l></transpose></lg>
     <anchor xml:id="d2"/></div2>
     
     <div2>
-            <note type="work_relations" target="xxx.00052" cert="low">
-                <p><ref type="text" xml:id="r03" target="#q03">This line</ref> may be loosely related to the line in the poem that would ultimately be titled "I Sing the Body Electric": "Was it dreamed whether those who corrupted their own live bodies could conceal themselves?" (1855, p. 77).</p></note>
-                <note type="work_relations" target="xxx.00120" cert="high">
+        <relations>
+            <work ref="xxx.00052" cert="low">
+                <p><ref type="text" xml:id="r03" target="#q03">This line</ref> may be loosely related to the line in the poem that would ultimately be titled "I Sing the Body Electric": "Was it dreamed whether those who corrupted their own live bodies could conceal themselves?" (1855, p. 77).</p></work>
+                <work ref="xxx.00120" cert="high">
                     <p><ref type="text" xml:id="r04" target="#q04">This segment</ref> is similar to the following, from "Poem of The Sayers of The Words of The Earth" in the 1856 edition of <hi rend="italic">Leaves of Grass</hi> (the poem was later retitled "A Song of the Rolling Earth"): "Amelioration is one of the earth's words, / The earth neither lags nor hastens" (323–324).</p>
-            </note>
-            <note type="work_relations" target="xxx.00048" cert="high">
+            </work>
+            <work ref="xxx.00048" cert="high">
                 <p><ref type="text" xml:id="r05" target="#q05">This segment</ref> relates to what would become section 44 of "Song of Myself": "For it the nebula cohered to an orb" (1855, p. 50).</p>
                 <p><ref type="text" xml:id="r06" target="#seg01 #seg02 #seg03">This segment</ref> was revised and used in what would become section 30 of "Song of Myself": "All truths wait in all things, / They neither hasten their own delivery nor resist it, / They do not need the obstetric forceps of the surgeon" (1855, p. 33).</p>
                 <p><ref type="text" xml:id="r11" target="#q11 #q11b #q11c">This segment</ref> was revised and used in what would become section 45 of "Song of Myself": "If I and you and the worlds and all beneath or upon their surfacees, and all the palpable life, were this moment reduced back into a pallid float, it would not avail in the long run, / We should surely bring up again where we now stand, / And as surely go as much farther, and then farther and farther. / A few quadrillions of eras, a few octillions of cubic leagues, do not hazard the span, or make it impatient, / They are but parts....any thing is but a part." (1855, p. 51).</p>
                 <p><ref type="text" xml:id="r23" target="#q12">This passage</ref> is reminiscent of the following line: "Seeing hearing and feeling are miracles, and each part and tag of me is a miracle" (1855, p. 29).</p>
-            </note>
-            <note type="work_relations" target="xxx.00243" cert="low">
+            </work>
+            <work ref="xxx.00243" cert="low">
                 <p><ref type="text" xml:id="r12" target="#q12">This passage</ref> is similar to the following lines in the poem "Miracles," which first appeared in the 1856 edition of <hi rend="italic">Leaves of Grass</hi> as "Poem of Perfect Miracles": "Why! who makes much of a miracle? / As to me, I know of nothing else but miracles" (1856, p.279).</p>
-            </note>
-            <note type="work_relations" target="xxx.00250" cert="low">
+            </work>
+            <work ref="xxx.00250" cert="low">
                 <p><ref type="text" xml:id="r13" target="#q12">This segment</ref> has language similar to the following lines in the poem "Who Learns My Lesson Complete?", first published untitled in the 1855 <hi rend="italic">Leaves of Grass</hi>: "Is it wonderful that I should be immortal? as every one is immortal, / I know it is wonderful....but my eyesight is equally wonderful....and how I was conceived in my mother's womb is equally wonderful" (1855, p. 92).</p>
-            </note>
-            <note type="work_relations" target="xxx.00526" cert="low">
+            </work>
+            <work ref="xxx.00526" cert="low">
                 <p><ref type="text" xml:id="r14" target="#q12">This segment</ref> features an idea similar to the Preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "What the eyesight does to the rest he does to the rest. Who knows the curious mystery of the eyesight? The other senses corroborate themselves, but this is removed from any proof but its own and foreruns the identities of the spiritual world. A single glance of it mocks all the investigations of man and all the instruments and books of the earth and all reasoning. What is marvellous? what is unlikely? what is impossible or baseless or vague? after you have once just opened the space of a peachpit and given audience to far and near and to the sunset and had all things enter with electric swiftness softly and duly without confusion or jostling or jam" (1855, p. v).</p>
-            </note>
-        
+            </work>
+        </relations>
         <pb xml:id="leaf004r" facs="loc_jc.01661.jpg" type="recto"/>
-        <metamark function="transpose" target="#ab01">*</metamark><ab xml:id="ab01"> greenhorns through their noviciate; he manufactured public opinion at a distance, and so forth, and so forth.—For
-        all these he duly received pay.—</ab>
-            <listTranspose>
-                <transpose>
-                    <ptr target="#ab01"/>
-                    <ptr target="#tr11"/>
-                    <ptr target="#tr12"/>
-                    <ptr target="#tr10"/>
-                </transpose>
-            </listTranspose>
+        <transpose anchored="1" target="tr01"><ab xml:id="ab01"><metamark function="transpose" target="#ab01">*</metamark> greenhorns through their noviciate; he manufactured public opinion at a distance, and so forth, and so forth.—For
+        all these he duly received pay.—</ab></transpose>
         <milestone unit="undeclared" rend="horbar-full"/><delSpan rend="hashmark" spanTo="#d1"/>
     <l xml:id="ab30">
         <del rend="overstrike">from</del> the lips and <subst><del rend="overstrike" seq="1">fingers</del> <add rend="unmarked" place="supralinear" seq="2">hands</add></subst> <lb/>
@@ -186,25 +176,18 @@ incarnate to me the</ab>
         <anchor xml:id="d1"/>
     
         <pb xml:id="leaf004v" facs="loc_jc.01662.jpg" type="verso"/>
-    <delSpan rend="hashmark" spanTo="#d3"/><ab xml:id="tr14">But the spirits, effusing mind, character,</ab>
+    <delSpan rend="hashmark" spanTo="#d3"/><ab>But the spirits, effusing mind, character,</ab>
         <ab xml:id="q03">No man and no woman can <del rend="overstrike">with</del> <subst><del rend="overstrike" seq="1">bruise</del> <add rend="unmarked" place="supralinear" seq="2">gash</add></subst> or starve or overburden
     <del rend="overstrike">or pollute</del> or imbibe <subst><del rend="overstrike" seq="1">bad</del> <add rend="unmarked" place="supralinear" seq="2">rotten</add></subst> stuff
     in <subst><del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">that superior nature of</add></subst> his or her's, any more 
         than one can poison or starve his body.—</ab>
-        <lg type="poem" xml:id="tr16"><l xml:id="l15"><del rend="overstrike">What minutes of damnation</del></l>
-    <l xml:id="l16">What heightless dread, <add rend="insertion" place="supralinear">falls</add> in the<lb/> click of a moment</l></lg><anchor xml:id="d3"/>
-        <listTranspose>
-            <transpose>
-                <ptr target="#tr16"/>
-                <ptr target="#tr14"/>
-                <ptr target="#q03"/>
-            </transpose>
-        </listTranspose>
-        
+        <transpose anchored="1" target="#tr03"><del rend="overstrike"><l xml:id="l15">What minutes of damnation</l></del>
+    <l xml:id="l16">What heightless dread, <add rend="insertion" place="supralinear">falls</add> in the<lb/> click of a moment</l></transpose><anchor xml:id="d3"/>
+    
         <pb xml:id="leaf005r" facs="loc_jc.01663.jpg" type="recto"/>
     <ab>story of Julia Scudder whose husband left her</ab>
     <milestone unit="undeclared" rend="horbar-full"/>
-    <addSpan spanTo="#a2" rend="unmarked" place="supralinear"/><ab>Is not the faculty of sight better than the ? of the eye?—Is not the human voice more than the <unclear reason="illegible" cert="high" resp="#nhg">rings</unclear> of the windpipe?</ab><anchor xml:id="a2"/>
+    <add rend="unmarked" place="supralinear"><ab>Is not the faculty of sight better than the ? of the eye?—Is not the human voice more than the <unclear reason="illegible" cert="high" resp="#nhg">rings</unclear> of the windpipe?</ab></add>
     <ab>No man <del rend="overstrike">and no woman will</del> means to <del rend="overstrike">stab</del> deform or sicken the body.—<subst><del rend="overstrike" seq="1">Of</del> <add rend="unmarked" place="supralinear" seq="2">For</add></subst> 
         that wonderful and beautiful vessel, we <del rend="overstrike">are pro</del> make</ab>
         
@@ -251,14 +234,8 @@ incarnate to me the</ab>
     to the plenty of time and space.—Of these there is ample store,—there is no limit</ab><anchor xml:id="d6"/>
         <pb xml:id="leaf008v" facs="loc_jc.01670.jpg" type="verso"/>
         <delSpan rend="hashmark" spanTo="#d7"/><ab><seg xml:id="seg01">All truths lie <del rend="overstrike">hidde</del> waiting in all things.</seg>—<seg xml:id="seg02">They 
-            neither urge the opening of themselves nor resist it.—</seg><metamark function="transpose" xml:id="tr20"/> <seg xml:id="tr17">(The heart of man alone is the one unbalanced and restless thing in the world)</seg></ab>
-    <ab><seg xml:id="seg03"><del rend="overstrike">And the</del> For their birth you need not the obstetric <del rend="overwrite">or</del>forceps of the surgeon.</seg>
-        <listTranspose>
-            <transpose>
-                <ptr target="#seg03"/>
-                <ptr target="#tr17"/>
-            </transpose>
-        </listTranspose><del rend="overstrike">Approach them with 
+            neither urge the opening of themselves nor resist it.—</seg><metamark function="transpose" xml:id="tr20"/> (The heart of man alone is the one unbalanced and restless thing in the world)</ab>
+    <transpose anchored="1" target="#tr20"><ab><seg xml:id="seg03"><del rend="overstrike">And the</del> For their birth you need not the obstetric <del rend="overwrite">or</del>forceps of the surgeon.</seg> <del rend="overstrike">Approach them with 
     love</del> They <del rend="overstrike"><add rend="insertion" place="supralinear">perhaps</add></del> unfold to you and emit them<add rend="insertion" place="supralinear">selves,</add>
     more fragrant than roses from <subst><del rend="overstrike" seq="1">their</del> <add rend="unmarked" place="supralinear" seq="2">living</add></subst> buds, 
     <subst><del rend="overstrike" seq="1">if</del> <add rend="unmarked" place="supralinear" seq="2">whenever</add></subst> you fetch <del rend="overstrike">in yourself</del> 
@@ -266,7 +243,7 @@ incarnate to me the</ab>
         <add rend="insertion" place="supralinear">moistened with</add> summer rain.—But it must be in yourself.—It shall come<anchor xml:id="d7"/>
         
         <pb xml:id="leaf009r" facs="loc_jc.01671.jpg" type="recto"/>
-        <delSpan rend="hashmark" spanTo="#d8"/>from your soul.—It shall be love.—</ab>
+        <delSpan rend="hashmark" spanTo="#d8"/>from your soul.—It shall be love.—</ab></transpose>
         <milestone unit="undeclared" rend="horbar-full"/>
         <ab xml:id="q12">We hear of miracles.—But what is there that is not a miracle? <del rend="overstrike">What</del> <del rend="overstrike">Of</del> <subst><del rend="overwrite" seq="1">w</del><add rend="overwrite" place="over" seq="2">W</add></subst>hat <subst><del rend="overstrike" seq="1">can</del> <add rend="unmarked" place="supralinear" seq="2">may</add></subst>
       you conceive of or <subst><del rend="overstrike" seq="1">propound</del> <add rend="unmarked" place="supralinear" seq="2">name</add></subst> to me in the future, 
@@ -279,35 +256,31 @@ incarnate to me the</ab>
         <pb xml:id="leaf009v" facs="loc_jc.01672.jpg" type="verso"/>
     <delSpan rend="hashmark" spanTo="#d9"/><ab xml:id="ab04">We know that sympathy or love is the law <subst><del rend="overstrike" seq="1">of</del> <add rend="unmarked" place="supralinear" seq="2">over</add></subst> all laws, because in nothing else but love <subst><del rend="overstrike" seq="1">does</del> <add rend="unmarked" place="supralinear" seq="2">is</add></subst> the soul conscious of pure happiness, which <subst><del rend="overstrike" seq="1">is</del> <add rend="unmarked" place="supralinear" seq="2">appears to be</add></subst> the ultimate resting place <del rend="overstrike">of</del> and point of all things.—</ab>
     <milestone unit="undeclared" rend="horbar-full"/>
-    <ab xml:id="ab21"><metamark function="transpose" place="inline" target="#ab21">*</metamark> of the whole world <del rend="overstrike">to</del> come to me.—<add rend="unmarked" place="interlinear">with silence and with swiftness.—In an instant</add> <del rend="overstrike">I ma</del> <del rend="overstrike">Then</del> make I fluid and draw to myself, <del rend="overstrike">however dense</del> <add rend="insertion" place="supralinear">keeping each to its distinct isolation, and no hubbub or <del rend="overstrike">jam or</del> confusion, or jam,</add> the whole of physical nature, though rocks are dense and hills are ponderous, and the stars are <subst><del rend="overstrike" seq="1">far</del> <add rend="unmarked" place="supralinear" seq="2">away</add></subst> off sextillions of miles.—All the years of all the beings that have ever <del rend="overstrike">life</del> lived on the earth,</ab>
-        <listTranspose>
-            <transpose>
-                <ptr target="#ab21"/>
-                <ptr target="#ab04"/>
-            </transpose>
-        </listTranspose><metamark function="transpose" place="inline" target="#ab22" xml:id="tr07">*</metamark>
+    <transpose anchored="1" target="#tr06"><ab xml:id="ab21"><metamark function="transpose" place="inline" target="#ab21">*</metamark> of the whole world <del rend="overstrike">to</del> come to me.—<add rend="unmarked" place="interlinear">with silence and with swiftness.—In an instant</add> <del rend="overstrike">I ma</del> <del rend="overstrike">Then</del> make I fluid and draw to myself, <del rend="overstrike">however dense</del> <add rend="insertion" place="supralinear">keeping each to its distinct isolation, and no hubbub or <del rend="overstrike">jam or</del> confusion, or jam,</add> the whole of physical nature, though rocks are dense and hills are ponderous, and the stars are <subst><del rend="overstrike" seq="1">far</del> <add rend="unmarked" place="supralinear" seq="2">away</add></subst> off sextillions of miles.—All the years of all the beings that have ever <del rend="overstrike">life</del> lived on the earth,</ab></transpose> <metamark function="transpose" place="inline" target="#ab22" xml:id="tr07">*</metamark>
 
     <anchor xml:id="d9"/>
     
         <pb xml:id="leaf010r" facs="loc_jc.01673.jpg" type="recto"/>
     <ab>If the light of a half day dawn were arrested, and held so for a thousand years</ab>
-        <ab xml:id="tr30"><del rend="overstrike">How</del>
+        <transpose anchored="1" target="tr08"><ab><del rend="overstrike">How</del></ab>
     <milestone unit="undeclared" rend="horbar-full"/>
-    <delSpan rend="hashmark" spanTo="#d10"/><l xml:id="li25">And <del rend="overstrike">wrote</del> chalked on a <del rend="overstrike">great</del> <lb/>board, <hi rend="underline">Be of good cheer, we <lb/>will not desert you</hi>, <lb/>and held it up <del rend="overstrike">as they <lb/>to against the</del> and did it;</l><anchor xml:id="d10"/></ab>
+    <delSpan rend="hashmark" spanTo="#d10"/><l xml:id="li25">And <del rend="overstrike">wrote</del> chalked on a <del rend="overstrike">great</del> <lb/>board, <hi rend="underline">Be of good cheer, we <lb/>will not desert you</hi>, <lb/>and held it up <del rend="overstrike">as they <lb/>to against the</del> and did it;</l><anchor xml:id="d10"/></transpose>
     <milestone unit="undeclared" rend="horbar-full"/>
-    <ab xml:id="tr31">The thin swift passing clouds like lace, blown overhead during a storm are called the <hi rend="underline">flying scud</hi></ab>
+    <ab>The thin swift passing clouds like lace, blown overhead during a storm are called the <hi rend="underline">flying scud</hi></ab>
         <milestone unit="undeclared" rend="horbar-full"/>    
-       <ab xml:id="tr32"><del rend="overstrike">If</del> Let us suppose <del rend="overstrike">for fo</del> that all the most rational people of the world had gone no further than children of twelve years old—or, as this seems forced, suppose the utmost advance yet made was the advance of the Camanches and kindred peoples of</ab></div2>
+       <ab><del rend="overstrike">If</del> Let us suppose <del rend="overstrike">for fo</del> that all the most rational people of the world had gone no further than children of twelve years old—or, as this seems forced, suppose the utmost advance yet made was the advance of the Camanches and kindred peoples of</ab></div2>
     
     <div2>
-            <note type="work_relations" target="xxx.00048" cert="high">
+        <relations>
+            <work ref="xxx.00048" cert="high">
                 <p>This section turned into two parts of the poem, untitled in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, that would eventually be called "Song of Myself." In it Whitman refers to the wreck of the ship the <hi rend="italic">San Francisco</hi>. These are early versions of the following lines: "I understand the large hearts of heroes, / The courage of present times and all times; / How the skipper saw the crowded and rudderless wreck of the steamship, and death chasing it up and down the storm, / How he knuckled tight and gave not back one inch, and was faithful of days and faithful of nights, / And chalked in large letters on a board, Be of good cheer, We will not desert you; / How he saved the drifting company at last, / How the lank loose-gowned women looked when boated from the side of their prepared graves, / How the silent old-faced infants, and the lifted sick, and the sharp-lipped unshaved men; / All this I swallow and it tastes good . . . . I like it well, and it becomes mine, / I am the man . . . . I suffered . . . . I was there. / The disdain and calmness of martyrs, / The mother condemned for a witch and burnt with dry wood, and her children gazing on; / The hounded slave that flags in the race and leans by the fence, blowing and covered with sweat, / The twinges that sting like needles his legs and neck, / The murderous buckshot and the bullets, / All these I feel or am. / I am the hounded slave . . . . I wince at the bite of the dogs, / Hell and despair are upon me . . . . crack and again crack the marksmen, / I clutch the rails of the fence . . . . my gore dribs thinned with the ooze of my skin, / I fall on the weeds and stones, / The riders spur their unwilling horses and haul close, / They taunt my dizzy ears . . . . they beat me violently over the head with their / whip-stocks" (1855, pp. 38–39); "What the rebel said gaily adjusting his throat to the rope-noose, / What the savage at the stump, his eye-sockets empty, his mouth spirting whoops and defiance, / What stills the traveler come to the vault at Mount Vernon, / What sobers the Brooklyn boy as he looks down the shores of the Wallabout and remembers the prison ships, / What burnt the gums of the redcoat at Saratoga when he surrendered his brigades" (1855, p. 42).</p>
-            </note>
-            <note type="work_relations" target="xxx.00614" cert="high">
+            </work>
+            <work ref="xxx.00614" cert="high">
                 <p><ref type="text" xml:id="r15" target="#l13">A line</ref> in this segment is similar to a line that appeared in "<ref target="yal.00081.html">Pictures</ref>": "This is the queen on her way to the scaffold—those are guillotines."</p>
-            </note>        
+            </work>
+        </relations>
         <pb xml:id="leaf010v" facs="loc_jc.01674.jpg" type="verso"/>
-    <ab xml:id="tr33">The Poet</ab>
+    <ab>The Poet</ab>
     <delSpan rend="hashmark" spanTo="#d11"/><lg xml:id="lg2">
         <l xml:id="l01">All the <del rend="overstrike">greatness</del> <del rend="overstrike">and beau</del> <add rend="unmarked" place="supralinear">large hearts of heroes,</add></l>
     <l xml:id="l02">All the courage of olden time and <add rend="unmarked" place="supralinear">new</add></l> 
@@ -315,53 +288,39 @@ incarnate to me the</ab>
         <l xml:id="l04"><del rend="overstrike">did when they</del> <add rend="insertion" place="interlinear">How they waited, their craft</add> shooting <subst><del rend="overstrike" seq="1">madly</del> <add rend="unmarked" place="interlinear" seq="2">like an arrow</add></subst> up and down <del rend="overstrike">in</del> the storm.</l>
         <l xml:id="l05"><subst><del rend="overstrike" seq="1">And in that deadly sea waited five</del> <add rend="unmarked" place="supralinear" seq="2"><add rend="insertion" place="supralinear">How they</add> gripped close with Death <add rend="insertion" place="supralinear">there</add> on the sea, and gave him not one inch, but held on</add></subst> <lb/>day<del rend="overstrike">s</del> and night<del rend="overstrike">s</del> <del rend="overstrike">near the helpless <add rend="insertion" place="supralinear">fogged<!--Grier says ragged--> great</add> wreck,</del></l>
         <metamark function="transpose" place="left" target="#li25" xml:id="tr08">* <hi rend="circled">over leaf</hi></metamark>
-        <listTranspose>
-            <transpose>
-                <ptr target="#tr31"/>
-                <ptr target="#tr32"/>
-                <ptr target="#tr33"/>
-                <ptr target="#l101"/>
-                <ptr target="#l102"/>
-                <ptr target="#l103"/>
-                <ptr target="#l104"/>
-                <ptr target="#l105"/>
-                <ptr target="#tr30"/>
-            </transpose>
-        </listTranspose>
-        
     <l xml:id="l06">How the <add rend="insertion" place="supralinear">lank</add> white faced women looked <lb/><subst><del rend="overstrike" seq="1">as they</del> <add rend="unmarked" place="supralinear" seq="2">when</add></subst> ferried <del rend="overstrike">them</del> safely at last <lb/>as from <add rend="insertion" place="supralinear">the sides</add> their <subst><del rend="overstrike" seq="1"><unclear reason="illegible" resp="#no" cert="low">waiting</unclear></del> <add rend="unmarked" place="supralinear" seq="2">prepared</add></subst> graves</l>
     <l xml:id="l07">How the children, and the <add rend="insertion" place="supralinear">lifted</add> sick, and <lb/>the sharp-lipped, unshaved men;</l>
         <l xml:id="l08">All this <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> <subst><del rend="overstrike" seq="1">drinks</del> <add rend="unmarked" place="supralinear" seq="2">swallow<del rend="overstrike">s</del></add></subst> in <subst><del rend="overstrike" seq="1"> his</del> <add rend="unmarked" place="supralinear" seq="2">my</add></subst> <lb/>soul, and it becomes <subst><del rend="overstrike" seq="1">his</del> <add rend="unmarked" place="supralinear" seq="2">mine,</add></subst> <lb/>and <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> likes it well,</l>
         <l xml:id="l09"><subst><del rend="overstrike" seq="1">He is</del> <add rend="unmarked" place="supralinear" seq="2">I am</add></subst> the man; <del rend="overstrike"><gap reason="illegible" unit="chars" quantity="5"/></del> <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> suffered, <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> was <lb/>there: </l>
             <l><del rend="overstrike" seq="1"> And more:</del></l>
-        <delSpan spanTo="#d24" rend="overstrike"/><addSpan spanTo="#a5" rend="unmarked" place="interlinear"/><l xml:id="l10">He <unclear reason="illegible" resp="#no" cert="medium">is</unclear> the brave boy that saved them too:</l><anchor xml:id="a5"/><anchor xml:id="d24"/>
+        <del rend="overstrike"><add rend="unmarked" place="interlinear"><l xml:id="l10">He <unclear reason="illegible" resp="#no" cert="medium">is</unclear> the brave boy that saved them too:</l></add></del>
         <l xml:id="l11">All the beautiful disdain and <lb/>calmness of martyrs</l><anchor xml:id="d11"/>
         <pb xml:id="leaf011r" facs="loc_jc.01675.jpg" type="recto"/>
         <delSpan rend="hashmark" spanTo="#d12"/><l xml:id="l12">The old woman that was <lb/>chained and burnt with dry <lb/>wood, and her children looking on,</l>
         <l xml:id="l13">The great queens that walked <lb/>serenely to the block,</l>
         <l xml:id="l14">The <add rend="insertion" place="supralinear">hunted</add> slave <subst><del rend="overstrike" seq="1">that</del> <add rend="unmarked" place="supralinear" seq="2">who</add></subst> <del rend="overstrike">stood</del> <del rend="overstrike">could<lb/> run no longer,</del> <add rend="insertion" place="supralinear">flags in the race at last</add> and <lb/><subst><del rend="overstrike" seq="1">then stood by</del> <add rend="unmarked" place="supralinear" seq="2">leans <del rend="overstrike">leaned</del> up by</add></subst> the fence, <lb/><subst><add rend="unmarked" place="inline" seq="2">blowing</add> <del rend="overstrike" seq="1"><unclear reason="illegible" resp="#no" cert="medium">panting</unclear></del></subst> and covered with sweat,</l>
-        <delSpan spanTo="#d25" rend="overstrike"/><l xml:id="l17">And his eye that <subst><del rend="overstrike" seq="1">shoot</del> <add rend="unmarked" place="infralinear" seq="2"> burns</add></subst> defiance <lb/>and <del rend="overstrike">desperation</del> hatred</l><anchor xml:id="d25"/>
+        <del rend="overstrike"><l xml:id="l17">And his eye that <subst><del rend="overstrike" seq="1">shoot</del> <add rend="unmarked" place="infralinear" seq="2"> burns</add></subst> defiance <lb/>and <del rend="overstrike">desperation</del> hatred</l></del>
         <l xml:id="l18"><del rend="overstrike">And the buck shot,</del> <del rend="overstrike">were</del></l>
         <l xml:id="l19">And <del rend="overstrike"><unclear reason="illegible" resp="#no" cert="low">the how</unclear></del> the twinges that <lb/>sting like needles his <lb/>breast and neck</l>
         <l xml:id="l20">The murderous buck-shot <lb/><del rend="overstrike">planted like terrible</del> <add rend="unmarked" place="interlinear">and the bullets.</add></l>
         <l xml:id="l21"><subst><del rend="overstrike" seq="1">This</del> <add rend="unmarked" place="supralinear" seq="2">All</add></subst> <subst><del rend="overwrite" seq="1"><gap reason="illegible" unit="chars" quantity="3"/></del><add rend="overwrite" place="over" seq="2">this</add></subst> <subst><del rend="overstrike" seq="1">he</del> <add rend="unmarked" place="supralinear" seq="2">I</add></subst> not only <add rend="unmarked" place="supralinear">feels and</add> see<del rend="overstrike">s</del> <del rend="overstrike"><add rend="overstrike" place="supralinear">feels</add></del> <add rend="unmarked" place="supralinear"><unclear resp="#nhg" cert="low" reason="illegible">am</unclear></add> but <!-- Grier thinks there is an "am" but I'm not convinced --></l>
         <l xml:id="l22"><subst><del rend="overstrike" seq="1">He is</del> <add rend="unmarked" place="supralinear" seq="2">I am</add></subst> the hunted slave,</l>
-        <addSpan spanTo="#a3" rend="unmarked/" place="interlinear"/><l xml:id="l23">Damnation and despair are close upon <subst><del rend="overstrike" seq="1">him</del> <add rend="unmarked" place="supralinear" seq="2">me</add></subst></l><anchor xml:id="a3"/>
+        <add rend="unmarked" place="interlinear"><l xml:id="l23">Damnation and despair are close upon <subst><del rend="overstrike" seq="1">him</del> <add rend="unmarked" place="supralinear" seq="2">me</add></subst></l></add>
         <l xml:id="l24"><subst><del rend="overstrike" seq="1">He</del> <add rend="unmarked" place="inline" seq="2">I</add></subst> clutch<del rend="overstrike">es</del> the rail of <lb/>the fence.</l>
     </lg><metamark xml:id="tr09" function="transpose" place="left" target="#lg1">* (back</metamark><anchor xml:id="d12"/><!--Grier situates this section before #lg1, but there doesn't seem to be a definitive indication that that is what this mark is doing (although the lines are together in the 1855 LG). I've left this mark as a transposition mark with target #lg1, but have not designated a transposed segment of text. -nhg, 5/23/16-->
     
 </div2>
     
     <div2>
-        <note type="work_relations" target="xxx.00048" cert="high">
+        <relations><work ref="xxx.00048" cert="high">
             <p><ref type="text" xml:id="r17" target="#q17">This line</ref> is similar to the following line from the poem that would ultimately be called "Song of Myself": "I show that size is only developement" (1855, p. 26).</p>
             <p><ref type="text" xml:id="r18" target="#q18">This line</ref> is similar to the following line from the poem that would ultimately be called "Song of Myself": "And nothing, not God, is greater to one than one's-self is" (1855, p. 53).</p>
             <p><ref type="text" xml:id="r19" target="#q19">This line</ref> is similar to the following lines from the poem that would ultimately be called "Song of Myself": "And I know I am solid and sound, / To me the converging objects of the universe perpetually flow, / All are written to me, and I must get what the writing means" (1855, p. 26).</p>
-        </note>
-        <note type="work_relations" target="xxx.00121" cert="low">
+        </work>
+        <work ref="xxx.00121" cert="low">
             <p>This section may also relate to the section in the sixth untitled poem in the 1855 <hi rend="italic">Leaves of Grass</hi>, later titled "Great are the Myths," and eventually excerpted as "Youth, Day, Old Age and Night," that begins: "Great are Adam and Eve . . . . I too look back and accept them;" (1855, p. 93).</p>
-        </note>
-        
+        </work>
+        </relations>
         <pb xml:id="leaf011v" facs="loc_jc.01676.jpg" type="verso"/>
         <p><seg xml:id="seg100">All around me I hear how great is Adam or Eve—</seg><seg>how <subst><del rend="overstrike" seq="1">illustrious</del> <add rend="unmarked" place="supralinear" seq="2">significant</add></subst> <del rend="overstrike">are</del> the illustrious Greeks, or later Italians and Germans, and modern <del rend="overstrike">En-</del> celebrities of England and France.—</seg><seg>Yes Christ was <subst><del rend="overstrike" seq="1">great</del> <add rend="unmarked" place="supralinear" seq="2">large</add></subst> and <del rend="overstrike">so was</del> Homer <add rend="unmarked" place="supralinear">was great;</add> and so Columbus and Washington and Fulton. </seg><seg xml:id="q17">But <add rend="insertion" place="interlinear">greatness is the other word for developement, and in my soul</add> <del rend="overstrike">to me</del> I know that I am <subst><del rend="overstrike" seq="1">great</del> <add rend="unmarked" place="supralinear" seq="2">large and strong</add></subst> as any of them, probably <subst><del rend="overstrike" seq="1">greater.—</del> <add rend="unmarked" place="supralinear" seq="2">larger.—</add></subst></seg></p>
         <p><seg xml:id="seg101">Because all that they did I feel that I too could do, and more <subst><add rend="insertion" place="supralinear" seq="2">and that multiplied;</add> <del rend="overstrike" seq="1">;</del></subst></seg> <seg><subst><del rend="overstrike" seq="1">and</del> <add rend="insertion" place="supralinear" seq="2">and <subst><del rend="overstrike" seq="1">with</del> <add rend="unmarked" place="supralinear" seq="2">after</add></subst></add></subst> none of them or their achievements</seg>
@@ -378,28 +337,30 @@ incarnate to me the</ab>
     <l>What will you have of us.</l></lg>
     <milestone unit="undeclared" rend="horbar-full"/></div2>
     <div2>
-        <!-- Following Grier in designating the  location for this transpose: the below chunk, ab22, is transposed many pages earlier, to the metamark xml:id=tr07 at the bottom of leaf009verso.  Our encoding, adhering to the TEI rules for transpose, cannot reflect a move of such a great distance, hopping over other intervening transpositions.-->
-        <ab xml:id="ab22"><metamark function="transpose" place="left">*</metamark> with all the science and genius, <del rend="overstrike">for implements,</del> <del rend="overstrike">were</del> were nobly occupied in <add rend="unmarked" place="supralinear">the</add> <del rend="overstrike">single</del> employment of investigating this <del rend="overstrike">one</del> single <subst><del rend="overstrike" seq="1">abstract one minute</del> <add rend="unmarked" place="supralinear" seq="2"> minute</add></subst> of my life</ab>
+        <!--Following Grier in designating the anchor location for this transpose, some pages earlier.-->
+        <transpose anchored="1" target="#tr07"><ab xml:id="ab22"><metamark function="transpose" place="left">*</metamark> with all the science and genius, <del rend="overstrike">for implements,</del> <del rend="overstrike">were</del> were nobly occupied in <add rend="unmarked" place="supralinear">the</add> <del rend="overstrike">single</del> employment of investigating this <del rend="overstrike">one</del> single <subst><del rend="overstrike" seq="1">abstract one minute</del> <add rend="unmarked" place="supralinear" seq="2"> minute</add></subst> of my life</ab></transpose>
     </div2>
     <pb xml:id="leaf013r" facs="loc_jc.01679.jpg" type="recto"/>
     <div2>
-        <note type="work_relations" target="xxx.00048" cert="high">
+        <relations><work ref="xxx.00048" cert="high">
             <p>This segment includes language similar to the following lines from the untitled poem that would be called "Song of Myself": "Blacksmiths with grimed and hairy chests environ the anvil, / Each has his main-sledge, they are all out, there is a great heat in the fire. / From the cinder-strew'd threshold I follow their movements, / The lithe sheer of their waists plays even with their massive arms, / Overhand the hammers swing, overhand so slow, overhand so sure, / They do not hasten, each man hits in his place" (1855, p. 37).</p>
-        </note>
+        </work></relations>
         <head type="main-authorial"><hi rend="underline">Blacksmithing</hi></head>
     <ab xml:id="ab05">when they have a <hi rend="underline">great</hi> <hi rend="underline">heat</hi> in the fire.—</ab>
     <ab xml:id="ab06">Five or six blacksmiths swing their sledges <del rend="overstrike">in</del> <hi rend="underline">overhand</hi> <hi rend="underline">overhand</hi> <hi rend="underline">overhand</hi>—</ab></div2>
     <div2>
-            <note type="work_relations" target="xxx.01020" cert="low">
+        <relations>
+            <work ref="xxx.01020" cert="low">
                 <p><ref type="text" xml:id="r10" target="#q10">This note</ref> matches the plot of the first of four tales Whitman first published as "Some Fact-Romances" in <hi rend="italic">The Aristidean</hi> in December 1845.</p>
-            </note>
+            </work>
+        </relations>
         <ab>It would be as though some publisher should reject the best <del rend="overstrike">and</del> poems ever written in the world because he who brings them to be printed has a <del rend="overstrike">worn</del> shabby umbrella, or mud on the shank of his boot.</ab>
     
         <pb xml:id="leaf013v" facs="loc_jc.01680.jpg" type="verso"/>
         <ab xml:id="q10">The creek on Long Island when the boating party were returning and capsized, and the young man saved his sweetheart and lost his sister</ab>
     <milestone unit="undeclared" rend="horbar-full"/>
     <ab><subst><del rend="overstrike" seq="1">I</del> <add rend="unmarked" place="inline" seq="2">One</add></subst> grand faculty <del rend="overstrike"><gap reason="illegible" unit="chars" quantity="3"/></del> we want,—and that is the power to pierce <subst><del rend="overstrike" seq="1">all</del> <add rend="unmarked" place="supralinear" seq="2">fine</add></subst> clothing and <add rend="insertion" place="supralinear">thick coated</add> shams, and settle for sure what the reality of the thing clothed and disguised is, and what it weighs stark naked; the power of <del rend="overstrike">eluding and</del> slipping like an eel <subst><del rend="overstrike" seq="1">from</del> <add rend="unmarked" place="supralinear" seq="2">through</add></subst> all blandishments and graspings</ab>
-    <delSpan spanTo="#d26" rend="overstrike"/><metamark>* back</metamark><anchor xml:id="d26"/>
+    <del rend="overstrike"><metamark>* back</metamark></del>
     
         <pb xml:id="leaf014r" facs="loc_jc.01681.jpg" type="recto"/>
     <ab>of convention<del rend="overstrike">.</del>; the power</ab></div2>

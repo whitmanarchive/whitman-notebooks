@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UVA::IATH//DTD whitman.dtd (Whitman Archive)//EN" "whitman.dtd" [
+
+		<!-- THE FOLLOWING ENTITY DECLARATION CORRESPONDS TO THE WORK ID, WHICH, IN A      -->
+		<!-- NUTSHELL, IS A UNIQUE NUMBER GIVEN TO A GROUP OF ITEMS THAT ARE VERSIONS OF   -->
+		<!-- THE SAME POEM. IF YOU KNOW THE FINAL TITLE UNDER WHICH YOUR MANUSCRIPT WAS    -->
+		<!-- PUBLISHED, YOU CAN LOOK UP THE WORK ID IN THE "REFERENCES" SECTION OF THE     -->
+		<!-- ENCODING GUIDELINES. IF, AS IS OFTEN THE CASE, IT'S DIFFICULT TO DISCERN A    -->
+		<!-- CONNECTION WITH A KNOWN POEM, YOU MAY IGNORE THIS SECTION OF THE TEMPLATE AND -->
+		<!-- LET THE EDITORS FILL IN THIS ID AFTER YOUR TRANSCRIPTION HAS BEEN CHECKED IN. -->                                             
+		
+<!ENTITY xxx.00000 SYSTEM "xxx.00000.xml" NDATA xml>
+
+<!-- The Harned Collection finding aid provides this information: 1868-1870, 9 leaves, handwritten, A notebook (probably bound by someone other than Whitman), containing some draft lines(one titled "Epictetus," another "After an Extract from Heine's Diary" ) that bear an unknown relationship to Whitman's published work. Also included are several notes that scholars have indentified as autobiographical comments on Whitman's relationship with Peter Doyle. --> 
+
+<!ENTITY loc.00350.001 SYSTEM "loc.00350.001.jpg" NDATA jpeg>
+<!ENTITY loc.00350.002 SYSTEM "loc.00350.002.jpg" NDATA jpeg>
+<!ENTITY loc.00350.003 SYSTEM "loc.00350.003.jpg" NDATA jpeg>
+<!ENTITY loc.00350.004 SYSTEM "loc.00350.004.jpg" NDATA jpeg>
+<!ENTITY loc.00350.005 SYSTEM "loc.00350.005.jpg" NDATA jpeg>
+<!ENTITY loc.00350.006 SYSTEM "loc.00350.006.jpg" NDATA jpeg>
+<!ENTITY loc.00350.007 SYSTEM "loc.00350.007.jpg" NDATA jpeg>
+<!ENTITY loc.00350.008 SYSTEM "loc.00350.008.jpg" NDATA jpeg>
+<!ENTITY loc.00350.009 SYSTEM "loc.00350.009.jpg" NDATA jpeg>
+
+
+]>
+
+<TEI.2 id="loc.00350" type="doc">
+
+<relations>
+		<!-- IF YOU KNOW THE WORK ID (SEE ABOVE), YOU MAY SUBSTITUTE IT FOR "xxx.00000"  -->
+		<!-- IN THE LINE BELOW. PLEASE IGNORE THE REST OF THE RELATIONS SECTION; IT WILL -->
+		<!-- BE COMPLETED BY PROJECT EDITORS AFTER YOU'VE CHECKED IN YOUR TRANSCRIPTION. -->
+
+<work entity="xxx.00000" cert="****">
+<p> </p>
+</work>
+</relations>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main" rend="bracketed">
+Notebook, 1868-1870
+</title>
+
+<title level="m" type="sub">a machine readable transcription</title>
+
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<name>The Walt Whitman Archive Staff</name>
+</respStmt>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt><editionStmt>
+<edition><date>2004</date></edition>
+</editionStmt><publicationStmt>
+
+<idno>loc.00350</idno>
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>The Institute for Advanced Technology in the Humanities</addrLine>
+<addrLine>Alderman Library</addrLine>
+<addrLine>University of Virginia</addrLine>
+<addrLine>P.O. Box 400115</addrLine>
+<addrLine>Charlottesville, VA 22904-4115</addrLine>
+<addrLine>whitman@jefferson.village.virginia.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2004 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, The Institute for Advanced Technology in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+
+		<!-- IGNORE THE FOLLOWING PROJECT NOTE. IT WILL BE FILLED IN BY PROJECT EDITORS. -->
+<note type="project" target="dat1"></note>
+
+		<!-- IF THERE IS VERSO INFORMATION THAT YOU ARE ONLY    -->
+            <!-- DESCRIBING BUT NOT TRANSCRIBING, INSERT THAT HERE. -->
+		<!-- IF YOUR MANUSCRIPT HAS NO VERSO MATERIAL, OR IF    -->
+		<!-- YOU ARE TRANSCRIBING THAT MATERIAL, YOU MAY DELETE -->
+		<!-- THIS NOTE.               				  -->
+<note type="project">On the verso . . .</note>                          	
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>
+"Notebook, 1868-1870"
+</title>
+<date certainty="****" value="/" id="dat1"><!-- DATING INFO WILL BE INSERTED BY PROJECT EDITORS --></date>
+<idno type="callno">	
+</idno> 
+<orgName>
+The Thomas Biggs Harned Collection of the Papers of Walt Whitman: A Register of His Papers in the Library of Congress, 1842-1937
+</orgName> 
+
+<note type="project">Transcribed from our own digital image of original manuscript.</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+
+<change>
+<date>2005-01-31</date>
+<respStmt>
+<name>Amy Hezel</name>
+</respStmt>
+<item>Encoded</item>
+</change>
+<change>
+<date>2005-01-31</date>
+<respStmt>
+<name>Amy Hezel</name>
+</respStmt>
+<item>Transcribed</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text type="manuscript">
+<body>
+
+<div1 type="poem notes">
+
+<pb corresp="loc.00350.001" id="leaf01r" type="recto"/>
+
+<note type="authorial" place="margintop" rend="circled"><p>after an</p></note>
+
+<p>
+<hi rend="underline">Extract from Heine's Diary</hi> 
+<add type="unmarked" place="inline">(paraphrase &#38; varied)</add> Nov. 25. 1868&#8212;(night)
+&#8212;to live <hi rend="underline">a more <app><rdg varSeq="1"><del type="overwrite">s</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">S</add></rdg></app>erene <app><rdg varSeq="1"><del type="overwrite">c</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">C</add></rdg></app>alm, 
+philosophic Life</hi>&#8212;<hi rend="underline">reticent, 
+far more reticent</hi>&#8212;yet <orig reg="cheerful">cheer&#45;</orig>
+ful, with pleased spirit and 
+pleased manner&#8212;<add type="unmarked" place="supralinear">&#8212;far less of the gusty, the caprcious</add> <add type="unmarked" place="infralinear">&#8212;the puerile&#8212;</add> 
+</p>
+
+<p>
+No more attempts at smart 
+sayings, or scornful criticisms, 
+or harsh comments on persons 
+or actions, or private or public 
+affairs.
+</p>
+
+<pb corresp="loc.00350.002" id="leaf02r" type="recto"/>
+
+<lg1 type="poem">
+
+<head type="main-authorial">Epictetus.<add type="unmarked" place="infralinear">(description of a W<gap reason="illegible"/></add></head>
+
+<l>He reproves nobody.&#8212;</l>
+<l>Praises nobody</l>
+<l>Blames nobody,</l>
+<l><hi rend="underline">Nor even speaks of himself</hi>,</l>
+<l><seg>If any one praises him, in his</seg>
+<seg>own mind he condemns the <unclear reason="deletion, illegible" resp="ah" cert="70%">Hatterer</unclear></seg></l>
+<l><seg>If any one reproves <add type="unmarked" place="supralinear">(? or insults)</add> him he looks</seg>
+<seg>with care that it do not irritate</seg>
+<seg>him.</seg></l>
+<l><seg>All his desires depend on things</seg>
+<seg>within his power.</seg></l>
+<l><seg>He transfers all his aversions</seg>
+<seg>to those things which Nature</seg>
+<seg>commands us to avoid.</seg></l>
+<l>His appetites are always moderate;</l>
+<l><seg><hi rend="underline">He is indifferent whether he be thought</hi></seg>
+<seg><hi rend="underline">foolish or ignorant</hi>.<add type="unmarked" place="supralinear"><gap reason="deletion, illegible"/></add></seg></l>
+<l><seg>He observes himself with the nicety</seg>
+<seg>of an enemy or spy, and looks</seg>
+<seg>on his own wishes as betrayers.</seg></l>
+
+</lg1>
+
+<note type="authorial" place="marginbot"><p>88-89</p></note>
+
+<pb corresp="loc.00350.003" id="leaf03r" type="recto"/>
+
+<p>
+<add type="pasteon" place="inline">cheating, childsih abandonment</add> 
+of myself, <app><rdg varSeq="1"><del type="overstrike"><gap reason="deletion, illegible"/></del></rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">fancying</add> </rdg></app> what does 
+not <add type="insertion" place="supralinear">really</add> exist in another, but <add type="insertion" place="supralinear">is all the time</add> in 
+myself alone&#8212;utterly deluded 
+&#38; cheated by <hi rend="underline">myself</hi> &#38; my 
+own weakness&#8212; <hi rend="underline">Remember 
+where I am most weak</hi>, &#38; 
+most lacking, yet always 
+preserve a kind spirit &#38; <orig reg="demeanor">de</orig> 
+meanor to <gap reason="illegible"/>. But <hi rend="underline">pursue 
+her no more</hi>.
+</p>
+
+<p>
+A cool, gentle, <hi rend="underline">(less demonstrative)</hi> 
+<note type="authorial" place="marginleft"><!-- a hand with finger pointing to the insertion added</note><add type="insertion" place="supralinear"><hi rend="underline">more uniform</hi></add> <hi rend="underline">demeanor</hi>&#8212;give to poor&#8212;help 
+any&#8212;be indulgent to the <orig reg="criminal">crim</orig> 
+inal &#38; silly <addSpan type="insertion" to="a1" place="supralinear">persons generally <add type="unmarked" place="inline">&#38; the ignorant</add><anchor id="a1">&#8212;but <hi rend="underline">say</hi> little 
+&#8212;make no explanations&#8212;<hi rend="underline">give 
+no confidences</hi> <addSpan type="unmarked" to="a2" place="inline">never attempt 
+puns or plays upon words, or 
+<add type="unmarked" place="inline">better</add> sarcastic comments, or, (under ord<gap reason="cutaway, illegible"/> 
+circumstances hold any discussions, <add type="unmarked" place="infralinear">arguments</add> 
+<anchor id="a2">
+</p>
+
+<note type="authorial" place="marginbot"><p>93</p></note>
+
+<pb corresp="loc.00350.004" id="leaf03r" type="recto"/>
+
+<pb corresp="loc.00350.005" id="leaf04r" type="recto"/>
+
+<note type="authorial" place="margintop"><p>Outline sketch of a superb calm charac<unclear reason="illegible" resp="ah" cert="90%">ter</unclear></p></note>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+his emotions &#38;c are 
+complete in himself 
+<app><rdg varSeq="1"><del type="overstrike">indifferent</del> </rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">irrespective of</add> </rdg></app> whether his 
+love friendship, &#38;c are 
+returned, or not
+</p>
+
+<p>
+He grows, blooms, like 
+some perfect tree or 
+flower, in Nature, 
+whether viewed by <orig reg="admiring">ad-</orig> 
+miring eyes, or in some 
+wild or wood, entirely 
+unknown
+</p>
+
+<p>
+<app><rdg varSeq="1"><del type="overstrike">It is</del> </rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">His analogy is</add> </rdg></app> as if the earth, 
+complete in itself, 
+<app><rdg varSeq="1"><del type="overstrike">proceeding without</del> </rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">enfolding in itself</add></rdg></app> 
+<add type="unmarked" place="supralinear">all</add> processes of growth 
+effusing life &#38; power, 
+for hidden purposes
+</p>
+
+<note type="authorial" place="marginbot"><p>94</p></note>
+
+<pb corresp="loc.00350.006" id="leaf05r" type="recto"/>
+
+<note type="authorial" place="margintop" rend="circled"><p>Congress adjourning is in great excitement War is said to be declared in Europe 2&#189; P.M.&#8212;I am writing in the office not feeling very well&#8212;opprest with the heat</p></note>
+
+<p>
+<hi rend="underline">
+To give up absolutely &#38; 
+for good, from this <add type="insertion" place="supralinear">present</add> hour, <gap reason="deletion, illegible"/>
+this feverish, fluctuating, useless 
+undignified pursuit of 16 4 
+&#8212;too long, (much too long) <orig reg="perserved">per-</orig>
+</hi>
+served in&#8212;so humiliating&#8212;
+&#8212;
+<hi rend="underline">It must come at last &#38;</hi> 
+had better come now&#8212;<add type="insertion" place="supralinear"><hi rend="underline">(It cannot possibly be a success)</hi></add>. 
+<hi rend="underline">Let there</hi> <add type="insertion" place="supralinear">from this hour</add> <hi rend="underline">be no faltering,</hi> 
+<del type="overstrike">or </del> <hi rend="underline">no getting <gap reason="illegible"/> at all 
+henceforth, (not once, under 
+any circumstances)&#8212;avoid 
+seeing <app><rdg varSeq="1"><del type="overwrite">him</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">her</add></rdg></app>, or meeting <app><rdg varSeq="1"><del type="overwrite">him</del></rdg><rdg varSeq="2"><add type="overwrite" place="over">her</add> </rdg></app> or 
+any talk ot explanations&#8212;or 
+any meeting whatever from 
+this hour forth, for life
+</hi>
+</p>
+
+<note type="authorial" place="marginbot"><p>95</p></note>
+
+<note type="authorial" place="marginbot"><p>&#9757;</p></note>
+
+<note type="authorial" place="marginbot"><p>July 15 '70</p></note>
+
+<pb corresp="loc.00350.007" id="leaf06r" type="recto"/>
+
+<note type="authorial" place="margintop"><p>June 17&#8212;</p></note>
+
+<note type="authorial" place="margintop"><p>Good!&#8212;July 15</p></note>
+
+<p>
+<hi rend="underline">It is imperative</hi>, that 
+I obviate &#38; remove 
+myself (&#38;<del type="overstrike"><add type="insertion" place="supralinear">from</add></del> my orbit) 
+<hi rend="underline">at all hazards</hi> 
+<add type="unmarked" place="inline">from</add> <del type="overstrike"><add type="unmarked" place="supralinear"><unclear reason="deletion, illegible" resp="ah" cert="70%">among</unclear> from</add></del> this <hi rend="underline">incessant</hi> 
+<add type="insertion" place="supralinear"><hi rend="underline">enormous</hi></add> &#38; <hi rend="underline">abnormal</hi> 
+<note type="authorial" place="marginleft">&#9759;</note> 
+<del type="overstrike"><add type="insertion" place="supralinear">enormous</add></del> <hi rend="underline">perturbation</hi>
+<note type="authorial" place="marginbot">&#9757;</note>
+</p>
+
+<note type="authorial" place="marginbot"><p>92x</p></note>
+
+<pb corresp="loc.00350.008" id="leaf07r" type="recto"/>
+
+<addSpan type="pasteon" to="a3" place="inline"/>
+
+<p>
+Depress the 
+adhesive Nature 
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+It is in excess&#8212;
+mkaing life a torent
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+Ah this diseased, 
+feverish <orig reg="disproportionate">dispropor-</orig>
+tionate adhesiveness
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+Remember 
+Fred Vaughan
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+Case of Jenny Bullard
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+Sane Nature 
+<gap reason="deletion, illegible"/> fit &#38; full 
+Rapport therewith 
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+Merlin strong &#38; 
+wise &#38; beautiful 
+at 100 years old.
+</p>
+
+<note type="authorial" place="marginbot"><p>96</p></note>
+<anchor id="a3"/>
+
+<p>
+<add place="inline" hand="unk" type="pasteon">
+<gap reason="illegible"/>
+</add>
+<note type="authorial" place="marginright">March 1870</note>
+
+<add place="inline" hand="unk" type="pasteon">
+<gap reason="illegible"/>
+</add>
+<note type="authorial" place="marginright">1860</note>
+</p>
+
+<note type="authorial" place="marginbot"><p>98</p></note>
+
+<pb corresp="loc.00350.009" id="leaf08r" type="recto"/>
+
+<note type="authorial" place="marginright"><p>&#9758;A warning to Literary Men Philosophers thinkers &#38; poets</p></note>
+
+<p>
+<add place="marginright" hand="unk" type="pasteon">
+The London correspondent of the Dumfries 
+Standard writes: "I am very sorry to inform 
+you that the condition of Mr. Thomas Carlyle 
+is giving a great deal of un<gap reason="illegible"/> to his 
+friends.  He has long been known to be 
+unhappy, although, when in the mood, he is 
+the most delightful company imaginable.  Still 
+it is not often that he is in the mood, and then 
+with his bitterness and fierce sarcasm he makes 
+it bad times for those who are beside him.  Of 
+late, too, his gloom, moodiness, desire for 
+seq<gap reason="illegible"/>, and irritability when disturbed 
+have much increased.  Friend after friend, 
+who had <gap reason="illegible"/> with him long out of respect 
+for his real nobility of soul, have been <orig reg="gradually">gradu-</orig> 
+ally alientaed by his capricious temper, and 
+now the grand old man may be said to be 
+almost alone in the world with his old Scotch 
+servant from the hill-country of Dumfriesshire. 
+Mr. Ruskin was the longest sufferer; but he, 
+too, knows no longer the way to Cheyne Row. 
+I heard the other day a story of Carlyle.  An 
+American author of eminence came over <orig reg="bearing">bear-</orig> 
+ing a letter of introduction from Emerson, one 
+of Carlyle's special favorites and warmest <orig reg="admirers">ad-</orig> 
+mirers.  Carlyle has a habit of answering his 
+door himself, a practice rather disconcerting, I 
+should say, to hawkers, beggars, &#38;c., and <orig reg="indeed">in-</orig> 
+deed to applicants of another stamp. This 
+particular Yankee knocked and Carlyle opened 
+unto him. The man, taken aback, for he 
+knew Carlyle well by his photographs (as who 
+does not?), asked hesitatingly, "is Mr. Thomas 
+Carlyle at home?"  The sage's reply was a 
+loud and emphatic "No," followed by slamming 
+the door with so much abruption that the 
+American's nose made a very narrow escape. 
+He has a large room at the top of the house, 
+lighted from the roof, where all his favorite 
+books are, and pasted on the walls are portraits
+&#8212;some fine, others very common&#8212;of those 
+whom he regarded as his heroes&#8212;Frederick 
+the Great, Gustavus Adolphus, and a number 
+more. This room is his sanctura, and few 
+there be who are admitted into it; I have 
+never known more than two&#8212;besides his <orig reg="secretaries">sec-</orig> 
+retaries, whom he was wont to change very 
+often, and to whom he did not always behave, 
+it was said, so considerately as he might. There 
+is something peculiar in the tenure of Mr. 
+Carlyle's holding of his home in Cheyne 
+Walk. He has not the remotest conception 
+who is his landlord. He saw the <orig reg="advertisement">advertise-</orig> 
+ment of the house to let, with directions to 
+communicate with Messrs. Coatts and Co., wrote 
+and received a reply accepting his offer, and 
+directing that he should annually pay in his 
+rent&#8212;if convenient&#8212;to Coatts and Co., "<orig reg="account">ac-</orig> 
+count Cheyne Walk." Further, the rent is 
+so low (<gap reason="illegible"/>) as to induce the idea that the 
+arrangement sprung from a desire to <orig reg="accomplish">accom-</orig> 
+modate the great author rather than to profit 
+by him as a tenant."  March. 1870
+</add>
+</p>
+<note type="authorial" place="marginbot">99<space dim="horizontal" extent="20 letters"/><p>99</p></note>
+</div1>
+</body>
+</text>
+</TEI.2>

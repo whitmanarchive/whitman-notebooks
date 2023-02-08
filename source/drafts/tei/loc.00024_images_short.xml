@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="m" type="main">The regular old followers [composite images]</title>
+				<title level="m" type="sub">a machine readable transcription</title>
+				<author>Walt Whitman</author>
+				<editor>Kenneth M. Price</editor>
+				<editor>Ed Folsom</editor>
+				<respStmt>
+					<resp>Creation</resp>
+					<persName xml:id="nhg">Nicole Gray</persName>
+				</respStmt>
+				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+				<sponsor>University of Iowa</sponsor>
+				<funder>The National Endowment for the Humanities</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2019</date>
+				</edition>
+			</editionStmt>
+			<publicationStmt>
+				<idno>loc.00024_images_short</idno>
+				<distributor>The Walt Whitman Archive</distributor>
+				<address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+				<availability>
+					<p>Copyright © 2016 by Ed Folsom and Kenneth M. Price, all rights
+						reserved. Items in the Archive may be shared in accordance with the Fair Use
+						provisions of U.S. copyright law. Redistribution or republication on other
+						terms, in any medium, requires express written consent from the editors and
+						advance notification of the publisher, Center for Digital Research in the
+						Humanities. Permission to reproduce the graphic images in this archive has
+						been granted by the owners of the originals for this publication only.</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>Walt Whitman</author>
+					<title>Notebook LC #83</title>
+					<date cert="medium" notBefore="1853" notAfter="1855" xml:id="dat1">Between 1853 and 1855</date>
+					<idno type="callno">MSS45443, Box 2, Reel 1</idno> 
+					<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
+					<note type="project">Transcribed from digital images of the original.</note>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2019-12-10" who="#nhg">created</change>
+		</revisionDesc>
+	</teiHeader>
+<pb xml:id="leaf002r" facs="loc_nhg.01408_composite.jpg" type="recto"/>
+	<pb xml:id="leaf002v" facs="loc_nhg.01407_composite.jpg" type="verso"/>
+</TEI>

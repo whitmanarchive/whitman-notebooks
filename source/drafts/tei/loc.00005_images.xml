@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI><teiHeader>
+<fileDesc>
+<titleStmt>
+	<title level="m" type="main" rend="bracketed">med Cophósis</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<persName xml:id="nhg">Nicole Gray</persName>
+<persName xml:id="ec">Eric Conrad</persName>
+<persName xml:id="jm">Joshua Matthews</persName>
+<persName xml:id="ah">Amy Hezel</persName>
+	<persName xml:id="kmp">Kenneth M. Price</persName>
+</respStmt>
+	<sponsor>Center for Digital Research in the Humanities</sponsor>
+<sponsor>The Institute for Advanced Technology in the 
+Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt><editionStmt>
+<edition><date>2004</date></edition>
+</editionStmt><publicationStmt>
+<idno>loc.00005</idno>
+<distributor>The Walt Whitman Archive</distributor>
+	<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>P.O. Box 884100</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>kprice@unlnotes.unl.edu</addrLine>
+<addrLine>Ed-Folsom@uiowa.edu</addrLine>
+<addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+	<p>The text of the original document is in the public domain. Subject to certain exceptions, public domain works may be freely copied or used in the creation of derivative works without permission, or authorization, of the former copyright owners.</p>  
+	<p>The text encoding was created and/or prepared by the Walt Whitman Archive and is governed by a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
+	<p>Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p> 
+</availability>
+</publicationStmt>
+<notesStmt>
+	<note type="project" target="#dat1">This notebook was kept by Whitman in the early to mid-1850s.</note>       
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>Women</title>
+<date cert="medium" notBefore="1852" notAfter="1854" xml:id="dat1">Between 1852 and 1854</date><!--NOTE: this date is based on Matt Miller's dating in Collage of Myself-->
+<idno type="callno">Box 39, Folder "Literary, Before 1855, Women"</idno> 
+	<orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839–1919, Library of Congress, Washington, D.C.</orgName> 
+<note type="project">Transcribed from our own digital images of original 
+manuscript.</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+	<change when="2015-04-28" who="#nhg">created file</change>
+	
+</revisionDesc>
+</teiHeader><pb facs="loc.00005.001.jpg" xml:id="leaf001r" type="recto"/><pb facs="loc.00005.002.jpg" xml:id="leaf001v" type="verso"/><pb facs="loc.00005.003.jpg" xml:id="leaf002r" type="recto"/><pb facs="loc.00005.004.jpg" xml:id="leaf002v" type="verso"/></TEI>

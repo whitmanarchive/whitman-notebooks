@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.01761">
+    
+    <teiHeader>
+        
+        <fileDesc>
+            
+            <titleStmt>
+                <title level="m" type="main">to speak a reverent word</title> 
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <name>The Walt Whitman Archive Staff</name>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            
+            <editionStmt>
+                <edition>
+                    <date>2010</date>
+                </edition>
+            </editionStmt>
+            
+            <publicationStmt>
+                <idno>loc.01761</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright © 2010 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, Center for Digital Research in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt>
+                <note type="project" target="#dat1"><!-- when was this manuscript written? --></note>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="al">Ashley Lawson</persName> <persName xml:id="tj">Tim Jackson</persName>
+                </note>
+            </notesStmt>
+            
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>          
+                    <title>to speak a reverent word</title> 
+                    <!--     THE DATE INFORMATION IN THE NEXT LINE WILL BE ADDED BY AN EDITOR     -->
+                    <!--<date xml:id="dat1" cert="****" when="/"> </date>-->
+                    
+                    <idno type="callno">HM 94</idno> <!-- find name --> <!-- [TJ] The database reads Feinberg? -->
+                    <orgName>The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839-1919, Library of Congress, Washington, DC</orgName> 
+                    <note type="project">Transcribed from our own digital image of the original manuscript.</note>
+                </bibl>
+            </sourceDesc>
+            
+        </fileDesc>
+        
+        <revisionDesc>
+            <change when="2011-03-09" who="#tj">Corrected a large subst</change>
+            <change when="2011-02-15" who="#tj">Checked, corrected, queried</change>
+            <change when="2011-01-31" who="#al">Transcribed and encoded</change>
+        </revisionDesc>
+        
+    </teiHeader>
+    
+    <text type="manuscript">
+        
+        <body>
+            
+            <pb xml:id="leaf001r" facs="loc.01761.001_large.jpg" type="recto"/>
+            
+            <head type="main-derived">to speak a reverent word</head>
+            
+            <note type="editorial" resp="unk">This book belonged to Walt Whitman <unclear reason="illegible" cert="medium" resp="al">&#38;</unclear> was used by him in delivering his lecture on Lincoln July 11th 93 <gap 
+                reason="illegible" extent="two lines"/> &#38; <unclear reason="illegible" cert="low" resp="#al">Huawing</unclear> Robert <gap reason="illegible" extent="two words"/>, &#38; as <gap reason="illegible" 
+                    extent="one word"/> the hand of Whitman's <gap reason="torn away" extent="unk"/>, delights to <gap reason="torn away" extent="unk"/> this transfer</note>
+            
+            <pb xml:id="leaf001v" facs="loc.01761.002_large.jpg" type="verso"/> 
+            
+          
+            <transpose anchored="true" target="t2">to speak a <add place="supralinear" rend="insertion">reverent</add> word <subst><del rend="overstrike" seq="1">in memory</del><add place="supralinear" rend="unmarked" 
+                seq="2">as <hi rend="underline">recalle</hi></add></subst> of this event&#8212;and around <subst><del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="#al">this</unclear></del><add 
+                    place="supralinear" rend="insertion" seq="2">it, indeed</add></subst> as emblem and centre for the loss of all <add place="supralinear" rend="insertion">the</add> soliders&#8212;aye and all civilians
+                too&#8212;whose death resulted from that war,</transpose>
+            
+            <add rend="pasteon">
+                How often since that dark and dripping Saturday&#8212;that chilly April day, now <subst><add place="marginright" rend="insertion"><del rend="overstrike" seq="1">over twenty</del></add> <add place="marginright"><del rend="overstrike"><add place="supralinear" rend="unmarked" seq="2">
+                    nearly twenty-<subst><del rend="overstrike" seq="1">one</del><add place="supralinear" rend="unmarked" seq="2">two</add></subst> years bygone</add></del></add> <add place="marginleft" rend="unmarked" seq="3"><del
+                        rend="overstrike">close on</del> twenty two</add></subst> <add place="marginright" rend="unmarked">April 14, 15 1865 1865</add> <del rend="overstrike">fifteen</del> years bygone,&#8212;my heart has entertained the dream, the wish, 
+                to give of Abraham Lincoln's death its own special thought and memorial.  Yet now the sought-for opportunity offers, I find my notes incompetent, <del rend="overstrike">(why, for truly profound themes, is
+                statement so idle?  why does the right phrase never offer?)</del> and the fit tribute I dreamed of waits unprepared as ever. <add place="marginright" rend="insertion">&#42;</add> My talk here <del 
+                    rend="overstrike"><gap reason="illegible" extent="one word"/></del> is less because of itself or anything in it, and nearly altogether because I feel a desire, apart from any talk, to specify <unclear
+                        reason="illegible" cert="low" resp="#al">the day</unclear>, the martyrdom.  It is for this, my friends, I have <subst><del rend="overstrike" seq="1">called</del> <add place="marginleft" rend="insertion">invited</add></subst> you <del rend="overstrike">together</del> <anchor xml:id="t2"/>  Oft as the rolling years bring back this hour, let it again however briefly be dwelt upon.  For my own part, I hope and 
+                intend, till my own dying day, whenever the 14th or 15th of April comes, to annually gather a few friends, and hold its tragic reminiscence.  No narrow or sectional reminiscence.  It belongs to These States
+                in their entirety&#8212;not the North only, but the South&#8212;perhaps belongs most tenderly and devoutly to the South, of all; for there, really, this man's birth-stock.  There and thence his antecedent 
+                stamp.  Why should I not say that thence his manliest traits&#8212;his universality&#8212;his canny, easy ways and words upon the surface&#8212;his inflexible determination and courage at heart?  Have you
+                ever realized it, my friends, that Lincoln, though grafted on the West, is essentially, in personnel and character, a Southern contribution?
+            </add>
+            <note type="editorial" resp="unk" place="marginleft">1135 py/xx</note>
+            <!-- [TJ] Unsure where to place the following note? -->
+            <note type="authorial" place="marginright"><unclear reason="illegible, erased">d</unclear></note>
+            <pb xml:id="leaf002r" facs="loc.01761.003_large.jpg" type="recto"/>
+            <p>
+                The central fact of my discourse
+                <subst>
+                    <del rend="overstrike" seq="1">to-night</del>
+                    <add place="supralinear" rend="unmarked" seq="2">this afternoon</add>
+                </subst>
+                , <del rend="overstrike">&#38; its radiations,</del> will be the death of Abraham Lincoln.
+                <!-- Does this line imply that Whitman wants the paragraphs joined, or is it an insertion mark for the substitution? --> 
+                <add rend="pasteon">
+                <subst>
+                    <del rend="overstrike" seq="1">An old</del>
+                    <add place="supralinear" rend="insertion" seq="2">An old</add>
+                </subst>
+                    Virginia friend who call'd upon me <add place="supralinear" rend="insertion"><subst><del rend="overstrike" seq="1">to-day</del><add place="supralinear" rend="insertion" seq="2">
+                    lately</add></subst></add>&#8212;when the theme of <add place="supralinear" rend="insertion">my proposed talk</add> <del rend="overstrike">this</del> <del rend="overstrike"><add place="supralinear"
+                        rend="insertion">my proposed</add></del> <del rend="overstrike"><unclear reason="illegible" cert="low" resp="#al">direct</unclear></del><!-- [TJ] While illegible, could the word be "discourse"? --> was mention'd, said, "Why rake up the embers of the
+                    Secession War?  Why the murder of President Lincoln?" adding, "I think we
+                    <subst>
+                        <del rend="overstrike" seq="1">all</del>
+                        <add place="supralinear" rend="unmarked" seq="2">now</add>
+                    </subst>
+                    <del rend="overstrike"><gap reason="illegible" extent="one word"/></del> almost <add place="supralinear" rend="insertion">hate</add> to hear those things mention'd, <add place="supralinear" 
+                        rend="insertion">North or South.</add> Let them sleep in quiet in their graves, &#38; mould<add place="supralinear" rend="insertion">er</add> away till gone."<!-- [TJ] Is there an "s" on "gone"? -->  My old friend's suggestion has a
+                    certain sound point, which I <add place="supralinear" rend="insertion">too</add> see clearly enough, But I also see other <add place="supralinear" rend="insertion"><unclear reason="illegible"
+                    cert="low" resp="al">points</unclear> <unclear reason="illegible" cert="low" resp="#tj">related</unclear></add> <unclear reason="illegible" cert="medium" resp="#tj">reasons</unclear> <gap reason="torn away" extent="unk"/>d surmounting <add place="supralinear" rend="insertion">and</add>
+                    enclosing
+                </add> </p>
+                
+                <pb xml:id="leaf002v" facs="loc.01761.004_large.jpg" type="verso"/> 
+                
+                <note type="editorial" resp="unk" rend="circled" place="inline">1</note>  
+            
+            <pb xml:id="leaf003r" facs="loc.01761.005_large.jpg" type="recto"/>
+            
+            <note type="authorial" place="margintop">2</note>
+            
+            <p>
+                The war, &#38; the doings of the war are <add rend="pasteon">facts which can never be ignored.  But we can treat the<del rend="overstrike"><gap reason="illegible" extent="a few characters"/></del>
+                whole matter now, and henceforth
+                <subst>
+                    <del rend="overstrike" seq="1">in a spirit of</del>
+                    <add place="supralinear" rend="unmarked" seq="2">with</add>
+                </subst>
+                tolerance and <add place="supralinear" rend="insertion">even fraternity and</add> philosophy.
+                </add></p>
+            <add rend="pasteon">
+                <p>
+                    To me, I say, when
+                    <subst>
+                        <del rend="overstrike" seq="1"><unclear reason="illegible" cert="low" resp="al">too</unclear></del><!-- [TJ] Could "too" be "trea"? -->
+                        <add place="supralinear" rend="unmarked" seq="2">giv</add>
+                    </subst>
+                    in 
+                    <subst>
+                        <del rend="overstrike" seq="1">that</del>
+                        <add place="supralinear" rend="unmarked" seq="2">the</add>
+                    </subst>
+                    true sprit, we <unclear reason="illegible" cert="low" resp="#al">cannot</unclear> have <add place="supralinear" rend="insertion">&#8212;neither talk or print can have&#8212;</add> too many reminiscences
+                    of the Secession War
+                    <subst>
+                        <del rend="overstrike" seq="1">or</del>
+                        <add place="supralinear" rend="unmarked" seq="2">and</add>
+                    </subst>
+                    <gap reason="illegible" extent="unk"/> things that led to it. <add place="supralinear" rend="insertion">&#8212;and all belonging to it.</add>
+                </p>
+            </add>
+            
+            <pb xml:id="leaf003v" facs="loc.01761.006_large.jpg" type="verso"/> 
+            
+            <note type="editorial" resp="unk" rend="circled">2</note>
+            
+            <pb xml:id="leaf004r" facs="loc.01761.007_large.jpg" type="recto"/>
+            
+            <note type="authorial" place="margintop">3</note>
+            
+            <add rend="pasteon">
+                 <p>
+                     Already, the events of
+                <subst>
+                    <del rend="overstrike" seq="1">186<gap reason="illegible" extent="a few characters"/>, and the seasons that immediately preceded, as well as those that closely follow'd them,</del>
+                    <del rend="overstrike"><add place="supralinear" rend="insertion" seq="2">1862 and 3</add></del>
+                    <add place="supralinear" rend="insertion" seq="3">that period</add>
+                </subst>
+                have quite lost <del rend="overstrike">their direct personal impression, and</del> the living heat and excitement of their own time, and are being marshalled for casting, or getting ready to be cast, into
+                the cold and bloodless electrotype plates of History. <!-- Does this line indicate a desire to combine these paragraphs? -->
+                 </p>
+                <p>
+                   Or if we admit that the savage temper and wide difference of opinion and feelings of wrongs, and mutual recriminations, that led to the Secession War and flamed in its mortal conflagration, may not have yet
+                   entirely burnt themselves out, still, all will acknowledge that the embers of them are <del rend="overstrike">already</del> dying embers, and a few more winters and summers, a few more rains and snows,
+                    will surely quench their fires, and leave them only as a far off memory.
+                </p>
+            </add>
+            <add rend="pasteon">
+                <ab><del rend="overstrike">SOLID LAND APPEARING THE PEAKS OF THE <hi rend="center">FUTURE</hi></del></ab>
+                <p>
+                    <subst><del rend="overstrike" seq="1">But is it not already dawning upon us</del> <add place="supralinear" rend="insertion" seq="2"><subst><del rend="overstrike" seq="1">And</del><add place="supralinear" rend="unmarked" 
+                        seq="2">Then</add></subst>it has <subst><del rend="overstrike" seq="1">already</del><add place="supralinear" rend="unmarked" seq="2">by this time</add></subst> become quite clear to thinking
+                        minds</add></subst> that out of the War not only has the Nationality of the United States escaped from being strangled, but more than any of the rest, and, in my opinion, more than the North itself, the 
+                    vital heart and breath of the South have escaped as from the pressure of a general nightmare, and are <del rend="overstrike"><gap reason="illegible" extent="one word"/></del> to enter on a life,
+                    development, and active freedom whose realities are certain in the future, notwithstanding all the Southern vexations and humiliations of the hour; and could not possibly have been achieved on any less
+                    terms or by any other means than that war or something equivalent to it. <del rend="overstrike">And I predict that the South is yet to outstrip the North.</del>
+                </p>
+            </add>
+            <ab><del rend="overstrike">with the first breath of a great historic triumph &#38; 
+                <subst>
+                    <del rend="overstrike" seq="1">in</del>
+                    <del rend="overstrike"><add place="supralinear" rend="unmarked" seq="2">with</add></del>
+                    <add place="supralinear" rend="unmarked" seq="3">in a</add>
+                </subst>
+                murder &#38; horror unsurpass'd, Abraham Lincoln himself passed away forever
+            </del></ab>
+            
+            <pb xml:id="leaf004v" facs="loc.01761.008_large.jpg" type="verso"/> 
+            
+            <note type="editorial" resp="unk" rend="circled">3</note>
+            
+            <pb xml:id="leaf005r" facs="loc.01761.009_large.jpg" type="recto"/>
+            
+            <note type="authorial" place="margintop">4</note>
+        
+            
+            <ab>The tragedy itself has many years been
+                <add rend="pasteon">
+                    <del rend="overstrike"><gap reason="illegible" extent="about one character"/></del> over&#8212;and in the peaceful, strong, exciting, fresh occasions of To-day, and of the Future <add 
+                        place="supralinear" rend="insertion">that</add> <del rend="ovestrike">that</del> strange, sad <subst><del rend="overstrike" seq="1">war</del><add place="marginleft" rend="unmarked" seq="2">play</add></subst> is hurrying even now to be forgotten.  The camp, the drill, the lines 
+                    of sentries, the prisons, the hospitals,&#8212;(ah! the hospitals!)&#8212;<del rend="overstrike">all have passed away</del>&#8212;all seem now like a dream.  A new race, a young and lusty generation,
+                    already sweeps in with oceanic currents, obliterating 
+                    <subst>
+                        <del rend="overstrike" seq="1">that</del>
+                        <add place="supralinear" rend="unmarked" seq="2">the</add>
+                    </subst>
+                  war, and all its scars, its mounded graves, and all its reminiscences of hatred, conflict death.  <add place="marginleft" rend="insertion">In every hateful and malignant sense</add> So let it be 
+                    obliterated.  I say the life of the present and the future makes undeniable demands upon us each and all, South, North, East, West.
+                </add></ab>
+                <ab>
+                    <subst>
+                        <del rend="overstrike" seq="1">To</del>
+                        <add place="supralinear" rend="unmarked" seq="2">And now to</add>
+                    </subst>
+                    come back <unclear reason="torn away" cert="low" resp="#al">most</unclear> definitely to 
+                    <subst>
+                        <del rend="overstrike" seq="1">the</del>
+                        <add place="supralinear" rend="unmarked" seq="2">my</add>
+                    </subst>
+                    theme
+                </ab>
+            
+            
+            <pb xml:id="leaf005v" facs="loc.01761.010_large.jpg" type="verso"/> 
+            
+            <note type="editorial" resp="unk" rend="circled">4</note>
+            
+            <pb xml:id="leaf006r" facs="loc.01761.011_large.jpg" type="recto"/>
+            
+            <p>
+                My subject <add place="supralinear" rend="insertion">to you <add place="supralinear" rend="insertion">my friends</add> this evening</add> for <del rend="overstrike">my</del> 40 or 50 minutes talk <del 
+                    rend="overstrike"><add place="supralinear" rend="insertion">to you my friends</add></del> <del rend="overstrike">this evening</del> is "the Death of Abraham Lincoln."  I
+                <subst>
+                    <del rend="overstrike" seq="1">shall</del>
+                    <add place="supralinear" rend="insertion" seq="2">am not going to</add>
+                </subst>
+                tell you
+                <subst>
+                    <del rend="overstrike" seq="1">nothing</del>
+                    <add place="supralinear" rend="unmarked" seq="2">any thing</add>
+                </subst>
+                new &#38; it is <del rend="overstrike">nearl</del> mainly because I wish to <add place="supralinear" rend="insertion">reverently</add> commemorate the day and
+                <subst>
+                    <del rend="overstrike" seq="1">death</del>
+                    <add place="supralinear" rend="unmarked" seq="2">martyrdom</add>
+                </subst>
+                and name <del rend="overstrike">&#38; nothing special in my story</del>.  I
+                <subst>
+                    <del rend="overstrike" seq="1">have call'd you together</del>
+                    <add place="supralinear" rend="unmarked" seq="2">meet here with you</add>
+                </subst>
+                &#42; Oft as the rolling years
+            </p>
+            
+            <pb xml:id="leaf006v" facs="loc.01761.012_large.jpg" type="verso"/> 
+            
+            <note type="editorial" resp="unk" rend="circled">A</note>
+            
+            <pb xml:id="leaf007r" facs="loc.01761.013_large.jpg" type="recto"/>
+            <!-- .013-.025 are pages from a book, some edited by Whitman. Separate? -->
+            
+            <pb xml:id="leaf0013v" facs="loc.01761.026_large.jpg" type="verso"/> 
+            
+            <p>
+            <add rend="pasteon">
+                All <del rend="overstrike">all</del> serves <add place="supralinear" rend="insertion">the true spirit, the true development of America.</add>  Life serves, and death also&#8212;even the death of the 
+                sweetest and wisest. Crumbled and wordless now lie his remains <add place="supralinear" rend="insertion">long buried</add> there in his
+                <subst>
+                    <del rend="overstrike" seq="1">grave <unclear reason="illegible" cert="medium" resp="#al">in</unclear> the prairies&#8212;</del>
+                    <add place="supralinear" rend="unmarked" seq="2">prairie&#8209;grave&#8212;</add>
+                </subst>                
+                &#8212;aside from cities, and all the din of wealth&#8209;making and politics, and all contention and doubt.  The storm is <add place="supralinear" rend="insertion">long</add> over.  The battle, the 
+                anguish, the uncertainty whom to trust <add place="supralinear" rend="unmarked">are over</add>, the slur, <del rend="overstrike"><add place="supralinear" rend="insertion">are over</add></del> the envenom'd
+                bullet
+            </add>
+                and <gap reason="illegible" unit="chars" extent="3"/> sling of many a traitors tongue and pen, <add place="supralinear" rend="insertion">are over.</add>  With the first breath of a <add 
+                    place="supralinear" rend="unmarked">the</add> great historic triump<gap reason="illegible" extent="unk"/> and in murder and horror unsurpassed, Abraham Lincoln died.  But
+                <add rend="pasteon">
+                    not only the
+                    <subst>
+                        <del rend="overstrike" seq="1">lesson</del>
+                        <add place="supralinear" rend="unmarked" seq="2"><unclear reason="illegible" cert="medium" resp="#al">incalculable</unclear> value</add>
+                    </subst>                    
+                    he gave the New World in life survives for ever, but the
+                    <subst>
+                        <del rend="overstrike" seq="1">lesson</del>
+                        <add place="supralinear" rend="unmarked" seq="2"><unclear reason="illegible" cert="medium" resp="#al">incalculable</unclear> value</add>
+                    </subst>
+                    of his death <add place="supralienar" rend="unmarked">survives forever.</add>
+                </add>
+            </p>
+            
+            <pb xml:id="leaf014r" facs="loc.01761.027_large.jpg" type="recto"/>
+            <!-- Pages from a book, edited by Whitman. Separate from document, or is it associated with .028? -->
+            
+            <pb xml:id="leaf0014v" facs="loc.01761.028_large.jpg" type="verso"/> 
+            
+            <add rend="pasteon">
+                <hi rend="circled">
+                Thus my friends I <add place="supralinear" rend="insertion">draw to a</add> finish the duty I spoke of <add place="supralinear" rend="insertion">and to which I have invited you&#8212;</add>&#8212;
+                turning aside a moment from all our business and pleasure&#8212;from the <add place="supralinear" rend="insertion">rush of</add> streets and crowds and din and talk&#8212;to <del rend="overstrike">to</del>
+                give a
+                <subst>
+                    <del rend="overstrike" seq="1">reverential</del>
+                    <add place="supralinear" rend="unmarked" seq="2">commemorative</add>
+                </subst>
+                moment, this <add place="supralinear" rend="insertion">twenty <del rend="overstrike">second</del> fifth</add> anniversary to the dead President&#8212;and in his name, <add place="supralinear" 
+                    rend="insertion">and truly radiating his spirit,</add> to all the dead soldiers of the war&#8212;all <add place="supralinear" rend="insertion">indeed</add> all&#8212;I feel myself to say, <add
+                        place="supralinear" rend="insertion">to faithfully fervently invested, or lost or won,</add> or South, or North,
+                </hi>
+            </add>
+            
+            <pb xml:id="leaf015r" facs="loc.01761.028_large.jpg" type="recto"/>
+            <!--.028-.064 are pages from a book, some marked through and some edited by Whitman. Separate from document? -->
+            
+            <pb xml:id="leaf033v" facs="loc.01761.065_large.jpg" type="verso"/> 
+            
+            <note type="authorial" place="margintop">at Hawthorne Rooms, Boston April 15, 1881&#8212;</note> 
+            
+            <ab>WALT WHITMAN LAST NIGHT, April 15, 1880, at Association Hall, Philadelphia.</ab>
+            
+            <pb xml:id="leaf034r" facs="loc.01761.066_large.jpg" type="recto"/>
+            <!-- .066-.067 are parts of the book- -->
+            
+        </body>
+    </text>
+</TEI>
+
+
+
+
