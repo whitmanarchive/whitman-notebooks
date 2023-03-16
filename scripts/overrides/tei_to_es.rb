@@ -85,16 +85,15 @@ class TeiToEs
 
   def uri_html
     # TODO until HTML is generated, leave nil
-    nil
-    # File.join(
-    #   @options["data_base"],
-    #   "data",
-    #   @options["collection"],
-    #   "output",
-    #   @options["environment"],
-    #   "html",
-    #   "#{@id}.html"
-    # )
+    File.join(
+      @options["data_base"],
+      "data",
+      @options["collection"],
+      "output",
+      @options["environment"],
+      "html",
+      "#{@id}.html"
+    )
   end
 
   def citation
