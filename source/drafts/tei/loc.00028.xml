@@ -1,0 +1,3117 @@
+<?xml version="1.0" encoding="ASCII"?> <?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?> <?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+ 
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00028">
+
+<relations>
+
+<work ref="xxx.00028" cert="absolute">
+<p> 
+</p>
+</work>
+</relations>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main" rend="bracketed">
+The Dick Hunt Notebook
+</title>
+
+<title level="m" type="sub">a machine readable transcription</title>
+
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<persName xml:id="nhg">Nicole Gray</persName><persName xml:id="aj">Andy Jewell</persName><persName xml:id="kmp">Kenneth Price</persName><persName xml:id="bb">Brett Barney</persName>
+<persName xml:id="jm">Josh Matthews</persName>
+</respStmt>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2004</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+
+		<!-- UNIQUE ID GOES IN THE LINE BELOW, TOO -->
+<idno>loc.00028</idno>
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>The Institute for Advanced Technology in the Humanities</addrLine>
+<addrLine>Alderman Library</addrLine>
+<addrLine>University of Virginia</addrLine>
+<addrLine>P.O. Box 400115</addrLine>
+<addrLine>Charlottesville, VA 22904-4115</addrLine>
+<addrLine>whitman@jefferson.village.virginia.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2004 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, The Institute for Advanced Technology in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+
+		<!-- IGNORE THE FOLLOWING PROJECT NOTE. IT WILL BE FILLED IN BY PROJECT EDITORS. -->
+<note type="project" target="#dat1"/>
+                   	
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>
+                    
+
+</title>
+<date xml:id="dat1" cert="unknown" notBefore="1850" notAfter="1860">
+<!-- Date is uncertain -->
+</date>
+<idno type="callno">
+	
+		
+</idno> 
+<orgName>
+</orgName> 
+
+<note type="project">Transcribed from our own digital image of original manuscript.</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<handNotes>
+<handNote xml:id="unk" scribe="unknown"/>
+</handNotes>
+</profileDesc>
+
+<revisionDesc><change when="2015-05-06" who="#nhg">converted, added schematron declaration</change>
+<change when="2006-09-28" who="#bb">Added a few readings based on new images of original.</change>
+<change when="2005-10-25" who="#jm">Encoded</change>
+<change when="2005-10-25" who="#jm">Transcribed</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text type="manuscript">
+<body>
+
+
+<!-- AGAIN, UNIQUE ID PLUS 3-DIGIT PAGE # IN THE FOLLOWING -->
+<pb facs="../figures/loc.00028.001.jpg" xml:id="leaf001r" type="recto"/>
+
+    <div1 type="section">
+<p/>
+</div1>
+
+<!-- THIS IS THE NOTEBOOK COVER.  HOW SHOULD I HANDLE IT? -->
+
+
+
+
+<pb facs="../figures/loc.00028.002.jpg" xml:id="leaf001v" type="verso"/>
+
+<div1 type="section">
+
+<list>
+<item>
+<add rend="unmarked" place="left"><hi rend="circled">mediums &#8537; size</hi></add>
+</item>
+<item rend="indented2">Dick Hunt</item>
+<item rend="indented4">68 Stanton</item>
+</list>
+<milestone unit="undeclared" rend="horbar"/>
+
+<list>
+<item>The Human Body by Wilkinson</item>
+</list>
+<milestone unit="undeclared" rend="horbar"/>
+
+<list>
+<item rend="indented2">Mrs. Hicks, widow</item>
+<item rend="indented3">75&#8212;wooden house</item>
+<item rend="indented2">Columbia  with pillars</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Audubon the naturalist (75 cts) C.S. Francis</item>
+<item rend="indented1">Diamond Atlas</item>
+<item rend="indented3">12 mo.&#8212;Morse &amp; Gaston pub</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>
+Young's Political History U.S.&#8212;Derby &amp; Jackson
+</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item rend="indented1">Lieut. Maury in Open Arctic Sea</item>
+<item rend="indented2">Brooklyn Institute, Sat. Dec 20</item>
+</list>
+
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item rend="indented1">Mrs. <add rend="insertion" place="supralinear">Cornelia</add> Ridgeway</item>
+<item rend="indented2">147 South Sixteenth</item>
+<item rend="indented4">Philadelphia</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Washington Medallion</item>
+<item rend="indented1">Steel Pen</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item rend="indented1">Presbyterian Quarterly Review Dec</item>
+<item rend="indented4">M.W. Dodd</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<p>Is there any English translation of Schlosser's "History of the Ancient World and its cultures" German&#8212;1826-1834</p>
+
+</div1>
+
+    <pb facs="../figures/loc.00028.003.jpg" xml:id="leaf002r" type="recto"/>
+
+<div1 type="section">
+
+<!-- THERE APPEARS TO BE SOME KIND OF FRACTION IN THE UPPER LEFT OF THIS PAGE.  IT DOES NOT SEEM TO BE A PAGE NUMBER.  HOW SHOULD I TAG IT? -->
+
+<list>
+<item>entree   couple</item> 
+<item>stampede   canard, (duck)</item>
+<item rend="indented3">roturier, (plebian)</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>History of Ancient Art</item>
+<item rend="indented2">translated from <unclear reason="illegible" resp="rl" cert="low">the German </unclear> of Winckleman</item>
+<item rend="indented1">2 vols. 8vo. sold by <unclear reason="illegible" resp="rl" cert="medium">Mars </unclear> and Phinney</item>
+</list>
+<milestone unit="undeclared" rend="horbar-left"/>
+
+<ab>
+Home Journal&#8212;<gap reason="illegible"/>
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Spirit of German Poetry</item>
+<item rend="indented3">by Frank Gostick</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<ab>
+French Literature Chambers pub&#8212;Spanish Lit.
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<ab rend="indented2">
+Italian Literature&#8212;Chambers pub.
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Schlegel's History of Literature</item>
+<item>viz. Lectures on the Literature of all Nations</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Trees of America (serial)</item>
+<item rend="indented1">by R.W. Piper, M.D.</item>
+<item rend="indented2">Boston, Munroe &amp; Co.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>System of Physical Geography</item>
+<item rend="indented1">By J.M. Warren, 4 to 92 pages</item>
+<item>pub. by H. Cowperthwaite &amp; Co.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Adventures in the Wilds of the U.S</item>
+<item rend="indented1">and British America by</item>
+<item rend="indented2">Chas Lanman <unclear reason="illegible" resp="rl" cert="low">4</unclear>vols. 8 vo.</item>
+<item rend="indented4">Phil J.W. Moore</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Captain Clias</item>
+<item>Elementary Course of Gymnastics trans.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<!-- THIS ENTRY BELOW IS NOT REALLY A LIST, BUT IN ORDER TO PRESERVE LINE INDENTATIONS AND LINE ENDINGS, I HAVE MADE IT A LIST.  ALSO SO THAT IT WILL APPEAR THE SAME AS THE TEXT ABOVE IT -->
+<list>
+<item>N.E. Historical &amp; Genealogical</item>
+<item rend="indented1">Register A.R. Phippon 310 Broadway</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+</div1>
+
+<!-- BEGIN PAGE 2 VERSO -->
+
+    <pb facs="../figures/loc.00028.004.jpg" xml:id="leaf002v" type="verso"/>
+
+<div1 type="section">
+
+<list>
+<item rend="indented1">Mrs. Rose</item>
+<item rend="indented2">72 White st.</item>
+<item rend="indented3">or TH husband engraver</item>
+<!-- WHAT IS THE BEST WAY TO RENDER THE WORD 'HUSBAND' SO THAT IT IS OVER THE WORD 'ENGRAVER'?-->
+<item rend="indented4">name on the door</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<!-- THIS SECTION APPEARS TO BE TWO PARAGRAPHS INSTEAD OF TWO LISTS -->
+<p>
+Look after Arnold Talfourd's "Ancient History" 10 vols. comprising the political, social, literary, and philosophical Histories of Egypt, Assyria, Rome, Greece, &amp;e  (English ed. Dix and &amp; Edwards 321 Broadway</p>
+
+<p>Look (same place) at Cyclopedia of Geography Chas Knight, 4 vols. quarto</p>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<ab>
+Frank Bellew, 70 (or 90) West 27th St.
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<ab>
+Youmans. 63 2d av.
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item rend="indented1">Mrs. Price</item>
+<item rend="indented2">31 Hicks</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item rend="indented1">
+<del rend="overstrike">R.B. Kimball</del>
+</item>
+<item rend="indented2">
+<del rend="overstrike">cor first place, Clinton st.</del>
+</item>
+<item rend="indented2">
+<del rend="overstrike">7</del>
+</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>McDonough</item>
+<item>16 Hanover Place</item>
+</list>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>Mrs. Chilton 69 Varick st</ab>
+
+</div1>
+
+<!-- BEGIN PAGE 3 RECTO -->
+
+    <pb facs="../figures/loc.00028.005.jpg" xml:id="leaf003r" type="recto"/>
+
+<div1 type="section">
+
+<list>
+<item>Hank Pierce (4th av</item>
+<item>Charley (black hair and eyes&#8212;round face) 4th av.</item>
+<item>Albert (Mrs. Jones's son)</item>
+<item>Jack (&#8212;4th av.&#8212;now in a N.Y. express <unclear reason="illegible" resp="rl" cert="high">wagon</unclear>
+</item>
+<item>Frank (Beeswax)</item>
+<item>Anson W. Turner (oyster Fulton Market</item>
+<item>Charles Brown (Broadway Brownie)</item>
+<item>Storrs King (or "Fulton" with Jack Garrison</item>
+<item>John Schoonmake (Lawyer around City Hall <add rend="unmarked" place="infralinear">remember Ben Carman</add>
+</item>
+<item>Jakey (James) tall genteel friend of Brown's)</item>
+<item>Jay (<unclear reason="illegible" resp="rl" cert="low">5</unclear>th av.)&#8212;129</item>
+<item>Bill&#8212;(big, black round eyes&#8212;large <add rend="unmarked" place="infralinear">coarse) formerly Madison</add>
+</item>
+<item>Jo&#8212;(smallish gallus, on Fort Greene)</item>
+<!-- THIS NEXT ITEM CONTINUES THE DESCRIPTION OF JO, BUT WHITMAN HAS PLACED IT ON THE NEXT LINE BELOW-->
+<item rend="indented1">(Irish descent plays ball):</item>
+
+<item>
+<add rend="unmarked" place="left">Playing <gap reason="illegible"/> ball</add>
+<list rend="bracketed">
+<!-- THESE NEXT FOUR ITEMS ARE BRACKETED.  THE MARGIN NOTE IS PLACED OUTSIDE OF THE BRACKETS.  HOW DO I HANDLE THIS?  I HAVE PLACED A LIST WITHIN A LIST, AND BRACKETED THE SECOND LIST -->
+<item>Abe (round red pleasant grayish keeping tally</item>
+<item>John Campbell, round light complex <hi rend="underline">good-looking</hi> 
+</item>
+<item>John (light complex&#8212;light gray eyes light hair</item>
+<item>Tom Gray, smallish (legs)</item>
+</list>
+</item>
+</list>
+
+
+</div1>
+
+<!-- BEGIN PAGE 3 VERSO -->
+
+    <pb facs="../figures/loc.00028.006.jpg" xml:id="leaf003v" type="verso"/>
+
+<div1 type="section"> 
+<list>
+<item>Edward Smithson 
+
+<!-- HERE THERE IS A MARK OR TEAR IN THE MANUSCRIPT -->
+
+<supplied reason="cut away" source="Edward Grier transcription from Major Authors CD-ROM">(20)</supplied> full-eyed genteel boy I meet 
+
+<!-- WHITMAN PLACES THE FOLLOWING ON THE LINE BELOW. I HAVE USED THE ADD SUPERLINEAR TO RENDER THIS SOMEWHAT LIKE THE MANUSCRIPT, ALTHOUGH -->
+
+often at the ferries&#8212;Irish or English</item>
+<item>Jack Swinton <gap reason="cut away"/> English (23) at Showery's porter <gap reason="illegible"/> Bangs &amp; Platt)</item>
+
+<item>Lewis 
+<!-- IS THIS A NEW ITEM OR IS 'LEWIS' A PART OF THE 'JACK SWINTON' LINE ABOVE?-->
+</item>
+
+<item>William Phillips&#8212;(large, light, No. 8 engine) (26)</item>
+<item>Leo (22) No. 8 engine (in Showery's)</item>
+<item>Henry Post (stout, mechanic, (26)</item>
+<item>George Applegate (tallest)</item>
+<item>Bob Frasier (28) policeman <add rend="insertion" place="infralinear">Raymond</add>(5-6) short, mild <add rend="unmarked" place="infralinear">cor Myrtle &amp; Hudson</add>
+</item>
+<item>Tom Haynes (26) <gap reason="illegible"/> Myrtle&#8212;mild&#8212;</item>
+<item>August (Gus) Dutch boy (16) with cake</item>
+<item>Bill (23) round faced blue eyes light <add rend="unmarked" place="infralinear">Irish skin (5th av) 7th av</add>
+</item>
+<item>Harry, conductor <add rend="unmarked" place="infralinear">Myrtle</add> (Jamaica academy)</item>
+<item>Jim (new policeman) Irish (round shouldered</item>
+<item>Oscar Clark (4th av liquid eyes now clerk in R.R. company)</item>
+<item>Ed. F. Underhill&#8212;Tribune</item>
+<item rend="indented2">193-23d st</item>
+<item>Mrs. (lady we hired of in Skillman st 17 Johnson st</item>
+<item>4th av Tracy (26) <gap reason="deletion, illegible"/> genteel, jovial <add rend="unmarked" place="infralinear">"Judge"</add>
+</item>
+<item>Tom Harvey (5th av) smallish timidish, Irish</item>
+<item>"Victory" 13
+<list rend="bracketed">
+<item>James Dalton (20) round faced lymphatic lost front teeth</item>
+<item>Jack&#8212;(20) <!-- WHITMAN HAS DRAWN A RECTANGLE HERE -->head <gap reason="illegible"/> length</item>
+</list>
+</item>
+</list>
+
+<ab>
+
+<add place="bottom" hand="#unk" type="pasteon">NEW YORK AND CONEY ISLAND LANDING AT FORT HAMILTON&#8212;The <gap reason="illegible"/>
+
+<!-- THE REST OF THIS CLIPPING IS ILLEGIBLE BECAUSE OF THE QUALITY OF THE DIGITAL PHOTO.  THE CLIPPING APPEARS TO BE A FERRYBOAT SCHEDULE -->
+
+</add>
+</ab>
+</div1>
+
+<!-- BEGIN PAGE 4 RECTO -->
+    
+    <pb facs="../figures/loc.00028.007.jpg" xml:id="leaf004r" type="recto"/>
+
+    <div1 type="section"> 
+
+<!-- THIS PAGE IS TORN IN HALF.  THE TOP SECTION IS MISSING. -->
+<list>
+<item>William Lewis (thin from Portland 23 st</item>
+<item>Bob&#8212;(<unclear reason="illegible" resp="rl" cert="high">hermaphrodite</unclear>
+</item>
+<item>Long Jack (7th av)</item>
+<item>James Clark (Drunkard cor Raymond)</item>
+<item>George Whittock, (tall carman South ferry</item>
+<item>Jake (75 Broadway 49th</item>
+<item>William Nash, boy</item>
+<item>Jim Cunningham (<add rend="unmarked" place="supralinear">light hair</add>boy without thumb)</item>
+<item>Johnny Rose</item>
+</list>
+
+</div1>
+
+<!-- PAGE 4 VERSO IS BLANK -->
+    <pb facs="../figures/loc.00028.008.jpg" xml:id="leaf004v" type="verso"/>
+<!-- BEGIN PAGE 5 RECTO -->
+
+    <pb facs="../figures/loc.00028.009.jpg" xml:id="leaf005r" type="recto"/>
+<div1 type="section"> 
+
+<list>
+<item>
+<add rend="unmarked" place="left">4th av)</add> Brownie, (looks something like handsome Mike hackman</item>
+<item>Jack (policeman round, full-sized lymphatic, (eating <unclear reason="illegible" resp="rl" cert="medium">peanuts night cor Classon &amp; Myrtle</unclear> 
+</item>
+<item>Wm Wilson (Broadway&#8212;</item>
+<item>Charles Fuller</item>
+<item>Johnny (round faced <add rend="unmarked" place="infralinear">&#8212;full eyes) and liquid</add>&#8212;in Dunbar's engine house</item>
+<item>Pete (smallish&#8212;looks a little like 5th av Billy Folk</item>
+<item>Wm Vanderbergh, (young fellow, sick sandy complexion Fulton av<add rend="unmarked" place="infralinear">near City Hall</add>
+</item>
+<item>Tom Riley (handsome Irish fighter</item>
+<item>John Kiernan (loafer young saucy looking <add rend="unmarked" place="infralinear">pretty goodlooking</add>
+</item>
+</list>
+</div1>
+
+<!-- PAGE 5 VERSO IS BLANK -->
+    <pb facs="../figures/loc.00028.010.jpg" xml:id="leaf005v" type="verso"/>
+<!-- BEGIN PAGE 6 RECTO -->
+
+    <pb facs="../figures/loc.00028.011.jpg" xml:id="leaf006r" type="recto"/>
+<div1 type="section"> 
+
+<list>
+<item>Dave. <space dim="horizontal" extent="6 letters"/> (rich, (white hat) rides on Broadway line)</item>
+<item>Jack, (big young fellow <add rend="insertion" place="supralinear">sits</add> corner Adams &amp; Myrtle</item>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">4th av.</add>
+</item>
+<span xml:id="s9" type="bracketed" from="s9" to="s10"/>
+<item>Arthur, big round sandy hair <add rend="unmarked" place="infralinear">coarse, open</add>
+</item>
+<item>Peleg, round head &amp; face, young</item>
+<anchor xml:id="s10"/>
+<item>Wallace, (sailor boy English <add rend="unmarked" place="infralinear">was in Japan</add>
+</item>
+<item>John Stoothoof, (police South ferry <add rend="unmarked" place="infralinear">smallish sized)</add>
+</item>
+<item>Pete Dempster (cor Kent &amp; Myrtle open faced&#8212;gay)</item>
+<item>Charles Held (boy son of Mr. Held <add rend="unmarked" place="infralinear">tuner</add>
+</item>
+<item>Mr. Banks,(Lobscouse) </item>
+<item>Bill, (engineer Union)</item>
+<item>124 4th av</item>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">4th</add>
+</item>
+<span xml:id="s7" type="bracketed" from="s7" to="s8"/>
+<item>Jo (red hair large red face</item>
+<item>
+<unclear reason="illegible" resp="rl" cert="medium">Tennis</unclear>&#8212;tall&#8212;(yankee)</item>
+<item>Pete&#8212;not driver</item>
+<anchor xml:id="s8"/>
+<item>Felix McCluskey  California</item>
+<item>Landon Lennon</item>
+<item>about 325</item>
+<item>John Davenport (<gap reason="illegible"/> tall, genteel)</item>
+<item>Charly Smith, 119 or 20 4th av</item>
+<item>Jay 815 (about)</item>
+<item rend="indented1">or 812</item>
+</list>
+</div1>
+
+<!-- BEGIN PAGE 6 VERSO -->
+
+    <pb facs="../figures/loc.00028.012.jpg" xml:id="leaf006v" type="verso"/>
+<div1 type="section"> 
+
+<list>
+<item>Wm Culver (boy in the bath (18) gone to California</item>
+<item>James (lame boy in front of Savings bank (13)</item>
+<item>Johnny (" steel trap)</item>
+<item>Jim (boy with Johnny Gray)</item>
+<item>Charley (Mr. Rider's boy</item>
+<item>Mike Talley (or Dally) the thinnest 25</item>
+<item>Pete  "</item>
+<item>Tom Egbert (conductor/sailor open neck (24)</item>
+<item>Percival de Clifton</item>
+<item>Robert (Dad)</item>
+<item>Milton (light complexion, (Ohio) 5th av.</item>
+<item>Ben Wallis (grocery cor Clermont &amp; Myrtle</item>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">Northport boys</add>
+</item> 
+<span xml:id="s5" type="bracketed" from="s5" to="s6"/>
+<item>Edward Bryant&#8212;elder</item>
+<item>Melville "</item>
+<anchor xml:id="s6"/>
+<item>Henry Taylor (Johny Sackback)</item>
+<item>Johny Williams (policeman at Fulton ferry N.Y.</item>
+<item>Aleck (friend of Andrew)</item>
+<item>Charlie Van Dwyne (12) boy on the Nassau sometimes</item>
+<item>Mr. Mason&#8212;(shoemaker (saw him in Andrew Rome's)</item>
+<item>Frank (kindling Wood)</item>
+<item>Reuben (in the Grand st. frame shop&#8212;now driver)</item>
+<item>Charley Quail&#8212;(policeman)</item>
+<item>David Stewart&#8212;(No. 12)</item>
+<item>Peter Ridley (apple pedlr</item>
+<item>Abe <unclear reason="deletion, illegible" resp="rl" cert="medium">D</unclear>ebevoise (young boy)</item>
+<item>John <unclear reason="deletion, illegible" resp="rl" cert="medium">Nevin</unclear> (22) small quiet, carpenter</item>
+<item>Dave Rogers</item>
+<item>Jack (5th av.) full brown black beard&#8212;<add rend="unmarked" place="infralinear">(28) brown faced, Feb 16 '57</add>
+</item>
+<item>Jerry Boerum small smiling, friend of George,</item>
+<item>Phil Stokey (policy player)</item>
+<item>Jim Johnson, (saloon &amp; Book)</item>
+<item>Woodhull Woolsey</item>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">Union Ferry</add>
+</item>
+<span xml:id="s3" type="bracketed" from="s3" to="s4"/>
+<item>Al (carpenter, Union Ferry shop&#8212;close by George<add rend="unmarked" place="infralinear">Wright's bench</add>
+</item>
+<item>Ansel Ketchum (with Tom's bench</item>
+<anchor xml:id="s4"/>
+<item>Alphons<unclear reason="deletion, illegible" resp="rl" cert="medium">e</unclear>&#8212;new&#8212;light haired&#8212;Amity st.</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 7 RECTO -->
+
+    <pb facs="../figures/loc.00028.013.jpg" xml:id="leaf007r" type="recto"/>
+<div1 type="section"> 
+
+<list>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">at Police station</add>
+</item>
+<span xml:id="s11" type="bracketed" from="s11" to="s12"/>
+<item>Charley&#8212;<add rend="unmarked" place="supralinear">police</add> ropemaker</item>
+<item>Jerry,&#8212;police Looks like <add rend="unmarked" place="infralinear">B<unclear reason="illegible" resp="rl"
+    cert="low">ias</unclear>ly</add>
+</item>
+<milestone unit="undeclared" rend="horbar-full"/>
+<item>Charley&#8212;elderly <add rend="unmarked" place="supralinear">Classon av <unclear reason="illegible" resp="rl"
+    cert="medium">hard</unclear>
+</add> white hair</item>
+<item>Dave, coachman <unclear reason="illegible" resp="rl" cert="medium">Halson</unclear>
+</item>
+<milestone unit="undeclared" rend="horbar-full"/>
+<anchor xml:id="s12"/>
+
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">4th av Mrs. Jones</add>
+</item>
+<span xml:id="s13" type="bracketed" from="s13" to="s4"/>
+<item>Ed, small, black eyes &amp; brown</item>
+<item>Bill, big, bony Yankee linen coat</item>
+<item>Bill, big dark complexioned. St. Helena</item>
+<item>George, (sulky head sideways</item>
+<item>Jim, (looks like Chatman</item>
+<item>Johnny (red faced, small chunky</item>
+<item>Mr. Ferris starter</item>
+<anchor xml:id="s14"/>
+<item>John Mulle<unclear reason="illegible" resp="rl" cert="medium">n</unclear>&#8212;red hair, pipe</item>
+<item rend="indented1">Irish contractor, Jackson <gap reason="illegible"/>
+</item>
+<item>Lefferts Laidlaw</item>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">4th av.</add>
+</item>
+<span xml:id="s15" type="bracketed" from="s15" to="s16"/>
+<item>Jack (Davis) light-eyed light haired <gap reason="deletion, illegible"/>
+<unclear reason="illegible" resp="rl" cert="medium">drunk<add rend="unmarked" place="infralinear">at Pat Newman's</add> 
+</unclear>
+</item>
+<item>George, coarse complex <add rend="unmarked" place="infralinear">4th av</add>, low forehead, pock mark</item>
+<item>Al Yankee, thin, medium, black moustache <add rend="unmarked" place="infralinear">now 5th av</add>
+</item>
+<item>Elisha Jones&#8212;foreman</item>
+<anchor xml:id="s16"/>
+<item>Ab'm Litchalt, small, formerly police <add rend="unmarked" place="supralinear">now</add> market</item>
+<!-- THIS NEXT PART OF THE LIST IS SPLIT IN HALF, FOUR ITEMS ON THE PAGES LEFT SIDE AND FOUR ON THE RIGHT.  I HAVE PLACED THE RIGHT LIST IN THE right.  DO I NEED TO FIX? -->
+<item>Hiram Kellum</item>
+<item>Billy Stevens</item>
+<item>
+<add rend="unmarked" place="left">78?</add> Pat (young neat jockey <add rend="unmarked" place="infralinear">cap 8th st</add>
+</item>
+<item>Charley&#8212;filmy eyes,<add rend="unmarked" place="infralinear">4th av</add>
+</item>
+<item>
+<add rend="unmarked" place="right">Jim (Jubal Cain)</add>
+</item>
+<item>
+<add rend="unmarked" place="right">Tom Van Brunt</add>
+</item>
+<item>
+<add rend="unmarked" place="right">Eugene</add>
+</item>
+<item>
+<add rend="unmarked" place="right">Tom Dyer, Irish 4th av</add>
+</item>
+
+</list>
+</div1>
+
+<!-- BEGIN PAGE 7 VERSO -->
+
+    <pb facs="../figures/loc.00028.014.jpg" xml:id="leaf007v" type="verso"/>
+<div1 type="section"> 
+
+<list>
+<item>Joe Downing boy, often seen at segar store</item>
+<item>Oliver (tall, 25) conductor Myrtle come up in carriage</item>
+<item>Justin (Chousey) boy&#8212;(16) blacksmith&#8212;come up &#8212;in carriage</item>
+<item>George Lavalette (tipsy) son of surgeon in Naval Hospital</item>
+<item>Jim Allen (44) met at Dominic Colgan's <add rend="unmarked" place="infralinear">told me he was with me in Hablock's school</add>
+</item>
+<item rend="circled">Wm. Stewart police captain tall</item>
+<item>Jack Gill, (elder)</item>
+<item>Tom "</item>
+<item>Bill McCue (Irish&#8212;29th st <unclear reason="illegible" resp="rl" cert="medium">snub nose</unclear>
+</item>
+<item>Tom&#8212;policeman, cor William &amp; Frankfort sts</item>
+<item>Little Dominick (Dominick Colgan's son)</item>
+<item>Adolphus Davenport (actor) old boy friend of Ansel Jenning's</item>
+<item>Dave Ackerman (bones)</item>
+<item>Charles Edwards, foreman in Lockitts Myrtle</item>
+<item>Wm Mosscrop&#8212;oyster shop Myrtle &amp; <gap reason="deletion, illegible"/> 
+<gap reason="illegible"/>
+</item>
+<item>Sam Adams&#8212;63 Broadway large <add rend="unmarked" place="infralinear">light <unclear reason="illegible"
+    resp="rl" cert="low">lorn</unclear>
+</add>
+</item>
+<item>Frank (30) 4th av., fat round face looks like Louis <gap reason="illegible"/>
+</item>
+<item>Cornish (tow head) 4th av</item>
+<item>Bill (36) Dunham from Phil. dark face stocky frame</item>
+<item>Jim Le<space dim="horizontal" extent="8 letters"/> young fellow light longish hair <add rend="insertion" place="infralinear">out by Cannon</add>
+</item>
+<item>Jack (5th av) with the beautiful beard black</item>
+<item>Edward (2<gap reason="illegible"/> young Brooklyn man <add rend="unmarked" place="infralinear">printer in N.Y. Times</add>
+</item>
+<item>(ask Tom McEvoy the young <unclear reason="illegible" resp="rl" cert="medium">boy</unclear> Geo. Leland</item>
+<item>Pat&#8212;203 (Eighth st)</item>
+<milestone unit="undeclared" rend="horbar-left"/>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">met cor Myrtle &amp; <unclear reason="illegible" resp="rl" cert="low">Washington</unclear> and <gap reason="illegible"/>
+</add>
+</item>
+<span xml:id="s21" type="bracketed" from="s21" to="s22"/>
+<item>Teunis&#8212;round faced <add rend="insertion" place="supralinear">brown</add> with moustache</item>
+<item>Sam <space dim="horizontal" extent="7 letters" rend="underline"/> looks some like Bill <gap reason="illegible"/> 
+<add rend="unmarked" place="infralinear">india ink on his hand</add>
+</item>
+<item>Mike Daily</item>
+<anchor xml:id="s22"/>
+<milestone unit="undeclared" rend="horbar-left"/>
+<item>Mike Butler boy (18) in stone cutters</item>
+<item>George Applegate <add rend="unmarked" place="supralinear">Kent av.</add> (tallest)</item>
+<item>Dan shorter (Myrtle av. market</item>
+</list>
+</div1>
+
+<!-- BEGIN PAGE 8 RECTO -->
+
+    <pb facs="../figures/loc.00028.015.jpg" xml:id="leaf008r" type="recto"/>
+<div1 type="section"> 
+
+<list>
+<item>George Wright (boy 16 in plaster ornament shop, Myrtle &amp; Ryerson</item>
+<item>Charley <add rend="unmarked" place="supralinear">22</add> (fireman in the new drab clothes&#8212;18 N.Y.</item>
+<item>Martin Evans (36)</item>
+<item>Ben (19) (tall, bony big nosed boy for Hendrickson's express</item>
+<item>William (35)&#8212;tall dark <gap reason="illegible"/> moustache, ?German formerly Madison av. now Broadway</item>
+<item>Martha (15) (in Burroughs</item>
+<item>George (22) (<add rend="unmarked" place="supralinear">No</add>18&#8212;tall mild</item>
+<item>John Baulsir (25) (pilot Nassau)</item>
+<item>John Evans (30) red beard, wrote notice in <unclear reason="deletion, illegible" resp="rl" cert="medium">Woodbury</unclear> Times</item>
+<item>Chris Pike (30) in office Fulton av. car</item>
+<item>Thos Shephard (30) pol 7th st smallish grey eyes <add rend="unmarked" place="infralinear">pleasant</add>
+</item>
+<item>Patrick Corr <add rend="unmarked" place="supralinear">26</add> (new pol <add rend="insertion" place="infralinear">good looking</add> Irish boy)</item>
+<item>George Moore <add rend="unmarked" place="supralinear">21</add> (tall, thin, works sewing machine</item>
+<item>George Matthews <add rend="unmarked" place="supralinear">20</add>&#8212;(in feed store <add rend="unmarked" place="infralinear">Graham</add>
+</item>
+<item>Ike Debevoise <add rend="unmarked" place="supralinear">20</add> (black eyes &amp; hair)</item>
+<item>Pete Clayton <add rend="unmarked" place="supralinear">36</add> (fat round face,<add rend="unmarked" place="infralinear">
+<unclear reason="illegible" resp="rl" cert="low">Broad</unclear>for police</add> cor Myrtle <add rend="unmarked" place="infralinear">&amp; Fulton</add>
+</item>
+<item>Charley Held <add rend="insertion" place="supralinear">19</add> (boy)</item>
+<item>Justin<add rend="unmarked" place="supralinear">17</add> (boy, blacksmith from Jersey was <gap reason="illegible"/>
+</item>
+<item>Oliver <add rend="unmarked" place="supralinear">21</add> (tall conductor, slender was in the <unclear reason="
+    illegible" resp="rl" cert="high">carriage</unclear>
+</item>
+<item>Hiram Kellum (25)</item>
+</list>
+</div1>
+
+<!-- BEGIN PAGE 8 VERSO -->
+
+    <pb facs="../figures/loc.00028.016.jpg" xml:id="leaf008v" type="verso"/>
+<div1 type="section"> 
+
+<list>
+<!-- SHOULD THE FOLLOWING TWO ITEMS BE INCLUDED IN THE LIST, OR SHOULD THEY BE TAGGED WITH AN <ADD> AND PLACED IN ThE LEFT MARGIN? -->
+<item rend="indented3">D.C. Holly</item>
+<item rend="indented4">Real Estate</item>
+<item>W.C. Holly</item>
+<item rend="indented1">
+<del rend="overstrike">5 3</del> Nassau</item>
+<item>3 or 5</item>
+<item rend="indented3">on the ground floor</item>
+</list>
+<milestone unit="undeclared" rend="horbar-short-center"/>
+<list>
+<item>W. Griffith  83 Prospect</item>
+</list>
+<milestone unit="undeclared" rend="horbar-short-center"/>
+
+<list>
+<item>A.J. Davis, 137 Spring st.</item>
+<item>or J.D. Whelplay</item>
+<item rend="indented1">at Mrs. Heldreths</item>
+<item>cor. Blacker &amp; Wooster st</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Welsh church</item>
+<item rend="indented1">11th st near 3d av.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<list>
+<item>McDonald 335 Broadway</item>
+<item rend="indented3">room 39</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Mrs. Bloom</item>
+<item rend="indented2">57 High</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Geo Wheeler</item>
+<item>*79 55 <del rend="overstrike">79</del> Mercer</item>
+</list>
+</div1>
+
+<!-- BEGIN PAGE 9 RECTO -->
+
+    <pb facs="../figures/loc.00028.017.jpg" xml:id="leaf009r" type="recto"/>
+<div1 type="section"> 
+
+<list>
+<head type="main-authorial">Soiree dansante</head>
+<milestone unit="undeclared" rend="horbar-full"/>
+<item>Aleck (big, young, (26,) gets out cars at Prince st.</item>
+<item>Quaker Ed. (4th av (33)</item>
+<item>Sam <gap reason="deletion, illegible"/> (young fellow I met in Dominick Colgan's</item>
+<item>John Cunningham tall thin face <add rend="unmarked" place="infralinear">No 18</add>
+</item>
+<item>Pete (young married man No 18) bad teeth, good eyes</item>
+<item>Tom Lambert (tall young man Mason <add rend="unmarked" place="infralinear">Mason av</add>
+</item>
+<item>Revand K Field</item>
+<item>Valentine Carman</item>
+<item>Hank&#8212;(in Geo Douglass coffee &amp; cakes)</item>
+<item>Bill (<del rend="overstrike">tall</del>
+<add rend="unmarked" place="infralinear">(Dunbar's)</add> stout, small mouth fat light blue eyes)</item>
+<item>George Golder (black eyes &amp; hair <add rend="unmarked" place="infralinear">49th st</add>&#8212;deaf one ear)</item>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">Met with Mike Tally  March 24 Myrtle n. Washington</add>
+</item>
+<span xml:id="s23" type="bracketed" from="s23" to="s24"/>
+<item>Teunis&#8212;(25) round, brown face, moustache <add rend="unmarked" place="infralinear">met at Garry Van Dynes</add>
+</item>
+<item>Sam&#8212;dark complexion, full eyes <add rend="unmarked" place="infralinear">(large figures in india ink on left hand</add>
+</item>
+<item>Mike Dally&#8212;</item>
+<anchor xml:id="s24"/>
+<item>Henry Sinclair (hat shop, Myrtle n Canton</item>
+<item>Charley&#8212;131 (hair)</item>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<item>Wm Husted (young man in Myrtle near Clinton)</item>
+<item>Sandy (5th av.) fancy, "hallo Walt)</item>
+<item>Tom (foreman (13) "Victory" Wmsburgh</item>
+<item>David Barnet (boy) (18) in lawyer's office <add rend="unmarked" place="infralinear">
+<gap reason="illegible"/> City Hall</add>
+</item>
+<item>Billy (138 4th av) thin consumptive</item>
+</list>
+</div1>
+
+<!-- BEGIN PAGE 9 VERSO -->
+
+    <pb facs="../figures/loc.00028.018.jpg" xml:id="leaf009v" type="verso"/>
+<div1 type="section"> 
+
+<list>
+<span xml:id="s25" type="bracketed" from="s25" to="s26"/>
+<item>Elisha Jones</item>
+<item>Bill " the sailor</item>
+<item>Dave "</item>
+<anchor xml:id="s26"/>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">4th av.</add>
+</item>
+<span xml:id="s27" type="bracketed" from="s27" to="s28"/>
+<item>Jack&#8212;red faced&#8212;marked mouth</item>
+<item>Tom (looks something like Frank with Mrs. Hibbard</item>
+<anchor xml:id="s28"/>
+<item>5th av. Luther Calvin Davis&#8212;(coarse red face</item>
+<item>Jack <choice>
+<orig>MCoon</orig>
+<reg>McCoon</reg>
+</choice> (boy 20 went in Castle Garden with me April 20)</item>
+<item>George Rogers 4th av. has been west 3 years</item>
+<item>Stephe (boy with Charlie Palmer, black moustache)</item>
+<item>Harry Hyer (22) Madison av. thin, bony, bilious&#8212;told me of Chinese women</item>
+<item>Johny (24) 4th av (white teeth) round clear face, brown eyes</item>
+<item>John Van Lear (5th av) fat, lymphatic, no beard</item>
+<item>Bill (4th av) 27&#8212;medium, dark comp and hair<add rend="unmarked" place="infralinear">&#8212;&amp;eyes&#8212;?Dutch</add>
+</item>
+<item>Billy (tall young, walked up to Gold st <add rend="unmarked" place="infralinear">with  night N.H. fireman's procession</add>
+</item>
+<item>Elias B. Pearson (37) 5th av. been in the rebel army in China</item>
+<item>Jo (Lane) starter Madison av. Hall st</item>
+<item>Aleck (tall (24)&#8212;7th av seen him in Classon av. Sunday</item>
+<item>George <add rend="unmarked" place="supralinear">(not Jo)</add> ("Brushmaker") 4th av (thin face<add rend="unmarked" place="infralinear">superb sonorous voice</add>
+</item>
+<item>Wm Craig (young man&#8212;Kent av)</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 10 RECTO -->
+
+    <pb facs="../figures/loc.00028.019.jpg" xml:id="leaf010r" type="recto"/>
+<div1 type="section"> 
+
+<list>
+<item rend="indented1">Saml. D<add rend="unmarked" place="supralinear">or E)</add> 
+<del rend="overstrike">Etten</del> Van Etten</item>
+<item rend="indented2">Milford, on the Delaware river</item>
+<item rend="indented3">Pennsylvania</item>
+</list>
+
+<p>Go on the N.Y. to Erie R.R. to <hi rend="underline">Port Jervis</hi> (fare $2.00 thence by stage to Milford (fare 50 cents)</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<list>
+<item>son (Charley Etten)</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Charley Hicks (16) boy clear gold complexion &amp; hair &#8212;fat son of Hicks, in  "Fulton's" engine room</item>
+<item>Gus White (25) at Ferry with skeleton boat with Walt Baulsir&#8212;(5 ft 9 high&#8212;round&#8212;well built</item>
+<item>Timothy Meighan (30) Irish, oranges, Fulton &amp; Concord</item>
+<item>James Dalton (Engine&#8212;Williamsburgh)</item>
+<item>Charley Fisher (26) 5th av. (hurt, diseased, deprived)</item>
+<item>Ike (5th av) fat, drinks, rode "Fashion" in the great race</item>
+<item>Jack (4th av) tall, slender, had the <unclear reason="deletion, illegible" resp="rl" cert="low">French pox</unclear> (moderate in talk)</item>
+<item>Franklin Sevall (4th av) tallish, gaunt</item>
+<item>Mike, (Irish) tallest of the two boys at Newman's</item>
+<item>Dan  "  least tall</item>
+</list>
+</div1>
+
+<!-- BEGIN PAGE 10 VERSO -->
+
+    <pb facs="../figures/loc.00028.020.jpg" xml:id="leaf010v" type="verso"/>
+<div1 type="section"> 
+
+<list>
+<item rend="indented1">G W Hill</item>
+<item rend="indented2">Cor 18<hi rend="underline">th</hi> &amp; 8th ave.</item>
+<item rend="indented1">George Waldo Hill</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item rend="indented1">Talbot</item>
+<item rend="indented2">Broadway</item>
+<milestone unit="undeclared" rend="horbar-full"/>
+</list>
+
+<list>
+<item rend="indented1">Brittan</item>
+<item rend="indented2">333 Broadway</item>
+<milestone unit="undeclared" rend="horbar-full"/>
+</list>
+
+<list>
+<item rend="indented1">Mr. Ives</item>
+<item>cor. 4th &amp; South Third</item>
+<item rend="indented3">over Savings Bank</item>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<item>Every Monday evening&#8212;(soirees.)</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item rend="indented1">Geo <add rend="unmarked" place="supralinear">H</add> Riblett</item>
+<item rend="indented1">319 2d avenue</item>
+<item rend="indented3">near 21st</item>
+
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 11 RECTO -->
+
+    <pb facs="../figures/loc.00028.021.jpg" xml:id="leaf011r" type="recto"/>
+<div1 type="section"> 
+
+<list>
+<item>Who was the Greek poet Pindar?</item>
+<item>Who Merlin?</item>
+</list>
+
+
+
+
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Stop at Fowler &amp; Wells and get paper with "Broadway" article</item>
+<item rend="indented1">also Prince's catalogue</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+
+<del type="hashmark">
+<list>
+<item>Engagement at Harrison's</item>
+<item rend="indented1">Wednesday 3d June</item>
+</list>
+</del>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Moses Stern (tailor)</item>
+<item>446 Grand st. N.Y.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Mr. Goodfellow</item>
+<item rend="indented2">65&#8212;10th st</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>R.P. Cooke, M.D. Dentist</item>
+<item rend="indented2">3 Great Jones st</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+</div1>
+
+<!-- BEGIN PAGE 11 VERSO -->
+
+    <pb facs="../figures/loc.00028.022.jpg" xml:id="leaf011v" type="verso"/>
+<div1 type="section"> 
+
+<!-- THE FOLLOWING ITEM APPEARS TO BE IN HANDWRITING OTHER THAN WHITMAN'S.  HOWEVER, IT ISN'T NECESSARILY AN EDITORIAL COMMENT, AS THE <TYPE> TAG DECLARES, BUT IS ONE ADDRESS IN A LIST OF ADDRESSES.  I SPECULATE THAT WHITMAN HAD E.D. CARPENTER WRITE IN HIS OWN NAME AND ADDRESS. -->
+<note type="editorial" resp="#unk" place="interlinear">
+E.D. Carpenter 134 1/2 W 19th St
+</note>
+
+<list>
+<item>Swinton</item>
+<item rend="indented1">51 Macdougal st.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<list>
+<item>Dr. Ruggles</item>
+<item rend="indented1">24 Warren</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Charly Goen (pier 20)</item>
+</list>
+
+<list>
+<item>Dr. Ruggles</item>
+<item rend="indented1">24 Warren</item>
+</list>
+
+<!-- AGAIN, THE FOLLOWING NOTE LOOKS AS IF IT'S IN A HAND OTHER THAN WHITMAN'S -->
+<note type="editorial" resp="#unk" place="interlinear">
+A. Brisbane Irvington, N.J. Take Newark train at 3 or 5 get out at Market st Depot in Newark, and get into the Irvington omnibus
+</note>
+
+</div1>
+
+<!-- BEGIN PAGE 12 RECTO -->
+
+    <pb facs="../figures/loc.00028.023.jpg" xml:id="leaf012r" type="recto"/>
+<div1 type="section"> 
+
+<list>
+<item>Chicago Magazine</item>
+<item rend="indented3">Ross and Touses</item>
+</list>
+
+<del type="hashmark">
+<list>
+<item>Rangers &amp; Regulators of the Tanaha</item>
+<item>Rob't DeWitt</item>
+</list>
+</del>
+
+<list>
+<item>Lectures on Human Voice</item>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">Eveng's of</add>
+</item>
+<span xml:id="s30" type="bracketed" from="s30" to="s31"/>
+<item>Monday 23d March &amp;</item>
+<item>Thursday 26th "</item>
+<anchor xml:id="s31"/>
+<item rend="indented1">at University Medical College next to Opera House 14th st.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>? savoir vivre</item>
+<item rend="indented2">good manners&#8212;breeding&#8212;gentility</item>
+<item rend="indented2">&#8212;high-style</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 12 VERSO -->
+    
+    <pb facs="../figures/loc.00028.024.jpg" xml:id="leaf012v" type="verso"/>
+<div1 type="section"> 
+
+<list>
+<item>James Gillan (24) driver Myrtle&#8212;large country&#8212;open faced</item>
+<item>Albany Bill (Madison av. <add rend="unmarked" place="infralinear">tall black eyed</add>) </item>
+<item>Billy (beautiful&#8212;1 Bleecker St. 8th av)</item>
+<item>Jackson L<space dim="horizontal" extent="6 letters"/> (4th av young fellow from Philadelphia</item>
+<item>Jack (tallish young Bleecker &amp; 2d st)</item>
+<item>
+<add rend="unmarked" place="left">?</add> Charley (tallish and goodsized liquid eyed <add rend="unmarked" place="infralinear">1st av&#8212;new hand</add>
+</item>
+<item>Charley&#8212;(East Broadway formerly in Brooklyn</item>
+<item>Jack (5th av <add rend="unmarked" place="infralinear"><hi rend="underline">now Madison av.</hi></add>
+<add rend="unmarked" place="infralinear"><hi rend="underline">30</hi></add> German birth, black eyes &amp; hair)</item>
+<item>Jo Baker (23) fine head&#8212;4th av</item>
+<item>Mike Morrow</item>
+<item>Mike&#8212;(Bdway) was at Mrs. Hoyts with Dressmaker)</item>
+<item>
+<add rend="unmarked" place="left">John</add> Brownie&#8212;(4th av) tall, genteel)</item>
+<item>
+<add rend="unmarked" place="left">(Jack)</add> Riley</item>
+<item>Henry Nelson Hannah / <!-- I'M NOT SURE WHAT THE PRECEDING VERTICAL MARK IS SUPPOSED TO BE -->
+</item>
+<item>William (Bdway) (brother of George, formerly 4th av)</item>
+<!-- FIX THIS RENDERING.  THE NEXT ITEM SHOULD NOT BE AN ITEM, BUT PLACED OUTSIDE IN THE MARGIN -->
+<item>
+<add rend="unmarked" place="left">playing ball</add> 
+</item>
+<span xml:id="s33" type="bracketed" from="s33" to="s34"/>
+<item>Pete ((Myrtle &amp; Clarmont <gap reason="illegible"/> 19 or 20 looks something like George</item>
+<item>Dave&#8212;black eyes 25</item>
+<item>George Wood (small moustache</item>
+<anchor xml:id="s34"/>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<item>The (boy Myrtle) gray eyes) 13</item>
+</list>
+
+</div1>
+    
+    <!-- BEGIN PAGE 13 RECTO -->
+    <pb facs="../figures/loc.00028.025.jpg" xml:id="leaf013r" type="recto"/>
+    <!-- This page is blank. -->
+
+<!-- BEGIN PAGE 13 VERSO -->
+
+    <pb facs="../figures/loc.00028.026.jpg" xml:id="leaf013v" type="verso"/>
+<div1 type="section"> 
+
+<milestone unit="undeclared" rend="horbar-full"/>
+<list>
+<item>Geo. Wheeler</item>
+<item rend="indented1">79 Mercer</item>
+<item>one door above</item>
+<item rend="indented2">Spring</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Hector Tyndale</item>
+<item rend="indented1">707 Chestnut st.</item>
+<item rend="indented3">above 7th st.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Mrs. Sarah Tyndale</item>
+<item rend="indented1">corner Main &amp; High st.</item>
+<item rend="indented3">Germantown:</item>
+<item>(Germantown Depot</item>
+<item>corner 9th and Green st.)</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 14 RECTO -->
+
+    <pb facs="../figures/loc.00028.027.jpg" xml:id="leaf014r" type="recto"/>
+<div1 type="section"> 
+
+<ab>
+clairvoyance (vis <hi rend="underline">clear seeing</hi>
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<ab>
+E.C. Jones
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>go over Jersey City ferry</item>
+<item>take the Morris &amp; Essex RR</item>
+<item rend="indented2">for Drakesville N.J.</item>
+<item>Lake Hoptacong</item>
+<item rend="indented3">4-5 miles from N.Y.</item>
+</list>
+
+<list>
+<item rend="indented1">Sam Bonnard</item>
+<item>South 6th st. near Grove</item>
+<item rend="indented2">Jersey City</item>
+<item>Inquire for J.B. Forrest engraver</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 14 VERSO -->
+
+    <pb facs="../figures/loc.00028.028.jpg" xml:id="leaf014v" type="verso"/>
+<div1 type="section">
+
+<list>
+<item>Truman &amp; Spafford</item>
+<item rend="indented2">Cincinnati O.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item rend="indented1">Robley</item>
+<item>Cor 18th st &amp; 9th av.</item>
+<item rend="indented2">Greenwood</item>
+</list> 
+
+</div1>
+
+<!-- BEGIN PAGE 15 RECTO -->
+
+    <pb facs="../figures/loc.00028.029.jpg" xml:id="leaf015r" type="recto"/>
+<div1 type="section">
+
+<list>
+<item>Meserole st.</item>
+<item rend="indented1">near Bushwick av.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<ab>
+Schneider's
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item rend="indented1">Building an iron steamboat</item>
+<item>foot of North Fifth st</item>
+<item rend="indented2">Wm McConnell</item>
+<item rend="indented3">sub-contractor</item>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<item>five sts. north of Grand</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+</div1>
+    
+    <!-- BEGIN PAGE 15 VERSO -->
+
+    <pb facs="../figures/loc.00028.030.jpg" xml:id="leaf015v" type="verso"/>
+
+<!-- This page is blank. -->
+
+<!-- BEGIN PAGE 16 RECTO -->
+
+    <pb facs="../figures/loc.00028.031.jpg" xml:id="leaf016r" type="recto"/>
+<div1 type="section">
+
+<head type="main-authorial">(To women sternly)</head>
+<p>
+Do you suppose you have nothing waiting for yourselves to do, but to embroider, to clean, and to be respectable and modest, and to not swear or drink?
+</p>
+
+</div1>
+
+<!-- BEGIN PAGE 16 VERSO -->
+
+    <pb facs="../figures/loc.00028.032.jpg" xml:id="leaf016v" type="verso"/>
+<div1 type="section">
+
+<p>
+<add rend="unmarked" place="left">(Spooney)</add>
+William Place (a public house frequented in the spring by raftsmen)
+</p>
+
+<p>
+Go to Port Jervis ($2) thence by stage to William Place's, on the route to "Bushville" <add rend="unmarked" place="infralinear">(Pa)</add> 
+</p>
+</div1>
+
+<!-- BEGIN PAGE 17 RECTO -->
+
+    <pb facs="../figures/loc.00028.033.jpg" xml:id="leaf017r" type="recto"/>
+<div1 type="section">
+
+<ab>
+"bold robber" 
+
+<lb rend="indented2"/>
+<!-- NOTE THERE IS A GAP BETWEEN THESE LINES.  I'M NOT SURE HOW TO TAG THIS, PARTLY BECAUSE I'M NOT SURE IF THE 'BOLD ROBBER' GOES WITH 'WOMEN RELY ON MEN' -->women rely on men
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<ab>the spiritual influence of women, I sense&#8212;Mrs. Tyndale's theory</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<!-- ARE THESE POEM LINES OR PARAGRAPHS? -->
+
+<anchor xml:id="t1"/>
+<p>
+That no State shall be subject to another but each shall <del rend="overstrike">be free</del>
+<add rend="unmarked" place="supralinear">itself</add> to <subst>
+<del rend="overstrike" seq="1">form its own institutions</del><add rend="insertion" place="supralinear" seq="2">the <del rend="overstrike">sole judge</del> of</add> </subst>have the sole control of its institutions.
+</p>
+
+<p>
+<add rend="unmarked bracketed" place="left">to up </add>That there shall be real and continual comity between t<add rend="overwrite" place="over">T</add>he s<add rend="overwrite" place="over">S</add>tates, the whole of them, or any two of them.
+</p>
+
+
+ 
+</div1>
+
+<!-- BEGIN PAGE 17 VERSO -->
+
+    <pb facs="../figures/loc.00028.034.jpg" xml:id="leaf017v" type="verso"/>
+<div1 type="section">
+
+<head type="main-authorial">Questions for Swinton</head>
+
+<!-- IS THIS A LIST, OR SHOULD IT BE A PARAGRAPH?  IT APPEARS TO BE THE BEGINNING OF A LIST, AS INDICATED BY THE HEADER -->
+<list>
+<item>To tell me of Etruria</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 18 RECTO -->
+
+    <pb facs="../figures/loc.00028.035.jpg" xml:id="leaf018r" type="recto"/>
+<div1 type="poem_notes">
+
+<ab>Hemp, corn, and tobacco, (in Missouri and Kansas</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+</div1>
+
+<del type="hashmark">
+<lg type="poem">
+
+
+<lg type="linegroup">
+<head type="main-authorial">Hold fast by me!</head>
+<l>
+<lb/>I know very well <del rend="overstrike">that</del>
+
+<lb/>
+<del rend="overstrike">they</del>
+<add rend="insertion" place="supralinear">these </add>
+<del rend="overstrike">must be</del> 
+<add rend="unmarked" place="infralinear">may have to be</add>
+<subst> <orig seq="1">read</orig><del rend="overstrike"/><add rend="insertion" place="supralinear"
+    seq="2">searched</add><add rend="unmarked" place="supralinear" seq="3">
+<del rend="overstrike">sought</del>
+</add> </subst>many
+<lb/>times before they <del rend="overstrike">will</del>
+
+<lb/>come to you, <del rend="overstrike">?&#8212;But</del> 
+<add rend="unmarked" place="supralinear">and comply with you</add>
+
+</l>
+
+<l>
+<lb/>But what of that? Has
+<lb/>not Nature to <add rend="unmarked" place="supralinear">be </add>
+<subst>
+<del rend="overstrike" seq="1">read</del><add rend="unmarked" place="supralinear" seq="2">
+<del rend="overstrike">sought</del>
+</add><add rend="unmarked" place="infralinear" seq="3">searched</add></subst>
+
+<lb/>many times?
+</l>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+</lg>
+
+<lg type="linegroup">
+<l>
+<lb/>I know they must be
+<lb/>persuaded <subst><orig seq="1">many times</orig><add rend="unmarked" place="supralinear" seq="2">a long while</add></subst>
+
+</l>
+</lg> 
+</lg>
+</del>
+
+
+
+<!-- BEGIN PAGE 18 VERSO -->
+
+    <pb facs="../figures/loc.00028.036.jpg" xml:id="leaf018v" type="verso"/>
+<div1 type="section">
+
+<list>
+<item>Miss Ellen Grey</item>
+<item rend="indented2">Bowey Theatre</item>
+<item>Cor Hicks &amp; Amity</item>
+<item rend="indented2">before 1st May</item>
+<item rend="indented1">tall high house</item>
+<item rend="indented3">free stone.</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+<list>
+<item>Wm G. Metsler</item>
+<item rend="indented2">Tuskilwa</item>
+<item rend="indented3">Bureau co</item>
+<item rend="indented4">Illinois</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 19 RECTO -->
+
+    <pb facs="../figures/loc.00028.037.jpg" xml:id="leaf019r" type="recto"/>
+<div1 type="section">
+
+<ab>word</ab>
+
+<ab>rifacciamento</ab>
+
+<ab>Bat-ra-chom a om<!-- THERE IS AN UNUSUAL SLASH ABOVE 'OM', IS THIS THE ASCII CHARACTER &#243; --> a chy</ab>
+
+</div1>
+
+<!-- BEGIN PAGE 19 VERSO -->
+    <pb facs="../figures/loc.00028.038.jpg" xml:id="leaf019v" type="verso"/>
+    <!-- This page is blank. -->
+
+<!-- BEGIN PAGE 20 RECTO -->
+    <pb facs="../figures/loc.00028.039.jpg" xml:id="leaf020r" type="recto"/>
+    <!-- This page is blank. -->
+    
+    <!-- BEGIN PAGE 20 VERSO -->
+    <pb facs="../figures/loc.00028.040.jpg" xml:id="leaf020v" type="verso"/>
+    <!-- This page is blank. -->
+
+<!-- BEGIN PAGE 21 RECTO -->
+
+    <pb facs="../figures/loc.00028.041.jpg" xml:id="leaf021r" type="recto"/>
+<div1 type="section">
+
+<ab>Oude (the oldest city in Hindustan) pop. 10,000</ab>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<list>
+<item>
+<!-- THIS FIRST SYMBOL IS EITHER A WAVY LINE OR THE WORD 'IN'.  MY DECISION IS TO MAKE IT A TILDA.  MY REASONS ARE THAT THERE IS NO DOT FOR THE 'I' AND THAT THE LINE IS ABOVE THE BASELINE FOR THE OTHER WORDS -->~ Names of Pieces</item>
+<item>some may be called Poem (as Poem of W.W. an American)</item>
+<item>some " " Hymn (as Hymn of the Body)</item>
+<item>" " " Song as (</item>
+<item>" " " simply as (To a Common prostitute</item>
+<item>" " " Poemet (as</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 21 VERSO -->
+
+    <pb facs="../figures/loc.00028.042.jpg" xml:id="leaf021v" type="verso"/>
+<div1 type="section">
+
+<list>
+<item>Scoville</item>
+<item rend="indented1">Maiden lane</item>
+<item rend="indented2">above William st.</item>
+</list>
+
+<ab>
+<add place="inline" hand="#unk" type="pasteon">
+<list>
+<item>Mr. S. Emlen Randolph</item>
+<item>Room 229 St Nicholas</item>
+<item>or 123 South 9th Phil</item>
+</list>
+</add>
+</ab>
+
+</div1>
+
+<!-- BEGIN PAGE 22 RECTO -->
+    <pb facs="../figures/loc.00028.043.jpg" xml:id="leaf022r" type="recto"/>
+
+<!-- This page is torn. -->
+
+<!-- BEGIN PAGE 22 VERSO -->
+    <pb facs="../figures/loc.00028.044.jpg" xml:id="leaf022v" type="verso"/>
+
+<!-- This page is torn. -->
+
+<!-- BEGIN PAGE 23 RECTO -->
+
+    <pb facs="../figures/loc.00028.045.jpg" xml:id="leaf023r" type="recto"/>
+<div1 type="section">
+
+<p>noon trains from New York arrive at Rutland at 9 o'clock at night</p>
+
+</div1>
+
+
+<!-- BEGIN PAGE 23 VERSO -->
+
+    <pb facs="../figures/loc.00028.046.jpg" xml:id="leaf023v" type="verso"/>
+
+<!-- BEGIN PAGE 24 RECTO -->
+
+    <pb facs="../figures/loc.00028.047.jpg" xml:id="leaf024r" type="recto"/>
+<div1 type="section">
+<lg type="poem">
+
+<lg type="linegroup">
+<l>
+<lb/>That is <subst><orig seq="1">profitable</orig><add rend="unmarked" place="supralinear" seq="2">great to you</add> </subst>which
+<lb/>you carry with you
+<lb/>after death
+</l>
+</lg>
+
+<lg type="linegroup">
+<l>
+<lb/>I will carefully earn <del rend="overstrike">all</del>
+
+<lb/>
+<del rend="overstrike">the</del> riches <del rend="overstrike">which I</del>
+
+<lb/>
+<del rend="overstrike">can</del> to be carried with
+<lb/>me after the death
+<lb/>of my body
+</l>
+</lg>
+
+<!-- I'M NOT SURE MY TAGGING HERE IS CORRECT.  THE WORD 'POEM' IS STUCK IN THE MIDDLE OF THE PAGE, AND IT SEEMS TO BE THE TITLE OF THIS SEQUENCE.  HOWEVER, THE TWO LINEGROUPS HERE REALLY SEEM TO BE ONE LINE GROUP.  BUT I CAN'T MAKE IT THIS WAY, BECAUSE WHEN I STICK THE TITLE IN THE MIDDLE OF THE LINEGROUP, I GET A PARSING ERROR. -->
+
+<lg type="linegroup">
+<head type="main-authorial">Poem</head>
+<l>I will <space dim="horizontal" extent="15 letters"/> ...</l>
+</lg>
+</lg>
+</div1>
+
+<!-- BEGIN PAGE 24 VERSO -->
+    <pb facs="../figures/loc.00028.048.jpg" xml:id="leaf024v" type="verso"/>
+<!-- This page is blank. -->
+
+<!-- BEGIN PAGE 25 RECTO -->
+
+    <pb facs="../figures/loc.00028.049.jpg" xml:id="leaf025r" type="recto"/>
+<div1 type="section">
+
+<p>All poems, or any other <add rend="unmarked" place="supralinear">expressions </add>of literature, that do not tally with their writers actual life and knowledge, are lies.</p>
+
+</div1>
+
+<!-- BEGIN PAGE 25 VERSO -->
+
+    <pb facs="../figures/loc.00028.050.jpg" xml:id="leaf025v" type="verso"/>
+<div1 type="section">
+
+<ab>
+<add place="interlinear" hand="#unk" type="pasteon">
+<list>
+<item>Also <hi rend="underline">Southampton Highland</hi>
+</item>
+<item>Plainville Station Conn</item>
+<item>Hartford Fishkill RR</item>
+<item>James Richardson Jr.</item>
+<item>256 Asylum Ave</item>
+<item>Hartford</item>
+</list>
+</add>
+</ab>
+
+<ab>
+<add place="interlinear" hand="#unk" type="pasteon">
+<list>
+<item>Edward H. House.</item>
+<item>)Boston Courier</item>
+<item>228 Astor House</item>
+</list>
+</add>
+</ab>
+
+</div1>
+
+<!-- BEGIN PAGE 26 RECTO -->
+
+    <pb facs="../figures/loc.00028.051.jpg" xml:id="leaf026r" type="recto"/>
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<lb/>I will make a song that
+<lb/>there is no imperfection
+<lb/>in man or woman
+</l>
+
+<l>
+<lb/>And I will make a
+<lb/>song that <del rend="overstrike">there</del> 
+<del rend="overstrike">each</del>
+
+<lb/>
+<del rend="overstrike">thing is</del> no one thing
+<lb/>in the universe is
+<lb/>inferior to another, and
+<lb/>that all are equally
+<lb/>miracles
+</l>
+
+<l rend="bracketed">
+<lb/>And I will make a
+<lb/>song that there is
+<lb/>nothing more beautiful
+<lb/>than death.
+</l>
+
+<l>
+<lb/>And I will make a
+<lb/>song that whatever
+<lb/>happens to any one
+<lb/>may become beautiful
+</l>
+
+</lg>
+</del>
+    
+    <!-- BEGIN PAGE 26 VERSO -->
+    
+    <pb facs="../figures/loc.00028.052.jpg" xml:id="leaf026v" type="verso"/>
+    
+    <!-- This page is blank. -->
+
+<!-- BEGIN PAGE 27 RECTO -->
+
+    <pb facs="../figures/loc.00028.053.jpg" xml:id="leaf027r" type="recto"/>
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<lb/>And I will make a new
+<lb/>song of riches, namely
+<lb/>the riches of the body
+<lb/>and the spirit, which
+<lb/>are before death
+<lb/>and after death
+</l>
+<milestone unit="undeclared" rend="horbar-full"/>
+</lg>
+</del>
+
+<div1 type="section">
+
+<p>&#9758; Every Poem of any thing must enclose and express the <hi rend="underline">spirituality</hi> and <hi rend="underline">joy</hi> of that thing&#8212;(of the train of that thing)&#8212;(of these things)&#8212;not be a mere didactic</p>
+
+</div1>
+
+<!-- BEGIN PAGE 27 VERSO -->
+    <pb facs="../figures/loc.00028.054.jpg" xml:id="leaf027v" type="verso"/>
+
+<!-- This page is blank. -->
+
+<!-- BEGIN PAGE 28 RECTO -->
+
+    <pb facs="../figures/loc.00028.055.jpg" xml:id="leaf028r" type="recto"/>
+<div1 type="section">
+
+<p>Finally after all the physical greatness of the city is attained&#8212;after the architecture of the house is
+    finished&#8212;then <add rend="unmarked" place="supralinear">what is </add>the man in the <subst><orig
+        seq="1">house</orig><add rend="insertion" place="supralinear" seq="2">city</add> </subst>
+<del rend="overstrike">or</del> 
+<add rend="unmarked" place="supralinear">What of </add>the woman?&#8212; What is a <add rend="insertion" place="supralinear">great </add>city or a <add rend="insertion" place="supralinear">great </add>house, without great men? great women?</p>
+
+</div1>
+
+<!-- BEGIN PAGE 28 VERSO -->
+    <pb facs="../figures/loc.00028.056.jpg" xml:id="leaf028v" type="verso"/>
+<!-- This page is blank. -->
+
+
+<!-- BEGIN PAGE 29 RECTO -->
+
+    <pb facs="../figures/loc.00028.057.jpg" xml:id="leaf029r" type="recto"/>
+
+<div1 type="section">
+<head type="main-authorial">Poems of Prophecies&#8212;</head>
+<ab>
+<lb/>There shall be&#8212;
+<lb/>containing prophecies&#8212;of all
+<lb/>that will probably be in
+<lb/>fifty, or hundred, two hundred, years
+<lb/>hence&#8212;
+</ab>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<ab>Doctrinaire&#8212;theorist</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+</div1>
+
+<div1 type="section">
+<head type="main-authorial">Strong conviction</head>
+<p>&#9758;Not to volunteer, interfere, or ask questions&#8212;</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<p>Always <hi rend="underline">reality</hi>&#8212;<hi rend="underline">no "funning" no wit</hi>&#8212;no <del rend="overstrike">"iconographies" or</del> ornament</p>
+
+</div1>
+
+<!-- BEGIN PAGE 29 VERSO -->
+
+    <pb facs="../figures/loc.00028.058.jpg" xml:id="leaf029v" type="verso"/>
+    <!-- This page is blank. -->
+
+<!-- BEGIN PAGE 30 RECTO -->
+   
+<!-- BEGIN PAGE 30 VERSO -->
+    
+<!-- BEGIN PAGE 31 RECTO -->
+    
+<!-- BEGIN PAGE 31 VERSO -->
+    
+<!-- BEGIN PAGE 32 RECTO -->
+    
+<!-- BEGIN PAGE 32 VERSO -->
+    
+    <pb facs="../figures/loc.00028.052.jpg" xml:id="leaf026v" type="verso"/>
+
+<div1 type="section">
+<head type="main-authorial">Poems of (after Death)</head>
+<ab>
+<lb/>&#9758;The eliptical
+<lb/>style for orations
+<lb/>operas
+<lb/>I will be the originator
+<lb/>the inventor
+</ab>
+<milestone unit="undeclared" rend="horbar-full"/>
+</div1>
+
+<div1 type="section">
+<ab>
+<lb/>That the exctasy of
+<lb/>the pythia, the
+<lb/>oracles...
+
+<lb/>&#8212;the divine rage<add rend="unmarked" place="infralinear">afflatus</add>
+
+<lb/>&#8212;That of Christ<add rend="unmarked" place="infralinear">Hercules &amp;e.</add>
+
+<lb/>are just as eligible now
+</ab>
+</div1>
+
+<!-- BEGIN PAGE 29 RECTO -->
+
+<pb xml:id="leaf29r" corresp="loc.00028.029" type="recto"/>
+
+<div1 type="section">
+<head type="main-authorial">Poems of the Library</head>
+<ab>
+<add place="top">? Poems of the Wise Books</add>
+</ab>
+<ab>&#8212;(bring in all about the few leading books.
+<list>
+<item>Literature of Egypt.</item>
+<item rend="indented1">Assyria</item>
+<item rend="indented1">Persia</item>
+<item rend="indented1">Hindustan</item>
+<item>
+<add rend="unmarked bracketed" place="right">Palestine</add>
+</item>
+<item rend="indented1">
+<add rend="unmarked" place="left">Pythagoras Plato&#8212;Socrates&#8212;</add>Greece&#8212;Homer&#8212;<list>
+<item>Iliad</item>
+<item>Odyssey</item>
+</list>
+</item>
+<item rend="indented1">Rome,&#8212;Virgil</item>
+<item rend="indented1">Germany&#8212;Luther</item>
+<item>Christ</item>
+<item>Bible</item>
+<item>Shakespeare</item>
+<item>Emerson</item>
+<item>Rousseau&#8212;("Social Contract")</item>
+</list>
+</ab>
+</div1>
+
+<!-- BEGIN PAGE 30 RECTO -->
+
+<pb xml:id="leaf30r" corresp="loc.00028.030" type="recto"/>
+
+<div1 type="section">
+<head type="main-authorial" rend="underline">Motto for all political <del rend="overstrike">philos</del> action</head>
+<head type="sub-authorial" rend="underline">Walt Whitman's terrible Motto.</head>
+<p>No nation, once <add rend="insertion" place="supralinear">fully </add>enslaved, ever fully recovered its liberty.&#8212;</p>
+</div1>
+
+<!-- BEGIN PAGE 31 RECTO -->
+
+<pb xml:id="leaf31r" corresp="loc.00028.031" type="recto"/>
+
+<div1 type="section">
+<head type="main-authorial" rend="bracketed">
+<hi rend="underline">Poem of the Library</hi>
+</head>
+<p>&#8212;first a respectful word to to those who in <del rend="overstrike">all</del> ancient times, <add rend="unmarked" place="supralinear">and </add>in all times in unknown nations, have written wise words, or taught them&#8212;</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<p>Wisdom comes mostly back to the projector, teller&#8212;no matter if no record&#8212;</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+
+<lg type="poem">
+<l>
+<lb/>All<add rend="unmarked" place="supralinear">All my poems do</add> I <subst>
+<del rend="overstrike" seq="1">do</del><add rend="unmarked" place="supralinear" seq="2">write </add></subst>I write to <del rend="overstrike">fo</del>
+
+<lb/>arouse in you a
+<lb/>great personality
+</l>
+</lg>
+</div1>
+
+<!-- BEGIN PAGE 32 RECTO -->
+
+<pb xml:id="leaf32r" corresp="loc.00028.032" type="recto"/>
+
+<div1 type="section">
+<p>I must not fail to <add rend="unmarked" place="left">&#9758;</add>
+<hi rend="underline">saturate</hi> my poems with <hi rend="underline">things substantial</hi>, American <hi rend="underline">scenes</hi>, <hi rend="underline">climates</hi>, <hi rend="underline">names</hi>, <hi rend="underline">places</hi>, <hi rend="underline">words</hi>, for <hi rend="underline">permanent facts (include every important river and mountain</hi>
+</p>
+<list>
+<item rend="underline">animals</item>
+<item rend="underline">trees</item>
+<item rend="underline">crops, grains, vegetables</item>
+<item rend="underline">flowers</item>
+</list>
+</div1>
+
+<!-- BEGIN PAGE 33 RECTO-->
+
+<pb xml:id="leaf33r" corresp="loc.00028.033" type="recto"/>
+
+<div1 type="section">
+<p>
+<subst><orig seq="1">sing</orig><add rend="unmarked" place="supralinear" seq="2">celebrate </add></subst>the great <add rend="insertion" place="supralinear">ante </add>conditions of the globe, the gaseous watery (granitic<add rend="unmarked" place="supralinear">?</add>) vegetable <del rend="overstrike">periods</del> stages&#8212;</p>
+<milestone unit="undeclared" rend="horbar-full"/>
+</div1>
+
+<!-- HOW SHOULD I TAG THIS?  THERE ARE TWO TITLES HERE, AND THE RIGHT HAND POINTS TO THE SECOND TITLE. -->
+<div1 type="section">
+<head type="main-authorial">Poem of Precepts</head>
+<head type="main-authorial" rend="underline">Poem of Joys and Works</head>
+
+<ab>
+<add rend="unmarked" place="left">&#9758;</add>
+</ab>
+
+</div1>
+
+<!-- BEGIN PAGE 33 VERSO -->
+
+<pb xml:id="leaf33v" corresp="loc.00028.034" type="verso"/>
+
+
+<div1 type="section">
+<ab>
+<del type="hashmark">
+<list>
+<item>vegetable</item>
+<item>in its natural state</item>
+<item>
+<del rend="overstrike">to eat</del> not to eat</item>
+<item>grows <add rend="insertion" place="supralinear">not </add>in U.S. <add rend="unmarked" place="right">foreign production</add>
+</item>
+<item>not a fruit</item>
+<item>not a wood</item>
+<item>sea</item>
+<item>sold at drug stores</item>
+<item>soft.</item>
+</list>
+</del>
+</ab>
+</div1>
+
+
+<!-- BEGIN PAGE 34 RECTO -->
+
+<pb xml:id="leaf34r" corresp="loc.00028.034" type="recto"/>
+
+<div1 type="section">
+<p>The greatest thing about a city is its people</p>
+</div1>
+
+
+<!-- BEGIN PAGE 34 VERSO -->
+
+<pb xml:id="leaf34v" corresp="loc.00028.035" type="verso"/>
+
+<div1 type="poemnotes">
+<del type="hashmark">
+<p>vegetable</p>
+
+<l>
+<lb/>Be it <del rend="overstrike">the same</del> as if I were
+<lb/>with you&#8212;Be not too
+<lb/>certain but I am
+<lb/>with you
+</l>
+</del>
+</div1>
+
+<!-- BEGIN PAGE 35 RECTO -->
+
+<pb xml:id="leaf35r" corresp="loc.00028.035" type="recto"/>
+
+<del type="hashmark">
+<lg type="poem">
+<head type="main-authorial">Poem</head>
+<head type="sub-authorial">
+<hi rend="underline">poem</hi> to one three centuries hence or thirty centuries hence</head>
+
+<l>
+<del rend="overstrike">To</del>
+</l>
+<l>
+<lb/>
+<del rend="overstrike">To</del> I, alert, <add rend="unmarked" place="supralinear">
+<subst>
+<del rend="overstrike" seq="1">formed</del><add rend="insertion" place="supralinear" seq="2">visible </add></subst>comport, </add>full of
+<lb/>life, thirty-eight
+<lb/>years old,
+</l>
+
+<l>
+<lb/>To you, yet unborn,
+<lb/>these.
+</l>
+
+<l>
+<lb/>
+<del rend="overstrike">Now</del>
+<add rend="insertion" place="supralinear">
+<del rend="overstrike">As</del>
+<add rend="unmarked" place="supralinear">When </add>you read these </add>I that, was
+<lb/>visible am <add rend="insertion" place="supralinear">become </add>invisible
+</l>
+
+<l>
+<lb/>Now <add rend="insertion" place="supralinear">it is </add>you <del rend="overstrike">are</del> compact,
+<lb/>full of life, reading
+<lb/>
+<del rend="overstrike">my</del> 
+<add rend="unmarked" place="supralinear">my </add>
+<subst>
+<del rend="overstrike" seq="1">my</del><add rend="unmarked" place="supralinear" seq="2">
+<del rend="overstrike">these</del> 
+</add></subst>poems,
+</l>
+
+<l>
+<lb/>If I were <subst>
+<del rend="overstrike" seq="1">here doubtless</del><add rend="unmarked" place="infralinear" seq="2">with you </add></subst>
+
+<lb/>
+<del rend="overstrike">it</del> may be we would
+<lb/>love another
+</l>
+
+</lg>
+</del>
+
+
+<!-- BEGIN PAGE 36 RECTO -->
+
+<pb xml:id="leaf36r" corresp="loc.00028.036" type="recto"/>
+
+<div1 type="section">
+<p>What would be thought of a surgeon or physician who should be delicate <del rend="overstrike">and modest, and treat of costumes and respect the</del> and know only the body as it appears in fashionable costumes?&#8212; What is more real than sex? What is there at all the facts of existence but procreation?&#8212; <del rend="overstrike">Yet</del> 
+<add rend="overwrite" place="over">T</add>these are the very things,&#8212;what misses these, misses all. There is just the same reason for my poems, and what they seek to do, to include sex and procreation, as there is for the <del rend="overstrike">surg</del> physician to include them</p>
+</div1>
+
+<!-- BEGIN PAGE 37 RECTO -->
+
+<pb xml:id="leaf37r" corresp="loc.00028.037" type="recto"/>
+
+<div1 type="section">
+<ab>
+<lb/>between 9 &amp; 12 <add rend="unmarked circled" place="right">55 Greene</add>
+
+<lb/>" 1 &amp; 5
+<milestone unit="undeclared" rend="horbar-full"/>
+<lb/>easy
+</ab>
+</div1>
+
+
+<!-- BEGIN PAGE 38 RECTO -->
+
+<pb xml:id="leaf38r" corresp="loc.00028.038" type="recto"/>
+
+<div1 type="section">
+<list>
+<item>Thomas the Rhymer&#8212;Scotch</item>
+<item rend="indented1">died 1299 <add rend="unmarked circled" place="right">thought about 80 yrs old</add>
+</item>
+<item>see p195&#8212;6&#8212;7&#8212;Scott's Poems</item>
+<item/>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+
+<lg type="poem">
+<l>
+<lb/>"the importance of the
+<lb/>individual&#8212;that is the
+<lb/>greatest<add rend="unmarked" place="supralinear">?</add> saying
+</l>
+
+<l>
+<lb/>the <space dim="horizontal" extent="20 letters" rend="underline"/>that is
+<lb/>the
+</l>
+
+<l>
+<lb/>to <space dim="horizontal" extent="20 letters" rend="underline"/>that is
+<lb/>the
+</l>
+
+</lg>
+</div1>
+<!-- BEGIN PAGE 39 RECTO -->
+
+<pb xml:id="leaf39r" corresp="loc.00028.039" type="recto"/>
+
+<div1 type="section">
+
+<p>the idea of <hi rend="underline">grades</hi> in the mental condition and development of people</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<p>The people <del rend="overstrike">are</del> in strata&#8212;remember the vast, largest, most continued popular strata (? strats)&#8212;also the various other strata, those of criminals, those of ignorant persons&#8212;Also, in other countries, under the religious and governments.&#8212; For instance, the common people, what they are, with their physique, their social customs, liberty, slavery, and the rest&#8212;</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<p>This <add rend="insertion" place="supralinear">The </add>great fact of grades <subst>
+<del rend="overstrike" seq="1">comprehends</del><add rend="unmarked" place="supralinear" seq="2">includes </add></subst>and explains a hundred subordinated facts; without <del rend="overstrike">them</del> 
+<add rend="unmarked" place="supralinear">it</add>, the included facts not well understood.&#8212;</p>
+
+</div1>
+
+<!-- BEGIN PAGE 39 VERSO -->
+
+<pb xml:id="leaf39v" corresp="loc.00028.040" type="verso"/>
+
+<div1 type="section">
+<del type="hashmark">
+
+<list>
+<item>vegetable &amp; mineral</item>
+<item>no tool, implement or instrument</item>
+<item>not in the room</item>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<item>larger than a foot</item>
+<item>on land</item>
+<item>is a fixture</item>
+<item>outdoors</item>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<item>public spectacle</item>
+<item>figure</item>
+<item>chiseled</item>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<item>on top of a building</item>
+<item>not on city building</item>
+<item>on Broadway</item>
+<item>no place of amusement</item>
+<item>bird</item>
+<item>above</item>
+<item>is eagle on top</item>
+<item>above the Saint Germain</item>
+<item>on</item>
+</list>
+</del>
+</div1>
+
+<!-- BEGIN PAGE 40 RECTO -->
+
+<pb xml:id="leaf40r" corresp="loc.00028.040" type="recto"/>
+
+<div1 type="section">
+<head type="main-authorial">Poem of Legacies</head>
+<p>&#8212;including all that we have received from the past&#8212;</p>
+
+<p>tables, language, figures, measures, literature</p>
+
+</div1>
+
+<!-- BEGIN PAGE 41 RECTO -->
+
+<pb xml:id="leaf41r" corresp="loc.00028.041" type="recto"/>
+
+
+<div1 type="section">
+
+    <head type="main-authorial" rend="underline"><del type="hashmark">court plaster</del></head>
+    <head type="main-authorial" rend="underline"><del type="hashmark">all animals</del></head>
+<del type="hashmark">
+<list>
+<item>
+<del rend="overstrike">vegetable</del>
+</item>
+<item>
+<del rend="overstrike">no</del>
+
+<!-- NOTE FOR EDITOR: THE REMAINING WORDS ON THIS PAGE APPEAR TO BE WRITTEN IN A HAND OTHER THAN WHITMAN'S.  I HAVE **NOT** INDICATED THIS IN THE CODE BECAUSE I AM WHO WROTE THIS OR HOW TO ACCURATELY TAG THIS. -->
+
+not in the room</item>
+<item>in Town and Country</item>
+<item>Smaller than your arm</item>
+<item>not a <choice>
+<sic>mecanick's</sic>
+<corr>mechanic's</corr>
+</choice> tool</item>
+<item>not round</item>
+<item>not any Diet</item>
+<item>not any tool</item>
+<item>
+<choice>
+<sic>Groes</sic>
+<corr>Grows</corr>
+</choice> in the ground</item>
+<item>it <choice>
+<sic>groes</sic>
+<corr>grows</corr>
+</choice> in the north</item>
+<item>it Bares flowers</item>
+<item>it is of a fibers.</item>
+<item>not <choice>
+<sic>groe</sic>
+<corr>grow</corr>
+</choice> on the vine</item>
+<item>not in <unclear reason="illegible" resp="rl" cert="low">Borsea</unclear>
+<!-- WHAT WORD IS THIS -->
+</item>
+</list>
+</del>
+</div1>
+
+
+<!-- BEGIN PAGE 42 RECTO -->
+
+<pb xml:id="leaf42r" corresp="loc.00028.042" type="recto"/>
+
+
+<div1 type="section">
+<del type="hashmark">
+<list>
+<item>vegetable</item>
+<item>not of diet</item>
+<item>not wood</item>
+<item>in this room</item>
+<item>not a cigar</item>
+<item>not sold</item>
+<item>not about a person</item>
+<item>does belong to the premises</item>
+<item>not represent any thing</item>
+<item>not dry goods</item>
+<item>not on a level</item>
+<item>not a cork</item>
+<item>above the counter</item>
+<item>fast &amp; fixed</item>
+<item>touched the wall</item>
+<item>No paper</item>
+</list>
+</del>
+</div1>
+
+
+<!-- BEGIN PAGE 43 RECTO -->
+
+<pb xml:id="leaf43r" corresp="loc.00028.043" type="recto"/>
+
+
+<div1 type="section">
+    
+    <head type="main-authorial" rend="underline"><del type="hashmark">Book of Letters <add rend="unmarked" place="right">? Poem</add></del>
+</head>
+<del type="hashmark">
+<list>
+<item>
+<add rend="unmarked" place="supralinear">? Poem </add>Letter to a prostitute</item>
+<item>Letter to a felon</item>
+<item>Letter to one about to die</item>
+</list>
+
+<ab>
+<lb/>end letter to prostitute&#8212;
+<lb/>&#8212;"I salute you my love,
+<lb/>with a kiss on your
+<lb/>lips, that you do
+<lb/>not forget me&#8212;
+</ab>
+</del>
+</div1>
+
+
+<!-- BEGIN PAGE 44 RECTO -->
+
+<pb xml:id="leaf44r" corresp="loc.00028.044" type="recto"/>
+
+<div1 type="section">
+
+<p>? whether the right of voting, legal owning, &amp;e., (being "of age") should not be changed from 21 to 18 years&#8212;</p>
+
+</div1>
+
+<!-- BEGIN PAGE 45 RECTO -->
+
+<pb xml:id="leaf45r" corresp="loc.00028.045" type="recto"/>
+
+<div1 type="section">
+<head type="main-authorial">
+<add rend="unmarked" place="left">? </add>Poem of American Names</head>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<ab>
+the <add rend="insertion" place="supralinear">bookbinder's </add>hammer, knife, shears, &amp; folder
+</ab>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+
+<list>
+<item rend="indented1">the standing press</item>
+<item rend="indented1">" <subst>
+<del rend="overwrite" seq="1">stamping</del><add rend="overwrite" place="over" seq="2">embossing</add></subst> press,</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 46 RECTO -->
+
+<pb xml:id="leaf46r" corresp="loc.00028.046" type="recto"/>
+
+<div1 type="section">
+<head type="main-authorial">In Poem of Personality</head>
+<p>&#8212;incorporate all the ideas of the <hi rend="underline">Personal Magnetism articles</hi>
+</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+</div1>
+
+<div1 type="section">
+<head type="main-authorial">
+<add rend="unmarked" place="left">?</add>
+<hi rend="underline">Poem of Large Personality.</hi>
+</head>
+<p>(make this poem for women just as much for men)</p>
+</div1>
+
+
+<!-- BEGIN PAGE 47 RECTO -->
+
+<pb xml:id="leaf47r" corresp="loc.00028.047" type="recto"/>
+<div1 type="section"> 
+<p>
+<gap reason="cut away"/>
+</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<p>The Dutch parentage of Manhattan, the English of Massachusetts, the <del rend="overstrike">G</del> Swedes of New Jersey</p>
+</div1>
+
+<!-- BEGIN PAGE 48 RECTO -->
+
+<pb xml:id="leaf48r" corresp="loc.00028.048" type="recto"/>
+<div1 type="section"> 
+<p>personality&#8212;
+<!-- NOTE TO EDITOR: THE BRACKET HERE IS REVERSED.  IT LOOKS AS IF THE WORD 'PERSONALITY' IS BRACKETED.  HOWEVER, THE FOLLOWING LIST DESCRIBES THE WORD, SO THE BRACKET THIS WAY SEEMS APPROPRIATE -->
+<list rend="bracketed">
+<item>pride</item>
+<item>self&#8209;esteem</item>
+<item>self&#8209;appreciation</item>
+<item>egotism</item>
+<item>elevatedness</item>
+</list>
+<milestone unit="undeclared" rend="horbar-full"/>
+</p>
+
+<p>the strap and paddle for the punishment of slaves</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<p>the young heifer</p>
+</div1>
+
+<!-- BEGIN PAGE 49 RECTO -->
+
+<pb xml:id="leaf49r" corresp="loc.00028.049" type="recto"/>
+<div1 type="section"> 
+
+<!-- NOTE TO EDITOR: THE WORDS 'A POEM' ARE WRITTEN IN A LARGER HAND.  THEY APPEAR TO BE A TITLE TO THE PAGE, BUT THEY ALSO FIT WITHIN THE CONTEXT OF THE PARAGRAPH. HOW SHOULD THIS BE TAGGED? -->
+
+<head type="main-authorial">
+<add rend="unmarked" place="left">Make</add>A Poem</head>
+<p>
+<add rend="unmarked" place="right">(expressed in things and <del rend="overstrike">acts</del> moving acts </add>involving the idea, that in morals and mental results good, evil, &amp;e., there is the same reciprocal play of physical effects and causes, as in the physical world.</p>
+</div1>
+
+<div1 type="section">
+<p>When the original men of These States threw off the imperialism of Great Britain, then was dimly roused before the fathers the vista of a noble government</p>
+</div1>
+
+<!-- BEGIN PAGE 49 VERSO -->
+
+<pb xml:id="leaf49v" corresp="loc.00028.050" type="verso"/>
+
+<div1 type="section"> 
+<del type="hashmark">
+<p>The Mayor this forenoon issued an order to the various Captains, directing them to call in the men at 4 o'clock this
+    afternoon and have them deliver up the city property&#8212;the Captains to hold on to the Station Houses till the
+    further action of the <unclear reason="illegible" resp="rl" cert="high">Common</unclear> Council</p>
+</del></div1>
+
+
+<!-- BEGIN PAGE 50 RECTO -->
+
+<pb xml:id="leaf50r" corresp="loc.00028.050" type="recto"/>
+<div1 type="section"> 
+<p>Poem of (my brothers and sisters) artists, singers, musicians</p>
+</div1>
+
+<!-- BEGIN PAGE 51 RECTO -->
+
+<pb xml:id="leaf51r" corresp="loc.00028.051" type="recto"/>
+<div1 type="section"> 
+<ab>
+<lb/>1, 2, 3, &amp;e.
+<lb rend="indented1"/>an equal friend of
+<lb rend="indented2"/>all the States.
+</ab>
+</div1>
+
+<!-- BEGIN PAGE 52 RECTO -->
+
+<pb xml:id="leaf52r" corresp="loc.00028.052" type="recto"/>
+<div1 type="section"> 
+<head type="main-authorial">
+<add rend="unmarked" place="top">for a Great City</add>
+</head>
+<head type="sub-authorial">
+<add rend="unmarked" place="top">the greatest <space dim="horizontal" extent="7 letters" rend="underline"/> of</add>
+</head>
+<!-- NOTE TO EDITOR: MY TAGGING OF THE ABOVE LINES AS 'HEADERS' IS QUESTIONABLE.  ALSO, THE SPACE TAG IN THE SUB HEAD IS QUESTIONABLE.  WHITMAN MIGHT HAVE WRITTEN AN ILLEGIBLE WORD HERE. -->
+
+<p>
+<del rend="overstrike">The</del> A city may have great temples, avenues, &amp;e.</p>
+
+<p>but <del rend="overstrike">it</del>
+<gap reason="deletion, illegible"/> in its common people, their <del rend="overstrike">knowledge</del>, personality, heroism, ruggedness beauty &amp; strength</p> 
+</div1>
+
+<!-- BEGIN PAGE 53 RECTO -->
+
+<pb xml:id="leaf53r" corresp="loc.00028.053" type="recto"/>
+<div1 type="section"> 
+
+<p>the greater the reform, the greater the personality that is needed.</p>
+<milestone unit="undeclared" rend="horbar-full"/>
+</div1>
+
+<div1 type="poem_notes">
+<head type="main-authorial" rend="underline">Poem of Tears</head>
+<ab>
+<lb/>Can I not make a 
+<lb/>poem in which
+<lb/>the tears drop
+<lb/>down in great
+<lb/>drops?
+</ab>
+
+</div1>
+
+<!-- BEGIN PAGE 54 RECTO -->
+
+<pb xml:id="leaf54r" corresp="loc.00028.054" type="recto"/>
+<div1 type="section"> 
+<del type="hashmark">
+<list>
+<item>animal &amp; mineral</item>
+<item>about the person</item>
+<item>not in sight</item>
+<item>about not Sam</item>
+<item>carried in pocket</item>
+<item>moved on a joint</item>
+<item>Belongs to Cale</item>
+</list>
+</del>
+
+<del type="hashmark">
+<p>this pencil I am writing with</p>
+</del>
+</div1>
+
+<!-- BEGIN PAGE 55 RECTO -->
+
+<pb xml:id="leaf55r" corresp="loc.00028.055" type="recto"/>
+
+<div1 type="section"> 
+<del type="hashmark">
+<list>
+<item>1&#8212;mineral</item>
+<item>2 <del rend="overstrike">l</del> more than a foot</item>
+<item>3 not in the room</item>
+<item>4 is <del rend="overstrike">some</del> a conspicious object in this city</item>
+<item>5 is in an <del rend="overstrike">elevated</del> 
+<add rend="unmarked" place="supralinear">
+<del rend="overstrike">lofted</del> 
+<add rend="unmarked" place="infralinear">elevated</add>
+</add> position</item>
+<item>6 in Broadway</item>
+<item>7 private property</item>
+<item>8 below Canal</item>
+<item>9 in front of a house</item>
+<item>10 below the first story</item>
+<item>11 no figure of any thing</item>
+</list>
+</del>
+</div1>
+
+
+<!-- BEGIN PAGE 55 VERSO -->
+
+<pb xml:id="leaf55v" corresp="loc.00028.056" type="verso"/>
+<div1 type="section"> 
+
+<p>
+<add rend="unmarked" place="top">
+<hi rend="circled">stone mortar</hi> stone stoop</add>
+</p>
+
+<list>
+<item>12 below North</item>
+<item>13 stone</item>
+<item>14 above St. Paul's</item>
+<item>15 about the door way</item>
+<item>16 at a hotel</item>
+<item>17 Astor house stoop</item>
+<item>18 not the pillars</item>
+<item>19</item>
+</list>
+</div1>
+
+<!-- BEGIN PAGE 56 RECTO -->
+
+<pb xml:id="leaf56r" corresp="loc.00028.056" type="recto"/>
+<div1 type="section">
+<head type="main-authorial">clinic, (or clinique)</head>
+<p>relating to a bed, bed-ridden&#8212;(the lectures, or treatment of a surgeon or phys. given off&#8209;hand, as <add rend="insertion" place="supralinear">he stands &amp; then </add>the patient, <del rend="overstrike">is bright to him</del>)</p>
+
+</div1>
+
+<!-- BEGIN PAGE 56 VERSO -->
+
+<pb xml:id="leaf56v" corresp="loc.00028.057" type="verso"/>
+<div1 type="section">
+
+<p>
+<add rend="unmarked" place="right">bevel</add>
+</p>
+
+<list>
+<item>vegetable</item>
+<item>not gritty</item>
+<item>it is wood</item>
+<item>manufactured</item>
+<item>it is used as a tool</item>
+<item rend="bracketed">it is used by any of us in this room</item>
+<item>not used as a support</item>
+<item>smaller than my arm</item>
+<item>not require the mouth</item>
+<item>carried about openly</item>
+<item>less than a foot</item>
+<item>has a handle</item>
+<item>used to strike blows,</item>
+<item>used by</item>
+</list>
+
+</div1>
+
+<!-- BEGIN PAGE 57 RECTO -->
+
+<pb xml:id="leaf57r" corresp="loc.00028.057" type="recto"/>
+
+<div1 type="section">
+<head type="main-authorial">the Am</head>
+<p/>
+</div1>
+
+<!-- BEGIN PAGE 57 VERSO -->
+
+<pb xml:id="leaf57v" corresp="loc.00028.058" type="verso"/>
+<div1 type="section">
+<p>
+<del rend="overstrike">all</del>
+</p>
+
+<del type="hashmark">
+<list>
+<item>1 1 1 1 1 1 1 1 1</item>
+<!-- HERE THERE ARE SEVERAL MARKS THAT APPARENTLY INDICATE THE NUMBER OF QUESTIONS ASKED IN THE GAME WHITMAN IS PLAYING.  I HAVE INDICATED THEM WITH '1's. -->
+<milestone unit="undeclared" rend="horbar-full"/>
+<item>mineral</item>
+<item>manufactured</item>
+<item>instrument</item>
+<item>not iron</item>
+<item>not a mechanic's tool</item>
+<item>not used by us</item>
+<item>not for hurt</item>
+<item>sold not at stores</item>
+<item>bigger than my fist</item>
+<item>not used in medicine or surgery.</item>
+<item>not used by any public officer</item>
+<item>no precious metal</item>
+<item>not in this city</item>
+<item>is in the U.S.</item>
+<item>not in memory of any person</item>
+<item>On land</item>
+</list>
+</del>
+</div1>
+
+<!-- BEGIN PAGE 58 RECTO -->
+
+<pb xml:id="leaf58r" corresp="loc.00028.058" type="recto"/>
+<div1 type="section">
+
+<!-- THIS PAGE CONTINUES THE LIST MADE ON THE LAST PAGE. -->
+<del type="hashmark">
+<list>
+<item>not an edifice</item>
+<item>not as a signal</item>
+</list>
+</del>
+</div1>
+
+<!-- BEGIN PAGE 58 VERSO -->
+
+<pb xml:id="leaf58v" corresp="loc.00028.059" type="verso"/>
+<div1 type="section">
+
+<del type="hashmark">
+<p>Washington Monument at 14th st.</p>
+</del>
+</div1>
+
+<!-- BEGIN PAGE 59 RECTO -->
+
+<pb xml:id="leaf59r" corresp="loc.00028.059" type="recto"/>
+<div1 type="section">
+<head type="main-authorial">poem of the <subst>
+<del rend="overstrike" seq="1">Indians</del><add rend="unmarked" place="supralinear" seq="2">aborigines</add></subst>
+</head>
+<p>&#8212;introducing every principal aboriginal trait, and name</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<p>&#9757; bring in <del rend="overstrike">Indi</del> aboriginal traits in <hi rend="underline">poem of</hi> (American) <hi rend="underline">Materials</hi>
+</p>
+</div1>
+
+<!-- BEGIN PAGE 59 VERSO -->
+
+<pb xml:id="leaf59v" corresp="loc.00028.060" type="verso"/>
+<div1 type="section">
+
+<p>
+<add rend="unmarked circled" place="right">square</add>
+</p>
+
+<del type="hashmark">
+<list>
+<item>mineral</item>
+<item>not in this room</item>
+<item>manufactured</item>
+<item>sold at stores</item>
+<item>hardware stores (<add rend="unmarked" place="supralinear">&amp;e.</add>Drug stores</item>
+<item>not taken in the stomach</item>
+<item>
+<add rend="insertion" place="supralinear">sometimes </add>used in surgery</item>
+<item>iron and steel</item>
+<item>not an edged tool of any sort</item>
+<item>no application to person</item>
+<item>instrument</item>
+<item>no handle</item>
+<item>mechanic</item>
+<item>carpenters</item>
+<item>sometimes more <add rend="unmarked" place="infralinear">sometimes less</add> than 9 inches</item>
+<item>smooth</item>
+<item>
+<del rend="overstrike">one</del> points</item>
+<item>Joint</item>
+</list>
+</del>
+</div1>
+
+<!-- BEGIN PAGE 60 RECTO -->
+
+<pb xml:id="leaf60r" corresp="loc.00028.060" type="recto"/>
+    <div1 type="section">
+<lg type="poem">
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<head type="main-authorial">Poem of Criminals</head>
+    <lg type="linegroup">
+
+<l>
+<lb/>Now I <del rend="overstrike">take</del> betake
+<lb/>myself from all
+<lb/>others, and go
+<lb/>away criminals&#8212;
+</l>
+</lg>
+</lg>
+    </div1>
+<!-- BEGIN PAGE 62 RECTO -->
+
+<pb xml:id="leaf62r" corresp="loc.00028.062" type="recto"/>
+<div1 type="section">
+
+<p>in Poems somewhere put in the Dutch liberty, conscien<subst>
+<del rend="overwrite" seq="1">ce</del><add rend="overwrite" place="over" seq="2">tiousness</add></subst> and good natured tolerance&#8212;the settling spirit of Manhattan island&#8212;and its prevailing characteristic to this day</p>
+
+<!-- THERE APPEARS TO BE SOME KIND OF DRAWING HERE, SEVERAL SHAPES AND LINES CONNECTING THEM.  ALSO THERE IS A STRAY LINE THROUGH HALF OF THE PAGE, WHICH GOES THROUGH PART OF THE TRANSCRIBED PARAGRAPH.  I DON'T THINK IT'S A HASHMARK OR DELETE LINE. -->
+
+</div1>
+
+<!-- BEGIN PAGE 63 RECTO -->
+
+<pb xml:id="leaf63r" corresp="loc.00028.063" type="recto"/>
+<div1 type="section">
+
+<p>America brings to the <subst>
+<del rend="overstrike" seq="1">judge</del><add rend="unmarked" place="supralinear" seq="2">test</add></subst> of characters and heroism <del rend="overstrike">entirely far larger</del> her own large and new standards</p>
+
+</div1>
+
+<!-- BEGIN PAGE 64 RECTO -->
+
+<pb xml:id="leaf64r" corresp="loc.00028.064" type="recto"/>
+<div1 type="section">
+
+<p>
+<add rend="unmarked" place="left">? </add>A poem <add rend="insertion" place="supralinear">(or passage in a poem) </add>giving an account of my way of making a poem</p>
+
+<ab>
+<lb/>Poemet
+<lb/>Poemot
+</ab> 
+
+</div1>
+
+<!-- BEGIN PAGE 64 VERSO -->
+
+<pb xml:id="leaf64v" corresp="loc.00028.065" type="verso"/>
+<div1 type="section">
+<del type="hashmark">
+
+<list>
+<item>grows <gap reason="cut away"/> north &amp; south</item>
+<item>no shell</item>
+<item>generally cooked</item>
+<item>eaten at this counter</item>
+<item>sometimes sold by the bushel</item>
+<item>smaller or larger than Jack's fist</item>
+<item>whitish meat</item>
+
+</list>
+
+</del>
+</div1>
+
+<!-- BEGIN PAGE 65 RECTO -->
+
+<pb xml:id="leaf65r" corresp="loc.00028.065" type="recto"/>
+<div1 type="section">
+<del type="hashmark">
+
+<list>
+<item>eat here every day,</item>
+<item>grows in a lump.</item>
+<item rend="bracketed">
+<del rend="overstrike">m</del> may be either mealy or not</item>
+</list>
+
+</del>
+</div1>
+
+<!-- BEGIN PAGE 65 VERSO -->
+
+<pb xml:id="leaf65v" corresp="loc.00028.066" type="verso"/>
+<div1 type="section">
+<del type="hashmark">
+
+<list>
+<item>mineral</item>
+<item>quite certain not in the room,</item>
+<item>something made through the use of fire</item>
+<item>
+<del rend="overstrike">iron</del> steel</item>
+<item>smaller</item>
+<item>carried about one</item>
+<item>not a part of another <gap reason="deletion, illegible"/> article</item>
+<item>not <del rend="overstrike">a part</del> used about the toilet</item>
+<item>used by any one</item>
+<item>nothing to do with sound</item>
+</list>
+</del>
+</div1>
+
+<!-- BEGIN PAGE 66 VERSO -->
+
+<pb xml:id="leaf66v" corresp="loc.00028.067" type="verso"/>
+    <div1 type="section">
+<lg type="poem">
+
+<l>
+<lb/>It is <del rend="overstrike">not any more</del> 
+<add rend="unmarked" place="supralinear">any more </add>in the
+<lb/>
+<choice>
+<sic>rythmic</sic>
+<corr>rhythmic</corr>
+</choice> legends than in
+<lb/>all else,
+</l>
+
+</lg>
+
+<lg type="poem">
+
+<l>
+<lb/>It is not in the <add rend="insertion bracketed" place="supralinear">old books&#8212;it is not in <add rend="unmarked" place="infralinear">the </add>
+<del rend="overstrike">old books</del>
+</add> 
+<choice>
+<sic>rythmic</sic>
+<corr>rhythmic</corr>
+</choice>
+
+<lb/>legends, nor <del rend="overstrike">in w</del> 
+<add rend="unmarked" place="supralinear">&#8212;it has not</add>
+
+<lb/>descended <del rend="overstrike">to</del> in
+<lb/>
+<del rend="overstrike">the</del> books, any more
+<lb/>than all else,
+</l>
+
+</lg>
+    </div1>
+<!-- BEGIN PAGE 67 RECTO -->
+
+<pb xml:id="leaf67r" corresp="loc.00028.067" type="recto"/>
+    <div1 type="section">
+<lg type="poem">
+<head type="main-authorial">? Poem of the past</head>
+
+<l>
+<del rend="overstrike">What of the past</del>
+</l>
+<l rend="indented3">Poemet</l>
+<l>
+<del rend="overstrike">What in the poem of the Past</del>
+</l>
+<l>
+<del rend="overstrike">I w</del>
+</l>
+
+<l>
+<lb/>I was looking <add rend="insertion" place="supralinear">a long while </add>for the poem
+<lb/>of the past and now
+<lb/>I have found it
+</l>
+
+<l>
+<lb/>It is the Present&#8212;it is
+<lb/>the <add rend="unmarked" place="inline">this </add>Earth to-day, and
+<lb/>
+<del rend="overstrike">all t</del> 
+<del rend="overstrike">Ame</del> this
+<lb/>America, and all
+<lb/>languages and nations
+</l>
+
+<l>
+<lb/>It is the <del rend="overstrike">long</del> 
+<add rend="unmarked" place="supralinear">broad </add>show
+<lb/>of artificial things, ships,
+<lb/>
+<del rend="overstrike">international comme</del>
+
+<lb/>
+<del rend="overstrike">exchanges, books,</del>
+
+<lb/>and the interchanges
+<lb/>of nations
+</l>
+</lg>
+    </div1>
+<!-- BEGIN PAGE 68 RECTO -->
+
+<pb xml:id="leaf68r" corresp="loc.00028.068" type="recto"/>
+<div1 type="section">
+<del type="hashmark">
+<list>
+<item>animal &amp; vegetable</item>
+<item>in this room</item>
+<item>not used by drivers</item>
+<item>worn above the waist</item>
+<item>complete in</item>
+<item>
+<del rend="overstrike">it's</del> a</item>
+</list>
+</del>
+</div1>
+
+<div1 type="poem_notes">
+<del type="hashmark">
+<p>Poem expressing the sentiment of the joy of old age&#8212;of an old person&#8212;(or in the poem of Joys)</p>
+</del>
+
+<lg type="poem">
+<l>
+<lb/>O my old <subst>
+<del rend="overstrike" seq="1">age,</del><add rend="unmarked" place="supralinear" seq="2">manhood! </add></subst>my
+</l>
+
+<l>
+<lb/>
+<add rend="insertion" place="supralinear">My children and grandchildren! </add>My white hair and 
+<lb/>beard! My <subst>
+<del rend="overstrike" seq="1">calmness</del><add rend="unmarked" place="supralinear" seq="2">largeness</add><add
+    rend="unmarked" place="infralinear" seq="3">majesty</add></subst>
+
+<lb/>
+<add rend="insertion" place="supralinear">calmness </add>and <subst>
+<del rend="overstrike" seq="1">peace</del><add rend="unmarked" place="supralinear" seq="2">majesty </add></subst>from
+<lb/>
+<del rend="overstrike">many</del> 
+<add rend="unmarked" place="supralinear">many </add>years!
+</l>
+</lg>
+</div1>
+
+<!-- BEGIN PAGE 68 VERSO -->
+
+<pb xml:id="leaf68v" corresp="loc.00028.069" type="verso"/>
+<div1 type="section">
+
+<p>handsome room, gilt chandeliers</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<p>white-neckcloths&#8212;
+&#8212;quaker looking horse-shoe,
+line of men&#8212;</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<p>homily of a reverend gentleman&#8212;</p>
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<p>room about one-quarter full</p>
+<milestone unit="undeclared" rend="horbar-full"/>
+<p>a regular yankee Dyspeptic faced speaker, with awkward, see-saw gestures</p>
+<milestone unit="undeclared" rend="horbar-full"/>
+<p>very dry speech, the usual platitudes</p>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+</div1>
+
+
+<!-- BEGIN PAGE 69 RECTO -->
+
+<pb xml:id="leaf69r" corresp="loc.00028.069" type="recto"/>
+
+<del type="hashmark">
+<lg type="section">
+<l>
+<lb/>O the <subst>
+<del rend="overstrike" seq="1">exquisiteness</del><add rend="unmarked" place="supralinear" seq="2">joy </add></subst>of
+<lb/>
+<del rend="overstrike">my</del> womanhood!&#8212;O ripened
+<lb/>happiness at last!
+</l>
+
+<l>
+<lb/>
+<del rend="overstrike">I am my breast have</del>
+
+<lb/>
+<del rend="overstrike">suckled may so</del>
+
+</l>
+
+<l>
+<lb/>I am more than <subst>
+<del rend="overstrike" seq="1">seventy</del><add rend="unmarked" place="supralinear" seq="2">eighty</add></subst>
+
+<lb/>years of age, <add rend="unmarked" place="supralinear">in perfect health </add>&#8212;<del rend="overstrike">my</del>
+
+</l>
+
+<l>
+<lb/>My hair <del rend="overstrike">also</del> 
+<add rend="unmarked" place="supralinear">too </add>is <add rend="insertion" place="supralinear">pure </add>white&#8212;
+<lb/>
+<del rend="overstrike">I</del> 
+<del rend="overstrike">My</del> I am the most
+<lb/>venerable mother <del rend="overstrike">in</del>
+
+<lb/>
+<del rend="overstrike">perfect health</del> 
+<add rend="unmarked" place="supralinear">&#8212;I am complete in myself</add>
+
+</l>
+
+<l>
+<lb/>To me <del rend="overstrike">also</del> 
+<add rend="unmarked" place="supralinear">all </add>people <del rend="overstrike">are</del>
+
+<lb/>
+<del rend="overstrike">drawn more than</del>
+
+<lb/>draw nigh&#8212;<del rend="overstrike">they</del> I <del rend="overstrike">f</del>
+
+<lb/>attract <add rend="insertion" place="supralinear">with </add>more than <del rend="overstrike">I</del>
+
+<lb/>the attraction of my youth.&#8212;
+</l>
+
+</lg>
+</del>
+
+<!-- BEGIN PAGE 70 RECTO -->
+
+<pb xml:id="leaf70r" corresp="loc.00028.070" type="recto"/>
+
+
+<div1 type="section">
+<del type="hashmark">
+
+<list>
+<item>12&#8212;no legs</item>
+<item>13&#8212;houses commonly have these things in them</item>
+<item>14 <add rend="insertion" place="supralinear">mostly </add>in the kitchen, parlor and bedroom</item>
+<item>15 not used about the fire, nor in preparing any thing for the fire</item>
+<item>16 no water</item>
+<item>17&#8212;no instrument</item>
+<item>18 no kind of a box</item>
+<item>19 neither a handle nor handles</item>
+<item>20 not pliable</item>
+</list>
+</del>
+</div1>
+
+
+<!-- BEGIN PAGE 70 VERSO -->
+
+<pb xml:id="leaf70v" corresp="loc.00028.071" type="verso"/>
+
+<div1 type="section">
+<del type="hashmark">
+<ab>
+<add rend="unmarked" place="top">foil</add>
+</ab>
+
+<list>
+<item>mineral</item>
+<item>manufactured</item>
+<item>in sight</item>
+<item>used not with food</item>
+<item>one complete article</item>
+<item>not any vessel</item>
+<item>not as large as my hand</item>
+<item>no matter about the weather</item>
+<item>not above the person</item>
+<item>above four feet <choice>
+<orig>hight</orig>
+<reg>height</reg>
+</choice>
+</item>
+<item>not for sale</item>
+<item>not hung up</item>
+<item>not handled</item>
+<item>not on shelf or counter</item>
+<item>driven in horizontally</item>
+<item>nail</item>
+</list>
+</del>
+</div1>
+
+<!-- BEGIN PAGE 71 RECTO -->
+
+<pb xml:id="leaf71r" corresp="loc.00028.071" type="recto"/>
+
+<del type="hashmark">
+<lg type="poem">
+<head type="main-authorial" rend="underline">Hindostan, <del rend="overstrike">&#8212;</del>up from the western sea.&#8212;</head>
+
+<l>
+<del rend="overstrike">Mother</del>
+</l>
+
+<l>
+<lb/>
+<add rend="insertion" place="supralinear">I look on the </add>Mother, at far removes, <del rend="overstrike">even</del> of
+<lb/>These States,
+</l>
+
+<l>
+<lb/>Mother of <del rend="overstrike">religious,</del> languages
+<lb/>&#8212;mother of the great
+<lb/>idea of <del rend="overstrike">the</del> avatars,
+</l>
+
+<l>
+<lb/>
+<del rend="overstrike">Like</del> 
+<add rend="unmarked" place="supralinear">As </add>a <add rend="unmarked" place="supralinear">
+<del rend="overstrike">of</del> 
+</add>child <subst>
+<del rend="overstrike" seq="1">I turn,</del><add rend="unmarked" place="supralinear" seq="2">looking (over <gap reason="illegible"/>) </add></subst>
+<subst>
+<del rend="overstrike" seq="1">seeing</del><add rend="unmarked" place="supralinear" seq="2">I look</add></subst>
+
+<lb/>
+<del rend="overstrike">his</del>
+<add rend="unmarked" place="supralinear">
+<gap reason="deletion, illegible"/> 
+</add>afar <add rend="unmarked" place="supralinear">at the </add>
+<subst>
+<del rend="overstrike" seq="1">the</del><add rend="unmarked" place="supralinear" seq="2">
+<del rend="overstrike">my</del> 
+</add></subst>
+<subst>
+<del rend="overstrike" seq="1">place</del><add rend="unmarked" place="supralinear" seq="2">house </add></subst>of
+<lb/>maternity, the land
+<lb/>of migrations
+<lb/>
+
+<add rend="insertion" place="left" rend="circled">
+<subst>
+<del rend="overstrike" seq="1">I stand</del><add rend="unmarked" place="supralinear" seq="2">
+<del rend="overstrike">As</del> I look</add></subst> 
+<add rend="insertion" place="supralinear">on the shores of my own </add>
+<del rend="overstrike">the</del> western sea</add>
+
+to behold the
+
+<!-- HERE, WHITMAN HAS DELETED A NEW LINE AND GROUPED THE SECOND PART OF IT WITH THE PREVIOUS LINE -->
+
+<lb/>
+<del rend="overstrike">There then is the</del> old mother
+<lb/>of me, <hi rend="circled">I</hi>
+ 
+<!-- HERE THE 'I' HAS AN ELONGATED OVAL DRAWN AROUND IT -->
+</l>
+
+<l>
+<lb/>I <add rend="unmarked" place="supralinear">
+<del rend="overstrike">We</del> come westward </add> From the <choice>
+<orig>Himmalehs</orig>
+<reg>Himalayas</reg>
+</choice>, from
+<lb/>from the vast plains, from
+<lb/>the north, <del rend="overstrike">and</del> from
+<lb/>the flowery islands, how
+<lb/>
+<del rend="overstrike">long it is since! how</del>
+
+<lb/>
+<del rend="overstrike">many generations</del>!
+<span xml:id="s45" type="bracketed" from="s45" to="s46"/>
+<lb/>
+<add rend="unmarked" place="left">to up</add> The circle is circled,
+</l>
+
+
+<l>
+<del rend="overstrike">Here</del>
+</l>
+<l>
+<lb/>We face home again, as <subst>
+<del rend="overstrike" seq="1">from</del><add rend="unmarked" place="supralinear" seq="2">after</add></subst>
+
+<lb/>long travel, growth &amp; sleep
+</l>
+<anchor xml:id="s46"/>
+
+</lg>
+</del>
+
+<!-- BEGIN PAGE 71 VERSO -->
+
+<pb xml:id="leaf71v" corresp="loc.00028.072" type="verso"/>
+<div1 type="section">
+
+<!-- THE FOLLOWING APPEAR TO BE MARKS FROM WHITMAN'S GAME.  I HAVE RENDERED THESE MARKS AS '1s' -->
+
+<p> 1 1 1, 1 1 1, 1 1 1, 1 1 1,</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

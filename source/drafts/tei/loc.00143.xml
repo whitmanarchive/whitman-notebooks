@@ -1,0 +1,2332 @@
+<?xml version="1.0" encoding="ASCII"?> <?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?> <?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+ 
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00143">
+<relations>
+<!-- RELATIONS STRUCTURE -->
+</relations>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main" rend="bracketed">Joseph Velsor</title>
+<title level="m" type="sub">a machine readable transcription</title>
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<persName xml:id="nhg">Nicole Gray</persName><persName xml:id="aj">Andy Jewell</persName><persName xml:id="kmp">Kenneth Price</persName><persName xml:id="bb">Brett Barney</persName><persName xml:id="mm">Matt Miller</persName>
+</respStmt>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2003</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<idno>loc.00143</idno>
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>The Institute for Advanced Technology in the Humanities</addrLine>
+<addrLine>Alderman Library</addrLine>
+<addrLine>University of Virginia</addrLine>
+<addrLine>P.O. Box 400115</addrLine>
+<addrLine>Charlottesville, VA 22904-4115</addrLine>
+<addrLine>whitman@jefferson.village.virginia.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2003 by Ed Folsom and Kenneth M. Price, all rights 
+reserved. Items in the Archive may be shared in accordance with the Fair Use 
+provisions of U.S. copyright law.  Redistribution or republication on other 
+terms, in any medium, requires express written consent from the editors and 
+advance notification of the publisher, The Institute for Advanced Technology 
+in the Humanities.  Permission to reproduce the graphic images in this archive 
+has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>
+Feinberg
+</title>
+
+<!--I'm not sure ig the call number below is correct. I got it off the CDROM from the NOTEBOOKS AND UNPUBLISHED PROSE MANUSCRIPTS section, in Whitman, Walt. Notebooks and Unpublished Prose Manuscripts. Volume I: Family Notes and Autobiography. The Collected Writings of Walt Whitman. Ed. by Edward F. Grier. New York: New York University Press, 1984., on page 226-->
+
+<idno type="callno">
+697
+</idno> 
+<orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman: A Register of His Papers in the Library of Congress, 1842&#8211;1937</orgName> 
+<note type="project">Transcribed from our own digital image of original manuscript.</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+    <change when="2015-05-06" who="#nhg">converted, added schematron declaration</change>
+<change when="2004-02-01" who="#mm">Encoded</change>
+<change when="2003-02-01" who="#mm">Transcribed</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text type="notebook">
+
+<body>
+    <pb facs="loc_jc.01162.jpg" xml:id="leaf001r" type="recto"/>
+<pb facs="loc_jc.01163.jpg" xml:id="leaf001v" type="verso"/>
+
+<div1 type="entries">
+
+<ab>
+<seg>Joseph Velsor 130 Suffolk</seg>
+<seg>5 X 6 X 12<gap reason="illegible"/>
+</seg>
+<seg>&#8212;with moderate arch</seg>
+</ab>
+
+
+<ab>
+<seg>Mechanics Coffee &amp; Reading Rooms</seg>
+<seg>corner 10th st &amp; Avenue D.</seg>
+</ab>
+
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<ab>
+<seg>Miss Libby</seg>
+<seg>cor Willoughby &amp; Duffield<add rend="unmarked" place="right">
+<span xml:id="s1" rend="bracketed" from="s1" to="s2"/>
+
+Hewett's pamphlet "on the uses of iron"
+
+<anchor xml:id="s2"/>
+</add>
+</seg>
+
+</ab>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<ab>49 Madison st.</ab>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<ab>
+<seg>Shirting Mr. Rhodes</seg>
+<seg>244 Bleecker</seg>
+</ab>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+
+<ab>
+<seg>Map of Mountains &amp; Rivers</seg>
+<seg>wholesale 90cts.</seg>
+<seg>Wells, 140 Nassau st,</seg>
+</ab>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<ab>
+<seg>
+<hi rend="underline">Map</hi> of the world</seg>
+<seg>wholesale (90cts)</seg>
+<seg>The world's standards &amp; costumes</seg>
+<seg>Charts in sheets&#8212;colored<add rend="unmarked" place="supralinear">wholesale 38</add>
+</seg>
+</ab>
+
+</div1>
+
+<pb facs="loc.00143.002.jpg" xml:id="leaf002r" type="recto"/>
+
+<div1 type="entries">
+
+<ab>
+<seg>70 in paper</seg>
+<seg>5 in cloth &amp; gilt.</seg>
+</ab>
+
+</div1>
+
+<div1 type="prose">
+
+<p>Nov. 23 <gap reason="illegible"/>
+</p>
+<p>"For Sailors of All Nations"</p>
+
+<p>(Inscription on the Mount in Evergreens Cemetery&#8212;a simple round column with a square cap supporting a representation of the globe on which the seas and the shores of the continents are outlined</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</div1>
+
+<div1 type="prose">
+
+<p>
+<add rend="unmarked" place="supralinear">
+<gap reason="illegible"/> the hills of Abyssinia</add> The beautiful, strong, black active Abyssinian</p>
+
+
+</div1>
+
+<pb facs="loc.00143.003.jpg" xml:id="leaf002v" type="verso"/>
+
+<div1 type="entries">
+
+<ab>
+<seg>"Sight &amp; Hearing"</seg>
+<seg>C Scribner</seg>
+</ab>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<ab>"Stories of the Italian Poets," by Leigh Hunt.</ab>
+
+</div1>
+
+
+<pb facs="loc.00143.003.jpg" xml:id="leaf003r" type="recto"/>
+
+
+<div1 type="poemNotes">
+
+<head type="main-authorial" rend="underline">Full poem</head>
+
+<!--I'm unclear about this word. I'm going with an "and", written over as "all", then scratched out. Ed or Ken should check this-->
+
+<p>
+<del rend="overstrike">
+<subst>
+<del rend="overwrite" seq="1">and</del><add rend="overwrite" place="over" seq="2">all</add></subst>
+</del> 
+<subst>
+<del rend="overwrite" seq="1">f</del><add rend="overwrite" place="over" seq="2">F</add></subst>or the dying</p>
+
+<p>treating them and talking to them courageously&#8212;</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>no whining or praying or tears</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+<del type="hashmark">
+<lg type="poem">
+
+
+<l>
+<seg>I have all lives, all effects,</seg>
+<seg>all hidden invisibly in</seg>
+<seg>myself . . . . they proceed</seg>
+<seg>from me</seg>
+</l>
+
+</lg>
+</del>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</div1>
+
+<div1 type="prose">
+
+<head type="main-authorial" rend="underline">Gist of my books</head>
+
+<p>To give others, readers, people, the materials to decide for themselves, and <hi rend="underline">know</hi>, or grow toward <hi rend="underline">knowing</hi>, with cleanliness and strength</p>
+
+</div1>
+
+<pb facs="loc.00143.004.jpg" xml:id="leaf003v" type="verso"/>
+    <div1>
+        <list type="simple">
+            
+            <item>
+                <seg>Stillman &amp; Durand</seg>
+                <seg>care of F. W. Christern</seg>
+                <seg>763 Broadway</seg>
+            </item>
+            <item>&#8212;Sunday Courier 15 Spruce</item>
+            <item>&#8212;Sunday Mercury 22 Spruce</item>
+            <item>&#8212;Sunday Times 162 Nassau</item>
+            <item>&#8212;Daily News 129 Nassau st <add rend="unmarked" place="supralinear">2d story</add>
+            </item>
+            <item>&#8212;Irish American 116 Nassau</item>
+            <item>&#8212;Sunday Leader 25 Chambers st</item>
+            <item>
+                <seg>&#8212;Leslie's Illustrated News</seg>
+                <seg>12 Spruce st</seg>
+            </item>
+            <item>&#8212;Young America 98 Nassau</item>
+            <item>&#8212;Citizen; 10 Spruce</item>
+            <item>Police Gazette, 103 Nassau
+            </item>
+            <item>&#8212;Ledger 120 Nassau</item>
+            
+            <item>&#8212;Yankee Notions 98 Nassau</item>
+            
+            <item>Harper's Magazine, Franklin square</item>
+        </list>
+        
+    </div1>
+    <pb facs="loc.00143.004.jpg" xml:id="leaf004r" type="recto"/>
+    <div1>
+        <div2 type="poem">
+            
+            <del type="hashmark">
+                
+                <lg type="poem">
+                    
+                    
+                    <l>
+                        <seg>
+                            <add rend="unmarked" place="top">I have seen at night</add>Where the fires <add rend="insertion" place="supralinear">from the foundry chimneys</add>burn high<add rend="unmarked" place="infralinear">into the night</add>
+                        </seg>
+                        <seg>and glaringly and cast</seg>
+                        <seg>strong contrasts of</seg>
+                        <seg>darkness and wild</seg>
+                        <seg>red and yellow light</seg>
+                        <seg>over the tops of</seg>
+                        <seg>the houses, and</seg>
+                        <seg>down into the</seg>
+                        <seg>clefts, <del rend="overstrike">of</del> the streets,</seg>
+                    </l>
+                    
+                </lg>
+                
+            </del>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+        </div2>
+        <div2 type="list">
+            <list type="simple">
+                <item>&#8212;Picayune, 114 G Nassau</item>
+                <item>Clipper, 102 Nassau</item>
+                <item>Observer, 138 Nassau</item>
+                <item>
+                    <seg>Churchman</seg>
+                    <seg>rooms 40 Trinity Building</seg>
+                    <seg>111 Broadway</seg>
+                </item>
+                <item>
+                    <seg>American Celt</seg>
+                    <seg>cor Ann &amp; Nassau</seg>
+                </item>
+                <item>
+                    <seg>Independent</seg>
+                    <seg>22 Beekman</seg>
+                </item>
+            </list>
+        </div2>
+    </div1>
+    <pb facs="loc.00143.005.jpg" xml:id="leaf004v" type="verso"/>
+    <div1>
+        <div2 type="poem">
+            
+            <del type="hashmark">
+                
+                <lg>
+                    
+                    <l>
+                        <seg>O days of the present</seg>
+                        <seg>I will attire you</seg>
+                        <seg>in beauty</seg>
+                    </l>
+                    
+                    <l>
+                        <seg>I will attire you in</seg>
+                        <seg>as much beauty as</seg>
+                        <seg>the days that are</seg>
+                        <seg>past</seg>
+                    </l>
+                    
+                </lg>
+                
+            </del>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+        </div2>
+        <div2 type="list">
+            <list type="simple">
+                <item>
+                    <add rend="unmarked" place="supralinear">NY</add> Sun</item>
+                <item>N.Y. Sunday Herald</item>
+                <item>Journal of Commerce</item>
+                <item>Courier &amp; Enquirer</item>
+            </list>
+        </div2>
+    </div1>
+<pb facs="loc.00143.005.jpg" xml:id="leaf005r" type="recto"/>
+    
+
+<div1 type="prose">
+
+<head type="main-authorial" rend="underline">Full poem</head>
+
+<p>
+<subst>
+<del rend="overstrike" seq="1">There is something</del> <add rend="unmarked" place="supralinear" seq="2">Theme&#8212;that which</add> </subst>involves gladness, joy,&#8212;<hi rend="underline">all out</hi>&#8212;</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</div1>
+
+<div1 type="entries">
+
+<ab>
+<seg>Edward H Dixon</seg>
+<seg>Editor Scalpel</seg>
+<seg>42 Fifth av</seg>
+</ab>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<ab>oilworks,&#8212;candle making</ab>
+
+</div1>
+
+<pb facs="loc.00143.006.jpg" xml:id="leaf005v" type="verso"/>
+
+<div1 type="prose">
+
+<p>American <subst><orig>society</orig><add rend="unmarked" place="supralinear" seq="2">literature</add></subst> is settling itself, <del rend="overstrike">as if for good</del> in utter defiance of American principles. It is settling itself in accordance with European principles, and on a far larger scale than the European scale&#8212;as much larger as <add rend="unmarked" place="supralinear">the</add> American proportions are larger than the European proportions.&#8212;The modes on which it arranges itself in<subst>
+<del rend="overwrite" seq="1">t</del><add rend="overwrite" place="over" seq="2">v</add></subst>olve the idea of caste&#8212;involve servants, masters, superiors inferiors.&#8212;</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>Under the American forms much, <del rend="overstrike">if not</del> something most that is expressed is the European idea of caste, inferiority</p>
+
+
+</div1>
+
+<pb facs="loc.00143.006.jpg" xml:id="leaf006r" type="recto"/>
+
+
+<!--Transcriber's note to self: these seem to be the original poem notes toward "Salut Au Monde", originally titled "Poem of Salutation" in the '56 edition. Research this. Has this been noted? Further note: Grier mentions it.-->
+
+<div1 type="prose">
+
+<!--Note that in the text below, Whitman uses two "o"s with phonetic-pronounciation lines over them, as well as a lower case "w" with an accent mark. I checked the character entitly reference page here - http://www.w3.org/TR/REC-html40/sgml/entities.html#h-24.4 - and was unable to find the correct character entity references for these characters. I left them without the accents. What should we do about these? What can we?-->
+
+<p>
+<hi rend="underline">Poem</hi>&#8212;comprehending the <subst>
+<del rend="overstrike" seq="1">idea</del> 
+<orig>sentiment</orig><add rend="unmarked" place="inline" seq="2"/> </subst>of <hi rend="underline">saluting</hi> Helo!</p>
+
+<p>Halo<subst>
+<del rend="overwrite" seq="1">
+<gap reason="deletion, illegible"/>
+</del><add rend="overwrite" place="over" seq="2">w</add></subst>! <space dim="horizontal" extent="10 letters"/>H<subst>
+<del rend="overwrite" seq="1">
+<gap reason="deletion, illegible"/>
+</del><add rend="overwrite" place="over" seq="2">a</add></subst>llo!</p>
+
+<p>Halow!</p>
+
+</div1>
+
+<pb facs="loc.00143.007.jpg" xml:id="leaf006v" type="verso"/>
+
+<div1 type="prose">
+
+<p>For <subst>
+<del rend="overstrike" seq="1">battle-</del> <add rend="unmarked" place="supralinear" seq="2">broad-axe</add> </subst>&#8212;See act of the sack of Rome in 1527</p>
+
+<p>"sweeping on with that horde of Spanish bigots and German unbelievers and Italian brigands to the sack of the old great city</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<!--This section may not be related, but since its squashed between two notes for "Song of the Broad Axe", I transcribed it here in the same div1, in order to keep the connected notes together. This may have to change.-->
+
+<!--Transcriber's note to self: Early thoughts toward "Passage to India"?-->
+
+<p>
+<gap reason="illegible"/>
+</p>
+
+<p>The telegraph line of the earth</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>The crowbar, <add rend="insertion" place="supralinear">pickaxe shovel,</add> spade, <del rend="overstrike">shovel,</del>
+</p>
+
+<p>the flail,</p>
+
+
+<pb facs="loc.00143.007.jpg" xml:id="leaf008r" type="recto"/>
+
+<del type="hashmark">
+
+<p>
+<hi rend="underline">axe</hi>&#8212;Firemen using the axe to cut in floors or partitions, when the fire is under the floor&#8212;or using the axe anyhow.</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</del>
+
+</div1>
+
+<pb facs="loc.00143.008.jpg" xml:id="leaf008v" type="verso"/>
+
+<div1 type="entries">
+
+<ab>
+<seg>Catlin's Indians plates</seg>
+<seg>64 Leggett's 88 Nassau</seg>
+</ab>
+
+<ab>
+<seg>Valentine's NY</seg>
+<seg>same place</seg>
+</ab>
+
+</div1>
+
+<pb facs="loc.00143.008.jpg" xml:id="leaf009r" type="recto"/>
+
+<div1 type="prose">
+
+<p>In conversation, discussion, intercourse, be <space dim="horizontal" extent="3 letters"/> not to take the position or drift the talk that way) of one <hi rend="underline">wanting compliments</hi>&#8212;this must be <hi rend="underline">real</hi>, because if the <hi rend="underline">wanting compliments</hi> exists it will show out some how</p>
+
+</div1>
+
+<pb facs="loc.00143.009.jpg" xml:id="leaf009v" type="verso"/>
+
+<div1 type="prose">
+
+<p>
+    <subst><orig>The best</orig><add rend="unmarked" place="supralinear" seq="2">Only first rate</add> </subst>poems have the quality of arousing in <del rend="overstrike">those</del> 
+    <add rend="insertion" place="supralinear">men and women</add>who hear them or read them those <subst><orig
+        seq="1">thoughts</orig><add rend="unmarked" place="supralinear" seq="2">effects</add></subst>that no words can even describe&#8212;effects which themselves cannot be described&#8212;great effects, proportioned to the ideas, <subst>
+<del rend="overstrike" seq="1">cha</del> <add rend="unmarked" place="inline" seq="2">images, and characters</add> </subst>of the poem.&#8212;</p>
+
+</div1>
+
+<pb facs="loc.00143.009.jpg" xml:id="leaf010r" type="recto"/>
+
+<pb facs="loc.00143.010.jpg" xml:id="leaf010v" type="verso"/>
+
+<pb facs="loc.00143.010.jpg" xml:id="leaf011r" type="recto"/>
+<div1>
+    <p> = true) mulberry.</p>
+</div1>
+
+<pb facs="loc.00143.011.jpg" xml:id="leaf011v" type="verso"/>
+
+<div1 type="prose">
+
+<p>He <subst>
+    <del rend="overstrike" seq="1">sees</del> <add rend="unmarked" place="supralinear" seq="2">so</add> <orig seq="2">looks</orig></subst> at men through the telescope that they are enlarged&#8212;while all others reverse the telescope and <del rend="overstrike">lo</del> behold <subst>
+<del rend="overstrike" seq="1">mun</del> <add rend="unmarked" place="inline" seq="2">minnikins</add></subst>
+</p>
+
+</div1>
+
+<pb facs="loc.00143.011.jpg" xml:id="leaf012r" type="recto"/>
+
+<div1 type="prose">
+
+<p>axiom for laws, for punishments&#8212;</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>No punishment shall be provided for the sailor, soldiers, <unclear reason="illegible" resp="mm" cert="low">or</unclear> 
+<space dim="horizontal" extent="5 letters"/> without its being strictly eligible to be inflicted on the officers, even to the commander in chief.&#8212;</p>
+
+</div1>
+
+<pb facs="loc.00143.012.jpg" xml:id="leaf012v" type="verso"/>
+
+<pb facs="loc.00143.012.jpg" xml:id="leaf013r" type="recto"/>
+
+<div1 type="poemNotes">
+
+<head type="main-authorial">Poem</head>
+
+<p>holding no terrorism over the heads of men the sure <subst>
+<del rend="overwrite" seq="1">
+<gap reason="deletion, illegible"/>
+</del><add rend="overwrite" place="over" seq="2">r</add></subst>esults of all evil</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<l>
+<seg>I see Christ eating</seg>
+<seg>his last supper,</seg>
+<seg>with the young and</seg>
+ol<subst>
+<del rend="overwrite" seq="1">
+<gap reason="deletion, illegible"/>
+</del><add rend="overwrite" place="over" seq="2">d</add></subst> men around him,</l>
+
+
+</div1>
+
+<pb facs="loc.00143.013.jpg" xml:id="leaf013v" type="verso"/>
+
+<!--Note that the document structure in the next two pages gets a bit tricky. Two passages describing the equality of women are separated by a short section with notations (not quite lines) about water carriers and a child. I encoded these two pages as poem notes, since the connected groups of lines are divided by prose. However since the prose in the middle is not easily connected to what  proceeds and follow's it, perhaps this should be encoded in three separate "divs" Ed? Ken?-->
+
+<div1 type="poemNotes">
+
+<del type="hashmark">
+<lg type="poem">
+
+
+<l>
+<seg>Where the women enter the</seg>
+<seg>public assembly the</seg>
+<seg>
+<del rend="overstrike">same as the</del> men</seg>
+</l>
+
+<l>
+<seg>Where <subst>
+<del rend="overstrike" seq="1">they</del> <add rend="unmarked" place="supralinear" seq="2">women</add> </subst>walk <add rend="unmarked" place="supralinear">in</add> the</seg>
+<seg>
+<del rend="overstrike">streets in</del> 
+<add rend="unmarked" place="supralinear">great</add>processions</seg>
+<seg>
+<add rend="unmarked" place="supralinear">in the streets</add>the same as the men,</seg>
+</l>
+
+<l>
+<seg>Where <choice>
+<sic>the</sic>
+<corr>they</corr>
+</choice> enter the</seg>
+<seg>public assembly and</seg>
+<seg>take <choice>
+<sic>there</sic>
+<corr>their</corr>
+</choice> places the</seg>
+<seg>same as the men,</seg>
+<seg>and are appealed to</seg>
+<seg>by the orators the same</seg>
+<seg>as the men</seg>
+</l>
+
+</lg>
+</del>
+
+<pb facs="loc.00143.013.jpg" xml:id="leaf014r" type="recto"/>
+
+<p>The water&#8209;carriers on a stooping&#8209;trot&#8212;</p>
+
+<l>The <del rend="overstrike">
+<unclear reason="deletion, illegible" resp="mm" cert="low">l</unclear>
+</del> three&#8209;year&#8209;old child sweeping</l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<lg type="poem">
+
+<!--Tricky section below: The first phrase appears to have been originally drafted in prose, the second in verse. But they are pushed together and are obviously of the same thought. I'm going to assume Whitman rethought the first part as lines when he added the second. Thus I am encoding this section in one linegroup. This may need to change. Ed?-->
+
+<l>
+<seg>
+<add rend="unmarked" place="supralinear">Where</add>women <subst>
+<del rend="overstrike" seq="1">mixing</del> <add rend="unmarked" place="supralinear" seq="2">mix</add> </subst>in</seg>
+<seg>
+<del rend="overstrike">
+<gap reason="deletion, illegible"/>
+</del> healthy games, the</seg>
+<seg>same as men&#8212;</seg>
+</l>
+
+<l>
+<seg>Where they run, leap,</seg>
+<seg>ride, swim, <del rend="overstrike">lead,</del>
+</seg>
+<seg>play at out&#8209;door</seg>
+<seg>plays, the same as</seg>
+<seg>men,</seg>
+</l>
+
+</lg>
+
+</div1>
+
+<pb facs="loc.00143.014.jpg" xml:id="leaf014v" type="verso"/>
+
+<div1 type="prose">
+
+<del type="hashmark">
+
+<p>I think <add rend="insertion" place="supralinear">the genius</add> our continent has complacently gone to sleep, these years, satisfied with having produced the men of the time</p>
+
+</del>
+
+</div1>
+
+<pb facs="loc.00143.014.jpg" xml:id="leaf015r" type="recto"/>
+
+<!--Transcriber's note to self: Note how the next section isn't directly or thematically related to what preceeds it, but note that there IS a connection in terms of the motiff of THE CONTINENT. This connection is at once too subtle to appear at first glance, but too clear and convincing to ignore. It suggests that these seemingly disparate passages were written sequentially. Interestingly, one is prose, the next verse. Grier does not cite where either of these passages wound up, if they wound up anywhere at all, in terms of published writings. The first reminds me at first blush of thoughts toward Democratic Vistas. The second reminds me of preliminary thinking toward Passage to India. Of course both Vistas and India were published considerably later.-->
+
+<div1 type="poem">
+
+<lg type="poem">
+
+<l>
+<seg>The cities confer with</seg>
+<seg>each other <add rend="unmarked" place="supralinear">from</add> across</seg>
+<seg>
+<subst>
+<del rend="overstrike" seq="1">oceans</del> <add rend="unmarked" place="supralinear" seq="2">two thousand miles</add> </subst>&#8212;the continents</seg>
+<seg>
+<del rend="overstrike">are</del> talk under the</seg>
+<seg>
+<del rend="overstrike">bottoms</del> waves of</seg>
+<seg>seas</seg>
+</l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</lg>
+
+</div1>
+
+<div1 type="prose">
+
+<!--Note that the header below was added to the paragraph. I don't know how to transcribe that. I'm encoding it as if it wasn't added, for now anyway-->
+
+<head type="main-authorial" rend="underline">Lesson for beginners.&#8212;</head>
+
+<p>Write every thing&#8212;especially poems&#8212;<hi rend="underline">well</hi>.&#8212;<del rend="overstrike">Doing</del> mostly because <hi rend="underline">doing well</hi> passes into a habit&#8212;the best habit of art.&#8212;</p>
+
+</div1>
+
+<pb facs="loc.00143.015.jpg" xml:id="leaf015v" type="verso"/>
+    
+    <!--Transcriber's note to self: An anatomical drawing of the human body here.-->
+    
+<pb facs="loc.00143.015.jpg" xml:id="leaf016r" type="recto"/>
+
+
+<!--Transcriber's note to self: Notice how this draft of a catalogue in Salut au Monde is contained in a notebook that was more mundanely used for lists of names and addresses. Relation between poetic catalogues and notebook lists?-->
+
+<div1 type="poem">
+
+<del type="hashmark">
+
+<lg type="poem">
+
+<l>
+<seg>The Spanish dance</seg>
+<seg>with castanets in the</seg>
+<seg>chestnut shade to the</seg>
+<seg>rebeck and guitar</seg>
+</l>
+
+<l>
+<seg>&#8212;The courage <del rend="overstrike">of</del> and</seg>
+<seg>nimbleness of the</seg>
+<seg>ma<subst>
+<del rend="overwrite" seq="1">d</del><add rend="overwrite" place="over" seq="2">t</add></subst>ador</seg>
+</l>
+
+<l>
+<seg>I hear <add rend="insertion" place="supralinear">by the</add>the song song</seg>
+<seg>of the muleteer loading</seg>
+<seg>his panniers with</seg>
+<seg>grapes</seg>
+</l>
+
+<l>I see <add rend="insertion" place="supralinear">the</add>lithe ma<subst>
+<del rend="overwrite" seq="1">d</del><add rend="overwrite" place="over" seq="2">t</add></subst>ador in the<add rend="unmarked" place="supralinear">arena at Seville</add>
+</l>
+
+<l>
+<seg>I see the <choice>
+<orig>Brasilian</orig>
+<reg>Brazilian</reg>
+</choice>
+</seg>
+<seg>v<subst>
+<del rend="overwrite" seq="1">
+<gap reason="deletion, illegible"/>
+</del><add rend="overwrite" place="over" seq="2">a</add></subst>quero <add rend="unmarked" place="supralinear">on horseback</add> with his</seg>
+<seg>lasso coiled on his</seg>
+<seg>arm</seg>
+</l>
+
+</lg>
+
+</del>
+
+</div1>
+
+<pb facs="loc.00143.016.jpg" xml:id="leaf016v" type="verso"/>
+
+<!--Transcriber's note to self: A drawing of a map here.-->
+
+<pb facs="loc.00143.016.jpg" xml:id="leaf017r" type="recto"/>
+
+<pb facs="loc.00143.017.jpg" xml:id="leaf017v" type="verso"/>
+
+<pb facs="loc.00143.017.jpg" xml:id="leaf018r" type="recto"/>
+
+<div1 type="prose">
+
+<p>There is more <subst>
+<del rend="overstrike" seq="1">ado</del> <add rend="unmarked" place="inline" seq="2">hullabaloo</add> </subst>
+<subst>
+<del rend="overstrike" seq="1">raised about</del> <add rend="unmarked" place="supralinear" seq="2">made for</add> </subst>the <subst>
+<del rend="overstrike" seq="1">unlawful</del> <add rend="unmarked" place="supralinear" seq="2">hourly</add> </subst>whims of these 350,000 slaveholders than, <subst>
+<del rend="overstrike" seq="1">there would be made about</del> <add rend="unmarked" place="inline" seq="2">has ever been made,</add> </subst>or ever will be made, about the <subst>
+<del rend="overstrike" seq="1">whole</del> <add rend="unmarked" place="supralinear" seq="2">
+<del rend="overstrike">whole</del>
+</add> </subst>lives on earth, and the eternal lives afterwards of the <subst>
+<del rend="overstrike" seq="1">thirty millions of</del> <add rend="unmarked" place="supralinear" seq="2">whole</add> </subst>main <del rend="overstrike">
+<gap reason="deletion, illegible"/>
+</del> body of the inhabitants of these states, <subst>
+<del rend="overstrike" seq="1">the</del> <add rend="insertion" place="supralinear" seq="2">the good</add> </subst>thirty millions of men, women, and children.&#8212;</p>
+
+</div1>
+
+<pb facs="loc.00143.018.jpg" xml:id="leaf018v" type="verso"/>
+    <div1 type="prose">
+        
+        <p>Would you like to know <lb/> what to produce?</p>
+        
+        <p>Produce great persons. . .<lb/>all the rest will surely <lb/> follow</p>
+        
+        <milestone unit="undeclared" rend="horbar"/>
+        
+    </div1>
+    
+    <div1 type="entries">
+        
+        <ab>Missing vessels, (ships) at sea&#8212;never heard of<lb/>
+            &#8212;The schooner of Uncle Dan's sons.<lb/>
+            &#8212;The Pacific<lb/>
+        </ab>
+        
+    </div1>
+    
+<pb facs="loc.00143.018.jpg" xml:id="leaf019r" type="recto"/>
+
+<div1 type="poem">
+
+<lg type="poem">
+
+<!--The lines below should perhaps be indicated as an add in the top margin.-->
+
+<l>
+<seg>*What the earth is and</seg>
+<seg>where the earth is <unclear reason="deletion, illegible" resp="mm" cert="low">will allure me</unclear>
+</seg>
+</l>
+
+<l>
+<seg>Not more spiritual, not</seg>
+<seg>more divine and beautiful</seg>
+<seg>than this earth,</seg>
+</l>
+
+</lg>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</div1>
+
+<div1 type="prose">
+
+<p>say to Slavery</p>
+
+<p>Go, and return no more.</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</div1>
+
+<!--Regarding the note below, this seems to relate to the anatomical drawing earlier, as Whitman exhorts young artists to study anatomy.-->
+
+<div1 type="prose">
+
+<p>To young men for artists&#8212;To Rome!<add rend="unmarked" place="supralinear">(sarcastic)</add>&#8212;Go study the human figure&#8212;study anatomy&#8212;study it along the wharfs and <choice>
+<sic>levess</sic>
+<corr>levees</corr>
+</choice>, the 'long shoremen, <del rend="overstrike">pulling r</del> hoisting and lowering cargoes&#8212;study the pose of the drivers of horses&#8212;</p>
+
+</div1>
+
+<pb facs="loc.00143.019.jpg" xml:id="leaf019v" type="verso"/>
+
+
+<pb facs="loc.00143.019.jpg" xml:id="leaf020r" type="recto"/>
+
+<!--Transcriber's note to self: Grier does not indicate where this passage wound up-->
+
+<div1 type="poemNotes">
+
+<!--The linegroups may need done over in this next section, depending on how one judges the connectivity of the lines.-->
+
+
+<lg type="poem">
+
+<lg type="linegroup">
+
+
+<l>
+<seg>What made <add rend="insertion" place="supralinear">
+<del rend="overstrike">the best</del>
+</add>home where her</seg>
+<seg>presence was</seg>
+</l>
+
+<l>
+<seg>What <space dim="horizontal" extent="7 letters"/> the performance of</seg>
+<seg>all the housekeeping duties,</seg>
+</l>
+
+<l>
+<seg>What made the mother</seg>
+<seg>of <delSpan rend="overstrike" spanTo="#d1"/>the best children,</seg>
+<seg>. . . .<anchor xml:id="d1"/>bra<subst>
+<del rend="overwrite" seq="1">
+<gap reason="deletion, illegible"/>
+</del><add rend="overwrite" place="over" seq="2">ve</add></subst> and athletic</seg>
+<seg>children,</seg>
+</l>
+
+<l>
+<seg>What made the love that</seg>
+<seg>clung to her through</seg>
+<seg>through the grow<subst>
+<del rend="overwrite" seq="1">
+<gap reason="deletion, illegible"/>
+</del><add rend="overwrite" place="over" seq="2">th</add></subst>
+</seg>
+<seg>and marriage of her</seg>
+<seg>children, and their old</seg>
+<seg>age just the same</seg>
+</l>
+
+<l>She was . . .</l>
+
+
+</lg>
+
+<pb facs="loc.00143.020.jpg" xml:id="leaf020v" type="verso"/>
+
+<pb facs="loc.00143.020.jpg" xml:id="leaf021r" type="recto"/>
+
+<lg type="linegroup">
+
+
+<l>More than</l>
+
+<l>Her wholesome and</l>
+
+
+</lg>
+
+
+<lg type="linegroup">
+
+<l>
+<seg>She was silent and <space dim="horizontal" extent="6 letters"/> at</seg>
+<seg>them</seg>
+</l>
+
+<l>
+<seg>Yet she loved them when</seg>
+<seg>she saw them or</seg>
+<seg>passed among them.&#8212;</seg>
+</l>
+
+</lg>
+
+<lg type="linegroup">
+
+<l>What made <subst>
+<del rend="overwrite" seq="1">a</del><add rend="overwrite" place="over" seq="2">the</add></subst> healthy girl <del rend="overstrike">and</del>
+</l>
+
+<l>What <subst>
+<del rend="overstrike" seq="1">a</del> <add rend="insertion" place="supralinear" seq="2">made the</add> </subst>sensible sweet tempered woman<add rend="unmarked" place="infralinear">that men so love,</add>
+</l>
+
+<l>
+<seg>What makes<note type="authorial" place="interlinear">de</note> the best daughter</seg>
+<seg>and the most beloved of her</seg>
+<seg>parents,</seg>
+</l>
+
+<l>
+<seg>What makes<note type="authorial" place="interlinear">de</note> the best wife,</seg>
+<seg>the chaste equal of</seg>
+<seg>the <subst>
+<del rend="overwrite" seq="1">
+<unclear reason="deletion, illegible" resp="mm" cert="medium">m</unclear>
+</del><add rend="overwrite" place="over" seq="2">h</add></subst>usband, fulling bearing</seg>
+<seg>her share,</seg>
+</l>
+
+</lg>
+
+<pb facs="loc.00143.021.jpg" xml:id="leaf021v" type="verso"/>
+
+<pb facs="loc.00143.021.jpg" xml:id="leaf022r" type="recto"/>
+<del type="hashmark">
+<lg type="linegroup">
+
+
+<l>
+<seg>They did not wound her</seg>
+<seg>
+<add rend="unmarked" place="supralinear">. . . . she was possessed of herself . . . .</add>. . . . she received them</seg>
+<seg>as the air received them,</seg>
+<seg>or as the laws of nature</seg>
+<seg> received them,</seg>
+</l>
+
+<l>
+<seg>She <subst>
+<del rend="overstrike" seq="1">too</del> <add rend="insertion" place="supralinear" seq="2">
+<del rend="overstrike">herself</del>
+</add> <add rend="unmarked" place="inline" seq="3">too</add> </subst>was a law in</seg>
+<seg>nature . . . . she was</seg>
+<seg>
+<subst>
+<del rend="overstrike" seq="1">the greatest law . . . .</del> <add rend="unmarked" place="supralinear" seq="2">as great as any . . . .</add></subst>
+</seg>
+<seg>
+<gap reason="cut away"/> was maternity,</seg>
+</l>
+
+</lg>
+</del>
+</lg>
+<milestone unit="undeclared" rend="horbar"/>
+</div1>
+
+
+<pb facs="loc.00143.022.jpg" xml:id="leaf022v" type="verso"/>
+    <!--This page is written upside-down.-->
+<div1 type="poem">
+
+<lg type="poem">
+
+<l>
+<seg>Where <subst>
+<del rend="overstrike" seq="1">the</del> <add rend="unmarked" place="supralinear" seq="2">the</add> </subst>great renunciation</seg>
+<seg>is made in secret, that</seg>
+<seg>will allure me,</seg>
+</l>
+
+<l>
+<seg>Where personal love reaches</seg>
+<seg>toward me, that will</seg>
+<seg>allure me . . . . to the</seg>
+<seg>prisoner in his cell,</seg>
+<seg>or the slave, or the</seg>
+<seg>
+<add rend="insertion" place="supralinear">solitary</add> sic<subst>
+<del rend="overwrite" seq="1">
+<gap reason="deletion, illegible"/>
+</del><add rend="overwrite" place="over" seq="2">k</add></subst> person, it will</seg>
+<seg>certainly allure me,</seg>
+</l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</lg>
+
+</div1>
+
+<div1 type="poem">
+
+<lg type="poem">
+
+<l>
+<seg>I <add rend="insertion" place="supralinear">do not</add> know what is waiting for</seg>
+<seg>me, <add rend="unmarked" place="supralinear">to be&#8212;</add> 
+<delSpan rend="overstrike" spanTo="#d2"/>nor what the being</seg>
+<seg>of it <subst>
+<del rend="overstrike" seq="1">shal</del> <add rend="unmarked" place="inline" seq="2">will</add> </subst>exhibit<anchor xml:id="d2"/>
+</seg>
+</l>
+<anchor xml:id="t2"/>
+
+
+<transpose rend="bracketed" anchored="true" target="t2">
+
+<l>
+<seg>But <add rend="insertion" place="supralinear">I know</add> that I shall be</seg>
+<seg>
+<del rend="overstrike">I know,</del> 
+<add rend="unmarked" place="supralinear">in great form and nature</add>
+</seg>
+</l>
+
+</transpose>
+
+<l>
+<seg>I cannot prove it to you</seg>
+<seg>or any one . . . . but I</seg>
+<seg>know it is so.*</seg>
+</l>
+
+</lg>
+
+</div1>
+
+<pb facs="loc.00143.022.jpg" xml:id="leaf023r" type="recto"/>
+
+<!--Since the end destination of the following text was the spine of W's '56 LOG, I decided to tag it as "title notes." It seemed like the closest category in the guidelines. Should we add the type attribute, perhaps as "epigraph" or something like that (and allowing that new type)?-->
+
+<div1 type="titleNotes">
+
+<ab rend="bracketed">
+<seg>"I greet you at the</seg>
+<seg>begining of a great</seg>
+<seg>career"</seg>
+<seg>
+<subst>
+<del rend="overwrite" seq="1">W.</del><add rend="overwrite" place="over" seq="2">R.</add></subst> W. Emerson</seg>
+</ab>
+    </div1>
+<pb facs="loc.00143.023.jpg" xml:id="leaf023v" type="verso"/>
+    
+    <div1 type="poem">
+        
+        <lg type="poem">
+            
+            <l><seg>I say the land that</seg>
+                <seg>has a place for</seg>
+                <seg>slaves and the</seg>
+                <seg><subst><del rend="overstrike" seq="1">ma</del><add rend="unmarked"
+                    place="inline" seq="2">owners</add> </subst>of slaves</seg>
+                <seg>has no place for</seg>
+                <seg>freemen.&#8212;</seg></l>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+        </lg>
+        
+    </div1>
+    
+    <!--I went for <ab> on the next little fragment. Maybe this will have to change... Ken? Ed?-->
+    
+    <div1 type="poem_notes">
+        
+        <ab><seg>As to her</seg>
+            <seg>she is mine&#8212;ma femme.</seg></ab>
+        
+    </div1>
+    
+<pb facs="loc.00143.023.jpg" xml:id="leaf024r" type="recto"/>
+
+<!--Transcriber's note to self: This next page seems to relate to the "allure me" passages a few pages back. Grier actually arranges his transcription to sequence these passages together.-->
+
+<div1 type="poem">
+
+<lg type="poem">
+
+<lg type="linegroup">
+
+<l>
+<seg>I believe whatever happens</seg>
+<seg>I shall not forget</seg>
+<seg>this earth,</seg>
+</l>
+
+<l>
+<seg>I believe I shall walk</seg>
+<seg>and walk among</seg>
+<seg>men and women.&#8212;</seg>
+</l>
+
+<l>
+<seg>Wherever I go I believe</seg>
+<seg>I shall often return</seg>
+</l>
+
+<l>
+<seg>There are many words and</seg>
+<seg>deeds that will happen</seg>
+<seg>that will allure me.</seg>
+</l>
+
+</lg>
+
+<lg type="linegroup">
+
+<l>
+<seg>
+<subst>
+<del rend="overstrike" seq="1">That</del> <add rend="unmarked" place="supralinear" seq="2">Where</add> </subst>any one thinks of me</seg>
+<seg>or wishes me <add rend="insertion" place="supralinear">that</add> will allure</seg>
+<seg>me,</seg>
+</l>
+
+<!--Midway through the next line, one finds a vertical line that may or may not be a hashmark through the line. I don't think it is, so I didn't encode it. To me it seems accidental, but Ken or Ed may think otherwise. Check it out.-->
+
+<l>
+<seg>Where the happy young</seg>
+<seg>husband and wife</seg>
+<seg>are and the happy</seg>
+<seg>old husband and wife are, will allure</seg>
+<seg>me,</seg>
+</l>
+
+</lg>
+
+</lg>
+
+</div1>
+
+<pb facs="loc.00143.024.jpg" xml:id="leaf024v" type="verso"/>
+<!--This page interrupts the material later used in "Brooklyn Ferry" with a page of lines related to "Song of Occupations." Hence the new Div structure.-->
+
+<div1 type="poemNotes">
+
+<lg type="poem">
+
+<l>
+<seg>The area of pens of</seg>
+<seg>live pork&#8212;the</seg>
+<seg>killing&#8209;hammer&#8212;the</seg>
+<seg>men in their oil&#8209;skin</seg>
+<seg>overalls&#8212;the hog&#8209;hook</seg>
+<seg>&#8212;the scald<add rend="unmarked" place="supralinear">er's</add>&#8212;<del rend="overstrike">the</del>
+<add rend="unmarked" place="supralinear">
+<subst>
+<del rend="overwrite" seq="1">
+<gap reason="deletion, illegible"/>
+</del><add rend="overwrite" place="over" seq="2">tub</add></subst>
+</add>
+</seg>
+<seg>
+<add rend="unmarked" place="left">the gutting</add>
+<subst>
+<del rend="overstrike" seq="1">gutting, cutting, packing,</del> <add rend="unmarked" place="supralinear" seq="2">&#8212;the cutter's cleavers&#8212;</add></subst>
+</seg>
+<seg>&#8212;<gap reason="illegible"/>
+<add rend="insertion" place="supralinear">the packer's maul and</add>the plenteous winter</seg>
+<seg>
+<del rend="overstrike">work of the pork<gap reason="illegible"/>
+</del> packing</seg>
+</l>
+
+</lg>
+
+<!--Transcriber's note to self: these two words are from "Salut au Monde." Grier has a rather objectionable note regarding these words, claiming Whitman associated the muslim references with the "uncleanliness" of pork packing. Comment on this in the diss?-->
+
+<!--I decided to do these two words as a list of two. They are from "Salut au Monde, and a case could be made for not associating them in the Div structure with the "Song of Occupations" material above.-->
+
+<list type="simple">
+<item>mufti</item>
+<item>ulema</item>
+</list>
+
+
+</div1>
+    
+<pb facs="loc.00143.024.jpg" xml:id="leaf025r" type="recto"/>
+
+<div1 type="poem">
+
+
+<del type="hashmark">
+<lg type="poem">
+<lg type="linegroup">
+
+
+
+<l>
+<seg>Tighter yet may the bands</seg>
+<seg>be drawn,</seg>
+</l>
+
+<l>
+<seg>What thought you have of</seg>
+<seg>me, I <del rend="overstrike">have</del> had as</seg>
+<seg>much and more than</seg>
+<seg>as much of you,</seg>
+</l>
+
+<l>
+<seg>I have laid up <add rend="unmarked" place="supralinear">in my</add> 
+<del rend="overstrike">great</del>
+</seg>
+<seg>stores in advance&#8212;</seg>
+<seg>for I <del rend="overstrike">have thought</del>
+</seg>
+<seg>considered <add rend="insertion" place="supralinear">long and</add> friendl<subst>
+<del rend="overwrite" seq="1">y</del><add rend="overwrite" place="over" seq="2">ily</add></subst>
+</seg>
+<seg>of you before you</seg>
+<seg>were born.&#8212;</seg>
+</l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</lg>
+
+<lg type="linegroup">
+
+<l>
+<seg>Who knows but all shall come</seg>
+<seg>home to my soul?</seg>
+</l>
+
+<l>
+<seg>Who knows but there are</seg>
+<seg>consequences <add rend="insertion" place="supralinear">
+<del rend="overstrike">coming</del> to me</add> seasons</seg>
+<seg>and centuries afterward</seg>
+</l>
+
+<l>
+<seg>Who knows but I <add rend="insertion" place="supralinear">am</add> looking</seg>
+<seg>at you now, for all</seg>
+<seg>you cannot see me?</seg>
+</l>
+
+</lg>
+
+</lg>
+
+</del>
+
+</div1>
+
+<pb facs="loc.00143.025.jpg" xml:id="leaf025v" type="verso"/>
+    
+
+    <!--Transcriber's note to self: a page that obliquely relates to "Starting from Paumanok" (1860) sec. 15, l. 235 (this is noted by Grier). But it also relates to various other prose statements about the difficult, interactive nature of his work.-->
+    
+    <div1 type="poem">
+        
+        <lg type="poem">
+            
+            <lg type="linegroup">
+                
+                <l>
+                    <seg>
+                        <del rend="overstrike">I am</del> Of me the good comes</seg>
+                    <seg>by wristling for it,</seg>
+                </l>
+                
+                <l>
+                    <seg>I am not he bringing</seg>
+                    <seg>ointments and soft</seg>
+                    <seg>wool for you,</seg>
+                </l>
+                
+                <!--Transcriber's note to self: Note that in the line above this note, Grier mistakes "wool" for "wood." Correct this?-->
+                
+                <l>
+                    <seg>I am he with whom</seg>
+                    <seg>you must wristle</seg>
+                    <seg>. . . . I am</seg>
+                </l>
+                
+            </lg>
+            
+            <lg type="linegroup">
+                
+                <l>
+                    <seg>
+                        <del rend="overstrike">If</del> The good of you is</seg>
+                    <seg>not in me . . . . the</seg>
+                    <seg>good of you is</seg>
+                    <seg>altogether in yourself.</seg>
+                </l>
+                
+                <l>
+                    <seg>I am the one who</seg>
+                    <seg>indicates, and the</seg>
+                    <seg>one who provokes</seg>
+                    <seg>and tantalizes</seg>
+                </l>
+                
+            </lg>
+            
+        </lg>
+        
+    </div1>
+    
+    <!--Thinking about how these pages are reversed (since Whitman turned the notebook over and started from the back midway), and of how the drafts on the verso are (relatively) sequential, as are those on the recto (but NOT verso to recto, only recto to recto and verso to verso), I'm wondering how to do the page numbers, especially in light of the guidelines as found here: 3.12 Page Breaks, How to Handle Unusual Document Order. If we want to bring this notebook in line with these rules as strictly as possible, nearly all of the Divs and Linegroups will have to be changed above.-->
+    
+
+<pb facs="loc.00143.025.jpg" xml:id="leaf026r" type="recto"/>    
+
+<!--Transcriber's note to self: back into "Brooklyn Ferry"-->
+
+<div1 type="poem">
+
+<del type="hashmark">
+
+<lg type="poem">
+
+<lg type="linegroup">
+
+<l>
+<seg>
+<add rend="insertion" place="supralinear">You <del rend="overstrike">that are</del>
+</add>wayward, vain, <del rend="overstrike">a blabber,</del>
+</seg>
+<seg>blabbed, blushed</seg>
+<seg>resented, was <add rend="insertion" place="supralinear">shallow,</add>ambitious,</seg>
+<seg>curious, fearful, lied</seg>
+<seg>stole, adulterous,</seg>
+<seg>
+<del rend="overstrike">emerged from</del> a</seg>
+<seg>solitary committer,</seg>
+<seg>greedy, grudging,</seg>
+<seg>
+<del rend="overstrike">
+<unclear reason="deletion, illegible" resp="mm" cert="low">I</unclear>
+</del>&#8212;the wolf, the snake,</seg>
+<seg>the hog <subst>
+<del rend="overstrike" seq="1">emerging at</del> <add rend="unmarked" place="supralinear" seq="2">not altogether wanting</add></subst>
+</seg>
+<seg>the covetous wish&#8212;the</seg>
+<seg>frivolous word&#8212;the</seg>
+<seg>cheating look&#8212;</seg>
+</l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</lg>
+
+<lg type="linegroup">
+
+<l>
+<seg>had guile, lust, <add rend="insertion" place="supralinear">hot</add>wishes I dared</seg>
+<seg>not speak,</seg>
+</l>
+
+<l>
+<seg>Refused my love to those that gave</seg>
+<seg>me theirs,</seg>
+</l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</lg>
+
+<lg type="linegroup">
+
+<l>It is not you alone who <subst>
+<del rend="overstrike" seq="1">are all</del> <add rend="unmarked" place="supralinear" seq="2">know what it is to be</add> </subst>these&#8212;</l>
+
+<l>I too know what it was to be these.&#8212;</l>
+
+</lg>
+
+</lg>
+
+</del>
+
+</div1>
+    
+<pb facs="loc.00143.026.jpg" xml:id="leaf026v" type="verso"/>
+    
+<!--Transcriber's note to self: a page that obliquely relates to "Starting from Paumanok" (1860) sec. 15, l. 235 (this is noted by Grier). But it also relates to various other prose statements about the difficult, interactive nature of his work.-->
+
+    <div1 type="poem">
+        
+        <lg type="poem">
+            
+            <l>
+                <seg>
+                    <subst>
+                        <del rend="overstrike" seq="1">I</del><add rend="unmarked" place="supralinear" seq="2">He does not</add> </subst>(wish to) spend</seg>
+                <seg>my life in a corner</seg>
+            </l>
+            
+            <l>
+                <seg>I do not <del rend="overstrike">
+                    <unclear reason="deletion, illegible" resp="mm" cert="medium">bec</unclear>
+                </del> go among</seg>
+                <seg>conspicuous persons</seg>
+                <seg>either</seg>
+            </l>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+        </lg>
+        
+    </div1>
+    
+    <div1 type="prose">
+        
+        <p>to produce such a public that great performances will not be received with noisy applause but as matters of course.</p>
+        
+    </div1>
+    
+
+<pb facs="loc.00143.026.jpg" xml:id="leaf027r" type="recto"/>
+
+<!--Transcriber's note to self: interesting passage below, esp regarding mixed poetry and prose.-->
+
+<!--This next page is particularly tricky. The first part seems to be the continuation of a previous line of poetry, BUT I can't connect the syntax with anything that come immediately before or after it (even given the reverse book order, and the verso/recto alternation). Grier is no help either. Plus the top part has no indentations for long lines, whereas the bottom part does, BUT if the top part is, as it appears, the continuation of a line from another (unknown) page, then it wouldn't need to have indentations, because the unindented first part would be elsewhere. To complicate it further, the middle two lines could go either way (hard to say if they're indented or not). Given these complexities, and the seeming indeterminancy of the lines, I'm going with the <ab> for the first and middle parts, regular lines for the last. This may need to be changed to a mixed genre manuscript of poetry and prose ???-->
+
+<div1 type="poemNotes">
+
+<del type="hashmark">
+
+<!--Note that I chose to include the anonymous block section within the lg1. The guidelines are unclear on whether or not I'm supposed to do this. This may need to be changed.-->
+
+<lg type="poem">
+
+<l>
+<seg>drenched with joy,&#8212;</seg>
+<seg>had my friends, loved</seg>
+<seg>them, was loved by them,</seg>
+<seg>&#8212;was irritated,&#8212;saw</seg>
+<seg>hundreds of men and women</seg>
+<seg>I loved, yet never told</seg>
+<seg>them so,</seg>
+</l>
+
+<l>
+<seg>Had my hopes and dreams,</seg>
+<seg>&#8212;laughed, slept,</seg>
+<seg>had my amours, frienships</seg>
+</l>
+
+<l>
+<seg>I too <add rend="insertion" place="supralinear">&#8212;approaching or passing,</add>was called <del rend="overstrike">too</del> by</seg>
+<seg>name by the clear</seg>
+<seg>
+<add rend="unmarked" place="supralinear">prompt</add>voices of <subst>
+<del rend="overstrike" seq="1">my</del> <add rend="unmarked" place="supralinear" seq="2">
+<del rend="overstrike">the</del>
+</add> <add rend="unmarked" place="supralinear" seq="3">my</add> </subst>friends</seg>
+<seg>
+<del rend="overstrike">I <add rend="unmarked" place="supralinear">as</add>who</del> 
+<add rend="unmarked" place="supralinear">as they</add>saw me <del rend="overstrike">as</del>
+</seg>
+<seg>
+<del rend="overstrike">I</del> passing or approaching</seg>
+</l>
+
+</lg>
+
+</del>
+
+</div1>
+
+<pb facs="loc.00143.027.jpg" xml:id="leaf027v" type="verso"/>
+
+    <!--Transcriber's note to self: The next page is another interesting example of Whitman's interchangeable sense of verse and prose.-->
+    
+    <!--I decided to encode the line below as a header. That is, I thought it was a title. I think this decision is arguable, so perhaps take a look.-->
+    
+    <div1 type="poemNotes">
+        <lg type="poem">
+            
+            <head type="main-authorial">Idea to pervade largely</head>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+            <l>
+                <seg>Eligibility&#8212;I, you, any one</seg>
+                <seg>eligible to the conditions</seg>
+                <seg>or attributes or advantages</seg>
+                <seg>of any being, no matter</seg>
+                <seg>who.&#8212;</seg>
+            </l>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+        </lg>
+        
+        <p>3d Feb. Make no puns, funny remarks Double entendres "witty" remarks ironies Sarcasms&#8212;only that which is simply <hi rend="underline">earnest, meant,</hi> harmless to any one's feelings&#8212;unadorned&#8212;unvarnished</p>
+        
+        <milestone unit="undeclared" rend="horbar"/>
+        
+        <p>nothing to excite a laugh</p>
+        
+        <!--What I have encoded below as a horbar actually appears as a small squiggly line. Horbar is the best that I could come up with.-->
+        
+        <milestone unit="undeclared" rend="horbar"/>
+        
+        <!--should the words below be encoded as a list, as single-word lines? See image-->
+        
+        <p>silence silence silence laconic taciturn</p>
+        
+        
+    </div1>
+    
+<pb facs="loc.00143.027.jpg" xml:id="leaf028r" type="recto"/>
+
+<div1 type="poem">
+
+<del type="hashmark">
+
+<lg type="poem">
+
+<l>
+<seg>That I am is of my</seg>
+<seg>body, and what I am</seg>
+<seg>is of my body</seg>
+</l>
+
+<l>
+<del rend="overstrike">That I</del>
+</l>
+
+<note type="authorial" place="left">
+<p>*</p>
+</note>
+
+<l>
+<seg>What belongs to me . . . . that</seg>
+<seg>it does not yet spread</seg>
+<seg>in the spread of the</seg>
+<seg>universe I owe to my body</seg>
+</l>
+
+<note type="authorial" place="supralinear">
+<p>? tr wth *</p>
+</note>
+
+<l>
+<seg>What <subst>
+<del rend="overstrike" seq="1">soul</del> <add rend="unmarked" place="supralinear" seq="2">identity</add> </subst>I am, I owe</seg>
+<seg>to my body . . . . what</seg>
+<seg>
+<del rend="overstrike">What</del> soul I owe to my</seg>
+<seg>body,</seg>
+</l>
+
+<l>
+<seg>Of all that I have had,</seg>
+<seg>I have had nothing except</seg>
+<seg>through my body,</seg>
+</l>
+
+<l>
+<seg>Of the make of my body</seg>
+<seg>was not my mortal experience</seg>
+<seg>only</seg>
+</l>
+
+<l>
+<unclear reason="illegible" resp="mm" cert="medium">my body</unclear> makes my immortal experience</l>
+
+</lg>
+
+</del>
+
+</div1>
+
+<pb facs="loc.00143.028.jpg" xml:id="leaf028v" type="verso"/>
+    <div1 type="poemNotes">
+        
+        <del type="hashmark">
+            
+            <p>They exfoliate</p>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+            
+            <lg type="poem">
+                
+                <head type="main-authorial">pork packing</head>
+                
+                
+                <l>
+                    <seg>The <subst>
+                        <del rend="overstrike" seq="1">heaps of the</del> <add rend="unmarked" place="supralinear" seq="2">slaughtered pork&#8212;the</add> </subst>
+                        <add rend="unmarked" place="supralinear">
+                            <unclear reason="illegible" resp="mm" cert="high">hanging</unclear>
+                        </add> carcasses</seg>
+                    <seg>of pork <add rend="unmarked" place="supralinear">slaughtered</add> 
+                        <delSpan rend="overstrike" spanTo="#d3"/>the</seg>
+                    <seg>slaughtering<anchor xml:id="d3"/>&#8212;the men</seg>
+                    <seg>in their oil&#8209;skin</seg>
+                    <seg>overalls&#8212;the</seg>
+                    <seg>
+                        <subst>
+                            <del rend="overstrike" seq="1">scalding rooms&#8212;</del> <add rend="unmarked" place="supralinear" seq="2">scalded&#8212;</add> </subst>
+                    </seg>
+                    <seg>&#8212;the packing&#8212;</seg>
+                </l>
+                
+                <l>
+                    <seg>The killing hammer&#8212;the</seg>
+                    <seg>hog hook&#8212;the gutting</seg>
+                </l>
+                
+                <note type="authorial" place="bottom">
+                    <p>&#9757; over</p>
+                </note>
+                
+            </lg>
+            
+        </del>
+        
+    </div1>
+    
+    
+<pb facs="loc.00143.028.jpg" xml:id="leaf029r" type="recto"/>
+
+<!--Transcriber's note to self: this heavily smudged page is one to definitely check out at the LC. It marks the beginning of this section of interesting pre-Brooklyn Ferry lines-->
+
+<div1 type="poem">
+
+<del type="hashmark">
+<lg type="poem">
+
+<lg>
+
+<l>I <subst>
+<del rend="overstrike" seq="1">also</del> <add rend="unmarked" place="supralinear" seq="2">too</add> </subst>lived,</l>
+
+<!--Transcriber's note to self: Gried mistranslates "looked [?]" as "walked"-->
+
+<l>
+<seg>I too <unclear reason="illegible" resp="mm" cert="medium">looked</unclear> upon</seg>
+<seg>the <unclear reason="illegible" resp="mm" cert="high">solid</unclear> earth,</seg>
+<seg>and bathed in the</seg>
+<seg>sea</seg>
+</l>
+
+<!--Transcriber's note to self: Grier mistranslates the first part of the next line as "But I." In fact the word(s) seems to end with a "d". I think it is "Rinsed." The next part he translates as "wearied." I believe this is wrong too, but I can't offer an alternative (illegible). Check when at the LC.-->
+
+
+<l>
+<unclear reason="illegible" resp="mm" cert="low">Rinsed</unclear>, <gap reason="illegible"/>d, wavered,<note type="authorial" place="supralinear">
+<unclear reason="illegible" resp="mm" cert="low">?</unclear>
+</note>
+</l>
+
+</lg>
+
+<lg>
+
+<!--Transcriber's note to self: Note how in the draft of Ferry, the famous "struck from float" was originally "cohered." This follows a passage where the speaker begins to "waver," implying that the originally gesture of the poem was one of recovery from dissolution. Write about this!!-->
+
+
+<l>
+<seg>I too <subst>
+<del rend="overstrike" seq="1">cohered</del> <add rend="unmarked" place="supralinear" seq="2">was struck</add> </subst>from the</seg>
+<seg>float eternally held</seg>
+<seg>in solution</seg>
+</l>
+
+<l>
+<seg>I too <add rend="unmarked" place="supralinear">was</add> was cohered and received</seg>
+<seg>identity <subst>
+<del rend="overstrike" seq="1">by</del> <add rend="unmarked" place="supralinear" seq="2">through</add> </subst>my body,</seg>
+</l>
+
+<l>
+<seg>Of all that I had, I had</seg>
+<seg>nothing except <add rend="insertion" place="supralinear">through</add> my body</seg>
+</l>
+
+<l>
+<seg>Of all that I have or</seg>
+<seg>shall have, it is the</seg>
+<seg>same</seg>
+</l>
+
+</lg>
+</lg>
+</del>
+
+</div1>
+
+<pb facs="loc.00143.029.jpg" xml:id="leaf029v" type="verso"/>
+
+    <div1 type="prose">
+        
+        <p>In the best poems appears the human body, <subst>
+            <del rend="overstrike" seq="1">fully&#8209;formed,</del> <add rend="unmarked" place="supralinear" seq="2">well&#8209;formed, natural,</add> </subst>accepting itself, unaware <del rend="overstrike">that</del> of shame, loving that which is necessary to make it complete, proud of its strength, active, receptive, a father, a mother,</p>
+        
+        <milestone unit="undeclared" rend="horbar"/>
+        
+    </div1>
+    
+
+<pb facs="loc.00143.029.jpg" xml:id="leaf030r" type="recto"/>
+    
+<div1 type="poemNotes">
+
+<del type="hashmark">
+<lg type="poem">
+
+<note type="authorial" place="top" rend="circled">
+<p>Full poem</p>
+</note>
+
+<l>
+<seg>I too have <space dim="horizontal" extent="7 letters"/>
+</seg>
+<seg>have <space dim="horizontal" extent="7 letters"/> have <space dim="horizontal" extent="3 letters"/>
+</seg>
+</l>
+
+<l>
+<seg>I too have <space dim="horizontal" extent="12 letters"/>
+</seg>
+<seg>felt the curious</seg>
+<seg>questions come upon</seg>
+<seg>me,</seg>
+</l>
+
+<l>
+<seg>
+<add rend="unmarked" place="supralinear">In the day they came</add> In the silence of the night</seg>
+<seg>came upon me,</seg>
+</l>
+
+<l>
+<seg>What is it now</seg>
+<seg>between us?&#8212;Is<del rend="overstrike">n't</del>
+</seg>
+<seg>it a score of years?</seg>
+<seg>or a hundred years?</seg>
+<seg>or five hundred years?</seg>
+</l>
+
+<l>
+<seg>Whatever it is, it avails</seg>
+<seg>not . . . . distance avails not</seg>
+<seg>and place avails not.</seg>
+</l>
+
+</lg>
+</del>
+
+</div1>
+    
+    <pb facs="loc.00143.030.jpg" xml:id="leaf030v" type="verso"/>
+    <div1 type="prose">
+        
+        <div2 type="prose">
+            
+            <!--Transcriber's note to self: This is a very important page of W's self-theorizing of his own poetic. Write about this, esp in relation to lists and descriptive writing in his work. Perhaps talk about the frame this puts around poems that some might regard as excessively optimistic (a Song of Joys?): how the relentless emphasis on the positive is a willed optimism integral to the poetic process W was trying to induce in his readers. This optimism is also perhaps related to American bravura prevalent at the time. W heard in such discourse a sophisticated mode of self-advancement whereby readers'imaginations, stimulated by utopian images of democratic perfection, would naturally lead people to improve themselves and their political/social conditions.
+                Note that in relation to what W says about "characters and selection of incidents, that the description of the woman in this notebook and of the firemen breaking through the floor of a burning building in the other notebook, these scenes are perfect examples of W embodying his own theory.
+                This thought could be the seed of some important aspects of the thesis for my dissertation.
+                On a lesser note, the use of the hands in this section seems to suggest a use for this particular convention in his notebooks. That is, they seem to be self-reminders to reread and pay special attention to passages. If this is true, since this section has three such reminders, it makes sense that this might be a particularly important passage. Also, the capitalization of "ALL" and the fussy neatness of the writing.
+                In general in the dissertation, promote the argument that Whitman, by temperment, was intrinsically much more likely to hide rather than advertise his intentions. He was secretive in an intensely sophisticated and self-aware sense. That is, what he hides is often most important, and the act of hiding plays a big role in his concept of his own poetry and theory.
+                Write from the POV that the best place to find W's true intentions is in his unpublished notebooks.-->
+            
+            <p>Convey what I want to convey by models and illustrations of the <hi rend="underline">results</hi> I demand.&#8212;Convey these by <hi rend="underline">characters</hi> selections of <hi rend="underline">incidents</hi> and <hi rend="underline">behaviour</hi>.</p>
+            
+            <p>This <hi rend="underline">indirect <subst>
+                <del rend="overwrite" seq="1">of</del><add rend="overwrite" place="over" seq="2">mode</add></subst> of attack</hi> is better than all direct modes of attack.</p>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+        </div2>
+        
+        <div2 type="prose">
+            
+            <p>&#9757; The spirit of the above<add rend="unmarked" place="supralinear">&#9757;</add> should pervade <hi rend="underline">ALL</hi> my poems.</p>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+        </div2>
+        
+        <div2 type="prose">
+            
+            <p>&#9758; Avoid all the "intellectual subtleties," and "withering doubts" and "blasted hopes" and "unrequited loves," and "ennui," and "wretchedness" and the whole of the <hi rend="underline">lurid</hi> and <hi rend="underline">artistical</hi> and <hi rend="underline">melo&#8209;dramatic</hi> effects.&#8212;Preserve perfect calmness and sanity</p>
+            
+        </div2>
+        
+    </div1>
+    
+<pb facs="loc.00143.030.jpg" xml:id="leaf031r" type="recto"/>
+
+<div1 type="poemNotes">
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<seg>The continual <add rend="unmarked" place="supralinear">and hurried</add> crowd of</seg>
+<seg>men and women crossing</seg>
+</l>
+
+<l>
+<seg>The reflection of the sky,</seg>
+<seg>in the water&#8212;the <subst>
+<del rend="overstrike" seq="1">white</del> <add rend="unmarked" place="supralinear" seq="2">blinding</add> </subst>
+</seg>
+<seg>dazzle in a track from</seg>
+<seg>the <add rend="unmarked" place="supralinear">most</add> declin<subst>
+<del rend="overwrite" seq="1">ing</del><add rend="overwrite" place="over" seq="2">ed</add></subst> sun,</seg>
+</l>
+
+<l>
+<seg>The lighters&#8212;the sailors</seg>
+<seg>in their picturesque costumes</seg>
+</l>
+
+</lg>
+
+<p>&#8212;the nimbus of light around <del rend="overstrike">
+<gap reason="deletion, illegible"/>
+</del> 
+<subst>
+<del rend="overwrite" seq="1">my</del><add rend="overwrite" place="over" seq="2">the</add></subst> shadow of my head in the <unclear reason="cut away" resp="mm" cert="high">sunset</unclear>
+</p>
+
+</del>
+
+</div1>
+
+<pb facs="loc.00143.031.jpg" xml:id="leaf031v" type="verso"/>
+
+    
+    <!--Transcriber's note to self: Another interesting passage below. This one expresses W's self-awareness of his own lack of audience as a part of the overall process of his poetic project. I could write about this passage as a counter-example to those critics who stress W's discouragement at the reception of his first edition.-->
+    
+    <div1 type="prose">
+        
+        <p>You may have but a few to <add rend="unmarked" place="supralinear">(fully)</add> understand you.&#8212;Nevertheless
+            that few <subst><orig>rules </orig><add rend="unmarked" place="supralinear" seq="2">is to rule</add></subst> the world.&#8212;</p>
+        
+        <milestone unit="undeclared" rend="horbar"/>
+        
+    </div1>
+
+<pb facs="loc.00143.031.jpg" xml:id="leaf032r" type="recto"/>
+
+    <div1 type="poem">
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<seg>The <subst>
+<del rend="overstrike" seq="1">dancing</del> <add rend="unmarked" place="supralinear" seq="2">edged</add> </subst> waves, the</seg>
+<seg>
+<del rend="overstrike">
+<unclear reason="deletion, illegible" resp="mm" cert="low">but</unclear>
+</del> scooped cups,</seg>
+<seg>and the dancing</seg>
+<seg>motion,</seg>
+</l>
+
+<l>
+<seg>The yellow masts, the</seg>
+<seg>pilots in their pilot-houses,</seg>
+<seg>the sailors at work in the</seg>
+<seg>rigging,</seg>
+</l>
+
+<l>
+<seg>The swift current, the <del rend="overstrike">
+<unclear reason="deletion, illegible" resp="mm" cert="low">b</unclear>
+</del> white</seg>
+<seg>
+<subst>
+<del rend="overstrike" seq="1">brack</del> <add rend="unmarked" place="supralinear" seq="2">frothy wake</add> </subst>left by the paddles</seg>
+<seg>of the steamboats</seg>
+</l>
+
+<l>
+<seg>The gray walls of granite</seg>
+<seg>storehouses near the</seg>
+<seg>docks,&#8212;the <del rend="overstrike">swift</del>
+</seg>
+<seg>quick tremulous motion</seg>
+<seg>of the flukes of the</seg>
+<seg>wheels</seg>
+</l>
+
+<l>The flags on the tops of the</l>
+
+</lg>
+</del>
+
+</div1>
+
+
+
+<pb facs="loc.00143.032.jpg" xml:id="leaf032v" type="verso"/>
+    
+    <!--Transcriber's note to self: This section picks up from the other interesting prose section two pages ago.-->
+    
+    <div1 type="prose">
+        
+        <div2 type="prose">
+            
+            <p>
+                <hi rend="underline">The newer better principle through all my poems.&#8212;</hi>(dramas<add rend="unmarked" place="supralinear">?</add> novels,<add rend="unmarked" place="supralinear">?</add> compositions of any sort.)</p>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+            
+        </div2>
+        
+        <div2 type="prose">
+            
+            <!--Note that there is a line from left edge and above and below "Present". The fist of these lines could arguably be an underline of "good" but I don't think so.-->
+            
+            <p>Present only great characters, good, loving characters,&#8212;</p>
+            
+            <p>Present the best phases of character, that any one, <subst>
+                <del rend="overwrite" seq="1">
+                    <gap reason="deletion, illegible"/>
+                </del><add rend="overwrite" place="over" seq="2">man</add></subst>or woman is eligible to.</p>
+            
+            <p>Present noble phases of character for young men</p>
+            
+            <milestone unit="undeclared" rend="horbar"/>
+            
+        </div2>
+        
+        <div2 type="prose">
+            
+            <head type="main-authorial" rend="underline">
+                <subst>
+                    <del rend="overwrite" seq="1">A C</del><add rend="overwrite" place="over" seq="2">C</add></subst>ombination</head>
+            
+            <!--Transcriber's note to self: Note the reference to Jean Paul Richter. According to the database, no one has written about W and Richter.-->
+            
+            <p>I must combine the tenderness and trem<subst>
+                <del rend="overwrite" seq="1">
+                    <gap reason="deletion, illegible"/>
+                </del><add rend="overwrite" place="over" seq="2">b</add></subst>ling sympathetic manliness of Jean Paul with the strength of Homer, and the perfect <hi rend="underline">reason</hi> of Shakespeare.</p>
+            
+        </div2>
+        
+    </div1>
+    
+<pb facs="loc.00143.032.jpg" xml:id="leaf033r" type="recto"/>
+    
+<div1 type="poem">
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<seg>I have <subst>
+<del rend="overstrike" seq="1">ga</del> <add rend="unmarked" place="inline" seq="2">looked</add> </subst>toward</seg>
+<seg>the lower bay to</seg>
+<seg>notice the arriving</seg>
+<seg>ships.</seg>
+</l>
+
+<l>
+<seg>
+<del rend="overstrike">Fo</del> I have looked on the</seg>
+<seg>white sails of the</seg>
+<seg>
+<del rend="overstrike">cl</del> clean <gap reason="cut away"/>
+</seg>
+</l>
+
+</lg>
+</del>
+
+</div1>
+
+<pb facs="loc.00143.033.jpg" xml:id="leaf033v" type="verso"/>
+    
+    <!--Transcriber's note to self: The following passage arguably has a title ("Poem or Passage") This would make a good title for a chapter or article in my dissertation. "Poem" could indicate the standard expressive mode of poetry, and "Passage" could indicate the type of poetry W theorized and eventually wound up writing.-->
+    
+    <!--Transcriber's note to self: Note that Grier explains his rationale for reassembling the pages into his presumed order in note 30, on 228-->
+    
+    <div1 type="poem">
+        <del type="hashmark">
+            <lg type="poem">
+                
+                
+                <head type="main-authorial" rend="circled">Poem or passage</head>
+                
+                <note type="authorial" place="left">
+                    <p>P<unclear reason="illegible" resp="mm" cert="medium">o</unclear> 
+                        <unclear reason="illegible" resp="mm" cert="low">G</unclear>
+                    </p>
+                </note>
+                
+                <head type="sub-authorial">The scenes on the river as I cross the Fulton ferry</head>
+                
+                <milestone unit="undeclared" rend="horbar"/>
+                
+                <l>
+                    <seg>Others will see the flow</seg>
+                    <seg>of the river, also,</seg>
+                </l>
+                
+                <l>
+                    <seg>Others will see on both</seg>
+                    <seg>sides the city of</seg>
+                    <seg>New York and the city</seg>
+                    <seg>of Brooklyn</seg>
+                </l>
+                
+                <l>
+                    <seg>A hundred years hence others</seg>
+                    <seg>will see them,</seg>
+                </l>
+                
+                <!--Grier completes the following line, saying: "Clipped. The following is on a loose fragment. On recto is 'English Johny . . .'" I don't have the fragment, so I just translated what I could see.-->
+                
+                <l>
+                    <seg>Two hundred years&#8212;many</seg>
+                    <seg>
+                        <gap reason="cut away"/>
+                    </seg>
+                </l>
+                
+            </lg>
+        </del>
+        
+    </div1>
+    
+<pb facs="loc.00143.033.jpg" xml:id="leaf034r" type="recto"/>
+
+<div1 type="poem">
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<seg>I too <del rend="overstrike">have crossed</del> many and</seg>
+<seg>many a time have crossed</seg>
+<seg>the ferry</seg>
+</l>
+
+<!--I'm aware that the two lines below were originally one, but I don't know how to show this in a VarSeq or otherwise. Do we want to indicate this? I merely encoded the deleted "I have". -->
+
+<l>
+<seg>I have watched the</seg>
+<seg>sea&#8209;gulls flapping</seg>
+<seg>their wings&#8212;<del rend="overstrike">I have</del>
+</seg>
+</l>
+
+<l>
+<seg>I have seen <add rend="insertion" place="supralinear">them</add> floating with</seg>
+<seg>motionless wings high</seg>
+<seg>in the air at</seg>
+<seg>sunset, just oscillating</seg>
+<seg>their bodies,</seg>
+</l>
+
+<l>
+<seg>I have seen the <subst>
+<del rend="overstrike" seq="1">bright</del> <add rend="unmarked" place="supralinear" seq="2">glistening</add> </subst>
+</seg>
+<seg>yellow light parts</seg>
+<seg>of their bodies and</seg>
+<seg>
+<del rend="overstrike">leave</del> the rest in</seg>
+<seg>strong shadow</seg>
+</l>
+
+<l>
+<seg>I have seen them</seg>
+<seg>
+<subst>
+<del rend="overstrike" seq="1">this afa</del> <add rend="unmarked" place="supralinear" seq="2">high up</add> </subst>
+<del rend="overstrike">afar off</del>
+</seg>
+<seg>slowly wheeling in</seg>
+<seg>circles, edging slowly to the</seg>
+<seg>south</seg>
+</l>
+
+</lg>
+</del>
+
+</div1>
+
+<pb facs="loc.00143.034.jpg" xml:id="leaf034v" type="verso"/>
+    
+    <!--Transcriber's note to self: Grier relates these lines to "A Song for Occupations (1855), but I don't see it. -->
+    
+    <div1 type="poem">
+        
+        <del type="hashmark">
+            <lg type="poem">
+                
+                <l>
+                    <seg>What is there you can</seg>
+                    <seg>conceive more wonderful</seg>
+                    <seg>than what you see</seg>
+                    <seg>around you?</seg>
+                </l>
+                
+                <l>
+                    <seg>Nothing can be conceived</seg>
+                    <seg>of by the fancy that</seg>
+                    <seg>can be more wonderful</seg>
+                    <seg>than what we see.&#8212;</seg>
+                </l>
+                
+            </lg>
+        </del>
+        
+    </div1>
+    
+<pb facs="loc.00143.034.jpg" xml:id="leaf035r" type="recto"/>
+    
+    <div1 type="poemNotes">
+        <del type="hashmark">
+            <lg type="poem">
+                
+                <l>
+                    <seg>Cursed is that age or</seg>
+                    <seg>nation that does not</seg>
+                    <seg>realize itself, and</seg>
+                    <seg>esteem itself,</seg>
+                </l>
+                
+                <l>
+                    <seg>Wretched is that man</seg>
+                    <seg>who does not esteem</seg>
+                    <seg>himself</seg>
+                </l>
+                
+            </lg>
+        </del>
+        
+        <milestone unit="undeclared" rend="horbar"/>
+        
+        <p>put "Manhattan" for New York all through</p>
+        
+    </div1>
+
+<pb facs="loc.00143.035.jpg" xml:id="leaf035v" type="verso"/>
+    
+    <div1 type="prose">
+        <div2>
+        <p>
+            <del rend="overstrike">You</del> It is mentioned that the Irish and German and other foreigners mix in our politics.&#8212;Gentlemen with perfect respect I say you you can think what <del rend="overstrike">
+                <unclear reason="deletion, illegible" resp="mm" cert="medium">wh</unclear>
+            </del> you choose about this;&#8212;It is a credit to men and no disgrace to them to take an eager interest in politics.&#8212;</p>
+        
+        <milestone unit="undeclared" rend="horbar"/>
+        
+    </div2>
+    
+    <div2 type="entries">
+        
+        <ab>
+            <seg>Amherst White, attorney,</seg>
+            <seg>cor Barclay &amp; Broadway</seg>
+        </ab>
+        
+        <milestone unit="undeclared" rend="horbar"/>
+        
+    </div2>
+    
+    <div2 type="entries">
+        
+        <ab>
+            <seg>A. J. Davis</seg>
+            <seg>137 Spring</seg>
+        </ab>
+        
+    </div2>
+    </div1>
+    
+    <pb facs="loc.00143.035.jpg" xml:id="leaf036r" type="recto"/>
+<div1>
+    <head type="main-authorial">for Gymnastic and Athletic</head>
+    
+    <milestone unit="undeclared" rend="horbar"/>
+    
+    <p>I heard to&#8209;day of a young <del rend="overstrike">man</del> man who was bequeathed $<unclear reason="deletion, illegible" resp="mm" cert="low">10</unclear>000,000 and wasted it&#8212;There are young men who are bequeathed more than that and never put it to good <gap reason="illegible"/>
+    </p>
+</div1>
+    
+    <pb facs="loc.00143.036.jpg" xml:id="leaf036v" type="verso"/>
+    
+    <div1 type="prose">
+        
+        <p>Not only American literature, but <add rend="insertion" place="supralinear">the structures of</add> American social intercourse <add rend="unmarked" place="supralinear">are</add> household life, are growing up in <subst>
+            <del rend="overstrike" seq="1">utter scorn of</del> <add rend="unmarked" place="supralinear" seq="2">total severance from</add> </subst>the roots and trunks and branches <gap reason="cut away"/>
+            <add rend="unmarked" place="supralinear">growth</add>
+        </p>
+        
+    </div1>
+    
+    <pb facs="loc.00143.036.jpg" xml:id="leaf037r" type="recto"/>
+
+
+<div1>
+<div2 type="prose">
+
+<p>Gentlemen, I will be very plain with you.&#8212;I see in my country many great qualities.&#8212;I see in America not merely the home of Americans, but the home of the needy and down kept races of the whole earth.&#8212;I know just as well as you the terrible <del rend="overstrike">l</del> effects of ages of degradation and caste.&#8212;It is a real truth&#8212;it is a black and bloody lesson&#8212;</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+</div2>
+<div2 type="list">
+<list type="simple">
+
+<head type="main-authorial">A. Baker, Boots</head>
+
+<item>15 Ann st</item>
+<item>Stout boots $4</item>
+<item>Double water proof 4.50</item>
+
+</list>
+</div2>
+</div1>
+    <pb facs="loc.00143.037.jpg" xml:id="leaf037v" type="verso"/>
+
+<div1 type="list">
+    <list type="simple">
+        
+        <item>George Walker</item>
+        <item>Edward Smithson</item>
+        <item>John Swinton (Lewis his bro.</item>
+        <item>Sam (with black eyes &amp; cap)</item>
+        <item>Henry Hearne</item>
+        <item>William Meeker</item>
+        <item>William Phillips</item>
+        <item>George P. Morris</item>
+        <item>Leo</item>
+        <item>Pete Dempsey</item>
+        <item>Henry Post (Fulton op. Eagle office</item>
+        <item>Nick (black eyes 40th st.&#8212;small</item>
+        <item>Joe (Canadian Montreal)</item>
+        <item>Bill Young (milkman &amp; driver)</item>
+        <item>George Applegate (tallest)</item>
+        
+    </list>
+    
+</div1>
+
+
+    <pb facs="loc.00143.037.jpg" xml:id="leaf038r" type="recto"/>
+    
+    <div1 type="poem">
+        
+        <del type="hashmark">
+            <lg type="poem">
+                
+                <l>
+                    <seg>The gross and soiled she</seg>
+                    <seg>moved among and was</seg>
+                    <seg>with without repugnance</seg>
+                    <seg>did not make her</seg>
+                    <seg>gross and soiled</seg>
+                </l>
+                
+                <milestone unit="undeclared" rend="horbar"/>
+
+</lg>
+</del>
+
+</div1>
+
+</body>
+</text>
+</TEI>
