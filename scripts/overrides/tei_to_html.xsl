@@ -11,6 +11,13 @@
   
   <xsl:import href="../.xslt-datura/tei_to_html/tei_to_html.xsl"/>
   <xsl:import href="../../../whitman-scripts/scripts/archive-wide/overrides.xsl"/>
+
+  
+  
+  <!-- To override, copy this file into your collection's script directory
+    and change the above paths to:
+    "../../.xslt-datura/tei_to_html/lib/formatting.xsl"
+ -->
   
   <!-- For display in TEI framework, have changed all namespace declarations to http://www.tei-c.org/ns/1.0. If different (e.g. Whitman), will need to change -->
   <xsl:output method="xml" indent="no" encoding="UTF-8" omit-xml-declaration="yes"/>
