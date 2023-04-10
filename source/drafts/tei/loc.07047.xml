@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ASCII"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.07047">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Dictionary</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.07047</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1"></note>             
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <editor>William White</editor>
+                        <title xml:id="">Daybooks and Notebooks</title>
+                        <imprint>
+                            <pubPlace>New York</pubPlace>
+                            <publisher>New York University Press</publisher>
+                            <date when="1978">1978</date>
+                            <biblScope type="page">811&#8211;812</biblScope>
+                            <biblScope type="volume">III</biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Dictionary</title>                  
+                    <idno type="callno"/>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839-1919, Library of Congress, Washington, DC.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2015-04-16" who="#kc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="notebook">
+        <body>
+            <lg>
+                <l>Dictionary</l>
+                <l>Democracy</l>
+                <l>America</l>
+                <l>Elias Hicks</l>
+                <l>Paumanok</l>
+                <l>Hospitals</l>
+                <l>Washington (city)</l>
+                <l>Capitol (at Washington)</l>
+                <l>West (must be before stay [?] in the heart of the west)</l>
+                <l>Mississippi</l>
+                <l>Shakespeare (with reference to America)</l>
+                <l>Alabama (aboriginal American word)</l>
+                <l>Manhattan</l>
+                <l>to be put to advantage</l>
+                <l>&#8212;cruel treatment of Col. Corcoran</l>
+            </lg>
+        </body>
+    </text>
+</TEI>

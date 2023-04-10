@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UVA::IATH//DTD whitman.dtd (Whitman Archive)//EN" "whitman.dtd" [
+
+<!--ArborText, Inc., 1988-2000, v.4002-->
+<!ENTITY loc.00150.001 SYSTEM "loc.00150.001.jpg" NDATA jpeg> 
+
+]>
+<TEI.2 id="loc.00150" type="doc">
+<relations>
+</relations>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main" rend="bracketed">I'll make the Songs of the Nation</title>
+
+<title level="m" type="sub">a machine readable transcription</title>
+
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<name>The Walt Whitman Archive Staff</name>
+</respStmt>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt><editionStmt>
+<edition><date>2003</date></edition>
+</editionStmt><publicationStmt>
+<idno>loc.00150</idno>
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>The Institute for Advanced Technology in the Humanities</addrLine>
+<addrLine>Alderman Library</addrLine>
+<addrLine>University of Virginia</addrLine>
+<addrLine>P.O. Box 400115</addrLine>
+<addrLine>Charlottesville, VA 22904-4115</addrLine>
+<addrLine>whitman@jefferson.village.virginia.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2003 by Ed Folsom and Kenneth M. Price, all rights 
+reserved. Items in the Archive may be shared in accordance with the Fair Use 
+provisions of U.S. copyright law.  Redistribution or republication on other 
+terms, in any medium, requires express written consent from the editors and 
+advance notification of the publisher, The Institute for Advanced Technology 
+in the Humanities.  Permission to reproduce the graphic images in this archive 
+has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>
+The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839-1919
+</title>
+
+
+<idno type="callno">840
+</idno> 
+
+
+
+<orgName>
+Library of Congress, Washington, DC.
+</orgName> 
+
+<note type="project">Transcribed from our own digital image of original manuscript.</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2003-1-17</date>
+<respStmt>
+<name>Jonathan Soma</name>
+</respStmt>
+<item>Encoded</item>
+</change>
+<change>
+<date>2003-1-17</date>
+<respStmt>
+<name>Jonathan Soma</name>
+</respStmt>
+<item>Transcribed</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text type="manuscript">
+<body>
+
+ <div1 type="poem notes">
+
+<head type="main-derived">I'll make the Songs</head>
+
+<pb corresp="loc.00150.001" id="leaf01r" type="recto"/>
+
+<lg1 type="linegroup">
+				     
+
+				
+<l><hi rend="underline"><seg>I'll <add type="unmarked" place="supralinear">I'd</add> make the Songs of the Nation.&#8212;
+
+ <app><rdg varSeq="1">let pass</rdg><rdg varSeq="2"><add type="unmarked" place="supralinear"><del type="overstrike"> who makes</del></add></rdg></app></seg>       	
+																																									 		
+<seg>the Laws or lead to War who may.</seg>
+<seg>Old Proverb.</seg></hi></l>
+<lg2 type="linegroup">
+
+<l><seg>I'll make the Songs of The States,</seg> 
+<seg>I'd make the Songs of the Nation&#8212;who <add type="unmarked" place="supralinear">&#8212;whoever may</add></seg>
+<seg>make the laws or lead to war</seg>
+<seg>they may</seg></l>
+ </lg2>
+	    </lg1>
+</div1>
+</body>
+</text>
+</TEI.2>

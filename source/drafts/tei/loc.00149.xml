@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UVA::IATH//DTD whitman.dtd (Whitman Archive)//EN" "whitman.dtd" [
+
+		<!-- THE FOLLOWING ENTITY DECLARATION CORRESPONDS TO THE WORK ID, WHICH, IN A      -->
+		<!-- NUTSHELL, IS A UNIQUE NUMBER GIVEN TO A GROUP OF ITEMS THAT ARE VERSIONS OF   -->
+		<!-- THE SAME POEM. IF YOU KNOW THE FINAL TITLE UNDER WHICH YOUR MANUSCRIPT WAS    -->
+		<!-- PUBLISHED, YOU CAN LOOK UP THE WORK ID IN THE "REFERENCES" SECTION OF THE     -->
+		<!-- ENCODING GUIDELINES. IF, AS IS OFTEN THE CASE, IT'S DIFFICULT TO DISCERN A    -->
+		<!-- CONNECTION WITH A KNOWN POEM, YOU MAY IGNORE THIS SECTION OF THE TEMPLATE AND -->
+		<!-- LET THE EDITORS FILL IN THIS ID AFTER YOUR TRANSCRIPTION HAS BEEN CHECKED IN. -->                                             
+		
+<!ENTITY xxx.00187 SYSTEM "xxx.00187.xml" NDATA xml>
+
+<!ENTITY loc.00149.001 SYSTEM "loc.00149.001.jpg" NDATA jpeg>
+<!ENTITY loc.00149.002 SYSTEM "loc.00149.002.jpg" NDATA jpeg>
+<!ENTITY loc.00149.003 SYSTEM "loc.00149.003.jpg" NDATA jpeg>
+<!ENTITY loc.00149.004 SYSTEM "loc.00149.004.jpg" NDATA jpeg>
+<!ENTITY loc.00149.005 SYSTEM "loc.00149.005.jpg" NDATA jpeg>
+<!ENTITY loc.00149.006 SYSTEM "loc.00149.006.jpg" NDATA jpeg>
+<!ENTITY loc.00149.007 SYSTEM "loc.00149.007.jpg" NDATA jpeg>
+<!ENTITY loc.00149.008 SYSTEM "loc.00149.008.jpg" NDATA jpeg>
+<!ENTITY loc.00149.009 SYSTEM "loc.00149.009.jpg" NDATA jpeg>
+<!ENTITY loc.00149.010 SYSTEM "loc.00149.010.jpg" NDATA jpeg>
+<!ENTITY loc.00149.011 SYSTEM "loc.00149.011.jpg" NDATA jpeg>
+<!ENTITY loc.00149.012 SYSTEM "loc.00149.012.jpg" NDATA jpeg>
+<!ENTITY loc.00149.013 SYSTEM "loc.00149.013.jpg" NDATA jpeg>
+<!ENTITY loc.00149.014 SYSTEM "loc.00149.014.jpg" NDATA jpeg>
+<!ENTITY loc.00149.015 SYSTEM "loc.00149.015.jpg" NDATA jpeg>
+<!ENTITY loc.00149.016 SYSTEM "loc.00149.016.jpg" NDATA jpeg>
+<!ENTITY loc.00149.017 SYSTEM "loc.00149.017.jpg" NDATA jpeg>
+<!ENTITY loc.00149.018 SYSTEM "loc.00149.018.jpg" NDATA jpeg>
+<!ENTITY loc.00149.019 SYSTEM "loc.00149.019.jpg" NDATA jpeg>
+<!ENTITY loc.00149.020 SYSTEM "loc.00149.020.jpg" NDATA jpeg>
+<!ENTITY loc.00149.021 SYSTEM "loc.00149.021.jpg" NDATA jpeg>
+<!ENTITY loc.00149.022 SYSTEM "loc.00149.022.jpg" NDATA jpeg>
+<!ENTITY loc.00149.023 SYSTEM "loc.00149.023.jpg" NDATA jpeg>
+
+]>
+
+<TEI.2 id="loc.00149" type="doc">
+
+<relations>
+		<!-- IF YOU KNOW THE WORK ID (SEE ABOVE), YOU MAY SUBSTITUTE IT FOR "xxx.00000"  -->
+		<!-- IN THE LINE BELOW. PLEASE IGNORE THE REST OF THE RELATIONS SECTION; IT WILL -->
+		<!-- BE COMPLETED BY PROJECT EDITORS AFTER YOU'VE CHECKED IN YOUR TRANSCRIPTION. -->
+
+<work entity="xxx.00000" cert="****">
+<p> </p>
+</work>
+</relations>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main">
+September &#38; October 1863
+</title>
+
+<title level="m" type="sub">a machine readable transcription</title>
+
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<name>The Walt Whitman Archive Staff</name>
+</respStmt>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt><editionStmt>
+<edition><date>2004</date></edition>
+</editionStmt><publicationStmt>
+
+<idno>loc.00149</idno>
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>The Institute for Advanced Technology in the Humanities</addrLine>
+<addrLine>Alderman Library</addrLine>
+<addrLine>University of Virginia</addrLine>
+<addrLine>P.O. Box 400115</addrLine>
+<addrLine>Charlottesville, VA 22904-4115</addrLine>
+<addrLine>whitman@jefferson.village.virginia.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2004 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, The Institute for Advanced Technology in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+
+		<!-- IGNORE THE FOLLOWING PROJECT NOTE. IT WILL BE FILLED IN BY PROJECT EDITORS. -->
+<note type="project" target="dat1"></note>
+
+		<!-- IF THERE IS VERSO INFORMATION THAT YOU ARE ONLY    -->
+            <!-- DESCRIBING BUT NOT TRANSCRIBING, INSERT THAT HERE. -->
+		<!-- IF YOUR MANUSCRIPT HAS NO VERSO MATERIAL, OR IF    -->
+		<!-- YOU ARE TRANSCRIBING THAT MATERIAL, YOU MAY DELETE -->
+		<!-- THIS NOTE.               				  -->
+<note type="project">On the verso . . .</note>                          	
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>
+"[September &#38; October 1863]" 
+</title>
+<date certainty="****" value="/" id="dat1"><!-- DATING INFO WILL BE INSERTED BY PROJECT EDITORS --></date>
+<idno type="callno">
+	<!-- THE REPOSITORY'S ID CODE FOR THE MATERIAL, IF ANY, CAN BE	     -->
+	<!-- ENTERED HERE. THE VALUE OF 'TYPE' CAN BE ALTERED TO FIT	     -->
+	<!-- THE TYPE OF ID NUMBER USED; EXAMPLE: MSS 3829.  THIS INFO	     -->
+	<!-- IS ONLY APPROPRIATE FOR THE REPOSITORIES THAT HAVE CREATED        -->
+	<!-- UNIQUE IDENTIFIERS FOR EACH MANUSCRIPT: HARVARD, BOSTON           -->
+	<!-- PUBLIC LIBRARY, BYU, JOHNS HOPKINS, THE HUNTINGTON, THE MORGAN,   -->
+	<!-- RUTGERS, THE AMERICAN ANTIQUARIAN SOCIETY, AND TEMPLE. PLEASE     -->
+	<!-- CONSULT THE ONLINE FINDING AIDS.                                  --> 
+		
+</idno> 
+<orgName>
+The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839-1919, Library of Congress, Washington, DC.
+</orgName> 
+
+<note type="project">Transcribed from our own digital image of original manuscript.</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2004-11-01</date>
+<respStmt>
+<name>Amy Hezel</name>
+</respStmt>
+<item>Encoded</item>
+</change>
+<change>
+<date>2004-11-02</date>
+<respStmt>
+<name>Amy Hezel</name>
+</respStmt>
+<item>Transcribed</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text type="manuscript">
+<body>
+
+<pb corresp="loc.00149.001" id="leaf01r" type="recto"/>
+
+<!-- this is the front cover of the notebook and not a leaf per se -->
+
+<div1 type="title notes">
+<ab type="title">September &#38; October 1863</ab>
+</div1>
+
+<pb corresp="loc.00149.002" id="leaf01v" type="verso"/>
+
+<!-- again, this seems to be the verso of the front cover -->
+
+<div1 type="poem notes">
+
+<note type="authorial" place="margintop"><gap reason="illegible"/></note>
+
+<p>
+Army &#38; Navy Journal 
+192 Broadway 
+N.Y. City
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+R D Douglas 
+Bangor Theo 
+Seminary 
+Maine
+<add type="unmarked" place="supralinear">brother</add> Rev Ebenezer Douglas 
+Bridgewater 
+Mass
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+Caleb H. Babbitt 
+Mason General Hospital 
+Boston Mass 
+co E 34th Mass
+</p>
+
+<pb corresp="loc.00149.002" id="leaf02r" type="recto"/>
+
+<p>
+Bethuel Smith 
+co F 2d US Cavalry 
+US General Hospital 
+Carlisle Penn 
+Sept 16
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+Sergt Thos P Sawyer 
+co C 11th Mass vol 
+1st brigade 2d <gap reason="illegible"/> 3d <gap reason="illegible"/>
+sent letter 15th Sept
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+boy <add type="unmarked" place="supralinear">NM</add> in ward T typhoid 
+was in Gen Martindales office
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+<del type="hashmark">boy in ward H or I, close hair'd 
+take him something to eat</del>
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+Levi W Jarkett 
+co E 143d NY ad<gap reason="illegible"/> July 11 
+<add type="unmarked" place="supralinear"><gap reason="illegible"/></add> DC Jarkett 
+West Brookville N.Y.
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+Adelbert Dolliver 
+co B 111th Penn
+</p>
+
+<pb corresp="loc.00149.003" id="leaf02v" type="verso"/>
+
+<p>
+Finley 
+107 25th st 
+next to 
+engine 
+house
+</p>
+
+<pb corresp="loc.00149.003" id="leaf03r" type="recto"/>
+
+<p>
+Jos C Kent
+<add type="unmarked" place="supralinear">ward T bed 57 Sept 10</add> 
+co M Scotts 900 
+rem fever
+<add type="unmarked" place="supralinear">friend</add> John 
+Gen Heintzelman's 
+headquarters
+</p>
+
+<pb corresp="loc.00149.004" id="leaf03v" type="verso"/>
+
+<note type="authorial" place="margintop">must have appeared in Union of September 23.4.or5</note>
+
+<p>
+Mrs E J Den<del type="overstrike">n</del>ison 
+Johnstown 
+Ada. post office 
+Hardin county Ohio
+</p>
+
+<pb corresp="loc.00149.004" id="leaf04r" type="recto"/>
+
+<p>
+relibale was <orig reg="presently">pres-</orig>
+ently to have rec'd 
+a commision&#8212;
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+George Dent 
+co A 52d NY. 
+bed 11 ward E armory 
+<span value="bracketed" id="s1" from="s1" to="s2"/>
+some morning 
+diarrhea &#38; fever
+<anchor id="s2"/> 
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+
+<pb corresp="loc.00149.005" id="leaf04v" type="verso"/>
+
+<p>
+Stonewall Jackson
+<milestone unit="undeclared" rend="horbar"/>
+incident Elijah Jose 
+(3d Wisconsin) told me
+&#8212;he was taken prisoner 
+at Cedar Mountain 
+battle (Aug. 62, bet 
+Banks &#38; Jackson)
+&#8212;Stonewall had the 
+prisoning march up in 
+front of him&#8212;asked 
+Life, how may we? <gap reason="illegible"/>
+Pope come up? &#38;c <gap reason="illegible"/>
+(then asked two others&#8212;<gap reason="illegible"/>
+unsatisfactory answer)
+&#8212;<gap reason="illegible"/>punisher marched them 
+25 miles infoot <gap reason="illegible"/> &#42;
+</p>
+
+<pb corresp="loc.00149.005" id="leaf05r" type="recto"/>
+
+<p>
+ward C bed 25 
+Marcus M Small 
+co K 7th Maine 
+</p>
+<p>
+<app><rdg varSeq="1"><del type="overwrite"><gap reason="deletion, illegible"/></del></rdg><rdg varSeq="2"><add type="overwrite" place="over">C</add></rdg></app>ynthia C Small 
+East Livermore 
+<app><rdg varSeq="1"><del type="overstrike">Kenneller</del> </rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">and<gap reason="illegible"/></add> </rdg></app>co 
+</p>
+<note type="authorial" place="marginleft" rend="circled">Sept 17</note>
+<p>
+Maine 
+<del type="overstrike">been sick abo</del> 
+<add type="unmarked" place="supralinear">father</add> Dr Wm B Small 
+been sick about 4 
+weeks in reg hos&#8212;
+has diarrhea
+</p>
+
+<pb corresp="loc.00149.006" id="leaf05v" type="verso"/>
+
+<p>
+food to Gordo<gap reason="illegible"/> 
+to take the cars for 
+Richard, under grand 
+of two Caval<gap reason="illegible"/> 
+&#8212;this is your <hi rend="underline">hero</hi> 
+Stonewall Jackson&#8212;
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+the above was 
+on 12th August 
+'62, when Life 
+marched
+</p>
+
+<pb corresp="loc.00149.006" id="leaf06r" type="recto"/>
+
+<p>
+ward co bed 21 
+Manrill Wintersteen 
+co K 6th Ohio 
+<add type="unmarked" place="supralinear">cav</add> 
+GSW lft shoulder 
+came in from 
+ca<gap reason="illegible"/> fight last 
+Sunday 
+father 
+Caleb Wintersteen 
+Montrill 
+Georgia co 
+Ohio
+<note type="authorial" place="marginright" rend="circled">write he can have a <gap reason="illegible"/></note> 
+</p> 
+
+<pb corresp="loc.00149.007" id="leaf06v" type="verso"/>
+
+<l>
+<seg>
+<del type="overstrike">Carefully wrapt in by blanket,</del>
+<addSpan type="unmarked" to="a1" place="supralinear"/>
+<unclear reason="deletion, illegible" resp="ah" cert="70%">Early</unclear>
+<add type="insertion" place="supralinear">
+with that
+</add> 
+vigil 
+<del type="overstrike"><gap reason="deletion, illegible"/></del>
+<add type="unmarked" place="supralinear"><gap reason="illegible"/> a</add> 
+, vigil of battle fields
+<add type="insertion" place="supralinear">
+<unclear reason="illegible" resp="ah" cert="60%">divine</unclear> 
+</add>
+<anchor id="a1"/>
+</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">there I buried my golden</del>
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">vigil of night, vigil for boy of responding</add>
+</rdg>
+</app>
+</seg>
+</l>
+
+<l>
+<seg>
+<del type="overstrike">Buried my loving boy of</del>
+<addSpan type="unmarked" to="a2" place="supralinear"/>
+Kisses, (never again <add type="unmarked" place="supralinear"><gap reason="illegible"/></add>responding
+<anchor id="a2"/>
+</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">responding kisses, there in the</del>
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">vigil of loving comrade slain vigil solemn</add>
+</rdg>
+</app>
+</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">field, never again responding</del>
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">&#38; wondrous <del type="overstrike"><gap reason="deletion, illegible"/>at sunrise</del></add>
+</rdg>
+<rdg varSeq="3">
+<add type="unmarked" place="infralinear">
+ending with that at sunrise,
+</add>
+</rdg>
+</app>
+</seg>
+</l>
+<l>
+<delSpan type="overstrike" to="d1"/>
+After 
+<del type="overstrike">it</del>
+my vigil
+<anchor id="d1"/>
+</l>
+<l>
+<del type="overstrike">
+<unclear reason="deletion, illegible" resp="ah" cert="70%">All</unclear>
+<add type="unmarked" place="supralinear">covered</add>
+in his blanket 
+<unclear reason="deletion, illegible" resp="ah" cert="70%">leave allowed</unclear>
+<add type="unmarked" place="supralinear">wrapt</add>
+the
+</del>
+</l>
+<l>
+<seg>
+<add type="insertion" place="supralinear">Wrapt</add> 
+In his blanket I buried my son &#38; <hi rend="underline">comrade</hi>
+</seg>
+<seg>
+<del type="overstrike">I buried him</del> 
+sold <gap reason="illegible"/>
+</seg>
+</l>
+<l>
+<del type="overstrike">In his blanket wrapping my comrade, then I buried him</del>
+</l>
+
+<pb corresp="loc.00149.007" id="leaf07r" type="recto"/>
+
+<p>
+in a few moments 
+more stout arms 
+slowly &#38; steadily lower 
+the cot bearing its 
+burden to the 
+dead house. 
+He was a noble 
+soldier, has been 
+<app><rdg varSeq="1"><del type="overstrike">out</del> </rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">over</add> </rdg></app> three years 
+(having <app><rdg varSeq="1"><del type="overstrike">been</del> </rdg><rdg varSeq="2"><add type="unmarked" place="supralinear">enlisted</add> </rdg></app> before 
+the war a regular) 
+&#8212;was brave &#38;
+</p> 
+
+<pb corresp="loc.00149.008" id="leaf07v" type="verso"/>
+
+<p>
+Austin Newton 
+Groton Tompkins co
+New York
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+ward C bed 20 
+John Newton co B 6th Mich cav. 
+chronic diarrhea 
+came in Oct 12
+</p>
+
+<pb corresp="loc.00149.008" id="leaf08r" type="recto"/>
+
+<p>
+Capt. J T. S Gray 
+headquarters Gen. 
+Stannard, <orig reg="Department">Depart-</orig>
+ment of the East 
+New York City
+</p>
+
+<pb corresp="loc.00149.009" id="leaf08v" type="verso"/>
+
+<p>
+ward a bed 41 
+Oct 22 
+Pleasant Borley 
+co A 1st US law
+&#8212;25 W. left leg 
+Indiana boy
+adm Aug 2 63 
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+<gap reason="illegible"/>
+disease 
+consumption
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>
+wounded in leg 
+gangreand 
+rediseased very low 
+<add type="unmarked" place="supralinear">dying</add> secure might Oct 22
+</p>
+
+<pb corresp="loc.00149.009" id="leaf09r" type="recto"/>
+
+<p>
+Mother 
+Pauliner <unclear reason="illegible" resp="ah" cert="70%">Beverly</unclear> 
+Epton 
+Davis co. 
+Ind
+</p>
+<milestone unit="undeclared" rend="horbar"/>
+<p>.
+&#8212;speaks of the doctor 
+the lady muse so kind, 
+so tender "the doctor" 
+thinks he can't do <orig reg="anything">any-</orig>
+thing for you<add type="insertion" place="supralinear">&#8212;"I can die</add> 
+&#8212;a pause
+&#8212;"I don't think the 
+doctor cares much 
+any how"&#8212;<add type="unmarked" place="supralinear">&#8212;1</add>
+</p>
+
+<pb corresp="loc.00149.010" id="leaf09v" type="verso"/>
+
+<p>
+J<add type="unmarked" place="infralinear">ames</add> P. Kirkwood . 
+44 Union place 
+(4th avenue)
+</p>
+
+<pb corresp="loc.00149.010" id="leaf10r" type="recto"/>
+
+<!-- blank -->
+
+<pb corresp="loc.00149.011" id="leaf10v" type="verso"/>
+
+<l>
+I 
+<del type="overstrike">wrapt him in his blanket</del>
+</l>
+<l>
+<seg>
+A 
+<del type="overstrike">soldier's death when death</del>
+</seg>
+<seg>
+arrives,
+</seg>
+</l>
+<l>
+<seg>
+<del type="overstrike">When my darling &#38; comrade fell</del>
+</seg>
+<seg>
+<del type="overstrike">Not a tear I shed.</del>
+</seg>
+</l>
+
+<l>
+<seg>
+<hi rend="underline">Vigil of love I keep<add type="unmarked" place="supralinear">t</add> on the</hi>
+</seg>
+<seg>
+<hi rend="underline">field to <add type="unmarked" place="supralinear">one night</add> night</hi>
+</seg>
+</l>
+
+<pb corresp="loc.00149.011" id="leaf11r" type="recto"/>
+
+<l>
+<del type="overstrike">
+These O comrade
+</del>
+</l>
+<l>
+Vigil 
+<add type="insertion" place="supralinear">
+<del type="overstrike">sweet</del> for
+</add> 
+kept 
+<add type="insertion" place="supralinear">
+<gap reason="deletion, illegible"/> lone on the field
+</add> 
+one night;
+</l>
+
+<l>
+<seg>
+When 
+<add type="insertion" place="supralinear">you</add> 
+my darling half in the
+</seg>
+<seg>
+battle 
+<add type="insertion" place="supralinear">mortally wounded</add> 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">
+with a slight cry fell,
+</del>
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">
+<del type="overstrike">
+fell
+</del>
+dropt at my side <unclear reason="deletion, illegible" resp="ah" cert="70%">directly</unclear>
+</add>
+</rdg>
+<rdg varSeq="3">
+<del type="overstrike">
+<add type="unmarked" place="infralinear">
+With without mortal wound hit, mortally would
+</add>
+</del>
+</rdg>
+</app>
+</seg></l>
+<l><seg>One look I <add type="insertion" place="supralinear">but</add> gave &#38; 
+<app>
+<rdg varSeq="1"><del type="overstrike">his</del> </rdg>
+<rdg varSeq="2"><add type="unmarked" place="supralinear">your</add> </rdg>
+</app>
+dear
+</seg>
+<seg>eyes returned, 
+<app>
+<rdg varSeq="1"><del type="overstrike">it,</del> </rdg>
+<rdg varSeq="2"><add type="unmarked" place="supralinear">with a (look I shall never forget)</add></rdg>
+</app>
+</seg></l>
+<l><seg>One touch of the hand,</seg>
+<seg>Then onward I sped <unclear reason="deletion, illegible" resp="ah" cert="60%">singing</unclear> the battle,</seg></l>
+<l><seg>
+<app>
+<rdg varSeq="1"><del type="overstrike">Then</del> </rdg>
+<rdg varSeq="2"><add type="unmarked" place="supralinear">Till</add> </rdg>
+</app>
+late in the night <add type="insertion" place="supralinear">relieved</add> to the</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">spot <unclear reason="deletion, illegible" resp="ah" cert="60%">returned never</unclear></del></rdg>
+<rdg varSeq="2"><add type="unmarked" place="supralinear">place at last I <gap reason="deletion, illegible"/> made my way</add></rdg>
+</app> 
+</seg>
+</l>
+
+<pb corresp="loc.00149.012" id="leaf11v" type="verso"/>
+
+<l>
+<seg>
+Found 
+<add type="insertion" place="supralinear">you in death so cold</add> 
+my darling &#38; comrade
+<del type="overstrike">
+<add type="insertion" place="supralinear">
+<gap reason="deletion, illegible"/>
+</add>
+</del>
+</seg>
+<seg>
+from your 
+<del type="overstrike">beautiful</del>
+</seg>
+<seg>
+body, son of 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">my sweetest</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">responded</add> 
+</rdg>
+</app>
+kisses, (
+<app>
+<rdg varSeq="1">
+<del type="overstrike">responding no more forever</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">O never again on earthly</add> 
+</rdg>
+<rdg varSeq="3">
+<add type="unmarked" place="infralinear">responding</add> 
+</rdg>
+</app>
+</seg>
+</l>
+
+<l>
+<seg>
+Bared your face in the 
+<orig reg="starlight">star-</orig>
+</seg>
+<seg>
+light 
+<unclear reason="deletion, illegible" resp="ah" cert="75%">long</unclear>
+, cool &#38; sweet
+</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">
+<unclear reason="deletion, illegible" resp="ah" cert="65%">played</unclear>
+</del>
+</rdg>
+<rdg varSeq="2">
+<del type="overstrike">
+<add type="unmarked" place="supralinear"><gap reason="deletion, illegible"/></add>
+</del>
+</rdg>
+<rdg varSeq="3">
+<add type="insertion" place="supralinear">came</add> 
+</rdg>
+</app>
+the 
+<del type="overstrike">night</del> 
+wafted wind
+</seg>
+</l>
+
+<l>
+<seg>
+Long, 
+<del type="overstrike">by</del> 
+I stood 
+<del type="overstrike">the field around me,</del>
+</seg>
+<seg>
+<unclear reason="deletion, illegible" resp="ah" cert="80%">thinking</unclear> 
+<unclear reason="deletion, illegible" resp="ah" cert="60%">over</unclear> 
+the sight in
+</seg>
+</l>
+
+<pb corresp="loc.00149.012" id="leaf12r" type="recto"/>
+
+<l>
+<seg>
+Vigil
+<add type="unmarked" place="supralinear">in</add> 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">I kept</del>
+</rdg>
+<rdg varSeq="2">
+<del type="overstrike"><add type="insertion" place="supralinear">so wondrous</add></del> 
+</rdg>
+</app>
+<del type="overstrike">in the wonder the</del>
+</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">starlight,</del>
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">stars,</add> 
+</rdg>
+</app>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">with them on</del>
+</rdg>
+<rdg varSeq="2">
+<add type="insertion" place="supralinear">around me</add>
+</rdg>
+<rdg varSeq="3">
+<add type="unmarked" place="supralinear"><del type="overstrike">above</del> you</add>
+</rdg>
+</app>
+</seg>
+<seg>
+the battle field 
+<del type="overstrike">laying</del> 
+spreading,
+</seg>
+</l>
+
+<l>
+<seg>
+Vigil for 
+<add type="insertion" place="supralinear">you my</add> 
+my love &#38; fairly dead,
+</seg>
+<seg>
+boy of 
+<add type="unmarked" place="supralinear">my</add> 
+love &#38; kisses dead,
+</seg>
+</l>
+
+<l>
+<seg>
+Vigil wondrous 
+<add type="insertion" place="supralinear">&#38; vigil sweet</add> 
+there in the
+</seg>
+<seg>
+<del type="overstrike">
+<unclear reason="deletion, illegible" resp="ah" cert="90%">divine</unclear>
+</del> 
+fragrant silent night
+</seg>
+</l>
+
+<pb corresp="loc.00149.013" id="leaf12v" type="verso"/>
+
+<l>
+<seg>
+<add type="insertion" place="supralinear">But </add>
+Not a tear, 
+<add type="unmarked" place="supralinear">fell,</add> 
+not a long drawn
+</seg>
+<seg>
+breath, 
+<add type="insertion" place="supralinear">O </add>
+<del type="overstrike">deceas </del>
+son 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">&#38; comrade,</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">&#8212; long, long I gazed</add>
+</rdg>
+</app>
+</seg>
+</l>
+
+<l>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">Down</del> 
+</rdg>
+<rdg varSeq="2">
+<del type="overstrike">
+<add type="unmarked" place="supralinear">But</add>
+</del> 
+</rdg>
+<rdg varSeq="3">
+<add type="unmarked" place="marginleft">Then</add> 
+</rdg>
+</app> 
+on the ground 
+<add type="insertion" place="supralinear">realizing </add>
+I say
+</seg>
+<seg>
+by your 
+<add type="insertion" place="supralinear">side, </add>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">side</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">body</add> 
+</rdg>
+</app>
+I
+<app>
+<rdg varSeq="1">
+<del type="overstrike">buried</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="insertion" place="supralinear">my love&#8212;I leaning</add> 
+</rdg>
+</app>
+my
+</seg>
+<seg>
+chin in my hands,
+</seg>
+</l>
+
+<l>
+<seg>
+<add type="insertion" place="supralinear">Passing </add>
+Sweet hours immortal &#38; wondrous
+</seg>
+<seg>
+hours
+<del type="overstrike">, </del> 
+with you, 
+<add type="insertion" place="supralinear">
+<del type="overstrike">my lover, </del>
+dear comrade 
+</add>
+not a
+</seg>
+<seg>
+tear, not a word,
+</seg>
+</l>
+
+<pb corresp="loc.00149.013" id="leaf13r" type="recto"/>
+
+<l>
+<seg>
+Vigil of love vigil of death,
+</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">&#38; my</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">&#38;</add> 
+</rdg>
+</app>
+love, 
+<del type="overstrike">
+<add type="unmarked" place="supralinear">O </add>
+</del>
+my son &#38; 
+<add type="insertion" place="supralinear">my</add> 
+soldier,
+</seg>
+</l>
+
+<l>
+<seg>
+<add type="insertion" place="supralinear">As </add>
+Onward the stars 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">above</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">aloft</add> 
+</rdg>
+</app>
+<del type="overstrike">
+<add type="insertion" place="supralinear">my </add>
+</del>
+steadily</seg>
+<seg>
+<del type="overstrike">&#38; </del>
+silently westward 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">moving,</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">moved, as</add> 
+</rdg>
+</app>
+eastward
+</seg>
+<seg>
+new ones upward 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">stealing,</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">stole,</add> 
+</rdg>
+</app>
+</seg>
+</l>
+
+<l>
+<seg>
+Vigil strange 
+<del type="overstrike">I kept, </del>
+O boy&#8212;
+</seg>
+<seg>
+(I could not save you&#8212;
+</seg>
+<seg>
+swift was your death&#8212;
+<add type="unmarked" place="supralinear">&#182;</add>
+I loved
+<add type="unmarked" place="supralinear">faithfully</add>
+</seg>
+<seg>
+you&#8212;
+<add type="insertion" place="supralinear">while living </add>
+I think we chould surely 
+<add type="unmarked" place="infralinear">meet again)</add>
+</seg>
+</l>
+
+<pb corresp="loc.00149.014" id="leaf13v" type="verso"/>
+
+<p>
+fifes (he used to have his fife laying by him on a little stand by his cot. once told me that when he got well he would play me a tune)
+</p>
+
+<pb corresp="loc.00149.014" id="leaf14r" type="recto"/>
+
+<l>
+<seg>
+Till 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">in</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">at</add> 
+</rdg>
+</app>
+the 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">last waiting</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">latest lingering</add> 
+</rdg>
+</app> 
+of 
+<del type="overstrike">the</del>
+</seg>
+<seg>
+night, 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">cri the</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="insertion" place="supralinear">indeed just as the</add> 
+</rdg>
+</app>
+dawn 
+<del type="overstrike">well</del> 
+appeared
+</seg>
+</l>
+
+<l>
+<seg>
+My son &#38; my soldier 
+<add type="insertion" place="supralinear">
+<del type="overstrike">gently</del> 
+duly
+</add> 
+I wrapped
+</seg>
+<seg>
+<del type="overstrike">well</del> 
+in his blanket,
+</seg>
+</l>
+
+<l>
+<seg>
+Enveloped well him from 
+<del type="overstrike">from</del>
+</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">head to foot, wrapped up and</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">folded the blanket</add>
+</rdg>
+</app>
+</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">very carefully, over the</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">well tucking</add> 
+</rdg>
+</app>
+it very
+</seg>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">well</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="insertion" place="supralinear">carefully</add> 
+</rdg>
+</app>
+over head &#38; over feet.
+</seg>
+</l>
+
+<pb corresp="loc.00149.015" id="leaf14v" type="verso"/>
+
+<p>
+Erastus Haskell 
+C. K 14st N.Y. 
+came to Armory 
+July 11th
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+for the week 
+previous was in 
+reg'l hospital 
+above at Baltimore 
+Four corners.
+&#8212;about 4 miles 
+above White House
+
+<milestone unit="undeclared" rend="horbar"/>
+
+previous was <gap reason="illegible"/>
+the band as a 
+</p>
+
+<pb corresp="loc.00149.015" id="leaf15r" type="recto"/>
+
+<p>
+Penn R. Ron 
+487 11th st 
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+J E J<gap reason="illegible"/> 
+Merchant Ex Bank 
+New York 
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+J E Jennings 
+325 Adelphi 
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+
+<pb corresp="loc.00149.016" id="leaf15v" type="verso"/>
+
+<p>
+Mr. Kirkwood 
+44 Union square, (south side)
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<l>
+<del type="overstrike">And when the sun</del>
+</l>
+
+<l>
+<seg>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">And</del>
+</rdg>
+<rdg varSeq="2">
+<del type="overstrike"><add type="unmarked" place="supralinear">Presently</add></del> 
+</rdg>
+<rdg varSeq="3">
+<add type="unmarked" place="marginleft">Then</add> 
+</rdg>
+</app>
+under the rising sun</seg>
+<seg>in 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">a</del> 
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">his</add> 
+</rdg>
+</app> grave, 
+<addSpan type="insertion" to="a4" place="supralinear"/>
+in his 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">well</del>
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">rude</add>
+</rdg>
+</app>
+&#45;dug grave 
+<anchor id="a4"/>
+my son deposited,
+</seg>
+</l>
+
+<l>
+<seg>
+<del type="overstrike"><add type="insertion" place="supralinear">Paul</add></del> 
+<hi rend="underline">A</hi> 
+<add type="insertion" place="supralinear">accepting a</add> 
+soldiers grave 
+<add type="insertion" place="supralinear">for him, with pride <gap reason="illegible"/></add> 
+a soldiers
+</seg>
+<seg>
+<del type="overstrike">immortal fit</del> 
+burial, wrapt in
+</seg>
+<seg>his blanket
+</seg>
+</l>
+
+<l>
+<seg>
+<del type="overstrike">There in blanket wra<gap reason="deletion, illegible"/></del>
+</seg>
+</l>
+
+<pb corresp="loc.00149.016" id="leaf16r" type="recto"/>
+
+<p>
+old trunk coming 
+up from 1st Fre<gap reason="illegible"/>
+&#8212;was fracture in 
+thigh&#8212;his 46th 
+battle&#8212;in Europe 
+when he 
+<app>
+<rdg varSeq="1">
+<del type="overwrite">w<gap reason="deletion, illegible"/></del>
+</rdg>
+<rdg varSeq="2">
+<add type="overwrite" place="over">heard</add> 
+</rdg>
+</app>
+of <gap reason="illegible"/> <gap reason="illegible"/> going 
+to battle he 
+vol
+</p>
+
+<pb corresp="loc.00149.017" id="leaf16v" type="verso"/>
+
+<p>
+Mrs Carmen <add type="unmarked" place="supralinear">Catherine</add> Remsen 
+South Norwalk 
+Coun
+<note type="authorial" place="marginleft" rend="circled">sister</note>
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+Mrs <add type="unmarked" place="supralinear">Margaret Ann</add> Robert Lockwood
+<add type="unmarked" place="supralinear">x</add><add type="unmarked" place="supralinear">Glenwood</add> Roslyn <add type="unmarked" place="supralinear"><gap reason="illegible"/></add> 
+Queen's co. 
+New York 
+Mrs. Thomas Velson 
+<add type="unmarked" place="supralinear">x</add> Cold Spring harbor 
+Long Island New York
+</p>
+
+<pb corresp="loc.00149.017" id="leaf17r" type="recto"/>
+
+<p>
+ward C bed 31 
+Mr. S Stillwell 
+co M 2nd NY Cavalry 
+gsw ll'g 
+mother
+Margaret E. Stilwell 
+Comac Suffolk co 
+NY 
+John Stilwell 
+Comac
+</p>
+
+<!--The righthand corner of this page is embossed though I cannot clearly see the image. -->
+
+<pb corresp="loc.00149.018" id="leaf17v" type="verso"/>
+
+<p>
+crutches
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+James Glenn 
+3d battery NY 
+State Artillery
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+fractured ankle 
+&#38; leg 
+(ward 1 bed 20)
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+5 ft 6 in high 
+<unclear reason="illegible" resp="ah" cert="70%">man</unclear>
+</p>
+
+<pb corresp="loc.00149.018" id="leaf18r" type="recto"/>
+
+<p>
+ward e bed 10 Sept. <add type="unmarked" place="infralinear">19</add> 
+Amer Moore <note type="authorial" place="marginleft" rend="circled">Dead</note> 
+co G 20 US Art 
+(Lieut Butler 
+2d brigade 2d division <add type="unmarked" place="supralinear"><unclear reason="illegible" resp="ah" cert="80%">commradary</unclear></add>cavalry 
+of S W <add type="unmarked" place="supralinear">as of Po<gap reason="illegible"/></add> in ward coprs 
+uncle Ellis Williams 
+Mother 
+Sarah A Moore 
+Milltown PO 
+Delaware <del type="hashmark"><gap reason="deletion, illegible"/></del> Co 
+Penn
+</p>
+
+<pb corresp="loc.00149.019" id="leaf18v" type="verso"/>
+
+<p>
+ward a 
+Fulton Miner
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+Thos B 
+<add type="unmarked" place="supralinear">(ward H bed 2)</add>
+<app>
+<rdg varSeq="1">
+<del type="overstrike">West</del>
+</rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">Neat</add>
+</rdg>
+</app> 
+co M 2d NY City
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+Sherman C Perry 
+co B&#8212;16th NY 
+Davis Island 
+NY.
+</p>
+
+<pb corresp="loc.00149.019" id="leaf19r" type="recto"/>
+
+<p>
+ward E bed 43 Sept<add type="unmarked" place="infralinear">20</add> 
+Thomas Lindley 
+co L 1st Penn Car 
+GSW left boot
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+raised some of life in 
+New Orleans&#8212;but was 
+born north&#8212;lived on steamboat 
+<gap reason="illegible"/> a roving life
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+Archibald McNutt 
+2221 Hamilton st 
+Philadelphia
+</p>
+
+<pb corresp="loc.00149.020" id="leaf19v" type="verso"/>
+
+<p>
+<span value="bracketed" id="s3" from="s3" to="s4"/>
+Herbert Christy 
+co K 112th NY 
+V
+<anchor id="s4"/>
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+Adeline Christy 
+<addSpan type="unmarked" to="a5" place="supralinear"/>
+x Mother 
+<add type="unmarked" place="infralinear">Mrs</add>
+<anchor id="a5"/>
+Silver Creek 
+Chatauqua co 
+NY
+</p>
+
+<pb corresp="loc.00149.020" id="leaf20r" type="recto"/>
+
+<p>
+<note type="authorial" place="margintop">Spet 23 1863</note>
+Wm Van Pelt 
+1st New Jersey cavalry 
+meet at capitol grounds 
+went up to my room&#8212;
+&#8212;very down hearted&#8212;cried 
+about home&#8212;(used to 
+work in Mundell's 
+Myrtle av. Leroy Posts 
+brother)
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+<span value="bracketed" id="s5" from="s5" to="s6"/>
+Lucius Christy 
+<add type="unmarked" place="supralinear">ward B bed 18</add>
+wounded in right 
+shoulder 
+co J 9th NY Cav
+<anchor id="s6"/>
+<note type="authorial" place="marginleft">x</note>
+</p>
+
+<pb corresp="loc.00149.021" id="leaf20v" type="verso"/>
+
+<p>
+S Culbertson 
+bed 15 ward
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+badly wounded <gap reason="illegible"/>
+in left shoulder
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+a shirt
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+Miss P.J. Fox
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+Elijah D. Fox 
+<addSpan type="unmarked" to="a6" place="supralinear"/>
+Richland <add type="insertion" place="supralinear">City </add> Richland <add type="unmarked" place="infralinear">Wis</add>
+<anchor id="a6"/> 
+co H. 3d wisconsin 
+bed 
+<app>
+<rdg varSeq="1">
+<del type="overstrike">1 11</del> </rdg>
+<rdg varSeq="2">
+<add type="unmarked" place="supralinear">11</add> </rdg>
+</app> 
+ward g 
+Mrs Mary 
+<app>
+<rdg varSeq="1"><del type="overwrite"><gap reason="deletion, illegible"/></del></rdg>
+<rdg varSeq="2"><add type="overwrite" place="over">S</add></rdg> 
+</app> 
+Fox 
+Jo<del type="overstrike"><gap reason="deletion, illegible"/></del>e 
+Portage <del type="overstrike"><unclear reason="deletion, illegible" resp="ah" cert="50%">jelly</unclear></del> 
+<sic corr="Kalamazoo">Kalmazoo</sic> co Mich
+</p>
+
+<pb corresp="loc.00149.021" id="leaf21r" type="recto"/>
+
+<p>
+<note type="authorial" place="margintop">
+Sept 2 
+<app>
+<rdg varSeq="1"><del type="overwrite">2</del></rdg>
+<rdg varSeq="2"><add type="overwrite" place="over"><unclear reason="illegible" resp="ah" cert="80%">4</unclear></add> </rdg>
+</app> 
+1863 
+</note>
+Talk with Ben in ward a 
+about the 
+<unclear reason="illegible" resp="ah" cert="70%">tyrannizings</unclear> 
+&#38; 
+<orig reg="unnecessary">un-</orig>
+necessary exposure of the soldiers
+&#8212;how many officers there 
+are who dare not go 
+into engagements 
+<del type="overstrike">
+with 
+<unclear reason="deletion, illegible" resp="ah" cert="90%">their</unclear>
+</del> 
+<gap reason="deletion, illegible"/> 
+nor even out our pocket 
+with their sum, for  fear of 
+their lives from their own 
+men&#8212;the 8th N.Y. car 
+Col Davis, (killed afterward) 
+who (after Aldie) made 
+the poor sick men, (sick 
+with diarrhea) 
+<add type="insertion" place="supralinear">dis</add>
+mount &#38; 
+<del type="overstrike">dis</del>mount 13 times to 
+make them do <del type="hashmark">it</del> in military 
+style&#8212;I have never met 
+a single officer that seemed 
+to <hi rend="underline">know</hi> American men 
+</p>
+  
+
+<pb corresp="loc.00149.022" id="leaf21v" type="verso"/>
+
+<p>
+Miss P J Fox 
+Richland City 
+Richland County 
+<gap reason="illegible"/> Wisconsin
+</p>
+
+<pb corresp="loc.00149.022" id="leaf22r" type="recto"/>
+
+<p>
+ward A bed 10 
+Sept 24 
+Fulton <unclear reason="illegible" resp="ah" cert="80%">Miner</unclear> 
+co B US ENg 
+</p>
+
+<p>
+<add type="unmarked" place="supralinear">mother</add>
+Mrs C A Farrand 
+Greenville 
+Mt Calm co 
+Mich
+</p>
+
+<note type="authorial" place="marginleft">
+<p>
+Mrs Emily T Green 148 Fulton st Pittsburgh Pa
+</p>
+</note>
+
+<pb corresp="loc.00149.023" id="leaf22v" type="verso"/>
+
+<!-- this is actually the back cover of the notebook and not exactly the verso of leaf 22 -->
+
+<p>
+Helen S Cunningham 
+Delaware 
+Delaware co 
+Ohio
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+Arkison B Freshwater 
+co I 82d Ohio Vol 
+via Washington <gap reason="illegible"/>
+</p>
+
+<note type="authorial" place="marginbot">
+<p>
+Archibald <add type="unmarked" place="infralinear">Sarah</add> McMutt 
+2221 Hamiltoin st 
+Philadelphia 
+</p>
+</note>
+
+</div1>
+</body>
+</text>
+</TEI.2>
