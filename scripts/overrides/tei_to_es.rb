@@ -40,7 +40,7 @@ class TeiToEs
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
   def category
-    "In Whitman's Hand"
+    "Literary Manuscripts"
   end
 
   def language
@@ -66,7 +66,7 @@ class TeiToEs
   end
 
   def category2
-    "In Whitman's Hand / Notebooks"
+    "Literary Manuscripts / Notebooks"
   end
 
   def uri
@@ -98,7 +98,7 @@ class TeiToEs
 
   def citation
     # WorksInfo is get_works_info.rb in whitman-scripts repo
-    @works_info = WorksInfo.new(xml)
+    @works_info = WorksInfo.new(xml, @id)
     ids, names = @works_info.get_works_info
     citations = []
     if ids && ids.length > 0
