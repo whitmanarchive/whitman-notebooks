@@ -5,7 +5,6 @@ class TeiToEs
   #    XPATHS    #
   ################
 
-  # in the below example, the xpath for "person" is altered
   def override_xpaths
     xpaths = {}
     xpaths["format"] = "/TEI/text/@type"
@@ -40,7 +39,11 @@ class TeiToEs
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
   def category
-    "manuscripts"
+    "In Whitman's Hand"
+  end
+
+  def category2
+    "In Whitman's Hand / Notebooks"
   end
 
   def language
@@ -65,12 +68,8 @@ class TeiToEs
     get_text(@xpaths["source"])
   end
 
-  def category2
-    "notebooks"
-  end
-
   def uri
-    "#{@options["site_url"]}/manuscripts/notebooks/transcriptions/#{@filename}.html"
+    "#{@options["site_url"]}/item/#{@filename}.html"
   end
 
   def uri_data
@@ -81,20 +80,6 @@ class TeiToEs
       "source/tei",
       "#{@id}.xml"
     )
-  end
-
-  def uri_html
-    # TODO until HTML is generated, leave nil
-    nil
-    # File.join(
-    #   @options["data_base"],
-    #   "data",
-    #   @options["collection"],
-    #   "output",
-    #   @options["environment"],
-    #   "html",
-    #   "#{@id}.html"
-    # )
   end
 
   def citation
