@@ -19,7 +19,7 @@
 					<persName xml:id="kc">Kirsten Clawson</persName>
 					<persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="bb">Brett Barney</persName>
-				<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+				<persName xml:id="as">Ashlyn Stewart</persName>
 					<persName xml:id="km">Kevin McMullen</persName>
 				</respStmt>
 				<sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
@@ -1522,7 +1522,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 <pb xml:id="leaf029v" facs="20051105_0557.jpg" type="verso"/>
 	<div1 type="verse">
 	<lg type="poem">
-		<delSpan spanTo="d14" rend="overstrike"/><l>You</l><anchor xml:id="d14"/>
+		<delSpan spanTo="#d14" rend="overstrike"/><l>You</l><anchor xml:id="d14"/>
 		<l>Personality!</l>
 		<l>
 			Your Personality! You<lb/>
