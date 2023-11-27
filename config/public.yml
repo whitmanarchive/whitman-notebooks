@@ -17,7 +17,6 @@ default:
 development:
   data_base: https://set_in_private_config/media
   es_path: https://set_in_private_config/elastic
-  es_index: api_v2
   site_url: https://set_in_private_config
   solr_path: https://set_in_private_config/solr
 
