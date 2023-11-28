@@ -1,4 +1,6 @@
 require_relative "../../../whitman-scripts/scripts/ruby/get_works_info.rb"
+require_relative "../../../whitman-scripts/scripts/ruby/get_works_info.rb"
+
 class TeiToEs
 
   ################
