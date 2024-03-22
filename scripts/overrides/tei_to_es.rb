@@ -1,3 +1,6 @@
+require_relative "../../../whitman-scripts/scripts/ruby/get_works_info.rb"
+require_relative "../../../whitman-scripts/scripts/archive-wide/overrides.rb"
+
 class TeiToEs
 
   ################
@@ -39,7 +42,20 @@ class TeiToEs
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
   def category
-    "manuscripts"
+    "Literary Manuscripts"
+  end
+
+  def date(before=true)
+    if get_list(@xpaths["date"])
+      datestr = get_list(@xpaths["date"]).first
+    else
+      datestr = nil
+    end
+    if get_text(@xpaths["date_not_after"])
+      date_not_after
+    elsif datestr && !datestr.empty?
+      Datura::Helpers.date_standardize(datestr, false)
+    end
   end
 
   def language
@@ -47,10 +63,10 @@ class TeiToEs
     "en"
   end
 
-  def languages
-    # TODO verify that none of these are multiple languages
-    [ "en" ]
-  end
+  # def languages
+  #   # TODO verify that none of these are multiple languages
+  #   [ "en" ]
+  # end
 
   def person
     []
@@ -64,8 +80,8 @@ class TeiToEs
     get_text(@xpaths["source"])
   end
 
-  def subcategory
-    "notebooks"
+  def category2
+    "Literary Manuscripts / Notebooks"
   end
 
   def uri
@@ -84,16 +100,37 @@ class TeiToEs
 
   def uri_html
     # TODO until HTML is generated, leave nil
-    nil
-    # File.join(
-    #   @options["data_base"],
-    #   "data",
-    #   @options["collection"],
-    #   "output",
-    #   @options["environment"],
-    #   "html",
-    #   "#{@id}.html"
-    # )
+    File.join(
+      @options["data_base"],
+      "data",
+      @options["collection"],
+      "output",
+      @options["environment"],
+      "html",
+      "#{@id}.html"
+    )
+  end
+
+  def citation
+    # WorksInfo is get_works_info.rb in whitman-scripts repo
+    @works_info = WorksInfo.new(xml, @id, @options["threads"])
+    ids, names = @works_info.get_works_info
+    citations = []
+    if ids && ids.length > 0
+      ids.each_with_index do |id, idx|
+        name = names[idx]
+        if !name
+          puts "#{self.get_id} has bad work ids"
+          puts "work id #{id} is missing a name"
+        end
+        citations << {
+          "id" => id,
+          "title" => name,
+          "role" => "whitman_id"
+        }
+      end
+    end
+    citations
   end
 
 end

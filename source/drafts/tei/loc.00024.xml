@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.00024">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00024">
 
 <teiHeader>
 <fileDesc>
@@ -21,8 +17,7 @@
 	<persName xml:id="kmp">Kenneth M. Price</persName>
 	<persName xml:id="mc">Matt Cohen</persName>
 	<persName xml:id="bb">Brett Barney</persName>
-	<persName xml:id="km">Kevin McMullen</persName>
-<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+</respStmt>
 	<sponsor>Center for Digital Research in the Humanities, University of
 		Nebraska-Lincoln</sponsor>
 <sponsor>University of Iowa</sponsor>
@@ -31,7 +26,7 @@
 </titleStmt><editionStmt>
 <edition><date>2004</date></edition>
 </editionStmt><publicationStmt>
-
+<idno>loc.00024</idno>
 <distributor>The Walt Whitman Archive</distributor>
 <address>
 <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -45,7 +40,7 @@
 	<p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
 	<p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p> 
 </availability>
-<idno>loc.00024</idno></publicationStmt>
+</publicationStmt>
 <notesStmt>
 	<note type="project" target="#dat1">Whitman likely wrote the building specifications on what is presented here as the last page of this notebook first, and then flipped the notebook over and wrote notes from the other direction. References to the <hi rend="italic">San Francisco</hi> can be dated to sometime after January 1854. The cover of the notebook is labeled "Note Book Walt Whitman" in a hand that is not Whitman's. Selections and subjects from this notebook were used in the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, including phrases from the poems that would later be titled "Song of Myself" and "Song of the Answerer." See Edward Grier, <hi rend="italic">Notebooks and Unpublished Prose Manuscripts</hi> (New York: New York University Press, 1984), 1:113–117.</note>                        	
 </notesStmt>
@@ -65,8 +60,7 @@
 	
 </sourceDesc>
 </fileDesc>
-<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
-	<change when="2022-03-03" who="#km">updated relations encoding</change>
+<revisionDesc>
 	<change when="2019-12-10" who="#nhg">added relatedItem info and inline relation, updated note</change>
 	<change when="2019-11-19" who="#nhg">revised wording of several work notes</change>
 	<change when="2017-10-24" who="#nhg">added inline relations information</change>
@@ -95,16 +89,14 @@
 <pb facs="loc.00024.001.jpg" xml:id="leaf001r" type="recto"/> 
 
 <div2 type="prose">
-<note type="work_relations" target="xxx.00119" cert="low"><p>Edward Grier writes: "The nature of property and ownership deeply concerned Whitman prior to 1855. Although none of these passages appear directly in the poetry, there is an inner relationship with 'A Song for Occupations' and 'Crossing Brooklyn Ferry'" (<hi rend="italic">Notebooks and Unpublished Prose</hi>, 1:113).</p>
-</note>
-	
-	<note type="work_relations" target="xxx.00112" cert="low"><!-- There was no content for this relations note. Do we need to add some? KM, 3/3/22 -->
-	</note>
-	
-	<note type="work_relations" target="xxx.00048" cert="high"><p>The clipped-out segment of leaf002v, which continues onto the page that remains here, includes lines that were used in the 1855 <hi rend="italic">Leaves of Grass</hi>, in the poem eventually titled "Song of Myself": "They descend in new forms from the tips of his fingers, / They are wafted with the odor of his body or breath . . . . they fly out of the glance
-		of his eyes" (1855, p. 44).</p>
-</note>
-	
+<relations>
+	<work ref="xxx.00119" cert="low">
+		<p>Edward Grier writes: "The nature of property and ownership deeply concerned Whitman prior to 1855. Although none of these passages appear directly in the poetry, there is an inner relationship with 'A Song for Occupations' and 'Crossing Brooklyn Ferry'" (<hi rend="italic">Notebooks and Unpublished Prose</hi>, 1:113).</p>
+	</work>
+	<work ref="xxx.00112" cert="low"/>
+	<work ref="xxx.00048" cert="high"><p>The clipped-out segment of leaf002v, which continues onto the page that remains here, includes lines that were used in the 1855 <hi rend="italic">Leaves of Grass</hi>, in the poem eventually titled "Song of Myself": "They descend in new forms from the tips of his fingers, / They are wafted with the odor of his body or breath . . . . they fly out of the glance
+		of his eyes" (1855, p. 44).</p></work>
+</relations>
 <pb facs="loc.00024.002.jpg" xml:id="leaf001v" type="verso"/>
 
 <!--PAGE BREAK AND VERSO OF COVER-->
@@ -127,23 +119,16 @@
 
 <pb facs="loc.00024.006.jpg" xml:id="leaf003v" type="verso"/>
 <!--LEAF3 VERSO-->
-	<p xml:id="tr01"><metamark function="transpose" target="#tr01" place="inline">*</metamark> if he merely have all the care and <del rend="overstrike">lifting</del> hauling and <del rend="overstrike">hoisting</del> lowering and hoisting of them, and so goes on for a lifetime, and they never serve <del rend="overstrike">to</del> his sinews and blood and senses <add rend="insertion" place="supralinear">for food or for warmth</add>.—The more of these he has, the more books to keep, the more he <del rend="overstrike">must</del> stay<add rend="unmarked" place="inline">s</add> indoors, the more he demeans and wilts <del rend="overstrike">himself</del> and shins it, and deforms himself into the crooked. Will it pay?—</p>
+	<transpose anchored="1" target="#a1"><p><metamark function="transpose" target="#tr01" place="inline">*</metamark> if he merely have all the care and <del rend="overstrike">lifting</del> hauling and <del rend="overstrike">hoisting</del> lowering and hoisting of them, and so goes on for a lifetime, and they never serve <del rend="overstrike">to</del> his sinews and blood and senses <add rend="insertion" place="supralinear">for food or for warmth</add>.—The more of these he has, the more books to keep, the more he <del rend="overstrike">must</del> stay<add rend="unmarked" place="inline">s</add> indoors, the more he demeans and wilts <del rend="overstrike">himself</del> and shins it, and deforms himself into the crooked. Will it pay?—</p>
 	
-	<p xml:id="tr02">Just as much as the <choice><orig>care-taker</orig><reg>caretaker</reg></choice> of beef and apples <subst><del rend="overstrike" seq="1">who never eats thereof</del> <add rend="unmarked" place="supralinear" seq="2">and coal</add></subst> which never warm him nor enrich</p>
+	<p>Just as much as the <choice><orig>care-taker</orig><reg>caretaker</reg></choice> of beef and apples <subst><del rend="overstrike" seq="1">who never eats thereof</del> <add rend="unmarked" place="supralinear" seq="2">and coal</add></subst> which never warm him nor enrich</p></transpose>
 	
 <pb facs="loc.00024.007.jpg" xml:id="leaf004r" type="recto"/>
 
-<ab xml:id="tr03">into the soul and is <gap reason="cut away"/> strength and life and knowledge they evoke there.—</ab>
-	<ab xml:id="tr04">I will not envy a man who possesses <del rend="overstrike"><unclear reason="illegible" resp="#mc" cert="high">a</unclear></del> side<add place="inline" rend="unmarked">s</add> of beef and barrels of apples or cubic rods of good coal <metamark target="tr01" function="transpose" place="inline">*</metamark></ab>
-<listTranspose>
-	<transpose>
-		<ptr target="#tr02"/>
-		<ptr target="#tr03"/>
-		<ptr target="#tr04"/>
-		<ptr target="#tr01"/>
-	</transpose>
-</listTranspose>
-	
+<ab>into the soul and is <gap reason="cut away"/> strength and life and knowledge they evoke there.—</ab>
+	<ab>I will not envy a man who possesses <del rend="overstrike"><unclear reason="illegible" resp="#mc" cert="high">a</unclear></del> side<add place="inline" rend="unmarked">s</add> of beef and barrels of apples or cubic rods of good coal <metamark target="tr01" function="transpose" place="inline">*</metamark></ab>
+<anchor xml:id="a1"/>
+
 
 <pb facs="loc.00024.008.jpg" xml:id="leaf004v" type="verso"/>
 
@@ -156,10 +141,9 @@
 <pb facs="loc.00024.010.jpg" xml:id="leaf005v" type="verso"/>
 
 <div2 type="prose">
-	<note type="work_relations" target="xxx.00048" cert="low">
+	<relations><work ref="xxx.00048" cert="low">
 		<p>In light of the draft lines that follow in this notebook, it seems possible that this section relates to the following lines from the poem that was eventually titled "Song of Myself": "Long have you timidly waded, holding a plank by the shore, / Now I will you to be a bold swimmer, / To jump off in the midst of the sea, and rise again and nod to me and shout, and laughingly dash with your hair" (1855, p. 52).</p>
-	</note>
-	
+	</work></relations>
 <ab><hi rend="underline">Faith</hi>.—Becalmed at sea, a man refreshes himself by swimming round the ship.—A <subst><del rend="overstrike" seq="1">little child seeing him</del> <add rend="unmarked" place="supralinear" seq="2">deaf and dumb boy</add></subst> is looking over <del rend="overstrike">the</del><space dim="horizontal"/> <add rend="unmarked" place="supralinear">his younger brother</add> and the swimmer, <del rend="overstrike">lazily</del> floating lazily on his back, smiles and beckons with his head <del rend="overstrike">for the babe to come.—</del></ab>
 	<ab xml:id="ab01a" next="ab01b">Without <gap reason="deletion, illegible"/> waiting a moment the young child, laughing and clucking springs into the</ab>
 
@@ -168,10 +152,9 @@
 <pb facs="loc.00024.011.jpg" xml:id="leaf006r" type="recto"/>
 
 <div2 type="poem">
-	<note type="work_relations" target="xxx.00048" cert="low">
+	<relations><work ref="xxx.00048" cert="low">
 		<p>In light of the draft lines that follow in this notebook, it seems possible that this section relates to the following lines from the poem that would be titled "Song of Myself": "Long have you timidly waded, holding a plank by the shore, / Now I will you to be a bold swimmer, / To jump off in the midst of the sea, and rise again and nod to me and shout, and laughingly dash with your hair" (1855, p. 52).</p>
-	</note>
-	
+	</work></relations>
 <head type="main-authorial" rend="underline">Death Song</head>
 <lg>
 <l>Joy Joy! O full of Joy</l>
@@ -193,18 +176,20 @@
 	
 	<pb facs="loc.00024.013.jpg" xml:id="leaf007r" type="recto"/>
 <div2 type="prose">
-	<note type="work_relations" target="xxx.00127" cert="low"><p>The subject of agitation appears in the poem that became "Myself and Mine": "Let others praise eminent men and hold up peace—I hold up agitation and conflict" (1860, p. 224).</p>
-	</note>
-		
-		<note type="work_relations" target="xxx.00048" cert="high"><p>The words "emptier of privies" from <ref target="#rf01 #rf02" type="text" xml:id="r01">these lines</ref> are echoed in the poem eventually titled "Song of Myself": "To a drudge of the cottonfields or emptier of privies I lean" (1855, p. 45). <ref target="#rf03 #rf04">These lines</ref> also match the following lines from the poem: "Long have you timidly waded, holding a plank by the shore, / Now I will you to be a bold swimmer, / To jump off in the midst of the sea, and rise again and nod to me and shout, and laughingly dash with your hair" (1855, p. 52).</p>
-		</note>
-		
-		<note type="work_relations" target="xxx.00113" cert="high"><p><ref target="#rf02 #rf03">Lines from this section</ref> appear, revised, in the poem that became "Song of the Answerer": "He says indifferently and alike, How are you friend? to the President at his levee, / And he says Good day my brother, to Cudge that hoes in the sugarfield;" (1855, p. 86).</p>
-		</note>
-		
-		<note type="work_relations" target="xxx.00259" cert="high"><p><ref target="#ab100 #ab101">Lines from this section</ref> correspond to a line from the manuscript poem, unpublished in Whitman's lifetime, titled "Pictures": "And now a merry recruiter passes, with fife and drum, seeking who will join his troop." The first several lines of the poem (not including this line) were revised and published in <hi rend="italic">The American</hi> in October 1880 as "My Picture-Gallery," a poem later included in <hi rend="italic">Leaves of Grass</hi> as part of the "Autumn Rivulets" cluster (1881, p. 310).</p>
-		</note>
-	
+	<relations>
+		<work ref="xxx.00127" cert="low">
+			<p>The subject of agitation appears in the poem that became "Myself and Mine": "Let others praise eminent men and hold up peace—I hold up agitation and conflict" (1860, p. 224).</p>
+		</work>
+		<work ref="xxx.00048" cert="high">
+			<p>The words "emptier of privies" from <ref target="#rf01 #rf02" type="text" xml:id="r01">these lines</ref> are echoed in the poem eventually titled "Song of Myself": "To a drudge of the cottonfields or emptier of privies I lean" (1855, p. 45). <ref target="#rf03 #rf04">These lines</ref> also match the following lines from the poem: "Long have you timidly waded, holding a plank by the shore, / Now I will you to be a bold swimmer, / To jump off in the midst of the sea, and rise again and nod to me and shout, and laughingly dash with your hair" (1855, p. 52).</p>
+		</work>
+		<work ref="xxx.00113" cert="high">
+			<p><ref target="#rf02 #rf03">Lines from this section</ref> appear, revised, in the poem that became "Song of the Answerer": "He says indifferently and alike, How are you friend? to the President at his levee, / And he says Good day my brother, to Cudge that hoes in the sugarfield;" (1855, p. 86).</p>
+		</work>
+		<work ref="xxx.00259" cert="high">
+			<p><ref target="#ab100 #ab101">Lines from this section</ref> correspond to a line from the manuscript poem, unpublished in Whitman's lifetime, titled "Pictures": "And now a merry recruiter passes, with fife and drum, seeking who will join his troop." The first several lines of the poem (not including this line) were revised and published in <hi rend="italic">The American</hi> in October 1880 as "My Picture-Gallery," a poem later included in <hi rend="italic">Leaves of Grass</hi> as part of the "Autumn Rivulets" cluster (1881, p. 310).</p>
+		</work> 
+	</relations>
 	<ab xml:id="ab01b" prev="ab01a">sea, and as he rises <add rend="unmarked" place="supralinear">to the surface</add> feels no fear but laughs and though he sink and drown he feels it not for the man is with him there</ab>
 
 <pb facs="loc.00024.014.jpg" xml:id="leaf007v" type="verso"/>

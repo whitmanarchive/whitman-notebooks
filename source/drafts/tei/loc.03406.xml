@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ASCII"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.03406">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">"Diphthong"&#8212;a literary item</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author>Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <persName xml:id="kc">Kirsten Clawson</persName>
+                </respStmt>
+                <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
+                <sponsor>University of Iowa</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2014</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>loc.03406</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>P.O. Box 884100</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                </address>
+                <availability>
+                    <p>Copyright &#169; 2012 by Ed Folsom and Kenneth M. Price, all rights
+                        reserved. Items in the Archive may be shared in accordance with the Fair Use
+                        provisions of U.S. copyright law. Redistribution or republication on other
+                        terms, in any medium, requires express written consent from the editors and
+                        advance notification of the publisher, Center for Digital Research in the
+                        Humanities. Permission to reproduce the graphic images in this archive has
+                        been granted by the owners of the originals for this publication only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1"></note>             
+            </notesStmt>
+            <sourceDesc>
+                
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>"Diphthong"&#8212;a literary item</title>                  
+                    <idno type="callno"/>
+                    <orgName xml:id="loc">The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839-1919, Library of Congress, Washington, DC.</orgName>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2015-03-31" who="#kc">transcribed and encoded</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text type="notebook">
+        <body>
+            <pb xml:id="leaf001r" facs="loc_nhg.00058.jpg" type="recto"/>
+            <p>"<hi rend="underline">Diphthong</hi>."&#8212;<del rend="overstrike">(</del>a literary item)&#8212;The word "diphthong," (to be cor-rectly pronounced dif&#45;thong) is <del rend="overstrike">of</del> a word, from the Greek meaning "double<del rend="overstrike">&#45;</del>sound."&#8212;<add rend="unmarked" place="interlinear">There are two, &#198; and &#338;.&#8212;</add></p>
+            <p>&#182;The old Saxon was full of diphthongs, which we have discarded&#8212;thus, for <unclear reason="illegible" cert="medium" resp="kc">braeth</unclear>, we write breath faether " " feather daeg " " day</p> 
+            <p>Diphthongs come <del rend="overstrike">f</del> very freely from Greek and Roman words brought into the English language.</p>
+            
+            <pb xml:id="leaf001v" facs="loc_nhg.00059.jpg" type="verso"/>
+            <pb xml:id="leaf002r" facs="loc_nhg.00060.jpg" type="recto"/>
+            
+            <p>&#198; is the Roman <add rend="insertion" place="supralinear">or Latin</add> <unclear reason="illegible" cert="medium" resp="kc">diphthong</unclear>&#8212;also Saxon&#8212;In its affix to <add rend="insertion" place="interlinear">old</add> Saxon words it has the sense of the modern term "prestige," or good luck.&#8212;Thus &#198;dward, (<del rend="overstrike">E</del> now Edward) means "prosperous watch," or space of time; &#198;gar, (Edgar,) means successful weapon.&#8212;&#198;lfred (Alfred) "all peace," &amp;c.&#8212;</p>
+            
+            <pb xml:id="leaf002v" facs="loc_nhg.00061.jpg" type="verso"/>
+            <pb xml:id="leaf003r" facs="loc_nhg.00062.jpg" type="recto"/>
+            
+            <p>&#338; is the Greek diphthong.&#8212;Its use is generally rejected by modern linguists.&#8212;Strictly it belongs as in "&#339;conomy and many other words; but we of course write "economy."&#8212;Both these diphthongs are pretty nearly superseded by simple "E."&#8212;</p>
+            
+            <pb xml:id="leaf003v" facs="loc_nhg.00063.jpg" type="verso"/>
+            <pb xml:id="leaf004r" facs="loc_nhg.00064.jpg" type="recto"/>
+            
+            <p>In the latest editions of the great Dictionaries this <del rend="overstrike">supersesion is</del> course is openly announced as in the following note fr<del rend="overstrike">om</del> Prof. Goodrich's quarto:</p>
+            
+            <pb xml:id="leaf004v" facs="loc_nhg.00065.jpg" type="verso"/>
+            <pb xml:id="leaf005r" facs="loc_nhg.00066.jpg" type="recto"/>
+            
+            <p>"Note.&#8212;In this work, the diphthongs of foreign words for which anglicized words are derived are very often rejected; as in atheneum, maneuver, pean, &amp;c.&#8212;The diphthongs &#230; and &#339; are of difficult formation in writing, and of no use in English words."</p>
+            
+            <pb xml:id="leaf005v" facs="loc_nhg.00067.jpg" type="verso"/>
+        </body>
+    </text>
+</TEI>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="ASCII"?>
-<?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?>
-<?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?>  
-
-<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.04588">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.04588">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -16,7 +12,7 @@
                     <persName xml:id="no">Natalie O'Neal</persName>
                     <persName xml:id="nhg">Nicole Gray</persName>
                     <persName xml:id="kmp">Kenneth M. Price</persName>
-                </respStmt>
+                <persName xml:id="as">Ashlyn Stewart</persName></respStmt>
                 <sponsor>Center for Digital Research in the Humanities, University of Nebraska-Lincoln</sponsor>
                 <sponsor>University of Iowa</sponsor>
                 <funder>The National Endowment for the Humanities</funder>
@@ -27,7 +23,7 @@
                 </edition>
             </editionStmt>
             <publicationStmt>
-                <idno>loc.04588</idno>
+                
                 <distributor>The Walt Whitman Archive</distributor>
                 <address>
                     <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -41,9 +37,9 @@
                     <p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
                     <p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p>  
                 </availability>
-            </publicationStmt>
+            <idno>loc.04588</idno></publicationStmt>
             <notesStmt>
-                <note type="project" target="#dat1">The plot described in this notebook corresponds to Whitman's novel <hi rend="italic">Life and Adventures of Jack Engle: An Auto-Biography</hi>, published serially in the New York <hi rend="italic">Sunday Dispatch</hi> from March 14 to April 18, 1852. Two <hi rend="italic">Tribune</hi> clippings pasted onto one of the pages of this notebook also are dated March 1852.  The writing in the notebook therefore probably dates to before or early in 1852. The name of the character "Covert" also appears in Whitman's story <ref target="per.00340">"Revenge and Requital; A Tale of a Murderer Escaped,"</ref> first published in the <hi rend="italic">United States Magazine and Democratic Review</hi> in 1845, although the plot of that story bears only minor resemblance to the plot of <hi rend="italic">Jack Engle</hi>. Covert, a villainous lawyer in both tales, may have been based on a man from Whitman's own experience. For more about this connection and the composition and publication of <hi rend="italic">Jack Engle</hi>, see Zachary Turpin, "Introduction to Walt Whitman's 'Life and Adventures of Jack Engle,'" <hi rend="italic">Walt Whitman Quarterly Review</hi> 34 (2017), 225&#8211;261.  Whitman also copied two excerpts of poetry in this notebook (leaf 10 recto). The first poetic quotation comes from Robert Blair's poem "The Grave" (1743). The source of the second quotation is unknown. The note on the verso of what is represented here as the last page of this notebook is upside down, suggesting that Whitman may have begun writing from one direction in this notebook, then flipped it over and started writing in the other direction. The cover of the notebook is labeled "Note Book Walt Whitman 82" in a hand that is not Whitman's.</note>             
+                <note type="project" target="#dat1">The plot described in this notebook corresponds to Whitman's novel <hi rend="italic">Life and Adventures of Jack Engle: An Auto-Biography</hi>, published serially in the New York <hi rend="italic">Sunday Dispatch</hi> from March 14 to April 18, 1852. Two <hi rend="italic">Tribune</hi> clippings pasted onto one of the pages of this notebook also are dated March 1852.  The writing in the notebook therefore probably dates to before or early in 1852. The name of the character "Covert" also appears in Whitman's story <ref target="per.00340">"Revenge and Requital; A Tale of a Murderer Escaped,"</ref> first published in the <hi rend="italic">United States Magazine and Democratic Review</hi> in 1845, although the plot of that story bears only minor resemblance to the plot of <hi rend="italic">Jack Engle</hi>. Covert, a villainous lawyer in both tales, may have been based on a man from Whitman's own experience. For more about this connection and the composition and publication of <hi rend="italic">Jack Engle</hi>, see Zachary Turpin, "Introduction to Walt Whitman's 'Life and Adventures of Jack Engle,'" <hi rend="italic">Walt Whitman Quarterly Review</hi> 34 (2017), 225–261.  Whitman also copied two excerpts of poetry in this notebook (leaf 10 recto). The first poetic quotation comes from Robert Blair's poem "The Grave" (1743). The source of the second quotation is unknown. The note on the verso of what is represented here as the last page of this notebook is upside down, suggesting that Whitman may have begun writing from one direction in this notebook, then flipped it over and started writing in the other direction. The cover of the notebook is labeled "Note Book Walt Whitman 82" in a hand that is not Whitman's.</note>             
             </notesStmt>
             <sourceDesc>
                 <bibl>
@@ -51,7 +47,7 @@
                     <title>Notebook LC #82</title> 
                     <date cert="medium" notBefore="1841" notAfter="1852" xml:id="dat1">Before or early in 1852</date>
                     <idno type="callno">MSS18630</idno>
-                    <orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842&#8211;1937, Library of Congress, Washington, D.C.</orgName>
+                    <orgName xml:id="loc">The Thomas Biggs Harned Collection of the Papers of Walt Whitman, 1842–1937, Library of Congress, Washington, D.C.</orgName>
                     <note type="project">Transcribed from digital images of the original.</note>
                 </bibl>
                 <bibl type="pasteon" xml:id="ref1">
@@ -67,7 +63,7 @@
                 <handNote xml:id="unk"><persName key="Unknown">Unknown</persName></handNote>
             </handNotes>
         </profileDesc>
-        <revisionDesc>
+        <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
             <change when="2017-04-13" who="#nhg">updated editorial note and date in light of discovery of Jack Engle</change>
             <change when="2016-07-25" who="#nhg">updated editorial note to match EAD, added work ID note</change>
             <change when="2015-05-11" who="#nhg">updated copyright statement</change>
@@ -93,43 +89,43 @@
             
             <milestone unit="undeclared" rend="horbar-short-center"/>
             
-            <ab>Money (bills) taken from a person who was down (died) of the smallpox, carried the contagion; and those who took it died of the same <choice><abbr>dis.<expan>disease</expan></abbr></choice>&#8212;</ab>
+            <ab>Money (bills) taken from a person who was down (died) of the smallpox, carried the contagion; and those who took it died of the same <choice><abbr>dis.<expan>disease</expan></abbr></choice>—</ab>
             
             <milestone unit="undeclared" rend="horbar-full"/>
             
-            <ab>horrible effects of the taking of mercury&#8212;the swelled tongue</ab>
+            <ab>horrible effects of the taking of mercury—the swelled tongue</ab>
             
             <milestone unit="undeclared" rend="horbar-short-center"/>
             
             <pb xml:id="leaf002v" facs="loc_ej.00076_large.jpg" type="verso"/>
-            <ab>Introduce a character (pick-pocket&#8212;bad) who goes to California in haste, to escape detection and punishment for crime&#8212;After a short while they receive a letter&#8212;or read in a newspaper&#8212;an account of his being hung</ab>
+            <ab>Introduce a character (pick-pocket—bad) who goes to California in haste, to escape detection and punishment for crime—After a short while they receive a letter—or read in a newspaper—an account of his being hung</ab>
             
             <milestone unit="undeclared" rend="horbar-short-center"/>
             
-            <ab>? make the pickpocket the husband of a worthy woman who has been inveigled into marriage with him.&#8212;</ab></div1>
+            <ab>? make the pickpocket the husband of a worthy woman who has been inveigled into marriage with him.—</ab></div1>
             
             <pb xml:id="leaf003r" facs="loc_ej.00077_large.jpg" type="recto"/><div1 type="section">
-            <add rend="pasteon" source="#ref1" xml:id="add1">
+            <addSpan spanTo="#a2" rend="pasteon" source="#ref1" xml:id="add1"/>
                 <q who="unknown" type="printed">
                     <floatingText rend="flat">
                         <body>
-                            <p><handShift rend="printed"/>&#9758; At a late fire in Cambridge, Mass., while the flames were consuming the lower part of a dwelling and threatening the whole building with instant destruction, Mr. Thomas G. Fay, a merchant of Boston, and boarder at the Brattle House, observed in the upper story a female and several children. Without stopping for a moment to consider the dangers of an attempt to rescue them, he rushed through the wreathing smoke, and for a brief space the greatest anxiety prevailed in the crowd for his safety. In a moment more he emerged from the burning building, bearing the children in his arms, and followed by the mother. The entire upper part of the building was in a moment after enveloped in flames. Such an act of bravery, displayed in the preservation of human life, is worthy of more than a simple newspaper notice.</p>
+                            <p><handShift rend="printed"/>☞ At a late fire in Cambridge, Mass., while the flames were consuming the lower part of a dwelling and threatening the whole building with instant destruction, Mr. Thomas G. Fay, a merchant of Boston, and boarder at the Brattle House, observed in the upper story a female and several children. Without stopping for a moment to consider the dangers of an attempt to rescue them, he rushed through the wreathing smoke, and for a brief space the greatest anxiety prevailed in the crowd for his safety. In a moment more he emerged from the burning building, bearing the children in his arms, and followed by the mother. The entire upper part of the building was in a moment after enveloped in flames. Such an act of bravery, displayed in the preservation of human life, is worthy of more than a simple newspaper notice.</p>
                         </body>
                     </floatingText>
                 </q>
-            </add>
+            <anchor xml:id="a2"/>
             <note type="authorial" place="right" target="#add1">X</note>
-            <add rend="pasteon" source="#ref1" xml:id="add2">
+            <addSpan spanTo="#a3" rend="pasteon" source="#ref1" xml:id="add2"/>
                 <q who="unknown" type="printed">
                     <floatingText rend="flat">
                         <body>
-                            <p>&#9758; <handShift rend="printed"/>A little affair occurred at Goldsboro', N. C., a few days since, which strikingly illustrates the beauties of the "Peculiar Institution." It was the sale, at auction, of a colored woman and her children. <hi rend="italic">The Goldsboro' Patriot</hi> states the case as follows:
+                            <p>☞ <handShift rend="printed"/>A little affair occurred at Goldsboro', N. C., a few days since, which strikingly illustrates the beauties of the "Peculiar Institution." It was the sale, at auction, of a colored woman and her children. <hi rend="italic">The Goldsboro' Patriot</hi> states the case as follows:
                             <q>"They were the children of a free negro by the name of Adam Wynne, who had purchased their mother, his wife, previous to their birth. They were consequently his slaves, and, he having become involved, they were sold for his debts."</q>
-                            We learn from the same authority that these people "brought prices ranging from $711 to $827."&#8212;This is a great country.</p>
+                            We learn from the same authority that these people "brought prices ranging from $711 to $827."—This is a great country.</p>
                         </body>
                     </floatingText>
                 </q>
-            </add>
+            <anchor xml:id="a3"/>
             <note type="authorial" place="bottom" target="#add2">Tribune March 12 1852</note></div1>
             
             <pb xml:id="leaf003v" facs="loc_ej.00078_large.jpg" type="verso"/>
@@ -138,10 +134,10 @@
             
             <pb xml:id="leaf004v" facs="loc_ej.00080_large.jpg" type="verso"/>
             <div1 type="section" xml:id="sm01">
-                <relations>
-                    <work ref="xxx.00511" cert="low"><p><ref target="#sm01" xml:id="r01" type="text">Part of this notebook</ref> outlines a piece of early fiction. The name of one character, "Mr. Covert," appears in Whitman's story <ref target="per.00340">"Revenge and Requital; A Tale of a Murderer Escaped,"</ref> first published in the <hi rend="italic">United States Magazine and Democratic Review</hi> in 1845. The piece would be revised and/or reprinted several times in various publications before ultimately appearing as "One Wicked Impulse!" in <hi rend="italic">Specimen Days</hi> (1882&#8211;83).</p></work>
-                </relations>
-            <ab><handShift rend="manuscript"/>Introduce Jack's friends&#8212;two or three&#8212;</ab>
+                 
+                    <note type="work_relations" target="xxx.00511" cert="low"><p><ref target="#sm01" xml:id="r01" type="text">Part of this notebook</ref> outlines a piece of early fiction. The name of one character, "Mr. Covert," appears in Whitman's story <ref target="per.00340">"Revenge and Requital; A Tale of a Murderer Escaped,"</ref> first published in the <hi rend="italic">United States Magazine and Democratic Review</hi> in 1845. The piece would be revised and/or reprinted several times in various publications before ultimately appearing as "One Wicked Impulse!" in <hi rend="italic">Specimen Days</hi> (1882–83).</p></note>
+                 
+            <ab><handShift rend="manuscript"/>Introduce Jack's friends—two or three—</ab>
             
             <milestone unit="undeclared" rend="horbar-short-center"/>
             
@@ -150,13 +146,20 @@
             <pb xml:id="leaf005r" facs="loc_ej.00081_large.jpg" type="recto"/>
             
             <pb xml:id="leaf005v" facs="loc_ej.00082_large.jpg" type="verso"/>
-            <ab>Martha, is the ward of Covert, inheriting property, so situated as to require the services of a limb-of-the-law.&#8212;(Her <subst><del rend="overstrike" seq="1">mother,</del> <add rend="unmarked" place="supralinear" seq="2">aunt,</add></subst> the Old Quaker lady)</ab><anchor xml:id="a1"/>
-            <ab> Jack, on going to Covert's house, <add rend="insertion" place="supralinear">one evening</add> recognizes the <del rend="overstrike">like</del> portrait of the Old Lady&#8212;it affects him to tears</ab>
-            <transpose anchored="1" target="#a1"><metamark function="transpose" place="left" target="#ab1"/><ab>is dead&#8212;and Martha lives in Covert's house, in the situation of half servant&#8212;</ab></transpose>
-            
+            <ab>Martha, is the ward of Covert, inheriting property, so situated as to require the services of a limb-of-the-law.—<seg xml:id="tr02">(Her <subst><del rend="overstrike" seq="1">mother,</del> <add rend="unmarked" place="supralinear" seq="2">aunt,</add></subst> the Old Quaker lady)</seg></ab>
+            <ab xml:id="tr01"> Jack, on going to Covert's house, <add rend="insertion" place="supralinear">one evening</add> recognizes the <del rend="overstrike">like</del> portrait of the Old Lady—it affects him to tears</ab>                
+                <listTranspose>
+                    <transpose>
+                        <ptr target="#tr01"/>
+                        <ptr target="#tr02"/>
+                    </transpose>
+                </listTranspose>
+            <metamark function="transpose" place="left" target="#ab1"/><ab>is dead—and Martha lives in Covert's house, in the situation of half servant—</ab>
+
+                
             <pb xml:id="leaf006r" facs="loc_ej.00083_large.jpg" type="recto"/>
             <ab>Make Wigglesworth</ab>
-            <ab>Some remarks about the villainy of lawyers&#8212;tell the story of Covert's <add rend="insertion" place="supralinear">father's</add> swindling, about the house in Johnson st&#8212;damn him</ab>
+            <ab>Some remarks about the villainy of lawyers—tell the story of Covert's <add rend="insertion" place="supralinear">father's</add> swindling, about the house in Johnson st—damn him</ab>
             
             <milestone unit="undeclared" rend="horbar-short-center"/>
             
@@ -164,31 +167,31 @@
             
             <milestone unit="undeclared" rend="horbar-full"/>
             
-            <ab>(Covert <del rend="overstrike">has licentious feelings toward Martha and wishes to effect</del> a marriage with her&#8212;also for the sake of her property</ab>
+            <ab>(Covert <del rend="overstrike">has licentious feelings toward Martha and wishes to effect</del> a marriage with her—also for the sake of her property</ab>
             
             <pb xml:id="leaf006v" facs="loc_ej.00084_large.jpg" type="verso"/>
-            <ab>&#8212;He is divided in his libidinous feelings between Martha, and Miss <unclear reason="illegible" resp="#kmp" cert="medium">Seligny</unclear></ab>
+            <ab>—He is divided in his libidinous feelings between Martha, and Miss <unclear reason="illegible" resp="#kmp" cert="medium">Seligny</unclear></ab>
             
             <pb xml:id="leaf007r" facs="loc_ej.00085_large.jpg" type="recto"/>
-            <ab>&#8212;The main hinge of the story will be Covert's determination to embezzle Martha's property&#8212;by means of withholding deeds, wills documents, &#38;c &#38;c&#8212;and Jack Engle, who early discovers that intention&#8212;being pervaded by a determination <del rend="overstrike">th</del> to foil him&#8212;</ab>
-            <ab>With this view, he applies himself with zeal to study law, and watches with great sharpness&#8212;</ab>        
+            <ab>—The main hinge of the story will be Covert's determination to embezzle Martha's property—by means of withholding deeds, wills documents, &amp;c &amp;c—and Jack Engle, who early discovers that intention—being pervaded by a determination <del rend="overstrike">th</del> to foil him—</ab>
+            <ab>With this view, he applies himself with zeal to study law, and watches with great sharpness—</ab>        
             <pb xml:id="leaf007v" facs="loc_ej.00086_large.jpg" type="verso"/>
-            <ab>The story of Martha <del rend="overstrike">shall be</del> is that her <subst><del rend="overstrike" seq="1">father</del> <add rend="insertion" place="supralinear" seq="2">Uncle</add></subst>, <add rend="unmarked" place="right">wealthy</add> <add rend="insertion" place="interlinear">who had adopted her</add> a fine hearted man, (but possessed of a frightfully passionate temper,)&#8212;under the influence of his<!--Grier says this--> passion, commits homicide&#8212;(the victim is Jack's father)&#8212;He is arrested the shock is too much for him&#8212;while in prison,&#8212;he <del rend="overstrike">divides his</del> makes a will,
+            <ab>The story of Martha <del rend="overstrike">shall be</del> is that her <subst><del rend="overstrike" seq="1">father</del> <add rend="insertion" place="supralinear" seq="2">Uncle</add></subst>, <add rend="unmarked" place="right">wealthy</add> <add rend="insertion" place="interlinear">who had adopted her</add> a fine hearted man, (but possessed of a frightfully passionate temper,)—under the influence of his<!--Grier says this--> passion, commits homicide—(the victim is Jack's father)—He is arrested the shock is too much for him—while in prison,—he <del rend="overstrike">divides his</del> makes a will,
             
             <pb xml:id="leaf008r" facs="loc_ej.00087_large.jpg" type="recto"/>
-            dividing his property equally between Martha and the offspring of his victim&#8212;or the latter failing, it was all to go to Martha.&#8212;</ab>
-            <ab>The widow left Philadelphia, (where these sad events happened,) and came on to New York.&#8212;In consequence of the nature of the affair, she gradually withdrew from all her <add rend="insertion" place="supralinear">relations and<!-- Grier's guess --></add> former friends, (she was extra
+            dividing his property equally between Martha and the offspring of his victim—or the latter failing, it was all to go to Martha.—</ab>
+            <ab>The widow left Philadelphia, (where these sad events happened,) and came on to New York.—In consequence of the nature of the affair, she gradually withdrew from all her <add rend="insertion" place="supralinear">relations and<!-- Grier's guess --></add> former friends, (she was extra
             
             <pb xml:id="leaf008v" facs="loc_ej.00088_large.jpg" type="verso"/>
             sensitive) and lived with Martha, shut out from the world and</ab>
             
             <milestone unit="undeclared" rend="horbar-short-center"/>
             
-            <ab>Introduce some scene in a religious revival meeting&#8212;</ab>
+            <ab>Introduce some scene in a religious revival meeting—</ab>
             
             <milestone unit="undeclared" rend="horbar-short-center"/>
             
-            <ab>Make a character of a ranting religious exhorter&#8212;sincere, but a great fool.</ab>
+            <ab>Make a character of a ranting religious exhorter—sincere, but a great fool.</ab>
             
             <ab>Make Wigglesworth "get religion," through Calvin Peterson</ab>
             

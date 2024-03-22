@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="ASCII"?> <?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?> <?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?> 
+ 
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00157">
+
+<relations xmlns="http://www.whitmanarchive.org/namespace">
+<work ref="xxx.00157">
+<p> 
+</p>
+</work>
+</relations>
+<teiHeader xmlns="http://www.whitmanarchive.org/namespace">
+<fileDesc>
+<titleStmt>
+
+<!-- FILL IN ABOVE -->
+
+<title level="m" type="main">
+The Scope of Government
+</title>
+
+<!-- CHECK TITLE -->
+
+<title level="m" type="sub">a machine readable transcription</title>
+
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<persName xml:id="nhg">Nicole Gray</persName><persName xml:id="aj">Andy Jewell</persName><persName xml:id="kmp">Kenneth Price</persName><persName xml:id="bb">Brett Barney</persName>
+</respStmt>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2004</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+
+<idno>loc.00000</idno>
+
+<!-- FILL IN ABOVE ID -->
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>The Institute for Advanced Technology in the Humanities</addrLine>
+<addrLine>Alderman Library</addrLine>
+<addrLine>University of Virginia</addrLine>
+<addrLine>P.O. Box 400115</addrLine>
+<addrLine>Charlottesville, VA 22904-4115</addrLine>
+<addrLine>whitman@jefferson.village.virginia.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2004 by Ed Folsom and Kenneth M. Price, all rights reserved. Items in the Archive may be shared in accordance with the Fair Use provisions of U.S. copyright law. Redistribution or republication on other terms, in any medium, requires express written consent from the editors and advance notification of the publisher, The Institute for Advanced Technology in the Humanities. Permission to reproduce the graphic images in this archive has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+<notesStmt>
+
+<note type="project" target="dat1">
+</note>
+<note type="project">On the verso . . .</note>                          	
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>
+	<!-- TITLE UNDER WHICH THE MS IS HELD AT THE REPOSITORY;	      -->
+	<!-- PLEASE CONSULT, WHEN AVAILABLE, THE ONLINE FINDING	  	-->
+	<!-- FINDING AID ON THE WHITMAN ARCHIVE, IN THE "MANUSCRIPTS" 	-->
+	<!-- SECTION OF THE SITE.                                     	-->
+
+</title>
+<date xml:id="dat1">
+<!-- DATING INFO WILL BE INSERTED BY PROJECT EDITORS -->
+</date>
+<idno type="callno">
+	<!-- THE REPOSITORY'S ID CODE FOR THE MATERIAL, IF ANY, CAN BE	     -->
+	<!-- ENTERED HERE. THE VALUE OF 'TYPE' CAN BE ALTERED TO FIT	     -->
+	<!-- THE TYPE OF ID NUMBER USED; EXAMPLE: MSS 3829.  THIS INFO	     -->
+	<!-- IS ONLY APPROPRIATE FOR THE REPOSITORIES THAT HAVE CREATED        -->
+	<!-- UNIQUE IDENTIFIERS FOR EACH MANUSCRIPT: HARVARD, BOSTON           -->
+	<!-- PUBLIC LIBRARY, BYU, JOHNS HOPKINS, THE HUNTINGTON, THE MORGAN,   -->
+	<!-- RUTGERS, THE AMERICAN ANTIQUARIAN SOCIETY, AND TEMPLE. PLEASE     -->
+	<!-- CONSULT THE ONLINE FINDING AIDS.                                  --> 
+		
+</idno> 
+<orgName>
+The Thomas Biggs Harned Collection of the Papers of Walt Whitman: A Register of His Papers in the Library of Congress, 1842-1937
+</orgName> 
+
+	<!-- ALTER THE FOLLOWING NOTE IF NECESSARY -->
+
+<note type="project">Transcribed from our own digital image of original manuscript.</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+<revisionDesc><change when="2015-05-06" who="#nhg">converted, added schematron declaration</change>
+	<!-- INSERT THE CORRECT DATE AND YOUR NAME IN TWO PLACES BELOW. NOTE 	-->
+	<!-- THAT THE DATE IS ORDERED THIS WAY:  YYYY-MM-DD                 	-->
+<change when="2005-09-27" who="#j m">Encoded</change>
+<change when="2005-09-27" who="#j m">Transcribed</change>
+</revisionDesc>
+</teiHeader>
+
+
+<text xmlns="http://www.whitmanarchive.org/namespace" type="manuscript">
+<body>
+
+
+<!-- AGAIN, UNIQUE ID PLUS 3-DIGIT PAGE # IN THE FOLLOWING -->
+    <pb facs="../figures/loc.00157.001.jpg" xml:id="leaf001r" type="recto"/>
+
+<div1 type="section">
+<p>
+<del rend="overstrike">That</del> The scope of government is always to be kept <add rend="unmarked" place="supralinear">
+<del rend="overstrike">very</del>
+</add> broad <del rend="overstrike">and ample</del>&#8212;The question that <del rend="overstrike">is to</del> must premise <del rend="overstrike">all</del> enactments <subst>
+<del rend="overstrike" seq="1">is</del>
+<add rend="unmarked" place="supralinear" seq="2">must be</add>
+</subst> 
+<del rend="overstrike">Is</del> Will this <subst><orig seq="1">appeal</orig><add rend="unmarked" place="supralinear" seq="2">apply</add>
+</subst> to <del rend="overstrike">universal</del> men and women universally?  <del rend="overstrike">Has</del> 
+<add rend="unmarked" place="supralinear">Does</add> it <del rend="overstrike">reference</del> directly or indirectly <del rend="overstrike">to</del> 
+<subst>
+<del rend="overstrike" seq="1">preserve</del>
+<add rend="unmarked" place="supralinear" seq="2">defend</add>
+</subst> the <add rend="insertion" place="supralinear">rights to</add> life, liberty and property, of each <del rend="overstrike">and all</del> 
+<subst>
+<del rend="overstrike" seq="1">men and women</del>
+<add rend="unmarked" place="supralinear" seq="2">uncriminal man and woman</add>
+</subst> without any exception whatever?
+</p>
+
+<p>
+Whatever is not that broad
+</p>
+</div1>
+
+<!-- PAGE 2 -->
+    <pb facs="../figures/loc.00157.001.jpg" xml:id="leaf002r" type="recto"/>
+
+<div1 type="section">
+<p>
+<add rend="unmarked" place="left">*</add> 
+The government to suit these state is no government of lawyers, <del rend="overstrike">Dilletanti  or</del> &#8212; nor a government of Dilletante <add rend="unmarked" place="supralinear">either.&#8212;</add> .&#8212; In <subst>
+<del rend="overstrike" seq="1">government</del>
+<add rend="unmarked" place="supralinear" seq="2">politics</add>
+</subst>, in poems, in war, in behavior, one thing tells forever &#8212; and that is 
+
+<subst><orig seq="1">fitness</orig><add rend="unmarked" place="supralinear" seq="2">approp</add>
+<add rend="unmarked" place="infralinear" seq="3">purpose</add>
+</subst> 
+
+<subst><orig seq="1">ability</orig><add rend="unmarked" place="supralinear" seq="2">
+<!-- NOT SURE. I MARKED IT AS ILLEGIBLE.  MY BEST GUESS IS THAT IT ENDS WITH 'FITABILITY' -->
+<gap reason="illegible"/>
+</add>
+<add rend="unmarked" place="infralinear" seq="3">capability</add>
+</subst> 
+
+.&#8212; Not gab, not being genteil.  not plenty of money,&#8212; none of these <del rend="overstrike">avail</del> save a <del rend="overstrike">new</del> country. 
+
+</p>
+</div1>
+<milestone unit="undeclared" rend="horbar-full"/>
+
+
+<div1 type="section">
+<p>
+The substratum on which the American constitution is based, is, that every uncriminal person is endowed with the right to <del rend="overstrike" cert="low">be</del> his or her life, liberty, and the equal pursuit of happiness.&#8212; 
+</p>
+</div1>
+
+<!-- PAGE 3 -->
+    <pb facs="../figures/loc.00157.003.jpg" xml:id="leaf003r" type="recto"/>
+
+
+<div1 type="section">
+<p>
+<add rend="unmarked" place="left">*</add> 
+In what respect does the <gap reason="deletion, illegible"/> government of this land represent the strong live <del rend="overstrike">American</del> people of this land, this day, or any of these days? &#8212;<subst>
+<del rend="overstrike" seq="1">
+<gap reason="illegible"/>
+</del>
+<add rend="unmarked" place="supralinear" seq="2">Is there</add>
+</subst>one. &#8212; 
+
+<del rend="overstrike">It</del> 
+<del rend="overstrike">is</del> 
+<del rend="overstrike">Where is</del> not <add rend="unmarked" place="supralinear">Is this</add> 
+<subst><orig seq="1">crowd</orig><add rend="unmarked" place="supralinear" seq="2">melange</add>
+</subst> of <unclear reason="deletion, illegible" resp="rl" cert="low">dragon</unclear> attorneys, feverish <subst>
+<del rend="overstrike" seq="1">
+<gap reason="deletion, illegible"/>
+</del>
+<add rend="unmarked" place="supralinear" seq="2">southern</add>
+</subst>dyspeptics &#8212; 
+
+<list>
+<item>owners of slaves</item>
+<item>seekers of contracts,</item>
+<item>bleeders of the treasury,</item>
+<item>bullies without courage,</item>
+<item>angry <add rend="unmarked" place="supralinear">dyspeptical</add> 
+<del rend="overstrike">speakers</del> from the north,</item>
+<item>supple <add rend="unmarked" place="supralinear">human</add> hinges from the same,</item>
+</list>
+ 
+<!-- THERE APPEARS TO BE A BRACKET HERE, AND ANOTHER MARK, BUT I'M NOT SURE WHAT THEY ARE FOR --> 
+
+are they this great America? this <unclear reason="deletion, illegible" resp="rl" cert="medium">Pres scum</unclear> this poor scum that has floated somehow into the presidency <space dim="horizontal" extent="3 letters"/> those supple
+</p>
+
+</div1>
+
+<!-- BEGIN PAGE 4 -->
+    <pb facs="../figures/loc.00157.004.jpg" xml:id="leaf004r" type="recto"/>
+
+<div1 type="section">
+<p>
+secretaries &#8212; these <add rend="insertion" place="supralinear">milliners of</add> diplomats <gap reason="deletion, illegible"/> (sent forth in their <del rend="overstrike">milliner's</del> 
+<subst><orig seq="1">liveries</orig><add rend="unmarked" place="supralinear" seq="2">poppy show</add>
+</subst> to <del>speak</del> 
+<subst>
+<del rend="overstrike" seq="1">show</del>
+<add rend="unmarked" place="supralinear" seq="2">dance</add>
+</subst> for us in <del rend="overstrike">foreign lands</del> the cotillions of distant courts&#8212;</p>
+
+<p>
+<add rend="unmarked" place="supralinear">&#8212; these</add> are they America? &#8212; Are they the great nation? of <del rend="overstrike">thirty-two nations</del>
+</p>
+
+</div1>
+
+<!-- BEGIN PAGE 5 -->
+    <pb facs="../figures/loc.00157.005.jpg" xml:id="leaf005r" type="recto"/>
+
+
+<div1 type="section">
+<p>
+
+<!-- NOTE: THERE IS RECTANGLE-SHAPED HOLE IN THE MANUSCRIPT.  I HAVE MARKED THE WORDS IT COVERS WITH 'GAP', BUT ALSO HAVE INDICATED WHERE THE PAPER IS IN THE ACCOMPANYING NOTES.   -->
+
+Go back to first principles &#8212; <gap reason="cutaway"/>
+<!-- HOLE IN MANUSCRIPT -->nothing through parties.  I <gap reason="cut away"/>
+<!-- HOLE IN MANUSCRIPT--> man a slave who, <gap reason="cut away"/>
+<!-- HOLE IN MANUSCRIPT --> 
+<subst>
+<del rend="overstrike" seq="1">him</del>
+<add rend="unmarked" place="supralinear" seq="2">
+<gap reason="illegible"/>,</add>
+</subst> 
+<del rend="overstrike">swallows</del> 
+<subst>
+<del rend="overstrike" seq="1">receives</del>
+<add rend="unmarked" place="supralinear" seq="2">obeys</add>
+</subst> the <del rend="overstrike">commands</del> authority of any party, <del rend="overstrike">whatever</del> no matter how specious their pretentions. &#8212; Listen to all, learn from all, consider well what they have to offer, but obey yourself only. &#8212; <del rend="overstrike">There</del> They who <del rend="overstrike">pull</del> 
+<del rend="overstrike">the</del> fabricate the creeds and commands of these parties, are all infidels <del rend="overstrike">and scorners of</del> 
+<del rend="overstrike">you</del> &#8212; they have no faith in man &#8212; they do not dream of any other way to success
+</p>
+
+</div1>
+
+<!-- NOTE TO EDITOR: ON THE VERSO OF PAGE 5, THERE ARE SEVERAL DRAWINGS OF LEAVES. -->
+
+<!-- BEGIN PAGE 6 -->
+    <pb facs="../figures/loc.00157.006.jpg" xml:id="leaf006r" type="recto"/>
+
+
+<div1 type="section">
+
+<p>
+<del rend="overstrike">but</del>
+<add rend="unmarked" place="supralinear">except</add> schemings, caucuses, <del rend="overstrike">lies</del> 
+<add rend="unmarked" place="supralinear">lying</add> 
+<del rend="overstrike">not</del> not one lie, but all lies &#8212; not one face, but a face for every different <subst><orig seq="1">interest</orig><add rend="unmarked" place="supralinear" seq="2">section</add>
+</subst>
+</p>
+
+<p> 
+<hi rend="underline">I tell <add rend="insertion" place="supralinear">you</add> these men are all using you</hi>. </p>
+
+<milestone unit="undeclared" rend="horbar-full"/>
+<p>
+The <del rend="overstrike">business</del> performances of government must be reduced to minims</p>
+
+<milestone unit="undeclared" rend="horbar-full"/>
+<p>
+<del rend="overstrike">Two</del> Out of <del rend="overstrike">any</del> thirty <del rend="overstrike">laws</del> enactments, passed by the <del rend="overstrike">state legislature</del> Congress of these states, or by the legislatures, twenty nine are for petty personal objects, in which the people have no broad interest whatever.&#8212;
+</p>
+
+</div1>
+
+<!-- BEGIN PAGE 7 -->
+    <pb facs="../figures/loc.00157.007.jpg" xml:id="leaf007r" type="recto"/>
+
+
+<div1 type="section">
+
+<p>
+<add rend="unmarked" place="top">Obey no man</add>
+</p>
+
+<p>
+<add rend="unmarked" place="top">
+<subst><orig seq="1">Think</orig><add rend="unmarked" place="supralinear" seq="2">Learn</add>
+</subst> upon all subjects for yourselves.&#8212;<!-- THERE IS A BRACKET HERE -->(Learn from all sides, but decide for yourselves.</add>
+</p>
+
+<p>
+The remedy is not in authority, but in the throwing off of authority.&#8212; <del rend="overstrike">Then</del> 
+<add rend="unmarked" place="supralinear">Then when <del rend="overstrike">false usurper</del>
+</add> that which abdicates, is <del rend="overstrike">replaced by after his work is done</del> and was an usurper <add rend="unmarked" place="supralinear">allowed</add> to do certain work, <del rend="overstrike">comes</del> the true power comes into possession.&#8212; <add rend="unmarked" place="supralinear">
+<del rend="overstrike">I say</del>
+</add> It is not this or that party who is going to save America, and make it justify the mighty prophecies and promises which are all that it has hitherto been.&#8212; It is in countless breeds of great
+</p>
+
+</div1>
+
+<!-- BEGIN PAGE 8 -->
+    <pb facs="../figures/loc.00157.008.jpg" xml:id="leaf008r" type="recto"/>
+
+
+<div1 type="section">
+
+<p>
+individuals, the eternal and only anchor of states.&#8212;
+</p>
+
+<p>
+I have been informed that it is expected <add place="left">?</add>
+
+<!-- IN MY SGM PREVIEW, THE FOLLOWING BRACKETED PART DID NOT SHOW UP.  HOWEVER THE CODES LOOKS CORRECT. -->
+
+<hi rend="bracketed">that Those who address the people, <del rend="overstrike">are expected to</del> 
+<add rend="insertion" place="supralinear">will</add> flatter them.</hi>  I flatter none.&#8212; I <subst>
+<del rend="overstrike" seq="1">come to rebuke</del>
+<add rend="unmarked" place="supralinear" seq="2">think that I could <unclear reason="illegible" resp="rl" cert="medium">taunt</unclear> you</add>
+</subst> rather than to flatter you.&#8212; 
+</p>
+
+<p>
+What have you been about that you have allowed <del rend="overstrike">these</del> that scum to be floated into the Presidency? What have you been about that
+</p>
+
+<p>
+<del rend="overstrike">What do you send</del>
+</p>
+
+<p>
+<del rend="overstrike">Can you find</del> nothing but
+</p>
+
+<p>
+<del rend="overstrike">Do you think</del> 
+<del rend="overstrike">nothing</del> 
+<add rend="unmarked" place="supralinear">Your Congress is filled with little</add> but gab, <subst>
+<del rend="overstrike" seq="1">college-stuffing</del>
+<add rend="unmarked" place="supralinear" seq="2">book knowledge</add>
+</subst>, and <del rend="overstrike">tailors</del> 
+<add rend="unmarked" place="supralinear">tailors</add> clothes, <delSpan rend="overstrike" spanTo="#d1"/>is <add rend="insertion" place="supralinear">ever</add> wanted in your Congress<anchor xml:id="d1"/> 
+<del rend="overstrike">blather</del> doughfaces<del rend="overstrike">,</del> and <unclear reason="deletion, illegible" resp="rl" cert="medium">blatherskites</unclear> puttyfaces?
+</p>
+
+</div1>
+
+<!-- BEGIN TRANSCRIBING VERSO -->
+    <pb facs="../figures/loc.00157.008.jpg" xml:id="leaf008v" type="verso"/>
+
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+It <subst>
+<del rend="overstrike" seq="1">never tires of</del>
+<add rend="unmarked" place="supralinear" seq="2">turns <add rend="insertion" place="supralinear">so</add> stainless on its axis</add>
+</subst>
+
+<lb/>with <del rend="overstrike">for</del> all those
+<lb/>successions of diseased
+<lb/>corpses,
+</l>
+
+<l>
+<lb/>It 
+    <choice>
+    <sic>distils</sic> 
+    <corr>distills</corr>
+    </choice>    
+<del rend="overstrike">such</del> 
+<del rend="overstrike">its</del> 
+<add rend="unmarked" place="supralinear">such</add> winds
+<lb/>and perfumes out
+<lb/>of <del rend="overstrike">such</del> 
+<add rend="unmarked" place="supralinear">such</add> 
+<subst>
+<del rend="overstrike" seq="1">bequeathed</del>
+<add rend="unmarked" place="supralinear" seq="2">infused</add>
+</subst>
+
+<lb/>
+<del rend="overstrike">maladies</del> f&#145;tor.
+</l>
+
+<l>
+<lb/>It renews <del rend="overstrike">so faithfully</del>
+
+<lb/>with such <add rend="unmarked" place="supralinear">unwitting</add> looks its
+<lb/>
+<gap reason="deletion, illegible"/> prodigal annual <add rend="insertion" place="supralinear">sumptuous </add>crops,
+</l>
+
+<l>
+<lb/>It gives such divine
+<lb/>materials to men, and
+<lb/>receives such leavings
+<lb/>
+<subst>
+<del rend="overstrike" seq="1">in return</del>
+<add rend="unmarked" place="supralinear" seq="2">at last</add>
+</subst>!
+</l>
+
+</lg>
+</del>
+
+
+<!-- BEGIN PAGE 9 -->
+    <pb facs="../figures/loc.00157.009.jpg" xml:id="leaf009r" type="recto"/>
+
+
+<div1 type="poem_notes">
+<head type="main-authorial" rend="underline">The Insects</head>
+
+<p>
+get from Mr. Arkhunt a list of just <hi rend="underline">American insects</hi> &#8212;
+</p>
+
+<milestone unit="undeclared" rend="horbar-short-left"/>
+<p>
+<add place="left">?</add>
+Just simply enumerate them with their sizes, colors, habits, lives,&#8212; shortness or length of life,</p> 
+
+<p>what they feed upon</p>
+
+<p>(a little poem, of a leaf, or two leaves, only)</p>
+
+<transpose anchored="true" target="t1" rend="bracketed">I dare not be too assuming over them.</transpose> 
+
+<p> 
+<del rend="overstrike">end the insects</del>&#8212; First enumerate the insects &#8212; Then end by saying
+</p>
+
+<lg type="poem">
+
+<l>I do not know what these are but</l>
+<l>
+<lb/>I believe that all these
+<lb/>are more than they
+</l>
+<l>I do not <subst><orig seq="1">know</orig><add rend="unmarked" place="supralinear" seq="2">deem</add>
+</subst> what they are</l>
+<anchor xml:id="t1"/>
+
+<l>I have advised with myself ... </l>
+<l>
+<lb/>... I dare not consider
+<lb/>myself <del rend="overstrike">in</del> 
+<add rend="insertion" place="supralinear">any more for</add> my place than
+<lb/>they are for their places
+</l>
+
+</lg>
+</div1>
+
+<!-- BEGIN VERSO, PAGE 9 -->
+    <pb facs="../figures/loc.00157.010.jpg" xml:id="leaf010v" type="verso"/>
+
+
+<del type="hashmark">
+<lg type="poem">
+<!-- 3/4s OF PAGE HAS BEEN CUT AWAY -->
+<l>
+<lb/> That <gap reason="cut away"/>
+
+<lb/>know, then <gap reason="cut away"/>
+
+<lb/>which I do not know,
+</l>
+
+<l>
+<del rend="overstrike">That</del>
+</l>
+
+<l>
+<del rend="overstrike">Assurances</del> 
+<del rend="overstrike">a</del> 
+<del rend="overstrike">d</del>
+</l>
+
+<l>
+<lb/>I need no assurances ... I am
+<lb/>he who is pre-occupied
+</l>
+
+</lg>
+</del>
+
+<!-- BEGIN PAGE 10 -->
+    <pb facs="../figures/loc.00157.010.jpg" xml:id="leaf010r" type="recto"/>
+
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<del rend="overstrike">Yet</del>
+</l>
+
+<l>
+<del rend="overstrike">You are very patient,</del>
+</l>
+
+<l>
+<lb/>O I am terrified at the
+<lb/>earth&#8212;it is <del rend="overstrike">so</del> 
+<add rend="unmarked" place="supralinear">that</add>calm
+<lb/>and patient!
+</l>
+
+<l>
+<lb/>It <del rend="overstrike">does</del> gives such <subst>
+<del rend="overstrike" seq="1">things</del>
+<add rend="unmarked" place="supralinear" seq="2">values</add>
+</subst>
+<add place="right">?</add>
+
+<lb/>to man, and receives
+<lb/>
+<del rend="overstrike">these</del> 
+<subst>
+<del rend="overstrike" seq="1">what they make</del>
+<add rend="unmarked" place="supralinear" seq="2">such leavings bring</add>
+</subst>
+
+<lb/>
+<del rend="overstrike">themselves</del> at last!
+</l>
+
+<l>
+<lb/>It <subst>
+<del rend="overstrike" seq="1">receives</del>
+<add rend="unmarked" place="supralinear" seq="2">
+<del rend="overstrike">covers up</del>
+</add>
+</subst> 
+<del rend="overstrike">those</del> 
+<add rend="unmarked" place="supralinear">
+<del rend="overstrike">evil</del>
+</add> 
+<del rend="overstrike">foul</del>
+
+<lb/>
+<gap reason="deletion, illegible"/> 
+<del rend="overstrike">corruptions, and</del>
+
+<lb/>grows <del rend="overstrike">blossoms and</del>
+
+<lb/>
+<del rend="overstrike">grass thence</del>
+
+<lb/>such sweet things
+<lb/>out of such corruptions
+</l>
+
+</lg>
+</del>
+
+<!-- BEGIN PAGE 10 VERSO -->
+    <pb facs="../figures/loc.00157.011.jpg" xml:id="leaf010v" type="verso"/>
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<lb/>is dropped from the cow
+<lb/>and the colt from the
+<lb/>mare.
+</l>
+
+<l>
+<del rend="overstrike">The</del> The <gap reason="cut away"/>
+</l>
+
+</lg>
+</del>
+
+<!-- BEGIN PAGE 11 -->
+    <pb facs="../figures/loc.00157.011.jpg" xml:id="leaf011r" type="recto"/>
+
+
+
+<del type="hashmark">
+<lg type="poem">
+
+<add rend="unmarked" place="top">I <del rend="overstrike">think</del> 
+<subst>
+<del rend="overstrike" seq="1">know</del>
+<add rend="unmarked" place="supralinear" seq="2">do not doubt</add>
+</subst> that
+</add>
+
+<l>
+<lb/>
+<supplied reason="illegible" source="Edward Grier transcription">From</supplied>
+<!-- IS THIS THE CORRECT WAY TO CITE THIS?  THIS WORD IS ILLEGIBLE, BUT GRIER READS IT AS BEING 'FROM' -->
+under the very steps, <del rend="overstrike">and</del> hands,
+<lb/>
+<hi rend="circled">That</hi> 
+<subst>
+<del rend="overstrike" seq="1">besides what I</del>
+<add rend="unmarked" place="supralinear" seq="2">eyes</add>
+</subst> am
+<lb/>cognizant of, are <gap reason="deletion, illegible"/>
+
+<lb/>
+<del rend="overstrike">calm and</del> looking faces I
+<lb/>am not cognizant of&#8212;
+<lb/>calm and silent faces.
+</l>
+
+<l>
+<del rend="overstrike">That</del>
+</l>
+
+<l>
+<lb/>I do not doubt but there
+<lb/>is far <del rend="overstrike">more in myself</del>
+
+<lb/>more in my poems, than
+<lb/>more in myself than
+<lb/>I have supposed ... and<lb/>
+<lb/>more in all men and
+<lb/>women ... and more in
+<lb/>my poems than I
+<lb/>have supposed,
+
+
+</l>
+</lg>
+
+</del>
+
+
+<!-- BEGIN PAGE 11 VERSO -->
+    <pb facs="../figures/loc.00157.012.jpg" xml:id="leaf012v" type="verso"/>
+
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<lb/>
+<del rend="overstrike">The bol</del> Buds <subst>
+<del rend="overstrike" seq="1">bud from</del>
+<add rend="unmarked" place="supralinear" seq="2">swiftly form upon</add>
+</subst> the
+<lb/>vines
+</l>
+
+<l>
+<del rend="overstrike">The dews rain</del> 
+<del rend="overstrike">of April</del>
+</l>
+
+<l>
+<lb/>The <add rend="unmarked" place="supralinear">she</add> birds <del rend="overstrike">of morning and</del>
+
+<lb/>
+<del rend="overstrike">evening, carol</del> build
+<lb/>
+<del rend="overstrike">their</del> nests or brood
+<lb/>on <del rend="overstrike">their eggs</del> 
+<add rend="insertion" place="supralinear">them</add>&#8212;the he-birds
+<lb/>carol on the trees,
+<lb/>mornings and evenings.
+</l>
+
+<l>
+<lb/>The <del rend="overstrike">animals young</del> young
+<lb/>of <del rend="overstrike">fowls</del> 
+<add rend="unmarked" place="supralinear">poultry</add> 
+<del rend="overstrike">an</del> break
+<lb/>through the hatched
+<lb/>eggs,
+</l>
+
+<l>
+<lb/>The <del rend="overstrike">animals</del> 
+<add rend="unmarked" place="supralinear">new born of</add> animals
+<lb/>appear&#8212;the from
+<lb/>
+<del rend="overstrike">cow</del> 
+<del rend="overstrike">the cow</del> the calf
+</l>
+
+</lg>
+</del>
+
+
+<!-- BEGIN PAGE 12 -->
+    <pb facs="../figures/loc.00157.012.jpg" xml:id="leaf012r" type="recto"/>
+
+
+<del type="hashmark">
+
+<lg type="poem">
+
+<l>
+<lb/>I do not doubt there
+<lb/>are <del rend="overstrike">more</del> experiences
+<lb/>and growths for me
+<lb/>through time, and
+<lb/>through the universes,
+<lb/>of which I cannot
+<lb/>have the slightlest
+<lb/>inkling or idea
+</l>
+
+<l>
+<lb/>I do not doubt the
+<lb/>universes are limitless
+<lb/>... in vain I try to 
+<lb/>fancy how limitless
+</l>
+
+<l>
+<lb/>I do not doubt it is
+<lb/>
+<del rend="overstrike">eternally</del> safe for <del rend="overstrike">the</del>
+
+<lb/>
+<del rend="overstrike">mighty</del> orbs and systems
+<lb/>of orbs to <del rend="overstrike">play</del> play than
+<lb/>
+<subst>
+<del rend="overstrike" seq="1">swift</del>
+<add rend="unmarked" place="supralinear" seq="2">eternal</add>
+</subst> 
+<del rend="overstrike">plays</del> sports through
+</l>
+
+</lg>
+</del>
+
+<!-- BEGIN PAGE 12 VERSO -->
+    <pb facs="../figures/loc.00157.013.jpg" xml:id="leaf012v" type="verso"/>
+
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<lb/>Behold the <del rend="overstrike">fibred lawn</del> regular
+</l>
+
+
+<transpose rend="bracketed" anchored="true" target="t2">
+<l>
+<lb/>Yet the delicate <add rend="insertion" place="supralinear">faithfully</add> spear of the onion
+<lb/>pierces <add rend="insertion" place="supralinear">noiselessly</add> upward <del rend="overstrike">to</del>
+
+</l>
+</transpose>
+
+<l>
+<lb/>
+<add rend="unmarked" place="supralinear">
+<del rend="overstrike">Yet</del>
+</add> The bean bursts <subst>
+<del rend="overstrike" seq="1">faithfully</del>
+<add rend="unmarked" place="supralinear" seq="2">noiselessly</add>
+</subst>
+
+<lb/>through the ground
+</l>
+<anchor xml:id="t2"/>
+
+<l>
+<lb/>
+<add rend="unmarked" place="supralinear">
+<del rend="overstrike">Yet</del>
+</add> The <del rend="overstrike">delicate</del> apple blossoms
+<lb/>break from their buds
+<lb/>
+<del rend="overstrike">appear in May</del>
+
+</l>
+
+<l>
+<lb/>
+<del rend="overstrike">Yet</del> 
+<del rend="overstrike">The early wheat puts its</del>
+
+<lb/>
+<del rend="overstrike">re</del>
+
+
+
+</l>
+
+<!-- I HAVE MADE A LINE BREAK HERE, BUT THE LAST SEGMENT IS ONE THE SAME LINE AS THE NEXT LINE.  IT IS OBVIOUS THAT THE NEXT LINE IS ITS OWN LINE, THOUGH -->
+
+<l>
+<lb/>The resurrection of the
+<lb/>wheat appears with
+<lb/>pale visage <del rend="overstrike">in its</del>
+
+<lb/>
+<gap reason="deletion, illegible"/> 
+<del rend="overstrike">field</del> out of its graves,
+</l>
+
+<l>
+<lb/>The <add rend="unmarked" place="supralinear">tinge awakes over</add> willow and the mulberry
+<lb/>
+<add rend="insertion" place="supralinear">exists</add>awake, <del rend="overstrike">early</del>
+
+</l>
+
+</lg>
+</del>
+
+<!-- BEGIN PAGE 13 -->
+    <pb facs="../figures/loc.00157.013.jpg" xml:id="leaf013r" type="recto"/>
+
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<lb/>the air&#8212;and that I shall
+<lb/>one day shall be eligible to
+<lb/>do as much as they, and 
+<lb/>more than they,
+</l>
+
+<l>
+<lb/>I do not doubt, <del rend="overstrike">that</del>
+
+<lb/>whatever can possibly
+<lb/>happy through any of the
+<lb/>worlds is provided for,
+<lb/>in the <subst>
+<del rend="overstrike" seq="1">nature</del>
+<add rend="unmarked" place="supralinear" seq="2">inherences</add>
+</subst> of things,
+</l>
+
+<l>
+<lb/>I do not doubt, <gap reason="deletion, illegible"/> whatever
+<lb/>can happen in this
+<lb/>world, interior or exterior,
+<lb/>in America, in the <del rend="overstrike">other</del>
+
+<lb/>remainder of the <subst>
+<del rend="overstrike" seq="1">
+<unclear reason="illegible" resp="rl" cert="low">centuries</unclear>
+</del>
+<add rend="unmarked" place="supralinear" seq="2">earth</add>
+</subst>,
+<lb/>
+<del rend="overstrike">as in pol</del> among affairs,
+<lb/>politics, children, failures
+<lb/>
+<del rend="overstrike">deaths</del> murders wrecks,
+<lb/>degradation death <add rend="unmarked" place="supralinear">defection</add> 
+<unclear reason="deletion, illegible" resp="rl" cert="medium">is</unclear> each and all
+<lb/>amply provided for
+</l>
+
+</lg>
+</del>
+
+<!-- BEGIN PAGE 14 -->
+    <pb facs="../figures/loc.00157.014.jpg" xml:id="leaf014r" type="recto"/>
+
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<lb/>I <del rend="overstrike">do not</del> 
+<add rend="unmarked" place="supralinear">am</add> amazed how
+<lb/>the earth sows <del rend="overstrike">wherein</del>
+
+<lb/>is vital and calm
+</l>
+
+<l>
+<del rend="overstrike">I do not think see how</del>
+</l>
+
+<l>
+<subst>
+<del rend="overwrite" seq="1">Billions of</del>
+<add rend="overwrite" place="over" seq="2">Behold!</add>
+</subst>
+</l>
+
+<l>
+<lb/>
+<del rend="overstrike">Here in this</del> 
+<add rend="unmarked" place="supralinear">This is the</add> compost <del rend="overstrike">one</del> of
+<lb/>billions of diseased <add rend="unmarked" place="supralinear">premature</add> corpses, 
+</l>
+
+<l>
+<lb/>Perhaps every <subst>
+<del rend="overstrike" seq="1">grain</del>
+<add rend="unmarked" place="supralinear" seq="2">mite</add>
+</subst> has once
+<lb/>formed part of a sick
+<lb/>person.
+</l>
+
+<l>Yet behold! <del rend="overstrike">the <unclear reason="illegible" resp="rl" cert="low">shorn </unclear> earth</del>
+</l>
+
+<l>
+<lb/>
+<del rend="overstrike">Behold how</del> The green grass
+<lb/>upon the praries!
+</l>
+
+</lg>
+   
+</del>
+
+<!-- BEGIN PAGE 14 VERSO -->
+    <pb facs="../figures/loc.00157.015.jpg" xml:id="leaf014v" type="verso"/>
+
+<div1>
+    <lg type="poem">
+<l>
+<lb/>O Mother did you think there
+<lb/>could ever be a time
+<lb/>when I might not
+</l>
+</lg>
+</div1>
+    <div1>
+<lg type="poem">
+    <l>
+        <lb/>I walk forth amid the calmness
+        <lb/>of grass and foliage
+    </l>
+</lg>
+    </div1>
+    <div1>
+<lg type="poem">
+<l>
+<lb/>But after a little time I
+<lb/>will return among men
+</l>
+</lg>
+</div1>
+<!-- BEGIN PAGE 15 -->
+    <pb facs="../figures/loc.00157.015.jpg" xml:id="leaf015r" type="recto"/>
+
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<gap reason="cut away, illegible"/>
+</l>
+
+<l>
+<!-- THERE IS AN UNUSUAL SIGN HERE, WITH TWO LINES AND A DOT IN THE MIDDLE.  HOW SHOULD THIS BE INDICATED? -->
+
+<del rend="overstrike">I do not believe</del>
+</l>
+
+<l>
+<lb/>I do not see how <del rend="overstrike">the</del>
+
+<lb/>
+<del rend="overstrike">earth</del> nothing but maladies
+<lb/>can be <subst>
+<del rend="overstrike" seq="1">buried</del>
+<add rend="unmarked" place="supralinear" seq="2">resolved back</add>
+</subst> in
+<lb/>the earth, and <del rend="overstrike">I</del> return
+<lb/>otherwise
+</l>
+
+</lg>
+</del>
+
+<!-- BEGIN PAGE 16 -->
+    <pb facs="../figures/loc.00157.016.jpg" xml:id="leaf016r" type="recto"/>
+
+
+<del type="hashmark">
+<lg type="poem">
+
+<l>
+<lb/>not bring to me <del rend="overstrike">some</del> 
+<add rend="insertion" place="supralinear">a single one</add> of
+<lb/>the <del rend="overstrike">vile</del> diseases that have
+<lb/>
+<del rend="overstrike">continually</del> 
+<add rend="unmarked" place="supralinear">forever</add> 
+<del rend="overstrike">each discharge relieve</del>
+
+<lb/>
+<del rend="overstrike">themselves up</del> loved themselves
+<lb/>in it?
+</l>
+</lg>
+
+<lg type="poem">
+
+<l>
+<lb/>How can you keep sound, you
+<lb/>quadrupeds? <del rend="overstrike">That feed upon</del>
+
+<lb/>
+<del rend="overstrike">crop</del> I see you are
+</l>
+
+<l>
+<lb/>I <del rend="overstrike">will</del> 
+<add rend="unmarked" place="supralinear">cannot</add> not believe <del rend="overstrike">myself.</del>
+
+<lb/>yet awhile,
+</l>
+
+<l>
+<lb/>I do not see how there can
+<lb/>be any thing but disease
+<lb/>
+<del rend="overstrike">and</del>
+
+</l>
+</lg>
+</del>
+
+<!-- BEGIN PAGE 16 VERSO -->
+    <pb facs="../figures/loc.00157.017.jpg" xml:id="leaf016v" type="verso"/>
+
+
+<div1 type="section">
+
+<head type="main-authorial">an item for conversation everywhere&#8212;</head>
+
+<p>
+To be simple, nature, <hi rend="underline">as native as animals are native</hi>&#8212;dismissing all the chat, talk of business <unclear reason="illegible" resp="rl" cert="medium">or</unclear> money, meaningless talk, criticising acquaintances and their faults&#8212;
+</p>
+
+<p>
+To be silent unless something must be said that cannot be left unsaid.
+</p>
+
+<p>
+Never to attempt to be witty, or choose after effects&#8212;<hi rend="underline">not one any</hi> how</p>
+
+<p>To dismiss the usual amiable acquiescence also&#8212;</p> 
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

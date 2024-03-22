@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE TEI.2 PUBLIC "-//UVA::IATH//DTD whitman.dtd (Whitman Archive)//EN" "whitman.dtd" [
+
+<!--ArborText, Inc., 1988-2000, v.4002-->
+
+
+		<!-- YOU NEED ONE OF THE FOLLOWING LINES FOR EACH PAGE IMAGE OF  -->
+		<!-- THE MANUSCRIPT. IN BOTH PARTS OF THE LINE, REPLACE abc.0000 -->
+		<!-- WITH THE UNIQUE ID AND REPLACE THE LAST THREE ZEROS WITH A  -->
+		<!-- THREE-DIGIT NUMBER FOR EACH PAGE (FIRST PAGE=001)		 -->
+
+<!ENTITY loc.00166.001 SYSTEM "loc.00166.001.jpg" NDATA jpeg>
+<!ENTITY loc.00166.002 SYSTEM "loc.00166.002.jpg" NDATA jpeg>
+<!ENTITY loc.00166.003 SYSTEM "loc.00166.003.jpg" NDATA jpeg>
+
+]>
+
+
+
+<TEI.2 id="loc.00166" type="doc">
+		<!-- IGNORE THE RELATIONS STRUCTURE FOR NOW.  THIS HOLDS THE PLACE -->
+		<!-- FOR FUTURE ENCODING PROCEDURES THAT HAVE YET TO BE FINALIZED. -->
+<relations>
+<!-- RELATIONS STRUCTURE -->
+</relations>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+
+<title level="m" type="main" rend="bracketed">
+Departures
+</title>
+
+<title level="m" type="sub">a machine readable transcription</title>
+
+<author>Walt Whitman</author>
+<editor>Kenneth M. Price</editor>
+<editor>Ed Folsom</editor>
+<respStmt>
+<resp>Transcription and encoding</resp>
+<name>The Walt Whitman Archive Staff</name>
+</respStmt>
+<sponsor>The Institute for Advanced Technology in the Humanities</sponsor>
+<sponsor>University of Iowa</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<funder>The National Endowment for the Humanities</funder>
+<funder>The United States Department of Education</funder>
+</titleStmt><editionStmt>
+<edition><date>2003</date></edition>
+</editionStmt><publicationStmt>
+
+		<!-- UNIQUE ID GOES HERE, TOO -->
+
+<idno>loc.00166</idno>
+
+<distributor>The Walt Whitman Archive</distributor>
+<address>
+<addrLine>The Institute for Advanced Technology in the Humanities</addrLine>
+<addrLine>Alderman Library</addrLine>
+<addrLine>University of Virginia</addrLine>
+<addrLine>P.O. Box 400115</addrLine>
+<addrLine>Charlottesville, VA 22904-4115</addrLine>
+<addrLine>whitman@jefferson.village.virginia.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2003 by Ed Folsom and Kenneth M. Price, all rights 
+reserved. Items in the Archive may be shared in accordance with the Fair Use 
+provisions of U.S. copyright law.  Redistribution or republication on other 
+terms, in any medium, requires express written consent from the editors and 
+advance notification of the publisher, The Institute for Advanced Technology 
+in the Humanities.  Permission to reproduce the graphic images in this archive 
+has been granted by the owners of the originals for this publication only.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="project" target="leaf02v">
+This page is blank.
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Walt Whitman</author>
+<title>
+The Charles E. Feinberg Collection of the Papers of Walt Whitman, 1839-1919, Library of Congress, Washington, DC.
+</title>
+<idno type="callno">
+	<!-- THE REPOSITORY'S ID CODE FOR THE MATERIAL, IF ANY, CAN BE	-->
+	<!-- ENTERED HERE. THE VALUE OF 'TYPE' CAN BE ALTERED TO FIT	-->
+	<!-- THE TYPE OF ID NUMBER USED; EXAMPLE: MSS 3829    		-->
+		
+</idno> 
+<orgName>
+Library of Congress, Feinberg Collection
+</orgName> 
+
+	<!-- ALTER THE FOLLOWING NOTE IF NECESSARY -->
+
+<note type="project">Transcribed from our own digital image of original manuscript.</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2004-03-28</date>
+<respStmt>
+<name>Amy Hezel</name>
+</respStmt>
+<item>Encoded</item>
+</change>
+<change>
+<date>2004-03-28</date>
+<respStmt>
+<name>Amy Hezel</name>
+</respStmt>
+<item>Transcribed</item>
+</change>
+</revisionDesc>
+</teiHeader>
+
+
+
+<text type="manuscript">
+<body>
+
+<pb corresp="loc.00166.001" id="leaf01r" type="recto"/>
+
+<div1 type="poem notes">
+
+<p>
+Departures
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+two or three of them&#8212;(death
+</p>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<p>
+frequent departures
+</p>
+
+
+<pb corresp="loc.00166.002" id="leaf01v" type="verso"/>
+
+<lg1 type="poem">
+
+<head type="main-authorial">
+Poemet
+</head>
+
+<l>embody the idea</l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<l><seg>I wander <del type="overstrike">through</del></seg>
+<seg>along my life</seg>
+<seg>&#8212;<add type="unmarked" place="supralinear">hardly ever</add> meeting with</seg>
+<seg>commrades</seg></l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<l><seg>Therefore
+
+
+<pb corresp="loc.00166.002" id="leaf02r" type="recto"/>
+
+&#8212;I have not met</seg>
+<seg>my life has not</seg>
+<seg><del type="overstrike">absorbed</del> &#38; occup</seg>
+<seg>&#38; drawn out my</seg>
+<seg>love for comrades</seg></l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<l><seg>For I have not</seg>
+<seg>met with them</seg></l>
+
+<milestone unit="undeclared" rend="horbar"/>
+
+<l><seg>Therefore I have</seg>
+<seg>put my passionate</seg>
+<seg>love of commrades</seg>
+<seg>in my poems</seg></l>
+
+
+<pb corresp="loc.00166.003" id="leaf02v" type="verso"/>
+
+
+</lg1>
+</div1>
+</body>
+</text>
+</TEI.2>

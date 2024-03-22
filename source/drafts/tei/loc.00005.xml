@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="loc.00005">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://www.whitmanarchive.org/downloads/wwa.rng" type="xml"?><?oxygen SCHSchema="http://www.whitmanarchive.org/downloads/whitmanarchive_rules_mss.sch"?><TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="loc.00005">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -15,8 +15,7 @@
 <persName xml:id="ah">Amy Hezel</persName>
 	<persName xml:id="kmp">Kenneth M. Price</persName>
 	<persName xml:id="bb">Brett Barney</persName>
-	<persName xml:id="km">Kevin McMullen</persName>
-<persName xml:id="as">Ashlyn Stewart</persName></respStmt>
+</respStmt>
 	<sponsor>Center for Digital Research in the Humanities</sponsor>
 <sponsor>The Institute for Advanced Technology in the 
 Humanities</sponsor>
@@ -27,7 +26,7 @@ Humanities</sponsor>
 </titleStmt><editionStmt>
 <edition><date>2004</date></edition>
 </editionStmt><publicationStmt>
-
+<idno>loc.00005</idno>
 <distributor>The Walt Whitman Archive</distributor>
 	<address>
 <addrLine>Center for Digital Research in the Humanities</addrLine>
@@ -43,7 +42,7 @@ Humanities</sponsor>
 	<p>The text encoding was created and/or prepared by the <title level="m">Walt Whitman Archive</title> and is licensed under a <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref> (CC BY 4.0).</p>
 	<p>Permission to reproduce the graphic images of the original item has been granted by the owners of the original for this publication only.</p> 
 </availability>
-<idno>loc.00005</idno></publicationStmt>
+</publicationStmt>
 <notesStmt>
 	<note type="project" target="#dat1">These pages were written by Whitman in the early to mid-1850s. William White described the pages as "torn from a tall notebook" (<hi rend="italic">Daybooks and Notebooks</hi> [New York: New York University Press, 1978], 773–777). White noted a relationship between these pages and the poems "Who Learns My Lesson Complete?," "By Blue Ontario's Shore," "Song of the Answerer," and "There Was a Child Went Forth." Some of the ideas and language being worked out here also appear in the poem eventually titled "Song of Myself." For a discussion of the dating and importance of this notebook, see Matt Miller, <hi rend="italic">Collage of Myself: Walt Whitman and the Making of</hi> Leaves of Grass (Lincoln: University of Nebraska Press, 2010), 11–16.</note>       
 </notesStmt>
@@ -58,8 +57,7 @@ Humanities</sponsor>
 </bibl>
 </sourceDesc>
 </fileDesc>
-<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
-	<change when="2022-03-03" who="#km">updated relations encoding</change>
+<revisionDesc>
 	<change when="2019-11-18" who="#bb">tweaked the wording of the date note</change>
 	<change when="2019-08-07" who="#nhg">added inline relation</change>
 	<change when="2017-10-09" who="#nhg">added inline relations information</change>
@@ -100,9 +98,11 @@ doubtless the brain</item>
 fastening together</item></list>
 </div2>
 <div2 type="section">
-	
-	<note type="work_relations" target="xxx.00048" cert="high"><p>Part of this section about happiness likely contributed to the following line in the poem eventually titled "Song of Myself": "Happiness . . . . which whoever hears me let him or her set out in search of this day" (1855, p. 31).</p></note>
-	
+	<relations>
+		<work ref="xxx.00048" cert="high">
+			<p>Part of this section about happiness likely contributed to the following line in the poem eventually titled "Song of Myself": "Happiness . . . . which whoever hears me let him or her set out in search of this day" (1855, p. 31).</p>
+		</work>
+	</relations>
 <ab>Because women do not appear in history and philosophy with any thing 
 like the same prominence as men—that is no reason for thinking them less 
 than men:—The great names that we know are but the accidental 
@@ -125,7 +125,9 @@ let him or her set out upon the search this day, <del rend="overstrike">and neve
 </div2>
 
 <div2 type="section">
-	<note type="work_relations" target="xxx.00250" cert="high"><p>This section includes lines that read like an early draft of the poem that was eventually titled "Who Learns My Lesson Complete?" In the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, Whitman included the lines: "Who learns my lesson complete? / ... / It is no lesson . . . . it lets down the bars to a good lesson, / And that to another . . . . and every one to another still" (p. 92).</p></note>
+	<relations><work ref="xxx.00250" cert="high">
+		<p>This section includes lines that read like an early draft of the poem that was eventually titled "Who Learns My Lesson Complete?" In the 1855 edition of <hi rend="italic">Leaves of Grass</hi>, Whitman included the lines: "Who learns my lesson complete? / ... / It is no lesson . . . . it lets down the bars to a good lesson, / And that to another . . . . and every one to another still" (p. 92).</p>
+	</work></relations>
 <head type="main-authorial">My Lesson</head>
 
 <lg>
@@ -144,26 +146,32 @@ let him or her set out upon the search this day, <del rend="overstrike">and neve
 </div2>
 
 <div2 type="section">
-	<note type="work_relations" target="xxx.00526" cert="low"><p>This language appears in the preface of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "His thoughts are the hymns of the praise of things" (v).</p>
-	</note>
-		
-		<note type="work_relations" target="xxx.00221" cert="low"><p>In the 1856 edition of <hi rend="italic">Leaves of Grass</hi>, this language was moved to the poetry, appearing in the poem that was ultimately titled "By Blue Ontario's Shore": "His thoughts are the hymns of the praise of things" (1891, p. 269).</p></note>
-	
+	<relations>
+		<work ref="xxx.00526" cert="low">
+			<p>This language appears in the preface of the 1855 edition of <hi rend="italic">Leaves of Grass</hi>: "His thoughts are the hymns of the praise of things" (v).</p>
+		</work>
+		<work ref="xxx.00221" cert="low">
+			<p>In the 1856 edition of <hi rend="italic">Leaves of Grass</hi>, this language was moved to the poetry, appearing in the poem that was ultimately titled "By Blue Ontario's Shore": "His thoughts are the hymns of the praise of things" (1891, p. 269).</p>
+		</work>
+	</relations>
 <head type="main-authorial" xml:id="head01">Poem "Praise of things"</head>
 </div2>
 
 <pb facs="loc.00005.002.jpg" xml:id="leaf001v" type="verso"/>
-	<div2 type="prose"><metamark function="transposition" place="top left" target="#ab1">* <hi rend="circled">down</hi></metamark><ab xml:id="tr01">spór-a-des, 
-scattered islands, stars, &amp;c</ab></div2>
- 
-<div2 type="prose" xml:id="ab8">
+	<metamark function="transposition" place="top left" target="#ab1">* <hi rend="circled">down</hi></metamark> 
+<div2 type="prose">
+	
 
-<ab>Novel?—Work of some sort <add rend="insertion" place="supralinear">Play?</add>—instead of sporadic characters—introduce them in large masses, on a far grander scale—armies—twenty-three full-formed perfect athletes—<subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="1" unit="word"/></del><add rend="overwrite" place="over" seq="2">orbs</add></subst>—take characters through the orbs—"spiritualism"</ab>
-	<addSpan spanTo="#a1" rend="unmarked"/><ab>
+<note type="authorial" place="top">spór-a-des, 
+scattered islands, stars, &amp;c</note>
+
+<transpose anchored="1" target="#a01"><ab>
+Novel?—Work of some sort <add rend="insertion" place="supralinear">Play?</add>—instead of sporadic characters—introduce them in large masses, on a far grander scale—armies—twenty-three full-formed perfect athletes—<subst><del rend="overwrite" seq="1"><gap reason="illegible" quantity="1" unit="word"/></del><add rend="overwrite" place="over" seq="2">orbs</add></subst>—take characters through the orbs—"spiritualism"</ab>
+	<add rend="unmarked" place="infralinear"><ab>
 	nobody appears upon the stage singly—but 
 all in huge aggregates</ab>
 	<ab>nobody speaks alone—whatever is said, is said by 
-		an immense number <milestone unit="undeclared" rend="horbar-short-left"/></ab><anchor xml:id="a1"/>
+		an immense number <milestone unit="undeclared" rend="horbar-short-left"/></ab></add></transpose>
 
 <ab>
 <hi rend="underline">Shade</hi>—An <add rend="insertion" place="infralinear">twenty-five old men</add> old man with rapid gestures—eyes 
@@ -180,18 +188,20 @@ carefully finished as the dialogue</ab><anchor xml:id="s2"/>
 </div2>
 
 <div2 type="prose">
-	<note type="work_relations" target="xxx.00226" cert="high"><p>Language from this section was adapted to make up the first few lines of the poem that would eventually be titled "There was a Child Went Forth": "There was a child went forth every day, / And the first object he looked upon and received with wonder or pity or love or dread, that object he became, / And that object became part of him for the day or a certain part of the day . . . . or for many years or stretching cycles of years" (1855, p. 90).</p>
-	</note>
-		
-		<note type="work_relations" target="xxx.00113" cert="low"><p>The figure of the answerer appears in the poem eventually titled "Song of the Answerer": "He is the answerer, / What can be answered he answers, and what cannot be answered he shows how it cannot be answered" (1855, p. 86).</p>
-		</note>
-		
-		<note type="work_relations" target="xxx.00048" cert="low"><p>The "leaf of grass" that appears in this segment may have turned into the "leaf of grass" in the poem that would become "Song of Myself": "I believe a leaf of grass is no less than the journeywork of the stars" (1855, p. 34). The "voices" described in the last part of this section may relate to the following lines: "Through me many long dumb voices, / Voices of the interminable generations of prisoners and slaves, / Voices of the diseas'd and despairing and of thieves and dwarfs, / Voices of cycles of preparation and accretion, / And of the threads that connect the stars, and of wombs and of the father-stuff" (1855, p. 29).</p>
-	</note>
-	
+	<relations>
+		<work ref="xxx.00226" cert="high">
+			<p>Language from this section was adapted to make up the first few lines of the poem that would eventually be titled "There was a Child Went Forth": "There was a child went forth every day, / And the first object he looked upon and received with wonder or pity or love or dread, that object he became, / And that object became part of him for the day or a certain part of the day . . . . or for many years or stretching cycles of years" (1855, p. 90).</p>
+		</work>
+		<work ref="xxx.00113" cert="low">
+			<p>The figure of the answerer appears in the poem eventually titled "Song of the Answerer": "He is the answerer, / What can be answered he answers, and what cannot be answered he shows how it cannot be answered" (1855, p. 86).</p>
+		</work>
+		<work ref="xxx.00048" cert="low">
+			<p>The "leaf of grass" that appears in this segment may have turned into the "leaf of grass" in the poem that would become "Song of Myself": "I believe a leaf of grass is no less than the journeywork of the stars" (1855, p. 34). The "voices" described in the last part of this section may relate to the following lines: "Through me many long dumb voices, / Voices of the interminable generations of prisoners and slaves, / Voices of the diseas'd and despairing and of thieves and dwarfs, / Voices of cycles of preparation and accretion, / And of the threads that connect the stars, and of wombs and of the father-stuff" (1855, p. 29).</p>
+		</work>
+	</relations>
 <head type="main-authorial" rend="underline" xml:id="head02">The answerer</head>
 
-<ab xml:id="ab7">
+<ab>
 	<hi rend="underline">Plot for a Poem or other work</hi>—A manly 
 unpretensive philosopher—without any of the old insignia, such as age, books 
 <del rend="overstrike">eth</del> etc.—a fine-formed person, of 
@@ -216,21 +226,7 @@ air—another
 <del rend="overstrike">saw</del> looked at with fixed love, that thing he 
 became for the day.—</ab>
 	
-	<metamark function="transposition" target="#ab1" place="inline">*</metamark>
-	
-	<listTranspose>
-		<transpose>
-			<ptr target="#ab8"/>
-			<ptr target="#head02"/>
-			<ptr target="#ab7"/>
-			<ptr target="#ab4"/>
-			<ptr target="#ab2"/>
-			<ptr target="#ab3"/>
-			<ptr target="#tr01"/>
-		</transpose>
-	</listTranspose>
-	
-	<ab> Bring in whole races, or castes, or generations, to express 
+	<anchor xml:id="a01"/><ab xml:id="ab1"><metamark function="transposition" target="#ab1" place="inline">*</metamark> Bring in whole races, or castes, or generations, to express 
 		themselves—personify the general objects of the creation and give them voice—every thing on the most august scale—a leaf of grass, with its equal voice.—</ab>
 	<ab xml:id="ab5">☞—voice of the generations of slaves—of those who have 
 		suffered—voice of Lovers.—of Night—Day—Space—the stars—the countless ages of the Past—the countless ages of the future—
@@ -240,11 +236,14 @@ became for the day.—</ab>
 
 <pb facs="loc.00005.003.jpg" xml:id="leaf002r" type="recto"/>
 <div2 type="prose">
-	<note type="work_relations" target="xxx.00048" cert="high"><p>A segment in this section is similar to the following lines from the poem that would eventually be titled "Song of Myself": "Before I was born out of my mother generations guided me, / My embryo has never been torpid . . . . nothing could overlay it; / For it the nebula cohered to an orb . . . . the long slow strata piled to rest it on . . . . vast vegetables gave it sustenance, / Monstrous sauroids transported it in their mouths and deposited it with care. / All forces have been steadily employed to complete and delight me, / Now I stand on this spot with my soul." (1855, p. 50).</p>
-	</note>
-		
-		<note type="work_relations" target="xxx.00526" cert="low"><p>The line "Can he be religious and have nothing to do with churches or prayers?" bears a distant resemblance to the following line in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "The great master has nothing to do with miracles" (1855, p. viii).</p></note>
-	
+	<relations>
+		<work ref="xxx.00048" cert="high">
+			<p>A segment in this section is similar to the following lines from the poem that would eventually be titled "Song of Myself": "Before I was born out of my mother generations guided me, / My embryo has never been torpid . . . . nothing could overlay it; / For it the nebula cohered to an orb . . . . the long slow strata piled to rest it on . . . . vast vegetables gave it sustenance, / Monstrous sauroids transported it in their mouths and deposited it with care. / All forces have been steadily employed to complete and delight me, / Now I stand on this spot with my soul." (1855, p. 50).</p>
+		</work>
+		<work ref="xxx.00526" cert="low">
+			<p>The line "Can he be religious and have nothing to do with churches or prayers?" bears a distant resemblance to the following line in the preface to the 1855 <hi rend="italic">Leaves of Grass</hi>: "The great master has nothing to do with miracles" (1855, p. viii).</p>
+		</work>
+	</relations>
 	<note type="authorial" place="top">(a <hi rend="underline">spiritual novel</hi>?</note>
 
 <ab>
