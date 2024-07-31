@@ -152,7 +152,6 @@
         <li><strong>Related Item(s): </strong>
           <ul>
             <xsl:for-each select="//relatedItem[@type = 'text']">
-              <li>
                 <xsl:variable name="note_id"><xsl:text>#</xsl:text><xsl:value-of select="@xml:id"/></xsl:variable>
                 <xsl:variable name="note_target"><xsl:value-of select="//note[contains(@target,$note_id)]/@target"/></xsl:variable>
                 <xsl:variable name="preceding_note_id">
@@ -166,9 +165,11 @@
                 </xsl:variable>
                 <!-- if there is a note with a matching target and it does not match any previous targets, display -->
                 <xsl:if test="not(contains($note_target,$preceding_note_id))">
-                  <xsl:apply-templates select="//note[contains(@target,$note_id)]"/>
+                  <li><xsl:apply-templates select="//note[contains(@target,$note_id)]"/></li>
                 </xsl:if>
-                <xsl:text> See </xsl:text>
+              <!-- this part could probably be improved to create better handling for multiple relatedItems -->
+                <li>
+                  <xsl:text> See </xsl:text>
                 <a>
                   <xsl:attribute name="href" select="@target"/>
                   <xsl:value-of select="@target"/>
