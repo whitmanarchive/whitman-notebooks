@@ -148,6 +148,7 @@
       </xsl:if>
       
       <!-- pulled from notebooks P5 tylesheet and refactored original comment: relatedItem section (updated 4/28/17)-->
+      <!-- note that this differs from similar manuscripts override in that it does NOT check to see if file exists before creating link -->
       <xsl:if test="//sourceDesc//relatedItem">
         <li><strong>Related Item(s): </strong>
           <ul>
@@ -157,7 +158,7 @@
                 <xsl:variable name="preceding_note_id">
                   <xsl:choose>
                   <xsl:when test="preceding-sibling::relatedItem">
-                    <xsl:value-of select="preceding-sibling::relatedItem/@xml:id"/>
+                    <xsl:value-of select="preceding-sibling::relatedItem[1]/@xml:id"/>
                   </xsl:when>
                     <!--this is a sort of hacky workaround so the id can be checked below, sorry-->
                   <xsl:otherwise>zzz</xsl:otherwise>
@@ -168,13 +169,14 @@
                   <li><xsl:apply-templates select="//note[contains(@target,$note_id)]"/></li>
                 </xsl:if>
               <!-- this part could probably be improved to create better handling for multiple relatedItems -->
-                <li>
+              <li>
                   <xsl:text> See </xsl:text>
                 <a>
                   <xsl:attribute name="href" select="@target"/>
                   <xsl:value-of select="@target"/>
                 </a>
-                <xsl:text>.</xsl:text></li>
+                <xsl:text>.</xsl:text>
+              </li>
             </xsl:for-each>
           </ul>          
         </li>
