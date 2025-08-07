@@ -539,13 +539,13 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <l>I <unclear reason="illegible" resp="#bb" cert="medium">dem</unclear></l>
        </lg>
        </div2>
-         <delSpan rend="hashmark" spanTo="#w03"/>
+         
        <div2 type="verse">
  
   <note type="work_relations" target="xxx.00048" cert="high">
     <p>Whitman used these lines, in slightly altered form, in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was later titled "Song of Myself."</p>
   </note>
- 
+         <delSpan rend="hashmark" spanTo="#w03"/>
        <lg>
          <l xml:id="l13">There was never any more incep<add rend="unmarked" place="inline">tion</add><lb/> than there is now</l>
          <l xml:id="l14">Nor any more youth or age</l>
