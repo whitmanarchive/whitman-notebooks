@@ -82,7 +82,9 @@
             <handNote xml:id="unk">unknown archivist or scholar, possibly Emory Holloway</handNote>
          </handNotes>
       </profileDesc>
-      <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
+      <revisionDesc>
+        <change when="2025-08-07" who="#nhg">relocate anchors</change>
+        <change when="2022-04-27" who="#as">updated add and del encoding</change>
         <change who="#nhg" when="2019-10-02">added work relation</change>
         <change who="#nhg" when="2019-08-07">added inline relations</change>
         <change who="#nhg" when="2019-06-13">added biblStruct and supplied word "contempt"</change>
@@ -430,8 +432,8 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
     <p>This passage was used in the tenth poem of <hi rend="italic">Leaves of Grass,</hi> later titled "There Was a Child Went Forth."</p>
   </note>
  
-         <ab xml:id="ab02">the schooner sleepily dropping down the tide the <del rend="overstrike">little</del> small astern towed by the<lb/> rope,</ab><anchor xml:id="w02"/>
-</div2>
+         <ab xml:id="ab02">the schooner sleepily dropping down the tide the <del rend="overstrike">little</del> small astern towed by the<lb/> rope,</ab>
+</div2><anchor xml:id="w02"/>
          <pb xml:id="leaf011v" facs="loc_ej.01040_large.jpg" type="verso"/>
 <div2 type="prose">
          <ab>In the open market place the barrels of apples, the flour and meat, and <add place="left" rend="unmarked">f<gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></add> <del rend="overstrike">product</del> ? in bunks and <unclear reason="illegible" cert="low" resp="#no">bins</unclear>.</ab>
