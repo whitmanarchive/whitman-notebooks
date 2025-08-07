@@ -212,14 +212,14 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
          <pb xml:id="leaf006r" facs="loc_ej.01029_large.jpg" type="recto"/>
 
         <div2 type="verse">
-         <delSpan rend="hashmark" spanTo="#w01"/>
+         
 
          <lg type="poem">
  
             <note type="work_relations" target="xxx.00113" cert="high">
               <p>These draft lines were incorporated, in revised form, into the seventh poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song of the Answerer."</p>
             </note>
- 
+           <delSpan rend="hashmark" spanTo="#w01"/>
          <head type="main">Of the poet</head>
             <l xml:id="l01">He walks with perfect<lb/> ease among a congress<lb/> of kings,</l>
             <l xml:id="l02">And one king <subst><del rend="overstrike" seq="1">saith</del> <add place="supralinear" rend="unmarked" seq="2">says</add></subst><lb/> to another, Here is<lb/>
