@@ -77,7 +77,9 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 				<handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
 			</handNotes>
 		</profileDesc>
-		<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
+		<revisionDesc>
+			<change when="2025-08-07" who="#nhg">adjust subst</change>
+			<change when="2022-04-27" who="#as">updated add and del encoding</change>
 			<change when="2022-04-14" who="#km">updated relations encoding</change>
 			<change when="2019-12-04" who="#bb">corrected location from Harned to Feinberg Collection</change>
 			<change when="2017-11-20" who="#nhg">added inline relations information for leaf 5 recto</change>
@@ -145,7 +147,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 		    <item>
 		      <address>
 			    <addrLine>Youmans</addrLine>
-			    <addrLine>6<subst><del rend="overwrite" seq="1"/><add rend="overwrite" place="over" seq="2">3</add></subst> 2d. av.</addrLine>
+		      	<addrLine>6<subst><del rend="overwrite" seq="1"><add rend="overwrite" place="over" seq="2">3</add></del></subst> 2d. av.</addrLine>
 		      </address>
             </item>
 
