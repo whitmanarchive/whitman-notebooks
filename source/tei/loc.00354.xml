@@ -496,9 +496,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 
 <pb xml:id="leaf010r" facs="loc_bb.00027.jpg" type="recto"/>
 
-	<delSpan rend="hashmark" spanTo="#d02"/>
+	
 		<div1 type="verse">
 		<lg type="poem">
+			<delSpan rend="hashmark" spanTo="#d02"/>
           <lg type="linegroup">
 			<head type="main">Words of America</head>
 			<l>
