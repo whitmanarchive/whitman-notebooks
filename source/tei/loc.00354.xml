@@ -77,7 +77,9 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 				<handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
 			</handNotes>
 		</profileDesc>
-		<revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
+		<revisionDesc>
+			<change when="2025-08-07" who="#nhg">adjust subst</change>
+			<change when="2022-04-27" who="#as">updated add and del encoding</change>
 			<change when="2022-04-14" who="#km">updated relations encoding</change>
 			<change when="2019-12-04" who="#bb">corrected location from Harned to Feinberg Collection</change>
 			<change when="2017-11-20" who="#nhg">added inline relations information for leaf 5 recto</change>
@@ -145,7 +147,7 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 		    <item>
 		      <address>
 			    <addrLine>Youmans</addrLine>
-			    <addrLine>6<subst><del rend="overwrite" seq="1"/><add rend="overwrite" place="over" seq="2">3</add></subst> 2d. av.</addrLine>
+		      	<addrLine>6<subst><del rend="overwrite" seq="1"><add rend="overwrite" place="over" seq="2">3</add></del></subst> 2d. av.</addrLine>
 		      </address>
             </item>
 
@@ -494,9 +496,10 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 
 <pb xml:id="leaf010r" facs="loc_bb.00027.jpg" type="recto"/>
 
-	<delSpan rend="hashmark" spanTo="#d02"/>
+	
 		<div1 type="verse">
 		<lg type="poem">
+			<delSpan rend="hashmark" spanTo="#d02"/>
           <lg type="linegroup">
 			<head type="main">Words of America</head>
 			<l>
@@ -1009,8 +1012,9 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 			point of view.<lb/>
 		</l>
 	</lg>
-	<anchor xml:id="a16"/>
 	</div1>
+	<anchor xml:id="a16"/>
+	
 
 
 <pb xml:id="leaf018v" facs="loc_bb.00031_large.jpg" type="verso"/>
@@ -1027,8 +1031,9 @@ This is one of several notebooks that Whitman filled from both ends. That is, ra
 
 		<l>These</l>
 	</lg>
-	<anchor xml:id="a09"/>
 	</div1>
+		<anchor xml:id="a09"/>
+	
 
 <pb xml:id="leaf019v" facs="20051105_0554.jpg" type="verso"/>
 	<div1 type="verse">
