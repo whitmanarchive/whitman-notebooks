@@ -146,6 +146,42 @@
           </xsl:choose>
         </li>
       </xsl:if>
+      
+      <!-- pulled from notebooks P5 tylesheet and refactored original comment: relatedItem section (updated 4/28/17)-->
+      <!-- note that this differs from similar manuscripts override in that it does NOT check to see if file exists before creating link -->
+      <xsl:if test="//sourceDesc//relatedItem">
+        <li><strong>Related Item(s): </strong>
+          <ul>
+            <xsl:for-each select="//relatedItem[@type = 'text']">
+                <xsl:variable name="note_id"><xsl:text>#</xsl:text><xsl:value-of select="@xml:id"/></xsl:variable>
+                <xsl:variable name="note_target"><xsl:value-of select="//note[contains(@target,$note_id)]/@target"/></xsl:variable>
+                <xsl:variable name="preceding_note_id">
+                  <xsl:choose>
+                  <xsl:when test="preceding-sibling::relatedItem">
+                    <xsl:value-of select="preceding-sibling::relatedItem[1]/@xml:id"/>
+                  </xsl:when>
+                    <!--this is a sort of hacky workaround so the id can be checked below, sorry-->
+                  <xsl:otherwise>zzz</xsl:otherwise>
+                  </xsl:choose>
+                </xsl:variable>
+                <!-- if there is a note with a matching target and it does not match any previous targets, display -->
+                <xsl:if test="not(contains($note_target,$preceding_note_id))">
+                  <li><xsl:apply-templates select="//note[contains(@target,$note_id)]"/></li>
+                </xsl:if>
+              <!-- this part could probably be improved to create better handling for multiple relatedItems -->
+              <li>
+                  <xsl:text> See </xsl:text>
+                <a>
+                  <xsl:attribute name="href" select="@target"/>
+                  <xsl:value-of select="@target"/>
+                </a>
+                <xsl:text>.</xsl:text>
+              </li>
+            </xsl:for-each>
+          </ul>          
+        </li>
+      </xsl:if>
+      <!--end relatedItem section-->
     </ul>
   </xsl:variable>
   
@@ -244,6 +280,30 @@
         <span class="page_image_description"><xsl:value-of select="."/></span>
       </xsl:if>
     </xsl:for-each>
+  </xsl:template>
+  
+  <!-- adding an anchor override specific to notebooks and mss for the hashmarks; hopefully this will be limited enough to not inadvertently end the wrong spans (see overrides.xsl) NHG -->
+  <xsl:template match="anchor[@xml:id]">
+    <xsl:variable name="id" select="concat('#',@xml:id)"/>
+    <xsl:choose>
+      <xsl:when test="preceding::delSpan[@spanTo=$id]">
+        <xsl:text disable-output-escaping="yes"><![CDATA[</span>]]></xsl:text>
+      </xsl:when>
+      <xsl:otherwise/>
+    </xsl:choose>
+  </xsl:template>
+  
+  <xsl:template match="addrLine">
+    <xsl:apply-templates/><br/>
+  </xsl:template>
+  
+  <!-- do not display archival notes for notebooks -->
+  <xsl:template match="note[@type='archival']"/>
+  
+  <xsl:template match="space">
+    <span class="tei_space">
+      <xsl:text>&#160;&#160;&#160;&#160;&#160;</xsl:text>
+    </span>
   </xsl:template>
   
 </xsl:stylesheet>

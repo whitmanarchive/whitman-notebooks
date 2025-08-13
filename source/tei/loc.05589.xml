@@ -82,7 +82,9 @@
             <handNote xml:id="unk">unknown archivist or scholar, possibly Emory Holloway</handNote>
          </handNotes>
       </profileDesc>
-      <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
+      <revisionDesc>
+        <change when="2025-08-07" who="#nhg">relocate anchors</change>
+        <change when="2022-04-27" who="#as">updated add and del encoding</change>
         <change who="#nhg" when="2019-10-02">added work relation</change>
         <change who="#nhg" when="2019-08-07">added inline relations</change>
         <change who="#nhg" when="2019-06-13">added biblStruct and supplied word "contempt"</change>
@@ -212,14 +214,14 @@ Ethiopia with inscriptions and astronomical signs upon them. <gap reason="illegi
          <pb xml:id="leaf006r" facs="loc_ej.01029_large.jpg" type="recto"/>
 
         <div2 type="verse">
-         <delSpan rend="hashmark" spanTo="#w01"/>
+         
 
          <lg type="poem">
  
             <note type="work_relations" target="xxx.00113" cert="high">
               <p>These draft lines were incorporated, in revised form, into the seventh poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was eventually titled "Song of the Answerer."</p>
             </note>
- 
+           <delSpan rend="hashmark" spanTo="#w01"/>
          <head type="main">Of the poet</head>
             <l xml:id="l01">He walks with perfect<lb/> ease among a congress<lb/> of kings,</l>
             <l xml:id="l02">And one king <subst><del rend="overstrike" seq="1">saith</del> <add place="supralinear" rend="unmarked" seq="2">says</add></subst><lb/> to another, Here is<lb/>
@@ -430,8 +432,8 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
     <p>This passage was used in the tenth poem of <hi rend="italic">Leaves of Grass,</hi> later titled "There Was a Child Went Forth."</p>
   </note>
  
-         <ab xml:id="ab02">the schooner sleepily dropping down the tide the <del rend="overstrike">little</del> small astern towed by the<lb/> rope,</ab><anchor xml:id="w02"/>
-</div2>
+         <ab xml:id="ab02">the schooner sleepily dropping down the tide the <del rend="overstrike">little</del> small astern towed by the<lb/> rope,</ab>
+</div2><anchor xml:id="w02"/>
          <pb xml:id="leaf011v" facs="loc_ej.01040_large.jpg" type="verso"/>
 <div2 type="prose">
          <ab>In the open market place the barrels of apples, the flour and meat, and <add place="left" rend="unmarked">f<gap reason="illegible" atLeast="1" unit="chars" extent="at least one letter"/></add> <del rend="overstrike">product</del> ? in bunks and <unclear reason="illegible" cert="low" resp="#no">bins</unclear>.</ab>
@@ -537,13 +539,13 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
          <l>I <unclear reason="illegible" resp="#bb" cert="medium">dem</unclear></l>
        </lg>
        </div2>
-         <delSpan rend="hashmark" spanTo="#w03"/>
+         
        <div2 type="verse">
  
   <note type="work_relations" target="xxx.00048" cert="high">
     <p>Whitman used these lines, in slightly altered form, in the first poem of the 1855 edition of <hi rend="italic">Leaves of Grass,</hi> which was later titled "Song of Myself."</p>
   </note>
- 
+         <delSpan rend="hashmark" spanTo="#w03"/>
        <lg>
          <l xml:id="l13">There was never any more incep<add rend="unmarked" place="inline">tion</add><lb/> than there is now</l>
          <l xml:id="l14">Nor any more youth or age</l>
@@ -1079,8 +1081,8 @@ gods and all his religion<add place="inline" rend="unmarked">s</add> and politic
            <lg>
              <l xml:id="l37">I have no mockings ? <add rend="unmarked" place="supralinear">and laughter<note type="authorial" place="supralinear">?</note></add></l>
              <l xml:id="l38">I have only to be silent <note type="authorial" place="supralinear">?</note> and</l>
-           </lg><anchor xml:id="w11"/>
-         </div2>
+           </lg>
+         </div2><anchor xml:id="w11"/>
          <milestone unit="undeclared" rend="horbar-short-left"/>
          <div2 type="prose">
             

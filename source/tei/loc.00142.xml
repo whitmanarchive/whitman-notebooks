@@ -73,6 +73,7 @@
             </handNotes>
         </profileDesc>
         <revisionDesc>
+            <change when="2025-08-11" who="#nhg">restore xml:ids to some segments</change>
             <change when="2022-04-27" who="#as">updated add and del encoding</change>
             <change when="2022-03-04" who="#km">updated relations encoding</change>
             <change when="2017-11-14" who="#nhg">added inline relations information</change>
@@ -220,9 +221,9 @@ which is the great law whence spring the <add rend="insertion" place="supralinea
 <p xml:id="p05">
 <seg xml:id="tr13">
     <subst><!-- He wrote the first <del> here in the normal notebook-size writing, then crossed it out.  Then, he wrote the second <del> here at the top of the page.  He didn't like that attempt, either, so he crossed it out and wrote the <add> here interlinearly within the original <del>. -->
-<del rend="overstrike" seq="1">I want that untied tenor, clean and fresh as the Creation, whose vast pure volume floods my soul.</del> 
+<del rend="overstrike" seq="1" xml:id="del01">I want that untied tenor, clean and fresh as the Creation, whose vast pure volume floods my soul.</del> 
 
-    <del rend="hashmark" seq="2"><add place="top" rend="unmarked">I want that tenor <add rend="insertion" place="supralinear"><unclear reason="illegible" cert="medium" resp="#kc">large and fresh as the creation</unclear></add> the <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="6" unit="chars" extent="one word"/></del> <add rend="unmarked" place="infralinear" seq="2">parting</add></subst> of whose <add rend="insertion" place="supralinear"><del rend="overstrike"><unclear reason="illegible" cert="high" resp="#kc">dark</unclear> and</del> orbed</add> mouth shall <subst><del rend="overstrike" seq="1"><subst><del rend="overwrite" seq="1"><gap reason="illegible" atLeast="4" unit="chars" extent="one word"/></del><add rend="overwrite" place="over" seq="2"/></subst> for me</del> <add rend="insertion" place="supralinear" seq="2">lift <del rend="overstrike">behind</del> over my head</add></subst> the sluices of <del rend="overstrike">Paradise</del> all <add rend="insertion" place="supralinear">the delight</add> in the universe<add rend="unmarked" place="inline">.</add> that is</add></del>
+    <del rend="hashmark" seq="2" xml:id="del02"><add place="top" rend="unmarked">I want that tenor <add rend="insertion" place="supralinear"><unclear reason="illegible" cert="medium" resp="#kc">large and fresh as the creation</unclear></add> the <subst><del rend="overstrike" seq="1"><gap reason="illegible" atLeast="6" unit="chars" extent="one word"/></del> <add rend="unmarked" place="infralinear" seq="2">parting</add></subst> of whose <add rend="insertion" place="supralinear"><del rend="overstrike"><unclear reason="illegible" cert="high" resp="#kc">dark</unclear> and</del> orbed</add> mouth shall <subst><del rend="overstrike" seq="1"><subst><del rend="overwrite" seq="1"><gap reason="illegible" atLeast="4" unit="chars" extent="one word"/></del><add rend="overwrite" place="over" seq="2"/></subst> for me</del> <add rend="insertion" place="supralinear" seq="2">lift <del rend="overstrike">behind</del> over my head</add></subst> the sluices of <del rend="overstrike">Paradise</del> all <add rend="insertion" place="supralinear">the delight</add> in the universe<add rend="unmarked" place="inline">.</add> that is</add></del>
     
 <add rend="unmarked" place="interlinear" seq="3" xml:id="add01">I want that tenor, large and fresh as the creation, the <add rend="insertion" place="supralinear">orbed</add> parting of whose <del rend="overstrike">orbed</del> mouth shall lift over my head the sluices <del rend="overstrike"><gap reason="illegible" atLeast="2" unit="chars" extent="one word"/></del> of all the delight <del rend="overstrike">there is.</del> yet discovered for our race.</add></subst>
         

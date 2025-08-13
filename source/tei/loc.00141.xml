@@ -70,7 +70,9 @@
         <handNote scribeRef="#eh" xml:id="h2"><persName xml:id="eh">Emory Holloway</persName></handNote>
       </handNotes>
     </profileDesc>
-    <revisionDesc><change when="2022-04-27" who="#as">updated add and del encoding</change>
+    <revisionDesc>
+      <change when="2025-08-07" who="#nhg">fixed delSpan spanTo</change>
+      <change when="2022-04-27" who="#as">updated add and del encoding</change>
       <change when="2022-03-04" who="#km">updated relations encoding</change>
       <change when="2019-08-07" who="#nhg">added inline/work relation</change>
       <change when="2017-10-12" who="#nhg">added inline LG relations</change>
@@ -2560,7 +2562,7 @@ to
                     traitors,
                   </l>
                 <anchor xml:id="d36"/>
-                <delSpan spanTo="d37" rend="overstrike"/>
+                <delSpan spanTo="#d37" rend="overstrike"/>
                   <l xml:id="l62"><del rend="overstrike">An</del> I am myself the greatest<lb/>
                    traitor.
                   </l>
@@ -2666,7 +2668,7 @@ to
                   <l xml:id="l79">Will you renew th<gap reason="deleted, illegible"/><lb/>
                     and
                   </l>
-                <anchor xml:id="d41"/>
+                <anchor xml:id="d40"/>
                   <addSpan spanTo="#a10" rend="unmarked" place="supralinear"/>
                     <l xml:id="l80">Does it make you ache<lb/>
                       so to leave me?
